@@ -46,6 +46,8 @@ export async function initDatabase() {
     );
   `)
 
+  await query(`DELETE FROM products WHERE id LIKE 'DEV-%'`)
+
   const productCount = await query('SELECT COUNT(*)::int AS count FROM products')
   if (productCount.rows[0].count === 0) {
     for (const product of seedProducts) {

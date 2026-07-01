@@ -1,16 +1,5 @@
 import { importedLaptopProducts } from './importedLaptopProducts.js'
-const baseProducts = [
-  { id: 'DEV-037', name: 'Dell Vostro 3400', brand: 'Dell', line: 'Vostro', category: 'Văn phòng', cpu: 'Intel Core i5-1135G7', ram: '16GB DDR4', storage: 'SSD 256GB', display: '14" Full HD', gpu: 'Intel Iris Xe', price: 7990000, originalPrice: 8990000, stock: 5, status: 'active', condition: 'Like new', badge: 'Bán chạy', accent: '#8fa9bc' },
-  { id: 'DEV-003', name: 'Dell XPS 15 OLED', brand: 'Dell', line: 'XPS', category: 'Đồ họa', cpu: 'Intel Core i7-12700H', ram: '32GB DDR5', storage: 'SSD 1TB', display: '15.6" 4K OLED', gpu: 'RTX 3050 Ti', price: 24990000, originalPrice: 27990000, stock: 2, status: 'active', condition: 'Like new', badge: 'Màn OLED', accent: '#7d8a93' },
-  { id: 'DEV-017', name: 'ASUS Zenbook 14', brand: 'Asus', line: 'Zenbook', category: 'Mỏng nhẹ', cpu: 'Intel Core i5-1240P', ram: '16GB LPDDR5', storage: 'SSD 512GB', display: '14" 2.8K OLED', gpu: 'Intel Iris Xe', price: 15990000, originalPrice: 17490000, stock: 6, status: 'active', condition: 'Mới', badge: 'Giá tốt', accent: '#7997ae' },
-  { id: 'DEV-019', name: 'Lenovo Legion 5 Pro', brand: 'Lenovo', line: 'Legion', category: 'Gaming', cpu: 'Intel Core i7-13700H', ram: '32GB DDR5', storage: 'SSD 1TB', display: '16" 2.5K 165Hz', gpu: 'NVIDIA RTX 4060', price: 28990000, originalPrice: 31990000, stock: 3, status: 'active', condition: 'Like new', badge: 'Gaming', accent: '#455865' },
-  { id: 'DEV-041', name: 'Lenovo Yoga Slim 7', brand: 'Lenovo', line: 'Yoga', category: 'Mỏng nhẹ', cpu: 'AMD Ryzen 7 7840S', ram: '16GB LPDDR5', storage: 'SSD 1TB', display: '14.5" 2.9K OLED', gpu: 'Radeon 780M', price: 21990000, originalPrice: 23990000, stock: 3, status: 'active', condition: 'Mới', badge: 'OLED', accent: '#758f8b' },
-  { id: 'DEV-042', name: 'Lenovo ThinkBook 14 G6', brand: 'Lenovo', line: 'ThinkBook', category: 'Văn phòng', cpu: 'Intel Core i5-1335U', ram: '16GB DDR5', storage: 'SSD 512GB', display: '14" WUXGA', gpu: 'Intel Iris Xe', price: 14990000, originalPrice: 16490000, stock: 5, status: 'active', condition: 'Like new', accent: '#6f8292' },
-  { id: 'DEV-043', name: 'Acer Nitro V 15', brand: 'Acer', line: 'Nitro', category: 'Gaming', cpu: 'Intel Core i5-13420H', ram: '16GB DDR5', storage: 'SSD 512GB', display: '15.6" 144Hz', gpu: 'NVIDIA RTX 4050', price: 18990000, originalPrice: 20990000, stock: 4, status: 'active', condition: 'Mới', badge: 'Gaming tốt', accent: '#536653' },
-  { id: 'DEV-029', name: 'HP Pavilion Plus 14', brand: 'HP', line: 'Pavilion', category: 'Văn phòng', cpu: 'Intel Core i5-1240P', ram: '16GB DDR4', storage: 'SSD 512GB', display: '14" 2.2K IPS', gpu: 'Intel Iris Xe', price: 13990000, originalPrice: 15490000, stock: 7, status: 'active', condition: 'Mới', accent: '#a5a7aa' },
-]
-
-export const seedProducts = [...baseProducts, ...importedLaptopProducts]
+export const seedProducts = importedLaptopProducts
 
 export const seedOrders = [
   { id: 'DP-260701', createdAt: '2026-07-01T08:24:00.000Z', customer: { name: 'Nguyễn Minh Anh', phone: '0986 234 567', address: 'Hà Đông, Hà Nội', note: 'Gọi trước khi giao' }, items: [{ productId: 'DEV-037', quantity: 1 }], total: 7990000, status: 'new' },

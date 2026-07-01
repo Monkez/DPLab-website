@@ -1,4 +1,5 @@
 import { ArrowLeft, Check, Phone, PlayCircle, ShoppingBag } from 'lucide-react'
+import { useState } from 'react'
 import { ProductArt } from '../components/ProductArt'
 import { useStore } from '../store/StoreContext'
 import type { Product } from '../types'
@@ -19,6 +20,7 @@ function videoEmbed(url?: string) {
 export function ProductDetailPage({ product, navigate }: { product: Product; navigate: (path: string) => void }) {
   const { addToCart, settings } = useStore()
   const images = product.detailImages?.filter(Boolean) ?? []
+  const [zoomImage, setZoomImage] = useState<string | null>(null)
   const article = paragraphs(product.detailArticle)
   const summary = product.salesSummary || `${product.name} là lựa chọn đáng cân nhắc cho nhu cầu ${product.category.toLowerCase()}, cấu hình ${product.cpu}, ${product.ram}, ${product.storage}.`
   const video = videoEmbed(product.videoUrl)
@@ -39,7 +41,7 @@ export function ProductDetailPage({ product, navigate }: { product: Product; nav
       <section className="detail-hero">
         <div className="detail-gallery">
           <div className="detail-art"><ProductArt product={product} large /></div>
-          {images.length > 0 && <div className="detail-thumbs">{images.map((src, index) => <img key={`${src}-${index}`} src={src} alt={`${product.name} ảnh ${index + 1}`} />)}</div>}
+          {images.length > 0 && <div className="detail-thumbs">{images.map((src, index) => <button key={`${src}-${index}`} onClick={() => setZoomImage(src)}><img src={src} alt={`${product.name} ảnh ${index + 1}`} /></button>)}</div>}
         </div>
         <div className="detail-summary">
           <p className="eyebrow">{[product.brand, product.line, product.category].filter(Boolean).join(' · ')}</p>
@@ -67,5 +69,6 @@ export function ProductDetailPage({ product, navigate }: { product: Product; nav
 
       {video && <section className="detail-panel detail-video"><h2>Video giới thiệu</h2><div><iframe src={video} title={`Video ${product.name}`} allowFullScreen /></div><p><PlayCircle size={16} />Bạn có thể nhập link YouTube hoặc video trong trang quản trị sản phẩm.</p></section>}
     </div>
+    {zoomImage && <button className="image-lightbox" onClick={() => setZoomImage(null)} aria-label="Đóng ảnh phóng to"><img src={zoomImage} alt={`${product.name} phóng to`} /></button>}
   </main>
 }
