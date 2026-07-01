@@ -3,6 +3,8 @@ import { seedOrders, seedProducts, seedSettings } from '../data/seed'
 import { api } from '../services/api'
 import type { CartItem, CustomerInfo, Order, OrderStatus, Product, ProductCategory, ProductCondition, StoreSettings } from '../types'
 
+const CATALOG_VERSION = 'trieubom-237-v2'
+
 const readStorage = <T,>(key: string, fallback: T): T => {
   try {
     const raw = localStorage.getItem(key)
@@ -10,6 +12,19 @@ const readStorage = <T,>(key: string, fallback: T): T => {
   } catch {
     return fallback
   }
+}
+
+const shouldUseStoredProducts = () => localStorage.getItem('dplab_catalog_version') === CATALOG_VERSION
+
+const readProducts = () => {
+  if (!shouldUseStoredProducts()) {
+    localStorage.removeItem('dplab_products')
+    localStorage.setItem('dplab_catalog_version', CATALOG_VERSION)
+    return seedProducts
+  }
+  const saved = readStorage<Product[]>('dplab_products', seedProducts)
+  const onlyDemo = saved.length > 0 && saved.every(product => product.id.startsWith('DEV-'))
+  return onlyDemo || saved.length < 20 ? seedProducts : saved
 }
 
 const readSettings = (): StoreSettings => {
@@ -27,7 +42,15 @@ const categoryFixes: Record<string, ProductCategory> = {
   Gaming: 'Gaming',
 }
 
-const knownLines = ['Legion', 'Yoga', 'ThinkBook', 'ThinkPad', 'IdeaPad', 'LOQ', 'XPS', 'Latitude', 'Inspiron', 'Vostro', 'Precision', 'Alienware', 'Zenbook', 'Vivobook', 'ROG', 'TUF', 'ProArt', 'ExpertBook', 'Aspire', 'Swift', 'Nitro', 'Predator', 'TravelMate', 'Pavilion', 'Envy', 'Spectre', 'EliteBook', 'ProBook', 'Omen', 'MacBook']
+const conditionFixes: Record<string, ProductCondition> = {
+  'Má»›i': 'Mới',
+  'ÄÃ£ qua sá»­ dá»¥ng': 'Đã qua sử dụng',
+  'Mới': 'Mới',
+  'Like new': 'Like new',
+  'Đã qua sử dụng': 'Đã qua sử dụng',
+}
+
+const knownLines = ['Legion', 'Yoga', 'ThinkBook', 'ThinkPad', 'IdeaPad', 'LOQ', 'Lecoo', 'XPS', 'Latitude', 'Inspiron', 'Vostro', 'Precision', 'Alienware', 'Zenbook', 'Vivobook', 'ROG', 'TUF', 'ProArt', 'ExpertBook', 'Aspire', 'Swift', 'Nitro', 'Predator', 'TravelMate', 'Pavilion', 'Envy', 'Spectre', 'EliteBook', 'ProBook', 'Omen', 'MacBook', 'Surface', 'Gram', 'Katana']
 
 function inferLine(product: Product) {
   if (product.line) return product.line
@@ -41,11 +64,17 @@ function normalizeProduct(product: Product): Product {
     brand: product.brand === 'ASUS' ? 'Asus' : product.brand,
     category: categoryFixes[String(product.category)] ?? product.category,
     line: inferLine(product),
-    condition: (product.condition || 'Like new') as ProductCondition,
+    condition: conditionFixes[String(product.condition)] ?? product.condition ?? 'Like new',
   }
 }
 
 const normalizeProducts = (items: Product[]) => items.map(normalizeProduct)
+
+function preferImportedCatalog(products: Product[]) {
+  const normalized = normalizeProducts(products)
+  const onlyDemo = normalized.length > 0 && normalized.every(product => product.id.startsWith('DEV-'))
+  return onlyDemo || normalized.length < 20 ? seedProducts : normalized
+}
 
 interface StoreContextValue {
   products: Product[]
@@ -68,7 +97,7 @@ interface StoreContextValue {
 const StoreContext = createContext<StoreContextValue | null>(null)
 
 export function StoreProvider({ children }: { children: ReactNode }) {
-  const [products, setProducts] = useState<Product[]>(() => normalizeProducts(readStorage('dplab_products', seedProducts)))
+  const [products, setProducts] = useState<Product[]>(() => normalizeProducts(readProducts()))
   const [orders, setOrders] = useState<Order[]>(() => readStorage('dplab_orders', seedOrders))
   const [cart, setCart] = useState<CartItem[]>(() => readStorage('dplab_cart', []))
   const [settings, setSettings] = useState<StoreSettings>(readSettings)
@@ -77,7 +106,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
     if (!api.enabled) return
     api.bootstrap()
       .then(data => {
-        setProducts(normalizeProducts(data.products))
+        setProducts(preferImportedCatalog(data.products))
         setOrders(data.orders)
         setSettings({ ...seedSettings, ...data.settings, content: { ...seedSettings.content, ...data.settings.content } })
       })
@@ -85,6 +114,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   }, [])
 
   useEffect(() => localStorage.setItem('dplab_products', JSON.stringify(products)), [products])
+  useEffect(() => localStorage.setItem('dplab_catalog_version', CATALOG_VERSION), [])
   useEffect(() => localStorage.setItem('dplab_orders', JSON.stringify(orders)), [orders])
   useEffect(() => localStorage.setItem('dplab_cart', JSON.stringify(cart)), [cart])
   useEffect(() => localStorage.setItem('dplab_settings', JSON.stringify(settings)), [settings])
@@ -129,9 +159,10 @@ export function StoreProvider({ children }: { children: ReactNode }) {
       setOrders(seedOrders)
       setCart([])
       setSettings(seedSettings)
+      localStorage.setItem('dplab_catalog_version', CATALOG_VERSION)
       if (api.enabled) {
         api.resetDemo()
-          .then(data => { setProducts(normalizeProducts(data.products)); setOrders(data.orders); setSettings(data.settings) })
+          .then(data => { setProducts(preferImportedCatalog(data.products)); setOrders(data.orders); setSettings(data.settings) })
           .catch(error => console.warn('Không khôi phục được dữ liệu backend.', error))
       }
     },
