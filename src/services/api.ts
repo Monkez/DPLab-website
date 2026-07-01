@@ -46,6 +46,7 @@ async function request<T>(path: string, options?: RequestInit & { admin?: boolea
 export const api = {
   enabled: Boolean(API_URL),
   getAdminSession,
+  saveAdminSession,
   logoutAdmin: () => saveAdminSession(null),
   loginAdmin: async (username: string, password: string) => {
     const session = await request<AdminSession>('/api/admin/login', { method: 'POST', body: JSON.stringify({ username, password }) })

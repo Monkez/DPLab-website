@@ -21,7 +21,7 @@ export function AdminPage({ navigate }: { navigate: (path: string) => void }) {
   const revenue = orders.filter(o => o.status !== 'cancelled').reduce((sum, order) => sum + order.total, 0)
   const newOrders = orders.filter(order => order.status === 'new').length
 
-  if (!session) return <AdminLogin navigate={navigate} onLogin={nextSession => { setSession(nextSession); window.location.reload() }} />
+  if (!session) return <AdminLogin navigate={navigate} onLogin={nextSession => { setSession(nextSession); if (api.enabled) window.location.reload() }} />
 
   const go = (next: AdminTab) => { setTab(next); setSidebar(false) }
   const logout = () => { api.logoutAdmin(); setSession(null); navigate('/') }
@@ -60,7 +60,11 @@ function AdminLogin({ navigate, onLogin }: { navigate: (path: string) => void; o
     const password = String(data.get('password') || '')
     try {
       if (!api.enabled) {
-        if (username === 'delai' && password === '1711@pie') return onLogin({ token: 'local-demo', user: { username: 'delai', displayName: 'Tiến Đệ' } })
+        if (username === 'delai' && password === '1711@pie') {
+          const session = { token: 'local-demo', user: { username: 'delai', displayName: 'Tiến Đệ' } }
+          api.saveAdminSession(session)
+          return onLogin(session)
+        }
         throw new Error('Tên đăng nhập hoặc mật khẩu không đúng')
       }
       onLogin(await api.loginAdmin(username, password))
@@ -75,7 +79,7 @@ function AdminLogin({ navigate, onLogin }: { navigate: (path: string) => void; o
     <form className="admin-login-card" onSubmit={submit}>
       <button type="button" className="admin-login-back" onClick={() => navigate('/')}>← Về cửa hàng</button>
       <div className="admin-login-brand"><span>DP</span><div><strong>DP Lab Admin</strong><small>Đăng nhập để quản lý website</small></div></div>
-      <label>Tên đăng nhập<input name="username" autoComplete="username" defaultValue="delai" required /></label>
+      <label>Tên đăng nhập<input name="username" autoComplete="username" required /></label>
       <label>Mật khẩu<input name="password" type="password" autoComplete="current-password" required /></label>
       {error && <p className="admin-login-error">{error}</p>}
       <button className="button button--primary" disabled={loading}>{loading ? 'Đang đăng nhập...' : 'Đăng nhập'}</button>
