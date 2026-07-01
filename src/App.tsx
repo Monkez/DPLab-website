@@ -12,6 +12,8 @@ export function App() {
   const [cartOpen, setCartOpen] = useState(false)
   const [checkoutOpen, setCheckoutOpen] = useState(false)
   const [search, setSearch] = useState('')
+  const [selectedBrand, setSelectedBrand] = useState<string | undefined>()
+  const [selectedLine, setSelectedLine] = useState<string | undefined>()
   const { settings } = useStore()
 
   useEffect(() => {
@@ -35,11 +37,16 @@ export function App() {
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
+  const selectCatalog = (brand?: string, line?: string) => {
+    setSelectedBrand(brand)
+    setSelectedLine(line)
+  }
+
   if (path.startsWith('/admin')) return <AdminPage navigate={navigate} />
 
   return <>
-    <Header onCart={() => setCartOpen(true)} onSearch={setSearch} search={search} navigate={navigate} />
-    <Storefront search={search} openCart={() => setCartOpen(true)} />
+    <Header onCart={() => setCartOpen(true)} onSearch={setSearch} search={search} navigate={navigate} onCatalogSelect={selectCatalog} />
+    <Storefront search={search} openCart={() => setCartOpen(true)} selectedBrand={selectedBrand} selectedLine={selectedLine} onClearCatalog={() => selectCatalog()} />
     <footer className="footer">
       <div className="container footer__grid">
         <div className="footer__brand">

@@ -1,11 +1,14 @@
 export type ProductStatus = 'active' | 'draft' | 'out-of-stock'
 export type OrderStatus = 'new' | 'confirmed' | 'shipping' | 'completed' | 'cancelled'
+export type ProductCategory = 'Văn phòng' | 'Đồ họa' | 'Gaming' | 'Mỏng nhẹ'
+export type ProductCondition = 'Mới' | 'Like new' | 'Đã qua sử dụng'
 
 export interface Product {
   id: string
   name: string
   brand: string
-  category: 'Văn phòng' | 'Đồ họa' | 'Gaming' | 'Mỏng nhẹ'
+  line?: string
+  category: ProductCategory
   cpu: string
   ram: string
   storage: string
@@ -15,6 +18,7 @@ export interface Product {
   originalPrice?: number
   stock: number
   status: ProductStatus
+  condition?: ProductCondition
   badge?: string
   accent: string
 }

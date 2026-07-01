@@ -1,17 +1,51 @@
 import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from 'react'
 import { seedOrders, seedProducts, seedSettings } from '../data/seed'
 import { api } from '../services/api'
-import type { CartItem, CustomerInfo, Order, OrderStatus, Product, StoreSettings } from '../types'
+import type { CartItem, CustomerInfo, Order, OrderStatus, Product, ProductCategory, ProductCondition, StoreSettings } from '../types'
 
 const readStorage = <T,>(key: string, fallback: T): T => {
-  try { const raw = localStorage.getItem(key); return raw ? JSON.parse(raw) as T : fallback }
-  catch { return fallback }
+  try {
+    const raw = localStorage.getItem(key)
+    return raw ? JSON.parse(raw) as T : fallback
+  } catch {
+    return fallback
+  }
 }
 
 const readSettings = (): StoreSettings => {
   const saved = readStorage<Partial<StoreSettings>>('dplab_settings', {})
   return { ...seedSettings, ...saved, content: { ...seedSettings.content, ...(saved.content ?? {}) } }
 }
+
+const categoryFixes: Record<string, ProductCategory> = {
+  'VÄƒn phÃ²ng': 'Văn phòng',
+  'Äá»“ há»a': 'Đồ họa',
+  'Má»ng nháº¹': 'Mỏng nhẹ',
+  'Văn phòng': 'Văn phòng',
+  'Đồ họa': 'Đồ họa',
+  'Mỏng nhẹ': 'Mỏng nhẹ',
+  Gaming: 'Gaming',
+}
+
+const knownLines = ['Legion', 'Yoga', 'ThinkBook', 'ThinkPad', 'IdeaPad', 'LOQ', 'XPS', 'Latitude', 'Inspiron', 'Vostro', 'Precision', 'Alienware', 'Zenbook', 'Vivobook', 'ROG', 'TUF', 'ProArt', 'ExpertBook', 'Aspire', 'Swift', 'Nitro', 'Predator', 'TravelMate', 'Pavilion', 'Envy', 'Spectre', 'EliteBook', 'ProBook', 'Omen', 'MacBook']
+
+function inferLine(product: Product) {
+  if (product.line) return product.line
+  const name = product.name.toLowerCase()
+  return knownLines.find(line => name.includes(line.toLowerCase())) || undefined
+}
+
+function normalizeProduct(product: Product): Product {
+  return {
+    ...product,
+    brand: product.brand === 'ASUS' ? 'Asus' : product.brand,
+    category: categoryFixes[String(product.category)] ?? product.category,
+    line: inferLine(product),
+    condition: (product.condition || 'Like new') as ProductCondition,
+  }
+}
+
+const normalizeProducts = (items: Product[]) => items.map(normalizeProduct)
 
 interface StoreContextValue {
   products: Product[]
@@ -34,7 +68,7 @@ interface StoreContextValue {
 const StoreContext = createContext<StoreContextValue | null>(null)
 
 export function StoreProvider({ children }: { children: ReactNode }) {
-  const [products, setProducts] = useState<Product[]>(() => readStorage('dplab_products', seedProducts))
+  const [products, setProducts] = useState<Product[]>(() => normalizeProducts(readStorage('dplab_products', seedProducts)))
   const [orders, setOrders] = useState<Order[]>(() => readStorage('dplab_orders', seedOrders))
   const [cart, setCart] = useState<CartItem[]>(() => readStorage('dplab_cart', []))
   const [settings, setSettings] = useState<StoreSettings>(readSettings)
@@ -43,7 +77,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
     if (!api.enabled) return
     api.bootstrap()
       .then(data => {
-        setProducts(data.products)
+        setProducts(normalizeProducts(data.products))
         setOrders(data.orders)
         setSettings({ ...seedSettings, ...data.settings, content: { ...seedSettings.content, ...data.settings.content } })
       })
@@ -56,7 +90,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   useEffect(() => localStorage.setItem('dplab_settings', JSON.stringify(settings)), [settings])
 
   const cartCount = cart.reduce((sum, item) => sum + item.quantity, 0)
-  const cartTotal = cart.reduce((sum, item) => sum + (products.find(p => p.id === item.productId)?.price ?? 0) * item.quantity, 0)
+  const cartTotal = cart.reduce((sum, item) => sum + (products.find(product => product.id === item.productId)?.price ?? 0) * item.quantity, 0)
 
   const value = useMemo<StoreContextValue>(() => ({
     products, orders, cart, settings, cartCount, cartTotal,
@@ -68,13 +102,15 @@ export function StoreProvider({ children }: { children: ReactNode }) {
     clearCart: () => setCart([]),
     createOrder: customer => {
       const order: Order = { id: `DP-${Date.now().toString().slice(-8)}`, createdAt: new Date().toISOString(), customer, items: cart, total: cartTotal, status: 'new' }
-      setOrders(current => [order, ...current]); setCart([])
+      setOrders(current => [order, ...current])
+      setCart([])
       if (api.enabled) api.createOrder(order).catch(error => console.warn('Không lưu được đơn hàng lên backend.', error))
       return order
     },
     saveProduct: product => {
-      setProducts(current => current.some(item => item.id === product.id) ? current.map(item => item.id === product.id ? product : item) : [product, ...current])
-      if (api.enabled) api.saveProduct(product).catch(error => console.warn('Không lưu được sản phẩm lên backend.', error))
+      const normalized = normalizeProduct(product)
+      setProducts(current => current.some(item => item.id === normalized.id) ? current.map(item => item.id === normalized.id ? normalized : item) : [normalized, ...current])
+      if (api.enabled) api.saveProduct(normalized).catch(error => console.warn('Không lưu được sản phẩm lên backend.', error))
     },
     deleteProduct: id => {
       setProducts(current => current.filter(item => item.id !== id))
@@ -89,10 +125,13 @@ export function StoreProvider({ children }: { children: ReactNode }) {
       if (api.enabled) api.updateSettings(nextSettings).catch(error => console.warn('Không lưu được cài đặt lên backend.', error))
     },
     resetDemo: () => {
-      setProducts(seedProducts); setOrders(seedOrders); setCart([]); setSettings(seedSettings)
+      setProducts(seedProducts)
+      setOrders(seedOrders)
+      setCart([])
+      setSettings(seedSettings)
       if (api.enabled) {
         api.resetDemo()
-          .then(data => { setProducts(data.products); setOrders(data.orders); setSettings(data.settings) })
+          .then(data => { setProducts(normalizeProducts(data.products)); setOrders(data.orders); setSettings(data.settings) })
           .catch(error => console.warn('Không khôi phục được dữ liệu backend.', error))
       }
     },

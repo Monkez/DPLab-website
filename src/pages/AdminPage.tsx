@@ -27,7 +27,7 @@ import { Logo } from '../components/Logo'
 import { ProductArt } from '../components/ProductArt'
 import { api, type AdminSession } from '../services/api'
 import { useStore } from '../store/StoreContext'
-import type { AdminUser, OrderStatus, Product, ProductStatus, SiteContent, StoreSettings } from '../types'
+import type { AdminUser, OrderStatus, Product, ProductCondition, ProductStatus, SiteContent, StoreSettings } from '../types'
 
 type AdminTab = 'dashboard' | 'products' | 'orders' | 'accounts' | 'settings'
 
@@ -47,6 +47,7 @@ const productStatusLabels: Record<ProductStatus, string> = {
 }
 
 const productCategories: Product['category'][] = ['Văn phòng', 'Mỏng nhẹ', 'Đồ họa', 'Gaming']
+const productConditions: ProductCondition[] = ['Mới', 'Like new', 'Đã qua sử dụng']
 
 export function AdminPage({ navigate }: { navigate: (path: string) => void }) {
   const { products, orders, settings, updateOrderStatus, saveProduct, deleteProduct, updateSettings, resetDemo } = useStore()
@@ -197,7 +198,7 @@ function ProductsTab({ products, total, query, setQuery, onAdd, onEdit, onDelete
     <PageTitle eyebrow="KHO HÀNG" title="Quản lý sản phẩm" subtitle={`${total} sản phẩm trong danh mục`}><button className="button button--primary" onClick={onAdd}><Plus />Thêm sản phẩm</button></PageTitle>
     <div className="admin-panel">
       <div className="table-tools"><label><Search /><input value={query} onChange={event => setQuery(event.target.value)} placeholder="Tìm tên, mã, thương hiệu..." /></label><button><ChevronDown />Tất cả trạng thái</button></div>
-      <div className="table-wrap"><table><thead><tr><th>Sản phẩm</th><th>Phân loại</th><th>Giá bán</th><th>Tồn kho</th><th>Trạng thái</th><th /></tr></thead><tbody>{products.map(product => <tr key={product.id}><td><div className="table-product"><ProductArt product={product} /><span><strong>{product.name}</strong><small>{product.id} · {product.cpu}</small></span></div></td><td>{product.brand}<small className="cell-sub">{product.category}</small></td><td><strong>{money(product.price)}</strong></td><td>{product.stock} máy</td><td><span className={`status-pill status-pill--${product.status}`}>{productStatusLabels[product.status]}</span></td><td><div className="row-actions"><button onClick={() => onEdit(product)} aria-label={`Sửa ${product.name}`}><Edit3 /></button><button onClick={() => window.confirm(`Xóa ${product.name}?`) && onDelete(product.id)} aria-label={`Xóa ${product.name}`}><Trash2 /></button></div></td></tr>)}</tbody></table></div>
+      <div className="table-wrap"><table><thead><tr><th>Sản phẩm</th><th>Phân loại</th><th>Giá bán</th><th>Tồn kho</th><th>Trạng thái</th><th /></tr></thead><tbody>{products.map(product => <tr key={product.id}><td><div className="table-product"><ProductArt product={product} /><span><strong>{product.name}</strong><small>{product.id} · {product.cpu}</small></span></div></td><td>{product.brand}<small className="cell-sub">{product.line ? `${product.line} · ${product.category}` : product.category}</small></td><td><strong>{money(product.price)}</strong></td><td>{product.stock} máy</td><td><span className={`status-pill status-pill--${product.status}`}>{productStatusLabels[product.status]}</span></td><td><div className="row-actions"><button onClick={() => onEdit(product)} aria-label={`Sửa ${product.name}`}><Edit3 /></button><button onClick={() => window.confirm(`Xóa ${product.name}?`) && onDelete(product.id)} aria-label={`Xóa ${product.name}`}><Trash2 /></button></div></td></tr>)}</tbody></table></div>
     </div>
   </>
 }
@@ -281,6 +282,7 @@ function ProductModal({ product, onClose, onSave }: { product: Product | null; o
       id: String(data.get('id')),
       name: String(data.get('name')),
       brand: String(data.get('brand')),
+      line: String(data.get('line')) || undefined,
       category: String(data.get('category')) as Product['category'],
       cpu: String(data.get('cpu')),
       ram: String(data.get('ram')),
@@ -291,6 +293,7 @@ function ProductModal({ product, onClose, onSave }: { product: Product | null; o
       originalPrice: Number(data.get('originalPrice')) || undefined,
       stock: Number(data.get('stock')),
       status: String(data.get('status')) as ProductStatus,
+      condition: String(data.get('condition')) as ProductCondition,
       badge: String(data.get('badge')) || undefined,
       accent: product?.accent ?? '#7c98a8',
     })
@@ -304,12 +307,14 @@ function ProductModal({ product, onClose, onSave }: { product: Product | null; o
         <label>Mã sản phẩm<input name="id" required defaultValue={product?.id ?? `DP-${Date.now().toString().slice(-5)}`} readOnly={!!product} /></label>
         <label>Tên sản phẩm<input name="name" required defaultValue={product?.name} /></label>
         <label>Thương hiệu<input name="brand" required defaultValue={product?.brand} /></label>
+        <label>Dòng sản phẩm<input name="line" defaultValue={product?.line} placeholder="Ví dụ: Legion, XPS, Zenbook..." /></label>
         <label>Phân loại<select name="category" defaultValue={product?.category ?? 'Văn phòng'}>{productCategories.map(category => <option key={category}>{category}</option>)}</select></label>
         <label>CPU<input name="cpu" required defaultValue={product?.cpu} /></label>
         <label>RAM<input name="ram" required defaultValue={product?.ram} /></label>
         <label>Ổ cứng<input name="storage" required defaultValue={product?.storage} /></label>
         <label>Màn hình<input name="display" required defaultValue={product?.display} /></label>
         <label>GPU<input name="gpu" required defaultValue={product?.gpu} /></label>
+        <label>Tình trạng<select name="condition" defaultValue={product?.condition ?? 'Like new'}>{productConditions.map(condition => <option key={condition}>{condition}</option>)}</select></label>
         <label>Nhãn nổi bật<input name="badge" defaultValue={product?.badge} placeholder="Bán chạy" /></label>
         <label>Giá bán<input name="price" type="number" min="0" required defaultValue={product?.price} /></label>
         <label>Giá niêm yết<input name="originalPrice" type="number" min="0" defaultValue={product?.originalPrice} /></label>
