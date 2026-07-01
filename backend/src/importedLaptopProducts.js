@@ -5,11 +5,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 7 255H / 16GB RAM / 1TB SSD / R",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Ryzen 7 255H (8 nhân 16 luồng )",
+    "ram": "16GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "15″3 WQXGA (2560×1600) OLED, 1100nits, 165Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 35800000,
     "originalPrice": 49000000,
     "stock": 2,
@@ -29,7 +29,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7x5.jpg"
     ],
     "seoTitle": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen 7 255H (8 nhân 16 luồng )"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15″3 WQXGA (2560×1600) OLED, 1100nits, 165Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.88 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "18.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "kim loại mặt A"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-R9000P-2026-RYZEN-9-8945HX-16GB-RAM-1TB-S-1-1",
@@ -37,11 +103,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 8945HX 16GB RAM 1TB SSD RTX50",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 16inch",
+    "cpu": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp) ( 2khe ram)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4 ( 2 khe SSD)",
+    "display": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 47000000,
     "originalPrice": 48000000,
     "stock": 2,
@@ -61,7 +127,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
     "seoTitle": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp) ( 2khe ram)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4 ( 2 khe SSD)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại mặt A và D"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-Y7000P-2026-LEGION-PRO-5I-2026-CORE-ULTRA-1-2",
@@ -69,11 +201,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Core Ultra 7 251HX / 16GB RAM / 1TB",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070",
+    "cpu": "Core Ultra 7 251HX (18 nhân 18 luồng )",
+    "ram": "16GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5070 12GB",
     "price": 54000000,
     "originalPrice": 61000000,
     "stock": 2,
@@ -93,7 +225,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7p5-1.jpg"
     ],
     "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 7 251HX (18 nhân 18 luồng )"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070 12GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.35 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "kim loại mặt A"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-Y7000P-2026-LEGION-PRO-5I-2026-CORE-ULTRA-1-3",
@@ -101,11 +299,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Core Ultra 7 255HX / 16GB RAM / 1TB",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Intel Ultra 7 255HX (20 nhân 20 luồng, xung nhịp cơ bản 2.4GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)",
+    "ram": "16GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 48000000,
     "originalPrice": 57000000,
     "stock": 2,
@@ -125,7 +323,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7p5-1.jpg"
     ],
     "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 7 255HX (20 nhân 20 luồng, xung nhịp cơ bản 2.4GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-Y7000X-2026-LEGION-5I-2026-CORE-7-245HX-1-1-4",
@@ -133,11 +397,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Core 7 245HX / 16GB RAM / 512GB SSD",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Core 7 245HX (14 nhân 14 luồng )",
+    "ram": "16GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "15″3 WQXGA (2560×1600) OLED, 1100nits, 165Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 39300000,
     "originalPrice": 40500000,
     "stock": 2,
@@ -157,7 +421,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7x5.jpg"
     ],
     "seoTitle": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core 7 245HX (14 nhân 14 luồng )"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15″3 WQXGA (2560×1600) OLED, 1100nits, 165Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.95 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "18.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "kim loại mặt A"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-Y7000X-2026-LEGION-5I-2026-CORE-ULTRA-7-2-1-5",
@@ -165,11 +495,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Core Ultra 7 251HX / 16GB RAM / 1TB",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Core Ultra 7 251HX (18 nhân 18 luồng )",
+    "ram": "16GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "15″3 WQXGA (2560×1600) OLED, 1100nits, 165Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 40000000,
     "originalPrice": 40500000,
     "stock": 2,
@@ -189,7 +519,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7x5.jpg"
     ],
     "seoTitle": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 7 251HX (18 nhân 18 luồng )"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15″3 WQXGA (2560×1600) OLED, 1100nits, 165Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.95 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "18.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "kim loại mặt A"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-Y9000P-2026-CORE-ULTRA-9-290HX-PLUS-16GB--1-6",
@@ -197,11 +593,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Core Ultra 9 290HX Plus 16GB RAM 1TB",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 16inch",
+    "cpu": "Core Ultra 9 290HX Plus (24 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.8GHz đơn nhân với turbo boost, 36MB Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) OLED, 1100nits, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 62000000,
     "originalPrice": 66000000,
     "stock": 2,
@@ -221,7 +617,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
     "seoTitle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 9 290HX Plus (24 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.8GHz đơn nhân với turbo boost, 36MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) OLED, 1100nits, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-Y9000P-2026-CORE-ULTRA-9-290HX-PLUS-16GB--1-7",
@@ -229,11 +691,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Core Ultra 9 290HX Plus 16GB RAM 1TB",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070 16inch",
+    "cpu": "Core Ultra 9 290HX Plus (24 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.8GHz đơn nhân với turbo boost, 36MB Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) OLED, 1100nits, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5070 12GB",
     "price": 72000000,
     "originalPrice": 75000000,
     "stock": 2,
@@ -253,7 +715,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
     "seoTitle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 9 290HX Plus (24 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.8GHz đơn nhân với turbo boost, 36MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) OLED, 1100nits, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070 12GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-Y9000P-2026-I9-14900HX-16GB-RAM-1TB-SSD-R-1-8",
@@ -261,11 +789,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 16inch",
+    "cpu": "Intel Core i9-14900HX (24 nhân 32 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.8GHz đơn nhân với turbo boost, 36MB Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 49000000,
     "originalPrice": 50000000,
     "stock": 2,
@@ -285,7 +813,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
     "seoTitle": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i9-14900HX (24 nhân 32 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.8GHz đơn nhân với turbo boost, 36MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-PRO-9-2025-ULTRA-9-285H-RAM-32GB-SSD-1-11",
@@ -293,11 +887,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Gaming",
-    "cpu": "Ultra 9 285H RAM 32GB SSD 1TB RTX 506",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16 inch 2.8K OLED 120Hz",
-    "gpu": "RTX 5060 16 inch 2.8K OLED 1",
+    "cpu": "Intel Ultra 9 285H",
+    "ram": "32 GB LPDDR5x bus 6400MHz( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "16″ 2.8K (2800 x 1800) 120Hz 16:10 OLED, 100% DCI-P3, 100%sRGB, 100%AdobeRGB, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR",
+    "gpu": "Intel ARC 140T và Nvidia GeForce RTX 5060 8GB GDDR7",
     "price": 45000000,
     "originalPrice": 51000000,
     "stock": 2,
@@ -317,7 +911,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/yoa7.png"
     ],
     "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 285H"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x bus 6400MHz( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.8K (2800 x 1800) 120Hz 16:10 OLED, 100% DCI-P3, 100%sRGB, 100%AdobeRGB, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel ARC 140T và Nvidia GeForce RTX 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A® (USB 10Gbps / USB 3.2 Gen 1), 2x USB-C® (Thunderbolt4® 40Gbps), with USB PD 3.0 and DisplayPort™ 1.4a, 1x SD Card, 1x HDMI 2.1, 1x Headphone / microphone combo jack (3.5mm), 1x Power Port"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "170W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "363 x 254 x 17.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "84 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-SLIM-7I-ULTRA-AURA-EDITION-YOGA-AIR--1-12",
@@ -325,11 +989,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Mỏng nhẹ",
-    "cpu": "Ultra Aura Edition (Yoga Air 14 Ultra",
-    "ram": "Đang cập nhật",
-    "storage": "Đang cập nhật",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core ultra 5 325",
+    "ram": "16 GB LPDDR5x ( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4( 1 khe SSD M2 2242)",
+    "display": "14″ 2.8K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR",
+    "gpu": "Intel® Graphics",
     "price": 45000000,
     "originalPrice": 51000000,
     "stock": 2,
@@ -349,7 +1013,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/prm2.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core ultra 5 325"
+      },
+      {
+        "label": "Ram",
+        "value": "16 GB LPDDR5x ( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4( 1 khe SSD M2 2242)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2.8K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-C® (Thunderbolt4® 40Gbps)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "0.98 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 221.31 x 16.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "75 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "full hợp kim nhôm-magie"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-SLIM-7I-ULTRA-AURA-EDITION-YOGA-AIR--1-13",
@@ -357,11 +1091,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Mỏng nhẹ",
-    "cpu": "Ultra Aura Edition (Yoga Air 14 Ultra",
-    "ram": "Đang cập nhật",
-    "storage": "Đang cập nhật",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core ultra 5 338H",
+    "ram": "32 GB LPDDR5x ( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4( 1 khe SSD M2 2242)",
+    "display": "14″ 2.8K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR",
+    "gpu": "Intel® Graphics",
     "price": 55000000,
     "originalPrice": 62000000,
     "stock": 2,
@@ -381,7 +1115,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-5.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core ultra 5 338H"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x ( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4( 1 khe SSD M2 2242)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2.8K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-C® (Thunderbolt4® 40Gbps)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "0.98 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 221.31 x 16.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "75 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "full hợp kim nhôm-magie"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-SLIM-7I-ULTRA-AURA-EDITION-YOGA-AIR--1-14",
@@ -389,11 +1193,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Mỏng nhẹ",
-    "cpu": "Ultra Aura Edition (Yoga Air 14 Ultra",
-    "ram": "Đang cập nhật",
-    "storage": "Đang cập nhật",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra X7 358H",
+    "ram": "32 GB LPDDR5x ( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4( 1 khe SSD M2 2242)",
+    "display": "14″ 2.8K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR",
+    "gpu": "Intel® Graphics",
     "price": 58000000,
     "originalPrice": 63000000,
     "stock": 2,
@@ -413,7 +1217,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/prm3.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra X7 358H"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x ( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4( 1 khe SSD M2 2242)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2.8K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-C® (Thunderbolt4® 40Gbps)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "0.98 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 221.31 x 16.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "75 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "full hợp kim nhôm-magie"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-SLIM-7I-ULTRA-AURA-EDITION-YOGA-AIR--1-15",
@@ -421,11 +1295,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Mỏng nhẹ",
-    "cpu": "Ultra Aura Edition (Yoga Air 14 Ultra",
-    "ram": "Đang cập nhật",
-    "storage": "Đang cập nhật",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra X9 378H",
+    "ram": "32 GB LPDDR5x ( Ram hàn, không thể nâng cấp)",
+    "storage": "2TB PCIe SSD Gen 4( 1 khe SSD M2 2242)",
+    "display": "14″ 2.8K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR",
+    "gpu": "Intel® Graphics",
     "price": 74000000,
     "originalPrice": 83000000,
     "stock": 2,
@@ -445,7 +1319,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-9.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra X9 378H"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x ( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "2TB PCIe SSD Gen 4( 1 khe SSD M2 2242)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2.8K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-C® (Thunderbolt4® 40Gbps)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "0.98 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 221.31 x 16.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "75 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "full hợp kim nhôm-magie"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-SLIM-7I-ULTRA-AURA-EDITION-YOGA-AIR--1-16",
@@ -453,11 +1397,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Mỏng nhẹ",
-    "cpu": "Ultra Aura Edition (Yoga Air 14 Ultra",
-    "ram": "Đang cập nhật",
-    "storage": "Đang cập nhật",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra X9 388H",
+    "ram": "64 GB LPDDR5x ( Ram hàn, không thể nâng cấp)",
+    "storage": "2TB PCIe SSD Gen 4( 1 khe SSD M2 2242)",
+    "display": "14″ 2.8K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR",
+    "gpu": "Intel® Graphics",
     "price": 96000000,
     "originalPrice": 111000000,
     "stock": 2,
@@ -477,7 +1421,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-9.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra X9 388H"
+      },
+      {
+        "label": "Ram",
+        "value": "64 GB LPDDR5x ( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "2TB PCIe SSD Gen 4( 1 khe SSD M2 2242)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2.8K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-C® (Thunderbolt4® 40Gbps)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "0.98 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 221.31 x 16.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "75 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "full hợp kim nhôm-magie"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-YOGA-SLIM-7I-AURA-EDITION-2026-YOGA-AIR-14-AURA--1-17",
@@ -485,11 +1499,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Mỏng nhẹ",
-    "cpu": "Core Ultra 7 258V 32 GB RAM 1 TB SSD",
-    "ram": "Đang cập nhật",
-    "storage": "Đang cập nhật",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core ultra 7 258V",
+    "ram": "32 GB LPDDR5x bus ( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ 3K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR",
+    "gpu": "Intel® Graphics",
     "price": 34000000,
     "originalPrice": 39500000,
     "stock": 2,
@@ -509,7 +1523,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/yoa7.jpg"
     ],
     "seoTitle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core ultra 7 258V"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x bus ( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 3K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-C® ( 10Gbps)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 221.31 x 16.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "70 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-Y7000P-2026-LEGION-PRO-5I-2026-CORE-ULTRA-1-19",
@@ -517,11 +1601,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Core Ultra 7 251HX / 16GB RAM / 1TB",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Core Ultra 7 251HX (18 nhân 18 luồng )",
+    "ram": "16GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 44500000,
     "originalPrice": 53000000,
     "stock": 2,
@@ -541,7 +1625,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7p6.jpg"
     ],
     "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 7 251HX (18 nhân 18 luồng )"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.35 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "kim loại mặt A"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-Y7000P-2026-LEGION-PRO-5I-2026-I7-14650HX-1-20",
@@ -549,11 +1699,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 44000000,
     "originalPrice": 51000000,
     "stock": 2,
@@ -573,7 +1723,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7p5.jpg"
     ],
     "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.35 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "kim loại mặt A"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G8-2026-AMD-RYZEN-7-H-255-RAM-32GB--1-23",
@@ -581,11 +1797,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\"",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14.5\" 3K 120Hz(LUNAR GREY",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen 7 H 255 (8 nhân 16 luồng, xung nhịp cơ bản ~3.8GHz, tối đa có thể đạt ~4.9GHz, 8MB L2 Cache, 16MB L3 Cache)",
+    "ram": "32GB LPDDR5x 7500MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)",
+    "gpu": "AMD Radeon™ 780M",
     "price": 26500000,
     "originalPrice": 29100000,
     "stock": 2,
@@ -605,7 +1821,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/3333000.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 H 255 (8 nhân 16 luồng, xung nhịp cơ bản ~3.8GHz, tối đa có thể đạt ~4.9GHz, 8MB L2 Cache, 16MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 7500MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng TGX (cắm eGPU), 1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "32.1 x 23.2 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell 99.9wh hỗ trợ sạc nhanh, củ sạc 140w GaN-C"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G8-2026-AMD-RYZEN-7-H-255-RAM-32GB--1-24",
@@ -613,11 +1899,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 3.2K 165Hz(LUNAR GREY",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen 7 H 255 (8 nhân 16 luồng, xung nhịp cơ bản ~3.8GHz, tối đa có thể đạt ~4.9GHz, 8MB L2 Cache, 16MB L3 Cache)",
+    "ram": "32GB LPDDR5x 7500MHz",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh",
+    "gpu": "AMD Radeon™ 780M",
     "price": 27000000,
     "originalPrice": 30100000,
     "stock": 2,
@@ -637,7 +1923,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/00033.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 H 255 (8 nhân 16 luồng, xung nhịp cơ bản ~3.8GHz, tối đa có thể đạt ~4.9GHz, 8MB L2 Cache, 16MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 7500MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng TGX (cắm eGPU), 1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.6 x 25.3 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 99.9 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G8-2026-AMD-RYZEN-AI-7-H-450-RAM-32-1-25",
@@ -645,11 +2001,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14.5\" 3K 120Hz(STAR WHITE",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ AI 7 H 450 (8 Cores, 16 Threads, up to 5.1 GHz, 16MB Cache, 4nm, 28W TDP, NPU AI, 50 TOPS)",
+    "ram": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″ 3K (3072 × 1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 120Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh",
+    "gpu": "AMD Radeon 860M",
     "price": 29000000,
     "originalPrice": 32000000,
     "stock": 2,
@@ -669,7 +2025,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/ads-1.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ AI 7 H 450 (8 Cores, 16 Threads, up to 5.1 GHz, 16MB Cache, 4nm, 28W TDP, NPU AI, 50 TOPS)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072 × 1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 120Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 860M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng mạng LAN,, 2x cổng USB-A 3.2 Gen 1,, 1x khe đọc-ghi thẻ SD,, 1x Khe cắm chìm USB-A 2.0 ( thường dùng cho USB của chuột không dây),, 1x cổng HDMI 2.1,, 2x cổng USB4 type C (có thể sạc 140W),, 1x jack tai nghe,, 1x Cổng TGX (cắm eGPU)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi® 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "32.1 x 23.2 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "99.9wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G8-2026-AMD-RYZEN-AI-7-H-450-RAM-32-1-26",
@@ -677,11 +2103,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ AI 7 H 450 (8 Cores, 16 Threads, up to 5.1 GHz, 16MB Cache, 4nm, 28W TDP, NPU AI, 50 TOPS)",
+    "ram": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3.2K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh",
+    "gpu": "AMD Radeon 860M",
     "price": 28600000,
     "originalPrice": 29100000,
     "stock": 2,
@@ -701,7 +2127,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/00033.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ AI 7 H 450 (8 Cores, 16 Threads, up to 5.1 GHz, 16MB Cache, 4nm, 28W TDP, NPU AI, 50 TOPS)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 860M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng mạng LAN,, 2x cổng USB-A 3.2 Gen 1,, 1x khe đọc-ghi thẻ SD,, 1x Khe cắm chìm USB-A 2.0 ( thường dùng cho USB của chuột không dây),, 1x cổng HDMI 2.1,, 2x cổng USB4 type C (có thể sạc 140W),, 1x jack tai nghe,, 1x Cổng TGX (cắm eGPU)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi® 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.75 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.6 x 25.3 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Fullsize, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "99.9wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G8-2026-CORE-ULTRA-5-338H-32GB-RAM--1-27",
@@ -709,11 +2205,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Core Ultra 5 338H 32GB RAM 1TB SSD 1",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra 5 338H",
+    "ram": "32GB LPCAMM2 8533MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)",
+    "display": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)",
+    "gpu": "Intel® Arc™ B370",
     "price": 36400000,
     "originalPrice": 36500000,
     "stock": 2,
@@ -733,7 +2229,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/ads.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 5 338H"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPCAMM2 8533MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ B370"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng TGX (cắm eGPU), 1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1(48Gbps), 1x Headphone / mic combo 3.5, 1x RJ45, 2x USB 3.2 Gen 1 Type-A, 1x SD"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "32.1 x 23.2 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell 99.9wh hỗ trợ sạc nhanh, củ sạc 140w GaN-C"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G8-2026-CORE-ULTRA-5-338H-32GB-RAM--1-28",
@@ -741,11 +2307,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Core Ultra 5 338H 32GB RAM 1TB SSD 1",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra 5 338H",
+    "ram": "32GB LPCAMM2 8533MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)",
+    "display": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh",
+    "gpu": "Intel® Arc™ B370",
     "price": 37500000,
     "originalPrice": 37700000,
     "stock": 2,
@@ -765,7 +2331,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/16vcvcv.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 5 338H"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPCAMM2 8533MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ B370"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng TGX (cắm eGPU), 1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1(48Gbps), 1x Headphone / mic combo 3.5, 1x RJ45, 2x USB 3.2 Gen 1 Type-A, 1x SD"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.6 x 25.3 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 99.9 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 HomeHaptic Touchpad, quét vân tay, khuôn mặt, 4 loa"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G8-2026-CORE-ULTRA-X7-358H-32GB-RAM-1-29",
@@ -773,11 +2409,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Core Ultra X7 358H 32GB RAM 1TB SSD",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra X7 358H(16 nhân 16 luồng)",
+    "ram": "32GB LPCAMM2 8533MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)",
+    "display": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)",
+    "gpu": "Intel® Arc™ B390",
     "price": 39000000,
     "originalPrice": 39200000,
     "stock": 2,
@@ -797,7 +2433,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/ads.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra X7 358H(16 nhân 16 luồng)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPCAMM2 8533MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ B390"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng TGX (cắm eGPU), 1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1(48Gbps), 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5, 1x RJ45, 2x USB 3.2 Gen 1 Type-A, 1x SD"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Camera TOF"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "32.1 x 23.2 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng Haptic touchpad"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell 99.9wh hỗ trợ sạc nhanh, củ sạc 140w GaN-C"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G8-2026-CORE-ULTRA-X7-358H-32GB-RAM-1-30",
@@ -805,11 +2511,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Core Ultra X7 358H 32GB RAM 1TB SSD",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra X7 358H(16 nhân 16 luồng)",
+    "ram": "32GB LPCAMM2 8533MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)",
+    "display": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh",
+    "gpu": "Intel® Arc™ B390",
     "price": 39200000,
     "originalPrice": 39400000,
     "stock": 2,
@@ -829,7 +2535,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra X7 358H(16 nhân 16 luồng)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPCAMM2 8533MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ B390"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng TGX (cắm eGPU), 1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1(48Gbps), 1x Headphone / mic combo 3.5, 1x RJ45, 2x USB 3.2 Gen 1 Type-A, 1x SD"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD TOF camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.6 x 25.3 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 99.9 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home Haptic Touchpad, quét vân tay, khuôn mặt, 4 loa"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G8-2026-CORE-ULTRA-7-356H-32GB-RAM--1-31",
@@ -837,11 +2613,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Core Ultra 7 356H 32GB RAM 1TB SSD R",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060 16″ 3.2K 165Hz(LUNA",
+    "cpu": "Core Ultra 7 356H",
+    "ram": "32GB LPCAMM2 8533MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)",
+    "display": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh",
+    "gpu": "Intel® Graphics RTX 5060",
     "price": 48500000,
     "originalPrice": 49000000,
     "stock": 2,
@@ -861,7 +2637,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 7 356H"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPCAMM2 8533MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Graphics RTX 5060"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng TGX (cắm eGPU), 1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1(48Gbps), 1x Headphone / mic combo 3.5, 1x RJ45, 2x USB 3.2 Gen 1 Type-A, 1x SD"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD TOF camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "245W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.95 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 253 x 15.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 99.9 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 HomeHaptic Touchpad, quét vân tay, khuôn mặt, 4 loa"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G8-2026-CORE-ULTRA-X9-388H-32GB-RAM-1-32",
@@ -869,11 +2715,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Core Ultra X9 388H 32GB RAM 1TB SSD",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra X9 388H",
+    "ram": "32GB LPCAMM2 8533MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)",
+    "display": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)",
+    "gpu": "Intel® Arc™ B390",
     "price": 47000000,
     "originalPrice": 53000000,
     "stock": 2,
@@ -893,7 +2739,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/uerdfasf.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra X9 388H"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPCAMM2 8533MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ B390"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng TGX (cắm eGPU), 1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1(48Gbps), 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5, 1x RJ45, 2x USB 3.2 Gen 1 Type-A, 1x SD"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Camera TOF"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "32.1 x 23.2 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng Haptic touchpad"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell 99.9wh hỗ trợ sạc nhanh, củ sạc 140w GaN-C"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G8-2026-CORE-ULTRA-X9-388H-32GB-RAM-1-33",
@@ -901,11 +2817,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Core Ultra X9 388H 32GB RAM 1TB SSD",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra X9 388H",
+    "ram": "32GB LPCAMM2 8533MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)",
+    "display": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh",
+    "gpu": "Intel® Arc™ B390",
     "price": 49000000,
     "originalPrice": 56000000,
     "stock": 2,
@@ -925,7 +2841,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/16vcvcv.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra X9 388H"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPCAMM2 8533MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ B390"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng TGX (cắm eGPU), 1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1(48Gbps), 1x Headphone / mic combo 3.5, 1x RJ45, 2x USB 3.2 Gen 1 Type-A, 1x SD"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD TOF camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.6 x 25.3 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 99.9 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home Haptic Touchpad, quét vân tay, khuôn mặt, 4 loa"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-THINKBOOK-14-G8-FIFA-WORLD-CUP-26-EDITION-1-34",
@@ -933,11 +2919,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Core Ultra X7 358H / 32GB RAM / 1TB",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra X7 358H(16 nhân 16 luồng)",
+    "ram": "32GB LPCAMM2 8533MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)",
+    "display": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)",
+    "gpu": "Intel® Arc™ B390",
     "price": 46000000,
     "originalPrice": 49000000,
     "stock": 2,
@@ -957,7 +2943,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/05/fia4.jpg"
     ],
     "seoTitle": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra X7 358H(16 nhân 16 luồng)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPCAMM2 8533MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD, hai khe SSD (1 khe Gen 5 x 4, 1 khe Gen 4 x 2)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ B390"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng TGX (cắm eGPU), 1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1(48Gbps), 1x Headphone / mic combo 3.5, 1x RJ45, 2x USB 3.2 Gen 1 Type-A, 1x SD"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Camera TOF"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "32.1 x 23.2 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắngHaptic touchpad"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell 99.9wh hỗ trợ sạc nhanh, củ sạc 140w GaN-C"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G8-2026-AMD-RYZEN-AI-9-H-465-RAM-32-1-35",
@@ -965,11 +3021,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ 9 H 465 (10 nhân 20 luồng, xung nhịp tối đa có thể đạt ~5GHz, 10MB L2 Cache, 24MB L3 Cache)",
+    "ram": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″ 3K (3072 × 1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 120Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh",
+    "gpu": "AMD Radeon 880M",
     "price": 31800000,
     "originalPrice": 39000000,
     "stock": 2,
@@ -989,7 +3045,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn-1.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 9 H 465 (10 nhân 20 luồng, xung nhịp tối đa có thể đạt ~5GHz, 10MB L2 Cache, 24MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072 × 1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 120Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 880M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng mạng LAN,, 2x cổng USB-A 3.2 Gen 1,, 1x khe đọc-ghi thẻ SD,, 1x Khe cắm chìm USB-A 2.0 ( thường dùng cho USB của chuột không dây),, 1x cổng HDMI 2.1,, 2x cổng USB4 type C (có thể sạc 140W),, 1x jack tai nghe,, 1x Cổng TGX (cắm eGPU)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi® 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "32.1 x 23.2 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "99.9wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G8-2026-AMD-RYZEN-AI-9-H-465-RAM-32-1-36",
@@ -997,11 +3123,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ 9 H 465 (10 nhân 20 luồng, xung nhịp tối đa có thể đạt ~5GHz, 10MB L2 Cache, 24MB L3 Cache)",
+    "ram": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh.",
+    "gpu": "AMD Radeon 880M",
     "price": 34200000,
     "originalPrice": 41000000,
     "stock": 2,
@@ -1021,7 +3147,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/cvcvcv.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 9 H 465 (10 nhân 20 luồng, xung nhịp tối đa có thể đạt ~5GHz, 10MB L2 Cache, 24MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 880M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng mạng LAN,, 2x cổng USB-A 3.2 Gen 1,, 1x khe đọc-ghi thẻ SD,, 1x Khe cắm chìm USB-A 2.0 ( thường dùng cho USB của chuột không dây),, 1x cổng HDMI 2.1,, 2x cổng USB4 type C (có thể sạc 140W),, 1x jack tai nghe,, 1x Cổng TGX (cắm eGPU)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi® 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "32.1 x 23.2 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "99.9wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-YOGA-SLIM-7I-AURA-EDITION-2026-YOGA-AIR-14-AURA--2-2",
@@ -1029,11 +3225,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Mỏng nhẹ",
-    "cpu": "Core Ultra 7 355 32 GB RAM 1 TB SSD",
-    "ram": "Đang cập nhật",
-    "storage": "Đang cập nhật",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core ultra 7 355",
+    "ram": "32 GB LPDDR5x bus ( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ 3K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR",
+    "gpu": "Intel® Graphics",
     "price": 43000000,
     "originalPrice": 49000000,
     "stock": 2,
@@ -1053,7 +3249,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/05/555yyy.jpg"
     ],
     "seoTitle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core ultra 7 355"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x bus ( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 3K (2880 x 1800) 120Hz OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-C® (Thunderbolt4® 40Gbps)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 221.31 x 16.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng màu Seashell (Vỏ sò)"
+      },
+      {
+        "label": "Pin",
+        "value": "70 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G8-2026-AMD-RYZEN-AI-9-HX-470-RAM-3-2-3",
@@ -1061,11 +3327,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ AI 9 HX 470 (12 nhân 24 luồng, xung nhịp tối đa có thể đạt ~5.2GHz, 12MB L2 Cache, 24MB L3 Cache)",
+    "ram": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″ 3K (3072 × 1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 120Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh",
+    "gpu": "AMD Radeon 890M",
     "price": 34000000,
     "originalPrice": 41000000,
     "stock": 2,
@@ -1085,7 +3351,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/bcabacb.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ AI 9 HX 470 (12 nhân 24 luồng, xung nhịp tối đa có thể đạt ~5.2GHz, 12MB L2 Cache, 24MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072 × 1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 120Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 890M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng mạng LAN,, 2x cổng USB-A 3.2 Gen 1,, 1x khe đọc-ghi thẻ SD,, 1x Khe cắm chìm USB-A 2.0 ( thường dùng cho USB của chuột không dây),, 1x cổng HDMI 2.1,, 2x cổng USB4 type C (có thể sạc 140W),, 1x jack tai nghe,, 1x Cổng TGX (cắm eGPU)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi® 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "32.1 x 23.2 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "99.9wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G8-2026-AMD-RYZEN-AI-9-HX-470-RAM-3-2-4",
@@ -1093,11 +3429,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 3.2K 165Hz (Star White",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ AI 9 HX 470 (12 nhân 24 luồng, xung nhịp tối đa có thể đạt ~5.2GHz, 12MB L2 Cache, 24MB L3 Cache)",
+    "ram": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh.",
+    "gpu": "AMD Radeon 890M",
     "price": 35000000,
     "originalPrice": 43000000,
     "stock": 2,
@@ -1117,7 +3453,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/03/sdbvvdsbsdv.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ AI 9 HX 470 (12 nhân 24 luồng, xung nhịp tối đa có thể đạt ~5.2GHz, 12MB L2 Cache, 24MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz (Không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3K (3200 × 2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 500nits, tần số quét 165Hz, 100% sRGB, 100% DCI-P3, chứng nhận Pantone Validated và Pantone Skintone Validated cho màu sống động nhưng thực tế hơn, màn giảm ánh sáng xanh."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 890M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Cổng mạng LAN,, 2x cổng USB-A 3.2 Gen 1,, 1x khe đọc-ghi thẻ SD,, 1x Khe cắm chìm USB-A 2.0 ( thường dùng cho USB của chuột không dây),, 1x cổng HDMI 2.1,, 2x cổng USB4 type C (có thể sạc 140W),, 1x jack tai nghe,, 1x Cổng TGX (cắm eGPU)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi® 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "32.1 x 23.2 x 1.5-1.7cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "99.9wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G7-2025-RYZEN-7-H-255-24GB-RAM-512G-2-17",
@@ -1125,11 +3531,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen 7 H 255",
-    "ram": "24GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ 7 H 255 (3.8 GHz up to 4.9 GHz, 8 Cores, 16 Threads, 16MB Cache)",
+    "ram": "24GB LPDDR5x7500MHz (không hỗ trợ nâng cấp)",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″ 2.5K (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 90Hz, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light.",
+    "gpu": "AMD Radeon™ 780M",
     "price": 24500000,
     "originalPrice": 28100000,
     "stock": 2,
@@ -1149,7 +3555,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-15-09.jpg"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 7 H 255 (3.8 GHz up to 4.9 GHz, 8 Cores, 16 Threads, 16MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "24GB LPDDR5x7500MHz (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 2.5K (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 90Hz, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x cổng USB-A 3.2 Gen 1,, 1x khe đọc-ghi thẻ microSD,, 1x khe cắm chìm USB-A 2.0,, 1x USB-C 3.2 Gen 2,, 1x cổng HDMI 2.1,, 1x cổng Thunderbolt 4 type C,, 1x Cổng mạng LAN,, 1x jack tai nghe,, 1x khe khóa vật lý"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "31.2 x 22.4 x 1.59cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "85wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G7-2025-RYZEN-7-H-255-24GB-RAM-512G-2-18",
@@ -1157,11 +3633,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen 7 H 255",
-    "ram": "24GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ 7 H 255 (3.8 GHz up to 4.9 GHz, 8 Cores, 16 Threads, 16MB Cache)",
+    "ram": "24GB LPDDR5x7500MHz (không hỗ trợ nâng cấp)",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 2.5K (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~400nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light.",
+    "gpu": "AMD Radeon™ 780M",
     "price": 21500000,
     "originalPrice": 23100000,
     "stock": 2,
@@ -1181,7 +3657,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/09/224.jpg"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 7 H 255 (3.8 GHz up to 4.9 GHz, 8 Cores, 16 Threads, 16MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "24GB LPDDR5x7500MHz (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.5K (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~400nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x cổng USB-A 3.2 Gen 1,, 1x khe đọc-ghi thẻ SD,, 1x khe cắm chìm USB-A 2.0,, 1x USB-C 3.2 Gen 2,, 1x cổng HDMI 2.1,, 1x cổng Thunderbolt 4 type C,, 1x Cổng mạng LAN,, 1x jack tai nghe,, 1x khe khóa vật lý"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.6 x 25.1 x 1.69cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "85wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-R7000-2025-RYZEN-7-H-255-16GB-RAM-512GB-2-22",
@@ -1189,11 +3735,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 7 H 255 16GB RAM 512GB SSD RTX5",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 15.3inch",
+    "cpu": "AMD Ryzen 7 H 255 (8 nhân 16 luồng, xung nhịp cơ bản 3.8GHz có thể đạt tới 4.9GHz đơn nhân với turbo boost, 8MB L2 Cache, 16MB L3 Cache, default TDP 45W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "15.3″ WQXGA (2560×1600) IPS, 400nits, màn nhám, 180Hz, 3ms, 100%sRGB, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 33000000,
     "originalPrice": 43000000,
     "stock": 2,
@@ -1213,7 +3759,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-16.png"
     ],
     "seoTitle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 H 255 (8 nhân 16 luồng, xung nhịp cơ bản 3.8GHz có thể đạt tới 4.9GHz đơn nhân với turbo boost, 8MB L2 Cache, 16MB L3 Cache, default TDP 45W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15.3″ WQXGA (2560×1600) IPS, 400nits, màn nhám, 180Hz, 3ms, 100%sRGB, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 5Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "245W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 60wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-R7000P-2025-RYZEN-9-8940HX-16GB-RAM-1TB-2-23",
@@ -1221,11 +3837,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 8940HX 16GB RAM 1TB SSD RTX50",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 16inch",
+    "cpu": "AMD Ryzen 9 8940HX (16 nhân 32 luồng, xung nhịp cơ bản 2.4GHz có thể đạt tới 5.3GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit Color, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer, DeltaE <2",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 36500000,
     "originalPrice": 43000000,
     "stock": 2,
@@ -1245,7 +3861,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/sDIBAWKKbDGw99R3SYFRiDF2m-0679.jpg"
     ],
     "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8940HX (16 nhân 32 luồng, xung nhịp cơ bản 2.4GHz có thể đạt tới 5.3GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit Color, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer, DeltaE <2"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "245W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.35 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 60wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-R7000P-2025-RYZEN-9-8945HX-16GB-RAM-1TB-2-24",
@@ -1253,11 +3939,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 8945HX 16GB RAM 1TB SSD RTX50",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 16inch",
+    "cpu": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit Color, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer, DeltaE <2",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 37500000,
     "originalPrice": 43000000,
     "stock": 2,
@@ -1277,7 +3963,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/sDIBAWKKbDGw99R3SYFRiDF2m-0679.jpg"
     ],
     "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit Color, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer, DeltaE <2"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "245W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.35 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 60wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-R7000P-2025-RYZEN-9-8945HX-16GB-RAM-1TB-2-25",
@@ -1285,11 +4041,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 8945HX 16GB RAM 1TB SSD RTX50",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070 16inch",
+    "cpu": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit Color, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer, DeltaE <2",
+    "gpu": "NVIDIA® GeForce® RTX 5070 8GB",
     "price": 38800000,
     "originalPrice": 50000000,
     "stock": 2,
@@ -1309,7 +4065,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/sDIBAWKKbDGw99R3SYFRiDF2m-0679.jpg"
     ],
     "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, 10bit Color, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer, DeltaE <2"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 60wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-R9000P-RYZEN-9-8945HX-32GB-RAM-2-26",
@@ -1317,11 +4139,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 8945HX 32GB RAM 1TB SSD RTX50",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060",
+    "cpu": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 44000000,
     "originalPrice": 48000000,
     "stock": 2,
@@ -1341,7 +4163,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-R9000P-RYZEN-9-8945HX-32GB-RAM-2-27",
@@ -1349,11 +4241,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 8945HX 32GB RAM 1TB SSD RTX50",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 Trắng",
+    "cpu": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 45500000,
     "originalPrice": 47000000,
     "stock": 2,
@@ -1373,7 +4265,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-R7000-2025-RYZEN-7-H-255-16GB-RAM-512GB-2-28",
@@ -1381,11 +4343,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 7 H 255 16GB RAM 512GB SSD RTX5",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5050 15.3inch",
+    "cpu": "AMD Ryzen 7 H 255 (8 nhân 16 luồng, xung nhịp cơ bản 3.8GHz có thể đạt tới 4.9GHz đơn nhân với turbo boost, 8MB L2 Cache, 16MB L3 Cache, default TDP 45W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "15.3″ WQXGA (2560×1600) IPS, 400nits, màn nhám, 180Hz, 3ms, 100%sRGB, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5050 8GB",
     "price": 32000000,
     "originalPrice": 38000000,
     "stock": 2,
@@ -1405,7 +4367,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1.png"
     ],
     "seoTitle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 H 255 (8 nhân 16 luồng, xung nhịp cơ bản 3.8GHz có thể đạt tới 4.9GHz đơn nhân với turbo boost, 8MB L2 Cache, 16MB L3 Cache, default TDP 45W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15.3″ WQXGA (2560×1600) IPS, 400nits, màn nhám, 180Hz, 3ms, 100%sRGB, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5050 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 5Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "245W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 60wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-R9000P-RYZEN-9-8945HX-32GB-RAM-2-29",
@@ -1413,11 +4445,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 8945HX 32GB RAM 1TB SSD RTX50",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070",
+    "cpu": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5070 8GB",
     "price": 46000000,
     "originalPrice": 50000000,
     "stock": 2,
@@ -1437,7 +4469,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-R9000P-RYZEN-9-8945HX-32GB-RAM-2-30",
@@ -1445,11 +4547,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 8945HX 32GB RAM 1TB SSD RTX50",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070 Trắng",
+    "cpu": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5070 8GB",
     "price": 48300000,
     "originalPrice": 51000000,
     "stock": 2,
@@ -1469,7 +4571,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-R9000P-RYZEN-9-9955HX-32GB-RAM-2-31",
@@ -1477,11 +4649,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 9955HX 32GB RAM 1TB SSD RTX50",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 OLED",
+    "cpu": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 51000000,
     "originalPrice": 55000000,
     "stock": 2,
@@ -1501,7 +4673,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-R9000P-RYZEN-9-9955HX-32GB-RAM-2-32",
@@ -1509,11 +4751,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 9955HX 32GB RAM 1TB SSD RTX50",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 OLED Trắng",
+    "cpu": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 51500000,
     "originalPrice": 60000000,
     "stock": 2,
@@ -1533,7 +4775,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-R9000P-RYZEN-9-9955HX-32GB-RAM-2-33",
@@ -1541,11 +4853,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 9955HX 32GB RAM 1TB SSD RTX50",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070 OLED",
+    "cpu": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5070 8GB",
     "price": 56000000,
     "originalPrice": 64000000,
     "stock": 2,
@@ -1565,7 +4877,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-R9000P-RYZEN-9-9955HX-32GB-RAM-2-34",
@@ -1573,11 +4955,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 9955HX 32GB RAM 1TB SSD RTX50",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070 OLED Trắng",
+    "cpu": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5070 8GB",
     "price": 57500000,
     "originalPrice": 65000000,
     "stock": 2,
@@ -1597,7 +4979,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-R9000P-RYZEN-9-8945HX-32GB-RAM-2-35",
@@ -1605,11 +5057,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 8945HX 32GB RAM 1TB SSD RTX50",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070Ti",
+    "cpu": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5070Ti 12GB",
     "price": 59000000,
     "originalPrice": 65000000,
     "stock": 2,
@@ -1629,7 +5081,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070Ti 12GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-7-2025-R9000P-RYZEN-9-9955HX-32GB-RAM-2-36",
@@ -1637,11 +5159,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 9955HX 32GB RAM 1TB SSD RTX50",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070Ti OLED",
+    "cpu": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5070Ti 12GB",
     "price": 73500000,
     "originalPrice": 78000000,
     "stock": 2,
@@ -1661,7 +5183,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/09/5ilq8QisSUWqf9awjou9wuUv3-3007.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070Ti 12GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "400W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-7-2025-R9000P-RYZEN-9-9955HX-32GB-RAM-2-37",
@@ -1669,11 +5261,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 9955HX 32GB RAM 1TB SSD RTX50",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070Ti OLED Trắng",
+    "cpu": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5070Ti 12GB",
     "price": 74500000,
     "originalPrice": 80000000,
     "stock": 2,
@@ -1693,7 +5285,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/09/Nij1aWEBVmEeIzyp9wkTs0DQB-6557.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070Ti 12GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "400W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-7-2025-R9000P-RYZEN-9-9955HX3D-32GB-R-2-38",
@@ -1701,11 +5363,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5080 OLED",
+    "cpu": "AMD Ryzen 9 9955HX3D (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 128MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5080 16GB",
     "price": 86000000,
     "originalPrice": 100000000,
     "stock": 2,
@@ -1725,7 +5387,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/09/5ilq8QisSUWqf9awjou9wuUv3-3007.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX3D (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 128MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5080 16GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "400W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-7-2025-R9000P-RYZEN-9-9955HX3D-32GB-R-2-39",
@@ -1733,11 +5465,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5080 OLED Trắng",
+    "cpu": "AMD Ryzen 9 9955HX3D (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)",
+    "ram": "32GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5080 16GB",
     "price": 87500000,
     "originalPrice": 100000000,
     "stock": 2,
@@ -1757,7 +5489,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/09/Nij1aWEBVmEeIzyp9wkTs0DQB-6557.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX3D (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-120w)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 1100, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5080 16GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 Gen 1 5Gbps, 1x USB-A 3.2 Gen 1 10Gbps, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "400W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9 – 26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-Y7000-2025-ULTRA-7-255HX-16GB-RAM-1TB-S-3-0",
@@ -1765,11 +5567,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 15.3inch",
+    "cpu": "Intel Ultra 7 255HX (20 nhân 20 luồng, xung nhịp cơ bản 2.4GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "15.3″ 2.5K (2560 x 1600) IPS, 400nits, màn nhám, 180Hz, 3ms, 100%sRGB, Dolby Vision, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 34000000,
     "originalPrice": 48000000,
     "stock": 2,
@@ -1789,7 +5591,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-6.png"
     ],
     "seoTitle": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 7 255HX (20 nhân 20 luồng, xung nhịp cơ bản 2.4GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15.3″ 2.5K (2560 x 1600) IPS, 400nits, màn nhám, 180Hz, 3ms, 100%sRGB, Dolby Vision, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C Thunderbolt 4 40Gbps, support DP 2.1, PD 3.0, 2x USB-C 10Gbps, 3x USB-A 3.2 5Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "245W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 60wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-Y7000-2025-I7-14650HX-16-24GB-RAM-512GB-3-2",
@@ -1797,11 +5669,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "24GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 15.3inch",
+    "cpu": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)",
+    "ram": "16/24GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "15.3″ WQXGA (2560×1600) IPS, 400nits, màn nhám, 180Hz, 3ms, 100%sRGB, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 34000000,
     "originalPrice": 35500000,
     "stock": 2,
@@ -1821,7 +5693,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-18.png"
     ],
     "seoTitle": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16/24GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15.3″ WQXGA (2560×1600) IPS, 400nits, màn nhám, 180Hz, 3ms, 100%sRGB, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C 10Gbps, support DP 2.1, PD 3.0, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 5Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "245W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 60wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-Y7000P-2025-I7-14650HX-16GB-RAM-1TB-SSD-3-3",
@@ -1829,11 +5771,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5050 16inch",
+    "cpu": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5050 8GB",
     "price": 33200000,
     "originalPrice": 40000000,
     "stock": 2,
@@ -1853,7 +5795,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
     "seoTitle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5050 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-Y7000P-2025-I7-14650HX-16GB-RAM-1TB-SSD-3-4",
@@ -1861,11 +5869,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 16inch",
+    "cpu": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 37500000,
     "originalPrice": 40000000,
     "stock": 2,
@@ -1885,7 +5893,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
     "seoTitle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-Y7000P-2025-I9-14900HX-16GB-RAM-1TB-SSD-3-5",
@@ -1893,11 +5967,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 16inch",
+    "cpu": "Intel Core i9-14900HX (24 nhân 32 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.8GHz đơn nhân với turbo boost, 36MB Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 39200000,
     "originalPrice": 42000000,
     "stock": 2,
@@ -1917,7 +5991,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
     "seoTitle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i9-14900HX (24 nhân 32 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.8GHz đơn nhân với turbo boost, 36MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-Y7000P-2025-I9-14900HX-16GB-RAM-1TB-SSD-3-6",
@@ -1925,11 +6065,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070 16inch",
+    "cpu": "Intel Core i9-14900HX (24 nhân 32 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.8GHz đơn nhân với turbo boost, 36MB Cache, default TDP 55W)",
+    "ram": "16GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5070 8GB",
     "price": 40000000,
     "originalPrice": 43000000,
     "stock": 2,
@@ -1949,7 +6089,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
     "seoTitle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i9-14900HX (24 nhân 32 luồng, xung nhịp cơ bản 2.2GHz có thể đạt tới 5.8GHz đơn nhân với turbo boost, 36MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-Y7000P-2025-ULTRA-7-255HX-16GB-RAM-1TB--3-7",
@@ -1957,11 +6163,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 16inch",
+    "cpu": "Intel Ultra 7 255HX (20 nhân 20 luồng, xung nhịp cơ bản 2.4GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)",
+    "ram": "16GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 37500000,
     "originalPrice": 50000000,
     "stock": 2,
@@ -1981,7 +6187,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
     "seoTitle": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 7 255HX (20 nhân 20 luồng, xung nhịp cơ bản 2.4GHz có thể đạt tới 5.2GHz đơn nhân với turbo boost, 30MB Cache, default TDP 55W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 3ms, 100%DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-C 10Gbps, support DP 1.4, 2x USB-A 3.2 5Gbps, 1x USB-A 3.2 10Gbps + Output 5V/2A, 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "344.9 x 255.35 x 22.50-23.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-Y9000P-ULTRA-9-275HX-32GB-RAM--3-8",
@@ -1989,11 +6261,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "32GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 47500000,
     "originalPrice": 55000000,
     "stock": 2,
@@ -2013,7 +6285,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/jx0ZqmGIySnfPXj2uCDYkHfZe-4563.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C (support 10Gbps data transfer, DP 2.1, PD 3.0), 1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1), 2x USB-A 3.2 5Gpbs, 1x USB-A 3.2 10Gpbs, 1x RJ45, 1x HDMI 2.1, 1x Combo Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.57 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9-26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED Trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-Y9000P-ULTRA-9-275HX-32GB-RAM--3-9",
@@ -2021,11 +6363,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060 Trắng",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "32GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 48000000,
     "originalPrice": 55000000,
     "stock": 2,
@@ -2045,7 +6387,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/K451Xonev6w9KDoklprKlUfPA-7549.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C (support 10Gbps data transfer, DP 2.1, PD 3.0), 1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1), 2x USB-A 3.2 5Gpbs, 1x USB-A 3.2 10Gpbs, 1x RJ45, 1x HDMI 2.1, 1x Combo Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.57 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9-26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED Trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-Y9000P-ULTRA-9-275HX-32GB-RAM--3-10",
@@ -2053,11 +6465,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "32GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5070 8GB",
     "price": 52000000,
     "originalPrice": 55000000,
     "stock": 2,
@@ -2077,7 +6489,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/jx0ZqmGIySnfPXj2uCDYkHfZe-4563.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C (support 10Gbps data transfer, DP 2.1, PD 3.0), 1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1), 2x USB-A 3.2 5Gpbs, 1x USB-A 3.2 10Gpbs, 1x RJ45, 1x HDMI 2.1, 1x Combo Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.57 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9-26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED Trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-5-2025-Y9000P-ULTRA-9-275HX-32GB-RAM--3-11",
@@ -2085,11 +6567,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070 Trắng",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "32GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5070 8GB",
     "price": 53000000,
     "originalPrice": 55000000,
     "stock": 2,
@@ -2109,7 +6591,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/K451Xonev6w9KDoklprKlUfPA-7549.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C (support 10Gbps data transfer, DP 2.1, PD 3.0), 1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1), 2x USB-A 3.2 5Gpbs, 1x USB-A 3.2 10Gpbs, 1x RJ45, 1x HDMI 2.1, 1x Combo Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.57 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9-26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED Trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-7-2025-Y9000P-ULTRA-9-275HX-32GB-RAM--3-12",
@@ -2117,11 +6669,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070Ti",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "32GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 5",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5070Ti 12GB",
     "price": 77000000,
     "originalPrice": 81000000,
     "stock": 2,
@@ -2141,7 +6693,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-19.png"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 5"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070Ti 12GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C (support 10Gbps data transfer, DP 2.1, PD 3.0), 1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1), 2x USB-A 3.2 5Gpbs, 1x USB-A 3.2 10Gpbs, 1x RJ45, 1x HDMI 2.1, 1x Combo Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "400W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.57 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9-26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-7-2025-Y9000P-ULTRA-9-275HX-32GB-RAM--3-13",
@@ -2149,11 +6771,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070Ti Trắng",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "32GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 5",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5070Ti 12GB",
     "price": 78000000,
     "originalPrice": 82900000,
     "stock": 2,
@@ -2173,7 +6795,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/pAAOSqxmOlBBAdXnrFr5T4lb7-1066.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 5"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070Ti 12GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C (support 10Gbps data transfer, DP 2.1, PD 3.0), 1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1), 2x USB-A 3.2 5Gpbs, 1x USB-A 3.2 10Gpbs, 1x RJ45, 1x HDMI 2.1, 1x Combo Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "400W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.57 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9-26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-7-2025-Y9000P-ULTRA-9-275HX-32GB-RAM--3-14",
@@ -2181,11 +6873,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5080",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "32GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 5",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5080 16GB",
     "price": 81000000,
     "originalPrice": 90000000,
     "stock": 2,
@@ -2205,7 +6897,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-20.png"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 5"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5080 16GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C (support 10Gbps data transfer, DP 2.1, PD 3.0), 1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1), 2x USB-A 3.2 5Gpbs, 1x USB-A 3.2 10Gpbs, 1x RJ45, 1x HDMI 2.1, 1x Combo Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "400W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.57 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9-26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-7-2025-Y9000P-ULTRA-9-275HX-32GB-RAM--3-15",
@@ -2213,11 +6975,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5080 Trắng",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "32GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 5",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5080 16GB",
     "price": 82000000,
     "originalPrice": 90000000,
     "stock": 2,
@@ -2237,7 +6999,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/pAAOSqxmOlBBAdXnrFr5T4lb7-1066.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 5"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5080 16GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C (support 10Gbps data transfer, DP 2.1, PD 3.0), 1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1), 2x USB-A 3.2 5Gpbs, 1x USB-A 3.2 10Gpbs, 1x RJ45, 1x HDMI 2.1, 1x Combo Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "400W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.57 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9-26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-7-2025-Y9000P-ULTRA-9-275HX-64GB-RAM--3-16",
@@ -2245,11 +7077,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "64GB",
-    "storage": "2TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5090",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "64GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "2TB PCIe® NVMe™ M.2 SSD gen 5",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5090 24GB",
     "price": 97000000,
     "originalPrice": 120000000,
     "stock": 2,
@@ -2269,7 +7101,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-11.png"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "64GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "2TB PCIe® NVMe™ M.2 SSD gen 5"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5090 24GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C (support 10Gbps data transfer, DP 2.1, PD 3.0), 1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1), 2x USB-A 3.2 5Gpbs, 1x USB-A 3.2 10Gpbs, 1x RJ45, 1x HDMI 2.1, 1x Combo Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "400W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.57 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9-26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-PRO-7-2025-Y9000P-ULTRA-9-275HX-64GB-RAM--3-17",
@@ -2277,11 +7179,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "64GB",
-    "storage": "2TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5090 Trắng",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "64GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "2TB PCIe® NVMe™ M.2 SSD gen 5",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5090 24GB",
     "price": 101000000,
     "originalPrice": 120000000,
     "stock": 2,
@@ -2301,7 +7203,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/pAAOSqxmOlBBAdXnrFr5T4lb7-1066.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "64GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "2TB PCIe® NVMe™ M.2 SSD gen 5"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5090 24GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C (support 10Gbps data transfer, DP 2.1, PD 3.0), 1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1), 2x USB-A 3.2 5Gpbs, 1x USB-A 3.2 10Gpbs, 1x RJ45, 1x HDMI 2.1, 1x Combo Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "400W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.57 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "364.38 x 275.94 x 21.9-26.65 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-7-2025-Y9000X-ULTRA-9-275HX-32GB-RAM-1TB--3-18",
@@ -2309,11 +7281,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "32GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5060 8GB",
     "price": 52000000,
     "originalPrice": 70000000,
     "stock": 2,
@@ -2333,7 +7305,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
     "seoTitle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1,PD 3.0), 1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-A 3.2 5Gpbs, 1x USB-A 3.2 5Gpbs 5V/2A, 1x SD Card 4.0, 1x Combo Jack 3.5mm"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "245W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.98 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "15.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Có LED"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 84wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-7-2025-Y9000X-ULTRA-9-275HX-32GB-RAM-1TB--3-19",
@@ -2341,11 +7383,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5070",
+    "cpu": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)",
+    "ram": "32GB DDR5 6400MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care",
+    "gpu": "NVIDIA® GeForce® RTX 5070 8GB",
     "price": 57000000,
     "originalPrice": 70000000,
     "stock": 2,
@@ -2365,7 +7407,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-20.png"
     ],
     "seoTitle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DP Lab",
-    "seoDescription": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX (24 nhân 24 luồng, xung nhịp cơ bản 2.7GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 6400MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) OLED 0.08ms, 500nits, 240Hz, 100% DCI-P3, độ sáng tối đa có thể đạt 1100nits, Dolby Vision, HDR 1000 True Black, Free-Sync, G-Sync, DC dimmer, TÜV Rheinland, OLED Care"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce® RTX 5070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Thunderbolt 4 (support 40Gbps data transfer, DP 2.1,PD 3.0), 1x USB-C 10Gbps, support DP 2.1, PD 3.0, 1x USB-A 3.2 5Gpbs, 1x USB-A 3.2 5Gpbs 5V/2A, 1x SD Card 4.0, 1x Combo Jack 3.5mm"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "245W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.98 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "15.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Có LED"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 84wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-SLIM-5-R7000P-2024-R7-8845H-16GB-RAM-1TB--3-20",
@@ -2373,11 +7485,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "AMD Ryzen 7 8845H (8 nhân 16 luồng, xung nhịp cơ bản 3.8GHz có thể đạt tới 5.1GHz với turbo boost, 24MB Cache, TDP Default 45W (giao động 35w-54w)",
+    "ram": "16 GB DDR5 5600MHz(có thể nâng cấp) (thường là 16GB*1)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 2.5K+ (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 350nits, tần số quét 165Hz, 100% sRGB, tốc độ phản hồi hình ảnh 5ms tới 3ms, NVidia G-Sync, AMD FreeSync, DC dimmer, màn giảm ánh sáng xanh bảo vệ mắt công nghệ TÜV Rheinla",
+    "gpu": "AMD Radeon™ 780M và NVIDIA®GeForce® RTX™ 4060 8GB GDDR6 (140W)",
     "price": 25400000,
     "originalPrice": 31800000,
     "stock": 2,
@@ -2397,7 +7509,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-30.png"
     ],
     "seoTitle": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 8845H (8 nhân 16 luồng, xung nhịp cơ bản 3.8GHz có thể đạt tới 5.1GHz với turbo boost, 24MB Cache, TDP Default 45W (giao động 35w-54w)"
+      },
+      {
+        "label": "Ram",
+        "value": "16 GB DDR5 5600MHz(có thể nâng cấp) (thường là 16GB*1)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.5K+ (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, độ sáng 350nits, tần số quét 165Hz, 100% sRGB, tốc độ phản hồi hình ảnh 5ms tới 3ms, NVidia G-Sync, AMD FreeSync, DC dimmer, màn giảm ánh sáng xanh bảo vệ mắt công nghệ TÜV Rheinla"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 780M và NVIDIA®GeForce® RTX™ 4060 8GB GDDR6 (140W)"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x E-camera shutter, 1x SD card, 2x USB-A 3.2 Gen 2, 1x Jack 3.5mm, 1x RJ45 (mạng LAN), 1x HDMI 2.1, 1x power input, 1x USB-C (USB 3.2 gen 2 + DP 1.4 iGPU), 1x USB-C (USB 3.2 gen 2 + DP 1.4 iGPU + PD)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6E + Bluetooth"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.88 x 26.23 x 1.99-2.4cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "230w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.4kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2024"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-PRO-2024-R9000P-ARX8-RYZEN-9-7945HX-16G-3-21",
@@ -2405,11 +7587,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 7945HX 16GB RAM 1TB SSD RTX40",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX4060",
+    "cpu": "AMD Ryzen 9 7945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-110w)",
+    "ram": "16GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "AMD Radeon™ 610M + NVIDIA® GeForce® RTX 4060 8GB",
     "price": 32000000,
     "originalPrice": 36200000,
     "stock": 2,
@@ -2429,7 +7611,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-32.png"
     ],
     "seoTitle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 7945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-110w)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 610M + NVIDIA® GeForce® RTX 4060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C, 3x USB-A 3.2 Gen 1, 1x USB-A 3.2 Gen 1 (One Always On), 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.2"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "358mm*261mm*22mm – 26mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-PRO-2024-R9000P-ARX8-RYZEN-9-7945HX-16G-3-22",
@@ -2437,11 +7689,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 7945HX 16GB RAM 1TB SSD RTX40",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX4060 Trắng",
+    "cpu": "AMD Ryzen 9 7945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-110w)",
+    "ram": "16GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "AMD Radeon™ 610M + NVIDIA® GeForce® RTX 4060 8GB",
     "price": 33000000,
     "originalPrice": 36200000,
     "stock": 2,
@@ -2461,7 +7713,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/9-1-1.png"
     ],
     "seoTitle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 7945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-110w)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 610M + NVIDIA® GeForce® RTX 4060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C, 3x USB-A 3.2 Gen 1, 1x USB-A 3.2 Gen 1 (One Always On), 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.2"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "358mm*261mm*22mm – 26mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-PRO-2024-R9000P-RYZEN-9-7945HX-16GB-RAM-3-23",
@@ -2469,11 +7791,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 7945HX 16GB RAM 1TB SSD RTX40",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX4070",
+    "cpu": "AMD Ryzen 9 7945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-110w)",
+    "ram": "16GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "AMD Radeon™ 610M + NVIDIA® GeForce® RTX 4070 8GB",
     "price": 35000000,
     "originalPrice": 40200000,
     "stock": 2,
@@ -2493,7 +7815,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-34.png"
     ],
     "seoTitle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 7945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-110w)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 610M + NVIDIA® GeForce® RTX 4070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C, 3x USB-A 3.2 Gen 1, 1x USB-A 3.2 Gen 1 (One Always On), 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.2"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "358mm*261mm*22mm – 26mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-PRO-2024-R9000P-RYZEN-9-7945HX-16GB-RAM-3-24",
@@ -2501,11 +7893,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Ryzen 9 7945HX 16GB RAM 1TB SSD RTX40",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX4070 Trắng",
+    "cpu": "AMD Ryzen 9 7945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-110w)",
+    "ram": "16GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…",
+    "gpu": "AMD Radeon™ 610M + NVIDIA® GeForce® RTX 4070 8GB",
     "price": 34600000,
     "originalPrice": 40200000,
     "stock": 2,
@@ -2525,7 +7917,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/8-copy.png"
     ],
     "seoTitle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 7945HX (16 nhân 32 luồng, xung nhịp cơ bản 2.5GHz có thể đạt tới 5.4GHz đơn nhân với turbo boost, 16MB L2 Cache, 64MB L3 Cache, default TDP 55W-110w)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0″ WQXGA (2560×1600) IPS, 500nits, màn nhám, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer…"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 610M + NVIDIA® GeForce® RTX 4070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C, 3x USB-A 3.2 Gen 1, 1x USB-A 3.2 Gen 1 (One Always On), 1x RJ45, 1x HDMI 2.1, 1x Jack 3.5mm, 1x Power input"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.2"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.55 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "358mm*261mm*22mm – 26mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G7-2025-AMD-RYZEN-AI-7-H-260-RAM-32-3-25",
@@ -2533,11 +7995,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14.5\" 3K 120Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen AI 7 H 260 (8 nhân 16 luồng, xung nhịp cơ bản ~3.8GHz, tối đa có thể đạt ~5.1GHz, 8MB L2 Cache, 16MB L3 Cache, default TDP 28W, 4nm, Zen 5)",
+    "ram": "32GB LPDDR5x 7500MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)",
+    "gpu": "AMD Radeon™ 780M",
     "price": 25500000,
     "originalPrice": 29100000,
     "stock": 2,
@@ -2557,7 +8019,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-15-09.jpg"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 7 H 260 (8 nhân 16 luồng, xung nhịp cơ bản ~3.8GHz, tối đa có thể đạt ~5.1GHz, 8MB L2 Cache, 16MB L3 Cache, default TDP 28W, 4nm, Zen 5)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 7500MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 224 x 159mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell-85wh hỗ trợ sạc nhanh, củ sạc 100w GaN-C"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G7-2025-AMD-RYZEN-AI-7-H-260-RAM-32-3-26",
@@ -2565,11 +8097,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\"",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 3.2K 165Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen AI 7 H 260 (8 nhân 16 luồng, xung nhịp cơ bản ~3.8GHz, tối đa có thể đạt ~5.1GHz, 8MB L2 Cache, 16MB L3 Cache, default TDP 28W, 4nm, Zen 5)",
+    "ram": "32GB LPDDR5x 7500MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light",
+    "gpu": "AMD Radeon™ 780M",
     "price": 25000000,
     "originalPrice": 29200000,
     "stock": 2,
@@ -2589,7 +8121,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_7_2025-03-18_19-22-42.jpg"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 7 H 260 (8 nhân 16 luồng, xung nhịp cơ bản ~3.8GHz, tối đa có thể đạt ~5.1GHz, 8MB L2 Cache, 16MB L3 Cache, default TDP 28W, 4nm, Zen 5)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 7500MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / Mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16P-2025-R9-8945HX-16-32GB-RAM-1TB-SSD-3-27",
@@ -2597,11 +8199,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060 2.5K 240Hz",
+    "cpu": "Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost,16MB L2 Cache, 64MB L3 Cache)",
+    "ram": "16/32GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 2.5K (2560×1600) IPS, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light.",
+    "gpu": "NVIDIA GeForce RTX 5060 8GB GDDR7",
     "price": 39000000,
     "originalPrice": 40000000,
     "stock": 2,
@@ -2621,7 +8223,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost,16MB L2 Cache, 64MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16/32GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.5K (2560×1600) IPS, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA GeForce RTX 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On, 2x USB-C® (10Gbps), with USB PD 3.0 and DisplayPort™ 1.4, 1x HDMI® 2.1, up to 8K/60Hz, 1x Headphone / microphone combo jack (3.5mm), 1x SD card reader, 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD 1080p + IR Hybrid with Privacy Shutter"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.15 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "354 x 258 x 19.3 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4cell, 85wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16P-2025-R9-9955HX-32GB-RAM-1TB-SSD-RT-3-28",
@@ -2629,11 +8301,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060 2.5K 240Hz",
+    "cpu": "Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost,16MB L2 Cache, 64MB L3 Cache)",
+    "ram": "32GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 2.5K (2560×1600) IPS, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light.",
+    "gpu": "NVIDIA GeForce RTX 5060 8GB GDDR7",
     "price": 46500000,
     "originalPrice": 60000000,
     "stock": 2,
@@ -2653,7 +8325,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost,16MB L2 Cache, 64MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.5K (2560×1600) IPS, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA GeForce RTX 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On, 2x USB-C® (10Gbps), with USB PD 3.0 and DisplayPort™ 1.4, 1x HDMI® 2.1, up to 8K/60Hz, 1x Headphone / microphone combo jack (3.5mm), 1x SD card reader, 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD 1080p + IR Hybrid with Privacy Shutter"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.15 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "354 x 258 x 19.3 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4cell, 85wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16P-2025-R9-9955HX-32GB-RAM-1TB-SSD-RT-3-29",
@@ -2661,11 +8403,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070 2.5K 240Hz",
+    "cpu": "Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost,16MB L2 Cache, 64MB L3 Cache)",
+    "ram": "32GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 2.5K (2560×1600) IPS, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light.",
+    "gpu": "NVIDIA GeForce RTX 5070 8GB GDDR7",
     "price": 53000000,
     "originalPrice": 65000000,
     "stock": 2,
@@ -2685,7 +8427,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost,16MB L2 Cache, 64MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.5K (2560×1600) IPS, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA GeForce RTX 5070 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On, 2x USB-C® (10Gbps), with USB PD 3.0 and DisplayPort™ 1.4, 1x HDMI® 2.1, up to 8K/60Hz, 1x Headphone / microphone combo jack (3.5mm), 1x SD card reader, 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD 1080p + IR Hybrid with Privacy Shutter"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.15 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "354 x 258 x 19.3 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4cell, 85wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16P-2025-R9-8945HX-16GB-RAM-1TB-SSD-RT-3-30",
@@ -2693,11 +8505,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060 2.5K 165Hz",
+    "cpu": "Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost,16MB L2 Cache, 64MB L3 Cache)",
+    "ram": "16GB DDR5 5200MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 2.5K (2560×1600) IPS, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 350nits, tần số quét 165Hz, 100% sRGB, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light.",
+    "gpu": "NVIDIA GeForce RTX 5060 8GB GDDR7",
     "price": 38000000,
     "originalPrice": 45000000,
     "stock": 2,
@@ -2717,7 +8529,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen 9 8945HX (16 nhân 32 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost,16MB L2 Cache, 64MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5200MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.5K (2560×1600) IPS, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 350nits, tần số quét 165Hz, 100% sRGB, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA GeForce RTX 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On, 2x USB-C® (100Gbps), with USB PD 3.0 and DisplayPort™ 1.4, 1x HDMI® 2.1, up to 8K/60Hz, 1x Headphone / microphone combo jack (3.5mm), 1x SD card reader, 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD 1080p + IR Hybrid with Privacy Shutter"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.15 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "354 x 258 x 19.3 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4cell, 85wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16P-2025-ULTRA-7-255HX-16-32GB-RAM-1TB-3-31",
@@ -2725,11 +8607,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060 2.5K 240Hz",
+    "cpu": "Intel Core Ultra 7 255HX (20 nhân 20 luồng, xung nhịp có thể đạt tối đa 5.2GHz với Turbo boost, 30MB Cache)",
+    "ram": "16/32GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 2.5K (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light.",
+    "gpu": "NVIDIA Geforce RTX 5060 8GB",
     "price": 40000000,
     "originalPrice": 42500000,
     "stock": 2,
@@ -2749,7 +8631,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/rYNpYNmA5j3U6Q6RaZFsWbcgK-4822.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core Ultra 7 255HX (20 nhân 20 luồng, xung nhịp có thể đạt tối đa 5.2GHz với Turbo boost, 30MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16/32GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.5K (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA Geforce RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On, 2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1, 1x HDMI® 2.1, up to 8K/60Hz, 1x Headphone / microphone combo jack (3.5mm), 1x SD card reader, 1x Magic Bay (pogo pin connector), 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD 1080p + IR Hybrid with Privacy Shutter"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.15 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "354 x 258 x 19.3 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4cell, 85wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16P-2025-ULTRA-9-275HX-32GB-RAM-1TB-SS-3-32",
@@ -2757,11 +8709,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Intel Core Ultra 9 275HX (24 nhân 24 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost, 36MB Cache)",
+    "ram": "32GB(16+16) DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 2.5K (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light. 16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light.",
+    "gpu": "NVIDIA Geforce RTX 5060 8GB",
     "price": 46000000,
     "originalPrice": 48000000,
     "stock": 2,
@@ -2781,7 +8733,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/rYNpYNmA5j3U6Q6RaZFsWbcgK-4822.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core Ultra 9 275HX (24 nhân 24 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB(16+16) DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.5K (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light. 16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA Geforce RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On, 2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1, 1x HDMI® 2.1, up to 8K/60Hz, 1x Headphone / microphone combo jack (3.5mm), 1x SD card reader, 1x Magic Bay (pogo pin connector), 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD 1080p + IR Hybrid with Privacy Shutter"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.15 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "354 x 258 x 19.3 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4cell, 85wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16P-2025-ULTRA-9-275HX-32GB-RAM-1TB-SS-3-33",
@@ -2789,11 +8811,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070",
+    "cpu": "Intel Core Ultra 9 275HX (24 nhân 24 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost, 36MB Cache)",
+    "ram": "32GB(16+16) DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 2.5K (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light. 16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light.",
+    "gpu": "NVIDIA Geforce RTX 5070 8GB",
     "price": 52500000,
     "originalPrice": 53500000,
     "stock": 2,
@@ -2813,7 +8835,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/rYNpYNmA5j3U6Q6RaZFsWbcgK-4822.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core Ultra 9 275HX (24 nhân 24 luồng, xung nhịp có thể đạt tối đa 5.4GHz với Turbo boost, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB(16+16) DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.5K (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 240Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light. 16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA Geforce RTX 5070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On, 2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1, 1x HDMI® 2.1, up to 8K/60Hz, 1x Headphone / microphone combo jack (3.5mm), 1x SD card reader, 1x Magic Bay (pogo pin connector), 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD 1080p + IR Hybrid with Privacy Shutter"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.15 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "354 x 258 x 19.3 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4cell, 85wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16P-G5-2024-I7-14650HX-16-32GB-RAM-1TB-3-34",
@@ -2821,11 +8913,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "Intel Core i7 14650HX (16 nhân 24 luồng, xung nhịp có thể đạt tối đa 5.2GHz với Turbo boost, 30MB Intel® Smart Cache)",
+    "ram": "16/32GB DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 430nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light.",
+    "gpu": "Intel® UHD graphics + NVIDIA Geforce RTX 4060",
     "price": 32000000,
     "originalPrice": 36500000,
     "stock": 2,
@@ -2845,7 +8937,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-15.png"
     ],
     "seoTitle": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7 14650HX (16 nhân 24 luồng, xung nhịp có thể đạt tối đa 5.2GHz với Turbo boost, 30MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16/32GB DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 430nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® UHD graphics + NVIDIA Geforce RTX 4060"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On, 2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 1.4, 1x HDMI® 2.1, up to 8K/60Hz, 1x Headphone / microphone combo jack (3.5mm), 1x SD card reader, 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi® 6, Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD 1080p + IR Hybrid with Privacy Shutter"
+      },
+      {
+        "label": "Công nghệ mới",
+        "value": "AI Chip: LA3, Modern Standby"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4 x 25.8 x 1.99 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4cell, 80wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-X-AI-2025-ULTRA-5-225H-32GB-RAM-1TB-SS-3-35",
@@ -2853,11 +9019,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 5 225H (14 nhân, 14 luồng, xung nhịp có thể đạt tới 4.9 GHz với turbo boost, 18 MB Intel® Smart Cache)",
+    "ram": "32GB LPDDR5x 8400MHz (không thể nâng cấp)",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "13.5″, 2.8K (2880×1920), IPS, màn nhám, Non-Touch/Touch Screen Option, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe® Certified và TUV Rheinland,",
+    "gpu": "Intel® Arc™ 130T",
     "price": 29500000,
     "originalPrice": 30500000,
     "stock": 2,
@@ -2877,7 +9043,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/8wvVBz7xfnT4Cw1Erkj9srn8V-4833.jpg"
     ],
     "seoTitle": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 5 225H (14 nhân, 14 luồng, xung nhịp có thể đạt tới 4.9 GHz với turbo boost, 18 MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8400MHz (không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.5″, 2.8K (2880×1920), IPS, màn nhám, Non-Touch/Touch Screen Option, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe® Certified và TUV Rheinland,"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 130T"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Headphone / microphone combo jack (3.5mm), 3x Thunderbolt 4(USB 3.2 Gen 2), with DisplayPort 1.4"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR Camera, có bảo mật vân tay, hỗ trợ TOF"
+      },
+      {
+        "label": "Sạc",
+        "value": "65W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.14 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "29.4×20.5×1.29cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell, 74Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-X-AI-2025-ULTRA-9-285H-32GB-RAM-1TB-SS-3-36",
@@ -2885,11 +9121,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 9 285H (16 nhân, 16 luồng, xung nhịp có thể đạt tới 5.4 GHz với turbo boost, 24 MB Intel® Smart Cache)",
+    "ram": "32GB LPDDR5x 8400MHz (không thể nâng cấp)",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "13.5″, 2.8K (2880×1920), IPS, màn nhám, Non-Touch/Touch Screen Option, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe® Certified và TUV Rheinland,",
+    "gpu": "Intel® Arc™ 140T",
     "price": 32000000,
     "originalPrice": 33200000,
     "stock": 2,
@@ -2909,7 +9145,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/8wvVBz7xfnT4Cw1Erkj9srn8V-4833.jpg"
     ],
     "seoTitle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 9 285H (16 nhân, 16 luồng, xung nhịp có thể đạt tới 5.4 GHz với turbo boost, 24 MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8400MHz (không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.5″, 2.8K (2880×1920), IPS, màn nhám, Non-Touch/Touch Screen Option, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe® Certified và TUV Rheinland,"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 140T"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Headphone / microphone combo jack (3.5mm), 3x Thunderbolt 4(USB 3.2 Gen 2), with DisplayPort 1.4"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR Camera, có bảo mật vân tay, hỗ trợ TOF"
+      },
+      {
+        "label": "Sạc",
+        "value": "65W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.14 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "29.4×20.5×1.29cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell, 74Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-X-AI-2025-ULTRA-9-285H-32GB-RAM-1TB-SS-3-37",
@@ -2917,11 +9223,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 9 285H (16 nhân, 16 luồng, xung nhịp có thể đạt tới 5.4 GHz với turbo boost, 24 MB Intel® Smart Cache)",
+    "ram": "32GB LPDDR5x 8400MHz (không thể nâng cấp)",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "13.5″, 2.8K (2880×1920), IPS, màn nhám không cảm ứng, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe® Certified và TUV Rheinland,",
+    "gpu": "Intel® Arc™ 140T",
     "price": 36500000,
     "originalPrice": 45000000,
     "stock": 2,
@@ -2941,7 +9247,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
     "seoTitle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 9 285H (16 nhân, 16 luồng, xung nhịp có thể đạt tới 5.4 GHz với turbo boost, 24 MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8400MHz (không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.5″, 2.8K (2880×1920), IPS, màn nhám không cảm ứng, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe® Certified và TUV Rheinland,"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 140T"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Headphone / microphone combo jack (3.5mm), 3x Thunderbolt 4(USB 3.2 Gen 2), with DisplayPort 1.4"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR Camera, có bảo mật vân tay, hỗ trợ TOF"
+      },
+      {
+        "label": "Sạc",
+        "value": "65W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.14 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "29.4×20.5×1.29cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell, 74Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Magie"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G7-2025-AI-9-365-RAM-32GB-SSD-1TB-3-38",
@@ -2949,11 +9325,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen AI 9-365 (10 nhân 20 luồng, xung nhịp cơ bản ~2GHz, tối đa có thể đạt ~5GHz, 10MB L2 Cache, 24MB L3 Cache, default TDP 28W, 4nm, Zen 5)",
+    "ram": "32GB LPDDR5x 7500MHz",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 430nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light.",
+    "gpu": "AMD Radeon™ 880M",
     "price": 25800000,
     "originalPrice": 27100000,
     "stock": 2,
@@ -2973,7 +9349,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-9.png"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9-365 (10 nhân 20 luồng, xung nhịp cơ bản ~2GHz, tối đa có thể đạt ~5GHz, 10MB L2 Cache, 24MB L3 Cache, default TDP 28W, 4nm, Zen 5)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 7500MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 430nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 880M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 224 x 159mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G7-2025-AI-9-365-RAM-32GB-SSD-1TB-3-39",
@@ -2981,11 +9427,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen AI 9-365 (10 nhân 20 luồng, xung nhịp cơ bản ~2GHz, tối đa có thể đạt ~5GHz, 10MB L2 Cache, 24MB L3 Cache, default TDP 28W, 4nm, Zen 5)",
+    "ram": "32GB LPDDR5x 7500MHz",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 400nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light.",
+    "gpu": "AMD Radeon™ 880M",
     "price": 26490000,
     "originalPrice": 27200000,
     "stock": 2,
@@ -3005,7 +9451,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-10.png"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9-365 (10 nhân 20 luồng, xung nhịp cơ bản ~2GHz, tối đa có thể đạt ~5GHz, 10MB L2 Cache, 24MB L3 Cache, default TDP 28W, 4nm, Zen 5)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 7500MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng 400nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light."
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 880M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G7-2025-AMD-RYZEN-AI-7-H-350-RAM-32-4-0",
@@ -3013,11 +9529,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14.5\" 3K 120Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen AI 7 H 350 (8 nhân 16 luồng, xung nhịp cơ bản ~2GHz, tối đa có thể đạt ~5GHz, 8MB L2 Cache, 16MB L3 Cache, default TDP 28W, 4nm, Zen 5)",
+    "ram": "32GB LPDDR5x 8000MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)",
+    "gpu": "AMD Radeon™ 860M",
     "price": 27900000,
     "originalPrice": 29100000,
     "stock": 2,
@@ -3037,7 +9553,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-15-09.jpg"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 7 H 350 (8 nhân 16 luồng, xung nhịp cơ bản ~2GHz, tối đa có thể đạt ~5GHz, 8MB L2 Cache, 16MB L3 Cache, default TDP 28W, 4nm, Zen 5)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8000MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 860M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 224 x 159mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell-85wh hỗ trợ sạc nhanh, củ sạc 100w GaN-C"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G7-2025-AMD-RYZEN-AI-7-H-350-RAM-32-4-1",
@@ -3045,11 +9631,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\"",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 3.2K 165Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen AI 7 H 350 (8 nhân 16 luồng, xung nhịp cơ bản ~2GHz, tối đa có thể đạt ~5GHz, 8MB L2 Cache, 16MB L3 Cache, default TDP 28W, 4nm, Zen 5)",
+    "ram": "32GB LPDDR5x 8000MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light",
+    "gpu": "AMD Radeon™ 860M",
     "price": 23800000,
     "originalPrice": 29200000,
     "stock": 2,
@@ -3069,7 +9655,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_7_2025-03-18_19-22-42.jpg"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 7 H 350 (8 nhân 16 luồng, xung nhịp cơ bản ~2GHz, tối đa có thể đạt ~5GHz, 8MB L2 Cache, 16MB L3 Cache, default TDP 28W, 4nm, Zen 5)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8000MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, NVIDIA® G-SYNC®, TÜV Low Blue Light"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 860M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / Mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G7-2025-INTEL-ULTRA-5-225H-RAM-32GB-4-2",
@@ -3077,11 +9733,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Intel Ultra 5 225H RAM 32GB SSD 1TB 1",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14.5\" 3K 120Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Ultra 5 225H (14 nhân 14 luồng, tối đa có thể đạt ~4.9GHz, 18M Cache)",
+    "ram": "32GB LPDDR5x 8533MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)",
+    "gpu": "Intel® Arc™ 130T",
     "price": 27000000,
     "originalPrice": 29100000,
     "stock": 2,
@@ -3101,7 +9757,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 5 225H (14 nhân 14 luồng, tối đa có thể đạt ~4.9GHz, 18M Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 130T"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C Thunderbolt, 1x HDMI 2.1,, 2x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x TGX Port,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 224 x 159mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell-85wh hỗ trợ sạc nhanh, củ sạc 100w GaN-C"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G7-2025-INTEL-ULTRA-5-225H-RAM-32GB-4-3",
@@ -3109,11 +9835,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Intel Ultra 5 225H RAM 32GB SSD 1TB 1",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 3.2K 165Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 5 225H (14 nhân 14 luồng, xung nhịp tối đa có thể đạt P-core 4.9GHz / E-core 4.3GHz, 18 MB Intel® Smart Cache) Intel AI Boost",
+    "ram": "32GB DDR5x 56000MHz",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light",
+    "gpu": "Intel® Arc™ 130T GPU",
     "price": 27700000,
     "originalPrice": 29200000,
     "stock": 2,
@@ -3133,7 +9859,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-21.png"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 5 225H (14 nhân 14 luồng, xung nhịp tối đa có thể đạt P-core 4.9GHz / E-core 4.3GHz, 18 MB Intel® Smart Cache) Intel AI Boost"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5x 56000MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 130T GPU"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x Thunderbolt 4, 1x HDMI 2.1,, 2x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x TGX Port,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G7-2025-INTEL-ULTRA-5-225H-RAM-32GB-4-4",
@@ -3141,11 +9937,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Intel Ultra 5 225H RAM 32GB SSD 1TB R",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 3.2K 165Hz",
-    "gpu": "RTX 5050 16\" 3.2K 165Hz",
+    "cpu": "Intel® Core™ Ultra 5 225H (14 nhân 14 luồng, xung nhịp tối đa có thể đạt P-core 4.9GHz / E-core 4.3GHz, 18 MB Intel® Smart Cache) Intel AI Boost",
+    "ram": "32GB LPDDR5x 56000MHz, có thể thay thế",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light",
+    "gpu": "Intel® Arc™ 130T và Nvidia GeForce RTX 5050 8GB GDDR7",
     "price": 34000000,
     "originalPrice": 40000000,
     "stock": 2,
@@ -3165,7 +9961,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-7.png"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 5 225H (14 nhân 14 luồng, xung nhịp tối đa có thể đạt P-core 4.9GHz / E-core 4.3GHz, 18 MB Intel® Smart Cache) Intel AI Boost"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 56000MHz, có thể thay thế"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 130T và Nvidia GeForce RTX 5050 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x Thunderbolt 4, 1x HDMI 2.1,, 2x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x TGX Port,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G7-2025-INTEL-ULTRA-7-255H-RAM-32GB-4-5",
@@ -3173,11 +10039,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Intel Ultra 7 255H RAM 32GB SSD 1TB 1",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14.5\" 3K 120Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Ultra 7 255H (16 nhân 16 luồng, tối đa có thể đạt ~5.1GHz, 24M Cache)",
+    "ram": "32GB LPDDR5x 8533MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)",
+    "gpu": "Intel® Arc™ 140T",
     "price": 32000000,
     "originalPrice": 39100000,
     "stock": 2,
@@ -3197,7 +10063,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 7 255H (16 nhân 16 luồng, tối đa có thể đạt ~5.1GHz, 24M Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 140T"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C Thunderbolt, 1x HDMI 2.1,, 2x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x TGX Port,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera, Hỗ Trợ TOF"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 224 x 159mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell-85wh hỗ trợ sạc nhanh, củ sạc 100w GaN-C"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G7-2025-INTEL-ULTRA-7-255H-RAM-32GB-4-6",
@@ -3205,11 +10141,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Intel Ultra 7 255H RAM 32GB SSD 1TB 1",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 3.2K 165Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 7 255H (16 nhân 16 luồng, xung nhịp tối đa có thể đạt 5.1GHz, 24 MB Intel® Smart Cache) Intel AI Boost",
+    "ram": "32GB DDR5 56000MHz, có thể thay thế",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light",
+    "gpu": "Intel® Arc™ 140T GPU",
     "price": 32000000,
     "originalPrice": 39000000,
     "stock": 2,
@@ -3229,7 +10165,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-14.png"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 7 255H (16 nhân 16 luồng, xung nhịp tối đa có thể đạt 5.1GHz, 24 MB Intel® Smart Cache) Intel AI Boost"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 56000MHz, có thể thay thế"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 140T GPU"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x Thunderbolt 4, 1x HDMI 2.1,, 2x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x TGX Port,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera, Hỗ Trợ TOF"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G7-2025-INTEL-ULTRA-7-255H-RAM-32GB-4-8",
@@ -3237,11 +10243,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Intel Ultra 7 255H RAM 32GB SSD 1TB R",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 3.2K 165Hz Forcepad",
-    "gpu": "RTX 5060 16\" 3.2K 165Hz Forc",
+    "cpu": "Intel® Core™ Ultra 7 255H (16 nhân 16 luồng, xung nhịp tối đa có thể đạt 5.1GHz, 24 MB Intel® Smart Cache) Intel AI Boost",
+    "ram": "32GB DDR5 56000MHz, có thể thay thế",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light",
+    "gpu": "Intel® Arc™ 140T GPU, NVIDIA Geforce RTX 5060 8GB GDDR7",
     "price": 36600000,
     "originalPrice": 45000000,
     "stock": 2,
@@ -3261,7 +10267,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/rudFD9xRn75B9CJsnIw0gZvn2-3465.jpg"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 7 255H (16 nhân 16 luồng, xung nhịp tối đa có thể đạt 5.1GHz, 24 MB Intel® Smart Cache) Intel AI Boost"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 56000MHz, có thể thay thế"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 140T GPU, NVIDIA Geforce RTX 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C 10Gpbs, 1x Thunderbolt 4, 1x HDMI 2.1, 2x USB 3.2 Gen 1 Type-A, 1x Headphone / mic combo 3.5, 1x RJ45, 1x TGX Port, 1x SD Card, 1x USB 2.0 Type-A, 1x Power Port"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera, Hỗ Trợ TOF"
+      },
+      {
+        "label": "Sạc",
+        "value": "230W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G7-2025-INTEL-ULTRA-9-285H-RAM-32GB-4-9",
@@ -3269,11 +10345,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Intel Ultra 9 285H RAM 32GB SSD 1TB 1",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14.5\" 3K 120Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Ultra 9 285H (16 nhân 16 luồng, tối đa có thể đạt ~5.4GHz, 24M Cache)",
+    "ram": "32GB LPDDR5x 8533MHz, onboard",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)",
+    "gpu": "Intel® Arc™ 140T",
     "price": 33000000,
     "originalPrice": 40000000,
     "stock": 2,
@@ -3293,7 +10369,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-6.png"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 285H (16 nhân 16 luồng, tối đa có thể đạt ~5.4GHz, 24M Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz, onboard"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 120Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light. (các thông số này công bố trên trang của chính hãng)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 140T"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C Thunderbolt, 1x HDMI 2.1,, 2x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x TGX Port,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera, Hỗ Trợ TOF"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 224 x 159mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell-85wh hỗ trợ sạc nhanh, củ sạc 100w GaN-C"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G7-2025-INTEL-ULTRA-9-285H-RAM-32GB-4-10",
@@ -3301,11 +10447,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Intel Ultra 9 285H RAM 32GB SSD 1TB 1",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 3.2K 165Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 9 285H (16 nhân 16 luồng, xung nhịp tối đa có thể đạt 5.4GHz, 24 MB Intel® Smart Cache) Intel AI Boost",
+    "ram": "32GB DDR5 56000MHz, có thể thay thế",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light",
+    "gpu": "Intel® Arc™ 140T GPU",
     "price": 33000000,
     "originalPrice": 45000000,
     "stock": 2,
@@ -3325,7 +10471,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-1.png"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 9 285H (16 nhân 16 luồng, xung nhịp tối đa có thể đạt 5.4GHz, 24 MB Intel® Smart Cache) Intel AI Boost"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 56000MHz, có thể thay thế"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 140T GPU"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x Thunderbolt 4, 1x HDMI 2.1,, 2x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x TGX Port,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera, Hỗ Trợ TOF"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G7-2025-INTEL-ULTRA-9-285H-RAM-32GB-4-11",
@@ -3333,11 +10549,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Gaming",
-    "cpu": "Intel Ultra 9 285H RAM 32GB SSD 1TB R",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 3.2K 165Hz Forcepad",
-    "gpu": "RTX 5060 16\" 3.2K 165Hz Forc",
+    "cpu": "Intel® Core™ Ultra 9 285H (16 nhân 16 luồng, xung nhịp tối đa có thể đạt 5.4GHz, 24 MB Intel® Smart Cache) Intel AI Boost",
+    "ram": "32GB DDR5 56000MHz, có thể thay thế",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD",
+    "display": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light",
+    "gpu": "Intel® Arc™ 140T GPU, NVIDIA Geforce RTX 5060 8GB GDDR7",
     "price": 38500000,
     "originalPrice": 55000000,
     "stock": 2,
@@ -3357,7 +10573,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/coRXw2n3ylXvFbFq5N8wPfKxJ-3583.jpg"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 9 285H (16 nhân 16 luồng, xung nhịp tối đa có thể đạt 5.4GHz, 24 MB Intel® Smart Cache) Intel AI Boost"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 56000MHz, có thể thay thế"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200×2000) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ tương phản 1200:1, độ sáng ~500nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <1, Dolby® Vison, TÜV Low Blue Light"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 140T GPU, NVIDIA Geforce RTX 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C 10Gpbs, 1x Thunderbolt 4, 1x HDMI 2.1, 2x USB 3.2 Gen 1 Type-A, 1x Headphone / mic combo 3.5, 1x RJ45, 1x TGX Port, 1x SD Card, 1x USB 2.0 Type-A, 1x Power Port"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-X-AI-2024-ULTRA-5-125H-16GB-RAM-1TB-SS-4-12",
@@ -3365,11 +10651,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Core Ultra 5-125H (14 nhân 18 luồng, xung nhịp tối đa với Turbo Boost tới 4.5GHz, 18 MB Intel® Smart Cache), chuẩn Intel",
+    "ram": "16GB LPDDR5x 8400MHz (không thể nâng cấp)",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "13.5″, 2.8K (2880×1920), IPS, màn nhám không cảm ứng, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe® Certified và TUV Rheinland",
+    "gpu": "Intel® Arc™ graphics",
     "price": 23900000,
     "originalPrice": 28500000,
     "stock": 2,
@@ -3389,7 +10675,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-19.png"
     ],
     "seoTitle": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core Ultra 5-125H (14 nhân 18 luồng, xung nhịp tối đa với Turbo Boost tới 4.5GHz, 18 MB Intel® Smart Cache), chuẩn Intel"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5x 8400MHz (không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.5″, 2.8K (2880×1920), IPS, màn nhám không cảm ứng, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe® Certified và TUV Rheinland"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Headphone / microphone combo jack (3.5mm), 3x Thunderbolt 4(USB 3.2 Gen 2), with DisplayPort 1.4"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR Camera, có bảo mật vân tay"
+      },
+      {
+        "label": "Sạc",
+        "value": "65W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.14 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "29.4×20.5×1.29cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell, 74Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-X-AI-2024-ULTRA-9-185H-32GB-RAM-1TB-SS-4-13",
@@ -3397,11 +10753,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 9 185H (16 nhân, 22 luồng, xung nhịp có thể đạt tới 5.1 GHz với turbo boost, 24 MB Intel® Smart Cache)",
+    "ram": "32GB LPDDR5x 8400MHz (không thể nâng cấp)",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "13.5″, 2.8K (2880×1920), IPS, màn nhám không cảm ứng, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe® Certified và TUV Rheinland",
+    "gpu": "Intel® Arc™ graphics",
     "price": 27900000,
     "originalPrice": 32500000,
     "stock": 2,
@@ -3421,7 +10777,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/3-11.png"
     ],
     "seoTitle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 9 185H (16 nhân, 22 luồng, xung nhịp có thể đạt tới 5.1 GHz với turbo boost, 24 MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8400MHz (không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.5″, 2.8K (2880×1920), IPS, màn nhám không cảm ứng, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe® Certified và TUV Rheinland"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Headphone / microphone combo jack (3.5mm), 3x Thunderbolt 4(USB 3.2 Gen 2), with DisplayPort 1.4"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR Camera, có bảo mật vân tay"
+      },
+      {
+        "label": "Sạc",
+        "value": "65W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.14 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "29.4×20.5×1.29cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell, 74Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-X-AI-2024-ULTRA-9-185H-32GB-RAM-1TB-SS-4-14",
@@ -3429,11 +10855,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 9 185H (16 nhân, 22 luồng, xung nhịp có thể đạt tới 5.1 GHz với turbo boost, 24 MB Intel® Smart Cache)",
+    "ram": "32GB LPDDR5x 8400MHz (không thể nâng cấp)",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "13.5 inchs, 2.8K (2880×1920), IPS, màn gương có cảm ứng, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe®",
+    "gpu": "Intel® Arc™ graphics",
     "price": 29300000,
     "originalPrice": 34500000,
     "stock": 2,
@@ -3453,7 +10879,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5.png"
     ],
     "seoTitle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 9 185H (16 nhân, 22 luồng, xung nhịp có thể đạt tới 5.1 GHz với turbo boost, 24 MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8400MHz (không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.5 inchs, 2.8K (2880×1920), IPS, màn gương có cảm ứng, độ sáng lên tới 500nits, tần số 120Hz, tỷ lệ khung hình 3:2, độ phủ màu 100%sRGB, hỗ trợ HDR400, chứng chỉ màn hình giảm ánh sáng xanh bảo vệ mắt Eyesafe®"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Headphone / microphone combo jack (3.5mm), 3x Thunderbolt 4(USB 3.2 Gen 2), with DisplayPort 1.4"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR Camera, có bảo mật vân tay"
+      },
+      {
+        "label": "Sạc",
+        "value": "65W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.14 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "29.4×20.5×1.29cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, có led phím"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell, 74Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-360-AI-YOGA-7-2-IN-1-2025-ULTRA-7-25-4-15",
@@ -3461,11 +10957,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Đồ họa",
-    "cpu": "Ultra 7 258V 32GB RAM 1TB SSD 14 inch",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14 inch 2.8K OLED 120Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra 7 258V",
+    "ram": "32 GB LPDDR5x 8533MHz(không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ 2.8K 120Hz 16:10 OLED, 500nits, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, HDR True Black 1000, cảm ứng,độ sáng tối đa đạt 1100nits, có bút viết",
+    "gpu": "Intel Arc Graphics 140V",
     "price": 34500000,
     "originalPrice": 40000000,
     "stock": 2,
@@ -3485,7 +10981,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/gM44TzqBf3HLU2RuM4tyHk5Au-3752.jpg"
     ],
     "seoTitle": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 7 258V"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x 8533MHz(không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2.8K 120Hz 16:10 OLED, 500nits, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, HDR True Black 1000, cảm ứng,độ sáng tối đa đạt 1100nits, có bút viết"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics 140V"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-A 3.2 Gen 1, 2x USB-C® Thunderbolt 4, 1x microSD, 1x HDMI 2.1, 1x Headphone / microphone combo jack (3.5mm)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "65 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.38 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "317 x 228 x 15.45 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "70 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G6-2024-ULTRA-7-155H-32GB-RAM-1TB-S-4-16",
@@ -3493,11 +11059,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Core Ultra 7 155H (16-core/22-thread, 24MB Intel Smart Cache, 4.8 GHz)",
+    "ram": "32GB LPDDR5x-7647MHz",
+    "storage": "1TB PCIe NVMe M.2 SSD",
+    "display": "14.5 inchs, 3K (3072 x 1920) IPS,LED, độ sáng 400nits, tỷ lệ khung hình 16:10, viền mảnh micro-edge, độ phủ màu 100% dci-p3, tần số quét màn 120Hz, màn có chứng nhận EyeSafe TÜV RHEINLAND, giảm ánh sáng xanh bảo vệ mắt), 120Hz, 100% sRGB",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 24100000,
     "originalPrice": 27900000,
     "stock": 2,
@@ -3517,7 +11083,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-2.png"
     ],
     "seoTitle": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core Ultra 7 155H (16-core/22-thread, 24MB Intel Smart Cache, 4.8 GHz)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x-7647MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5 inchs, 3K (3072 x 1920) IPS,LED, độ sáng 400nits, tỷ lệ khung hình 16:10, viền mảnh micro-edge, độ phủ màu 100% dci-p3, tần số quét màn 120Hz, màn có chứng nhận EyeSafe TÜV RHEINLAND, giảm ánh sáng xanh bảo vệ mắt), 120Hz, 100% sRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C,, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x Micro SD,, 1x USB 2.0 Type-A, 1x TGX"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Công nghệ mới",
+        "value": "Haptic Touchpads, bảo mật vân tay"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 224 x 15.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G6-2024-ULTRA-7-155H-32GB-RAM-1TB-S-4-17",
@@ -3525,11 +11165,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Core Ultra 7 155H (16-core/22-thread, 24MB Intel Smart Cache, 4.8 GHz)",
+    "ram": "32GB DDR5 5600Mhz (có thể nâng cấp)",
+    "storage": "1TB PCIe NVMe M.2 SSD",
+    "display": "16 inch, 2.5K (2560 x 1600), 120Hz, 100% sRGB",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 23800000,
     "originalPrice": 27500000,
     "stock": 2,
@@ -3549,7 +11189,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-3.png"
     ],
     "seoTitle": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core Ultra 7 155H (16-core/22-thread, 24MB Intel Smart Cache, 4.8 GHz)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5600Mhz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16 inch, 2.5K (2560 x 1600), 120Hz, 100% sRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C,, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD,, 1x USB 2.0 Type-A, 1x TGX"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Công nghệ mới",
+        "value": "Haptic Touchpads, bảo mật vân tay"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G6-2024-R7-8845H-32GB-RAM-1TB-SSD-4-18",
@@ -3557,11 +11271,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Ryzen 7 8845H (3.8 GHz up to 5.1 GHz, 8 Cores, 16 Threads, 16MB Cache)",
+    "ram": "32GB LPDDR5X 7500Mhz",
+    "storage": "1TB PCIe NVMe M.2 SSD",
+    "display": "14.5 inch, 3K, 120Hz, 100% sRGB, 16:10",
+    "gpu": "AMD Radeon 780M",
     "price": 20300000,
     "originalPrice": 22900000,
     "stock": 2,
@@ -3581,7 +11295,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/3-4.png"
     ],
     "seoTitle": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen 7 8845H (3.8 GHz up to 5.1 GHz, 8 Cores, 16 Threads, 16MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X 7500Mhz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5 inch, 3K, 120Hz, 100% sRGB, 16:10"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C,, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x Micro SD,, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "322 x 228 x 15.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-360-AURA-AI-YOGA-9-2-IN-1-2025-ULTRA-4-19",
@@ -3589,11 +11373,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Đồ họa",
-    "cpu": "Ultra 7 258V 32GB RAM 1TB SSD 14 inch",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14 inch 2.8K OLED 120Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra 7 258V",
+    "ram": "32 GB LPDDR5x 8533MHz(không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ 2.8K 120Hz 16:10 OLED, 500nits, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, HDR True Black 1000, cảm ứng,độ sáng tối đa đạt 1100nits, có bút viết",
+    "gpu": "Intel Arc Graphics 140V",
     "price": 41500000,
     "originalPrice": 55000000,
     "stock": 2,
@@ -3613,7 +11397,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/zSMtzXNkvwPiHGkoF8QHBRHKI-2345.jpg"
     ],
     "seoTitle": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 7 258V"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x 8533MHz(không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2.8K 120Hz 16:10 OLED, 500nits, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, HDR True Black 1000, cảm ứng,độ sáng tối đa đạt 1100nits, có bút viết"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics 140V"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x Type-C USB4® 20Gbps, PD3.0, DP1.4, 2x USB-C® Thunderbolt 4, 1x USB-A 10Gbps Always On, 1x HDMI 2.1, 1x Headphone / microphone combo jack (3.5mm)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "65 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.32 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "317 x 228 x 15.45 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "75 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G6-2024-R7-8845H-32GB-RAM-1TB-SSD-4-20",
@@ -3621,11 +11475,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Ryzen 7 8845H (3.8 GHz up to 5.1 GHz, 8 Cores, 16 Threads, 16MB Cache)",
+    "ram": "32GB LPDDR5X 7500Mhz",
+    "storage": "1TB PCIe NVMe M.2 SSD",
+    "display": "16 inch, 2.5K (2560 x 1600), 120Hz, 100% sRGB",
+    "gpu": "AMD Radeon 780M",
     "price": 20200000,
     "originalPrice": 22600000,
     "stock": 2,
@@ -3645,7 +11499,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-5.png"
     ],
     "seoTitle": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen 7 8845H (3.8 GHz up to 5.1 GHz, 8 Cores, 16 Threads, 16MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X 7500Mhz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16 inch, 2.5K (2560 x 1600), 120Hz, 100% sRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C,, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G6-2024-R7-8745H-24GB-RAM-512GB-SSD-4-21",
@@ -3653,11 +11577,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "24GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Ryzen 7 8745H (3.8 GHz up to 4.9 GHz, 8 Cores, 16 Threads, 16MB Cache, 4nm)",
+    "ram": "24GB LPDDR5X 7500MHz",
+    "storage": "512GB PCIe NVMe M.2 SSD",
+    "display": "14.5 inch, 3K, 120Hz, 100% sRGB, 16:10, TUV eyesafe",
+    "gpu": "AMD Radeon 780M",
     "price": 18800000,
     "originalPrice": 19990000,
     "stock": 2,
@@ -3677,7 +11601,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-13.png"
     ],
     "seoTitle": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen 7 8745H (3.8 GHz up to 4.9 GHz, 8 Cores, 16 Threads, 16MB Cache, 4nm)"
+      },
+      {
+        "label": "Ram",
+        "value": "24GB LPDDR5X 7500MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe NVMe M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5 inch, 3K, 120Hz, 100% sRGB, 16:10, TUV eyesafe"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C,, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x Micro SD,, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "322 x 228 x 15.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-PRO-7I-AURA-EDITON-YOGA-PRO-14-AURA--4-22",
@@ -3685,11 +11679,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Đồ họa",
-    "cpu": "Ultra 9 285H RAM 32GB SSD 1TB 14.5 in",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14.5 inch 3K OLED 120Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Ultra 9 285H",
+    "ram": "32 GB LPDDR5x bus 8533MHz( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14.5″ 3K (3000 x 1876) 120Hz 16:10 OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR",
+    "gpu": "Intel® Arc™ 140T GPU",
     "price": 36500000,
     "originalPrice": 50000000,
     "stock": 2,
@@ -3709,7 +11703,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/O5zKBHCo9OKiYIE0MhZxWkbT1-8116.jpg"
     ],
     "seoTitle": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 285H"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x bus 8533MHz( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3000 x 1876) 120Hz 16:10 OLED, 100% DCI-P3, 100%sRGB, 99%AdobeRGB, Cảm ứng, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ 140T GPU"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A® (USB 10Gbps / USB 3.2 Gen 1), 2x USB-C® (Thunderbolt4® 40Gbps), with USB PD 3.0 and DisplayPort™ 1.4a, 1x SD Card, 1x HDMI 2.1, 1x Headphone / microphone combo jack (3.5mm)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "140 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.54 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 221.31 x 16.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "84 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-PRO-9-2025-ULTRA-7-255H-RAM-32GB-SSD-4-23",
@@ -3717,11 +11781,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Gaming",
-    "cpu": "Ultra 7 255H RAM 32GB SSD 1TB RTX 506",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16 inch 2.8K OLED 120Hz",
-    "gpu": "RTX 5060 16 inch 2.8K OLED 1",
+    "cpu": "Intel Ultra 7 255H",
+    "ram": "32 GB LPDDR5x bus 6400MHz( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "16″ 2.8K (2800 x 1800) 120Hz 16:10 OLED, 100% DCI-P3, 100%sRGB, 100%AdobeRGB, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR",
+    "gpu": "Intel ARC 140T và Nvidia GeForce RTX 5060 8GB GDDR7",
     "price": 37500000,
     "originalPrice": 60000000,
     "stock": 2,
@@ -3741,7 +11805,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
     "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 7 255H"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x bus 6400MHz( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.8K (2800 x 1800) 120Hz 16:10 OLED, 100% DCI-P3, 100%sRGB, 100%AdobeRGB, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel ARC 140T và Nvidia GeForce RTX 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A® (USB 10Gbps / USB 3.2 Gen 1), 2x USB-C® (Thunderbolt4® 40Gbps), with USB PD 3.0 and DisplayPort™ 1.4a, 1x SD Card, 1x HDMI 2.1, 1x Headphone / microphone combo jack (3.5mm), 1x Power Port"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "170W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "363 x 254 x 17.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "84 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-PRO-9-2025-ULTRA-9-285H-RAM-32GB-SSD-4-24",
@@ -3749,11 +11883,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Gaming",
-    "cpu": "Ultra 9 285H RAM 32GB SSD 1TB RTX 506",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16 inch 3.2K Tandem OLED 120Hz",
-    "gpu": "RTX 5060 16 inch 3.2K Tandem",
+    "cpu": "Intel Ultra 9 285H",
+    "ram": "32 GB LPDDR5x bus 8400MHz( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "16″ 3.2K (3200 x 2000) 120Hz 16:10 Tandem OLED, Cảm Ứng, 100% DCI-P3, 100%sRGB, 100%AdobeRGB, Delta<1, độ sáng peak có thể đạt 1600nits ở chế độ HDR, 1000nits ở chế độ SDR",
+    "gpu": "Intel ARC 140T và Nvidia GeForce RTX 5060 8GB GDDR7",
     "price": 54000000,
     "originalPrice": 65000000,
     "stock": 2,
@@ -3773,7 +11907,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
     "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 285H"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x bus 8400MHz( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200 x 2000) 120Hz 16:10 Tandem OLED, Cảm Ứng, 100% DCI-P3, 100%sRGB, 100%AdobeRGB, Delta<1, độ sáng peak có thể đạt 1600nits ở chế độ HDR, 1000nits ở chế độ SDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel ARC 140T và Nvidia GeForce RTX 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A® (USB 10Gbps / USB 3.2 Gen 1), 2x USB-C® (Thunderbolt4® 40Gbps), with USB PD 3.0 and DisplayPort™ 1.4a, 1x SD Card, 1x HDMI 2.1, 1x Headphone / microphone combo jack (3.5mm), 1x Power Port"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "170W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.1 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "363 x 254 x 17.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "84 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-PRO-9-2025-ULTRA-9-285H-RAM-32GB-SSD-4-25",
@@ -3781,11 +11985,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Gaming",
-    "cpu": "Ultra 9 285H RAM 32GB SSD 1TB RTX 507",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16 inch 2.8K OLED 120Hz",
-    "gpu": "RTX 5070 16 inch 2.8K OLED 1",
+    "cpu": "Intel Ultra 9 285H",
+    "ram": "32 GB LPDDR5x bus 8400MHz(Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "16″ 2.8K (2880 x 1800) 120Hz 16:10, OLED, 100% DCI-P3, 100%sRGB, 100%AdobeRGB, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR, 500nits ở chế độ SDR",
+    "gpu": "Intel ARC 140T và Nvidia GeForce RTX 5070 8GB GDDR7",
     "price": 46000000,
     "originalPrice": 60000000,
     "stock": 2,
@@ -3805,7 +12009,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
     "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 285H"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x bus 8400MHz(Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.8K (2880 x 1800) 120Hz 16:10, OLED, 100% DCI-P3, 100%sRGB, 100%AdobeRGB, Delta<1, độ sáng peak có thể đạt 1100nits ở chế độ HDR, 500nits ở chế độ SDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel ARC 140T và Nvidia GeForce RTX 5070 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A® (USB 10Gbps / USB 3.2 Gen 1), 2x USB-C® (Thunderbolt4® 40Gbps), with USB PD 3.0 and DisplayPort™ 1.4a, 1x SD Card, 1x HDMI 2.1, 1x Headphone / microphone combo jack (3.5mm), 1x Power Port"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "170W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.1 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "363 x 254 x 17.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "84 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-PRO-9-2025-ULTRA-9-285H-RAM-64GB-SSD-4-26",
@@ -3813,11 +12087,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Gaming",
-    "cpu": "Ultra 9 285H RAM 64GB SSD 2TB RTX 507",
-    "ram": "64GB",
-    "storage": "2TB",
-    "display": "16 inch 3.2K Tandem OLED 120Hz",
-    "gpu": "RTX 5070 16 inch 3.2K Tandem",
+    "cpu": "Intel Ultra 9 285H",
+    "ram": "64 GB LPDDR5x bus 8400MHz( Ram hàn, không thể nâng cấp)",
+    "storage": "2TB PCIe SSD Gen 4",
+    "display": "16″ 3.2K (3200 x 2000) 120Hz 16:10 Tandem OLED, Cảm Ứng, 100% DCI-P3, 100%sRGB, 100%AdobeRGB, Delta<1, độ sáng peak có thể đạt 1600nits ở chế độ HDR, 1000nits ở chế độ SDR",
+    "gpu": "Intel ARC 140T và Nvidia GeForce RTX 5070 8GB GDDR7",
     "price": 71500000,
     "originalPrice": 80000000,
     "stock": 2,
@@ -3837,7 +12111,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
     "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 285H"
+      },
+      {
+        "label": "Ram",
+        "value": "64 GB LPDDR5x bus 8400MHz( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "2TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 3.2K (3200 x 2000) 120Hz 16:10 Tandem OLED, Cảm Ứng, 100% DCI-P3, 100%sRGB, 100%AdobeRGB, Delta<1, độ sáng peak có thể đạt 1600nits ở chế độ HDR, 1000nits ở chế độ SDR"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel ARC 140T và Nvidia GeForce RTX 5070 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A® (USB 10Gbps / USB 3.2 Gen 1), 2x USB-C® (Thunderbolt4® 40Gbps), with USB PD 3.0 and DisplayPort™ 1.4a, 1x SD Card, 1x HDMI 2.1, 1x Headphone / microphone combo jack (3.5mm), 1x Power Port"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "170W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.1 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "363 x 254 x 17.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "84 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-SLIM-7-YOGA-AIR-14-AURA-AI-ULTRA-7-2-4-27",
@@ -3845,11 +12189,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Đồ họa",
-    "cpu": "Ultra 7 258V RAM 32GB SSD 1TB 14 inch",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14 inch 2.8K OLED 120Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra 7 258V",
+    "ram": "32 GB LPDDR5x bus 8533MHz( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ 2.8K 120Hz 16:10 OLED, 100% DCI-P3, 100%sRGB Cảm ứng",
+    "gpu": "Intel Arc Graphics 140V",
     "price": 34000000,
     "originalPrice": 40000000,
     "stock": 2,
@@ -3869,7 +12213,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-57.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 7 258V"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x bus 8533MHz( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2.8K 120Hz 16:10 OLED, 100% DCI-P3, 100%sRGB Cảm ứng"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics 140V"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C® (USB 10Gbps / USB 3.2 Gen 2), with USB PD 3.0 and DisplayPort™ 1.4a, 2x USB-C® (USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 1.4a, 1x microSD, 1x HDMI 2.1, 1x Headphone / microphone combo jack (3.5mm)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.28 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 221.31 x 13.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "70 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G6-2024-R7-8745H-24GB-RAM-512GB-SSD-4-28",
@@ -3877,11 +12291,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "24GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Ryzen 7 8745H (3.8 GHz up to 4.9 GHz, 8 Cores, 16 Threads, 16MB Cache, 4nm)",
+    "ram": "24GB LPDDR5X 7500MHz",
+    "storage": "512GB PCIe NVMe M.2 SSD",
+    "display": "16 inch, 2.5K (2560 x 1600), 120Hz, 100% sRGB, 16:10, TUV eyesafe",
+    "gpu": "AMD Radeon 780M",
     "price": 19390000,
     "originalPrice": 22100000,
     "stock": 2,
@@ -3901,7 +12315,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-12.png"
     ],
     "seoTitle": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen 7 8745H (3.8 GHz up to 4.9 GHz, 8 Cores, 16 Threads, 16MB Cache, 4nm)"
+      },
+      {
+        "label": "Ram",
+        "value": "24GB LPDDR5X 7500MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe NVMe M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16 inch, 2.5K (2560 x 1600), 120Hz, 100% sRGB, 16:10, TUV eyesafe"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-SLIM-9-YOGA-AIR-X-AI-ULTRA-7-258V-RA-4-29",
@@ -3909,11 +12393,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Đồ họa",
-    "cpu": "Ultra 7 258V RAM 32GB SSD 1TB 14 inch",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "14 inch 4K OLED 120Hz",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra 7 258V",
+    "ram": "32 GB LPDDR5x bus 8533MHz( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ 4K 120Hz 16:10 OLED cảm ứng, 100% DCI-P3, 100%sRGB, 750nits",
+    "gpu": "Intel Arc Graphics 140V",
     "price": 52000000,
     "originalPrice": 60000000,
     "stock": 2,
@@ -3933,7 +12417,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6372604606469_0d39401ae7bf2535023f2f48fa7e6d21.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 7 258V"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x bus 8533MHz( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 4K 120Hz 16:10 OLED cảm ứng, 100% DCI-P3, 100%sRGB, 750nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics 140V"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.23 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 203.5 x 14.55 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "75 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-YOGA-AIR-14S-R7-7840S-16GB-32GB-1TB-MAN-2-9K-90H-4-30",
@@ -3941,11 +12495,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Đồ họa",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ 7 7840S",
+    "ram": "16/32 GB LDDR5 RAM ( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14.5″ 2.9K 90Hz 16:10 OLED cảm ứng, 600 nits",
+    "gpu": "Integrated AMD Radeon™ 780M Graphics",
     "price": 25000000,
     "originalPrice": 26100000,
     "stock": 2,
@@ -3965,7 +12519,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-8.png"
     ],
     "seoTitle": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng giá tốt tại DP Lab",
-    "seoDescription": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 7 7840S"
+      },
+      {
+        "label": "Ram",
+        "value": "16/32 GB LDDR5 RAM ( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 2.9K 90Hz 16:10 OLED cảm ứng, 600 nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Integrated AMD Radeon™ 780M Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-C® (USB 10Gbps / USB 3.2 Gen 2), with USB PD 3.0 and DisplayPort™ 1.4a, 2x USB-C® (USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 1.4a, 1x Headphone / microphone combo jack (3.5mm)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.1"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.28 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "325.87 x 223.43 x 13.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "70 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LENOVO-YOGA-PRO-7-RYZEN-AI-9-365-32GB-1TB-4-31",
@@ -3973,11 +12597,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Mỏng nhẹ",
-    "cpu": "Ryzen AI 9 365",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD – Ryzen AI 9 365, 10 / 20",
+    "ram": "32 GB LPDDR5X – 7500MHz RAM ( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14.5″ 3K (3072 x 1920) Cảm ứng 120Hz 16:10 IPS, 400 nits, 100% DCI-P3, Eyesafe Certified 2.0",
+    "gpu": "Integrated AMD Radeon™ 880M Graphics",
     "price": 29000000,
     "originalPrice": 38500000,
     "stock": 2,
@@ -3997,7 +12621,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-52-3.jpg"
     ],
     "seoTitle": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD – Ryzen AI 9 365, 10 / 20"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5X – 7500MHz RAM ( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072 x 1920) Cảm ứng 120Hz 16:10 IPS, 400 nits, 100% DCI-P3, Eyesafe Certified 2.0"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Integrated AMD Radeon™ 880M Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On, 1x USB-C® (USB 10Gbps / USB 3.2 Gen 2), with USB PD 3.0 and DisplayPort™ 1.4a, 1x USB-C® (USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 1.4a, 1x HDMI® 2.1, up to 4K/60Hz, 1x Headphone / microphone combo jack (3.5mm)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.1"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "325.5mm x 226.49mm x 16.6mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "73 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-YOGA-SLIM-7-ULTRA-7-155H-32GB-RAM-1TB-SSD-2-8K-O-4-32",
@@ -4005,11 +12699,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Đồ họa",
-    "cpu": "Ultra 7 155H 32GB RAM 1TB SSD 2.8K OL",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 7 155H (16 core/ 22 thread, up to 4.8 GHz, NPU AI)",
+    "ram": "32 GB RAM LPDDR5X 8533 MT/s",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ 2.8K (2880 x 1800) OLED, 120Hz, 16:10, 400nits, 100%DCI-P3, TÜV Low Blue Light Certification, Eyesafe® Certification",
+    "gpu": "Intel ARC Graphics",
     "price": 25500000,
     "originalPrice": 34500000,
     "stock": 2,
@@ -4029,7 +12723,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/08/Ux729ZLPl5B8MjkJT3YZVAjzE-3733.jpg"
     ],
     "seoTitle": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch giá tốt tại DP Lab",
-    "seoDescription": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 7 155H (16 core/ 22 thread, up to 4.8 GHz, NPU AI)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB RAM LPDDR5X 8533 MT/s"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2.8K (2880 x 1800) OLED, 120Hz, 16:10, 400nits, 100%DCI-P3, TÜV Low Blue Light Certification, Eyesafe® Certification"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel ARC Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C® (Thunderbolt 4, USB 40Gbps, DisplayPort, power delivery), 1x USB-A 3.2 (hi-speed USB), 1x HDMI 2.1 (supports resolution up to 4K@60Hz), 1x Audio combo jack"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "65 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.4 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 221 x 14.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "65 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-YOGA-SLIM-7I-AURA-EDITION-ULTRA7-258V-32GB-RAM-1-4-33",
@@ -4037,11 +12801,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Mỏng nhẹ",
-    "cpu": "Ultra7 258V 32GB RAM 1TB SSD",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 7 Processor 258V (3nm, 8-core/8-thread, up to 4.8 GHz, NPU AI)",
+    "ram": "32 GB RAM LPDDR5X 8533 MT/s",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "15.3″ 2.8K (2880 x 1800) LCD, 120Hz, 16:10, 500 nits, 100%P3, TÜV Low Blue Light Certification, Eyesafe® Certification, touchscreen",
+    "gpu": "Intel Arc Graphics 140V",
     "price": 31300000,
     "originalPrice": 34500000,
     "stock": 2,
@@ -4061,7 +12825,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-42.png"
     ],
     "seoTitle": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 7 Processor 258V (3nm, 8-core/8-thread, up to 4.8 GHz, NPU AI)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB RAM LPDDR5X 8533 MT/s"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15.3″ 2.8K (2880 x 1800) LCD, 120Hz, 16:10, 500 nits, 100%P3, TÜV Low Blue Light Certification, Eyesafe® Certification, touchscreen"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics 140V"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-C® (Thunderbolt 4, USB 40Gbps, DisplayPort, power delivery), 1x USB-A (hi-speed USB), 1x HDMI 2.1 (supports resolution up to 4K@60Hz), 1x Audio combo jack"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "65 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.46 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "15.3 – 15.2mm x 343.8mm x 235.4mm / 0.55 – 0.6″ x 13.53″ x 9.27″"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "70 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-YOGA-PRO-7-R7-7840HS-16-32GB-RAM-1TB-SSD-4-34",
@@ -4069,11 +12903,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Mỏng nhẹ",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ 7 7840HS (8C / 16T, 3.8 / 5.1GHz, 8MB L2 / 16MB L3)",
+    "ram": "16/32 GB LDDR5 RAM ( Ram hàn, không thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14.5″ 3K (3072 x 1920) 120Hz 16:10 IPS, 400 nits, 100% DCI-P3, Eyesafe Certified 2.0, Anti-glare",
+    "gpu": "Integrated AMD Radeon™ 780M Graphics",
     "price": 22500000,
     "originalPrice": 25500000,
     "stock": 2,
@@ -4093,7 +12927,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-45.png"
     ],
     "seoTitle": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 7 7840HS (8C / 16T, 3.8 / 5.1GHz, 8MB L2 / 16MB L3)"
+      },
+      {
+        "label": "Ram",
+        "value": "16/32 GB LDDR5 RAM ( Ram hàn, không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072 x 1920) 120Hz 16:10 IPS, 400 nits, 100% DCI-P3, Eyesafe Certified 2.0, Anti-glare"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Integrated AMD Radeon™ 780M Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On, 1x USB-C® (USB 10Gbps / USB 3.2 Gen 2), with USB PD 3.0 and DisplayPort™ 1.4a, 1x USB-C® (USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 1.4a, 1x HDMI® 2.1, up to 4K/60Hz, 1x Headphone / microphone combo jack (3.5mm)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.1"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.49 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "325.5 x 226.49 x 15.6 mm (12.81 x 8.92 x 0.61 inches)"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "73 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-2024-R7-8745H-16GB-RAM-512GB-SSD-RTX-40-4-38",
@@ -4101,11 +13005,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4050",
+    "cpu": "AMD Ryzen 7-8745H (8 nhân 16 luồng, tần số cơ bản 3.8GHz, có thể đạt tới 4.9GHz với turbo boost, bộ nhớ đệm 8MB L2 / 16MB L3, 4nm, TDP 35-54W)",
+    "ram": "16 GB DDR5 5600MHz( có thể nâng cấp được)",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD",
+    "display": "15.6″ FHD (1920×1080) IPS, 300nits, 100% sRGB, 144Hz, Dolby® Vision™, AMD FreeSync™, NVIDIA G-SYNC®, tỷ lệ khung hình 16:9",
+    "gpu": "AMD Radeon™ 780M và NVIDIA®GeForce® RTX™ 4050 6GB GDDR6",
     "price": 21200000,
     "originalPrice": 25900000,
     "stock": 2,
@@ -4125,7 +13029,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-31.png"
     ],
     "seoTitle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7-8745H (8 nhân 16 luồng, tần số cơ bản 3.8GHz, có thể đạt tới 4.9GHz với turbo boost, bộ nhớ đệm 8MB L2 / 16MB L3, 4nm, TDP 35-54W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16 GB DDR5 5600MHz( có thể nâng cấp được)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15.6″ FHD (1920×1080) IPS, 300nits, 100% sRGB, 144Hz, Dolby® Vision™, AMD FreeSync™, NVIDIA G-SYNC®, tỷ lệ khung hình 16:9"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 780M và NVIDIA®GeForce® RTX™ 4050 6GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x E-camera shutter, 1x SD card, 3x USB-A 3.2 Gen 2, 1x Jack 3.5mm, 1x RJ45 (mạng LAN), 1x HDMI 2.1, 1x power input, 2x USB-C 3.2 gen 2"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6 + Bluetooth 5.1"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.88 x 26.23 x 1.99-2.4cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "230w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.4kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 60whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2024"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-2024-R7-8745H-16GB-RAM-512GB-SSD-RTX-40-4-39",
@@ -4133,11 +13107,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "AMD Ryzen 7-8745H (8 nhân 16 luồng, tần số cơ bản 3.8GHz, có thể đạt tới 4.9GHz với turbo boost, bộ nhớ đệm 8MB L2 / 16MB L3, 4nm, TDP 35-54W)",
+    "ram": "16 GB DDR5 5600MHz( có thể nâng cấp được)",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD",
+    "display": "15.6″ FHD (1920×1080) IPS, 300nits, 100% sRGB, 144Hz, Dolby® Vision™, AMD FreeSync™, NVIDIA G-SYNC®, Advanced Optimus support, tỷ lệ khung hình 16:9",
+    "gpu": "AMD Radeon™ 780M và NVIDIA®GeForce® RTX™ 4060 8GB GDDR6",
     "price": 22700000,
     "originalPrice": 27100000,
     "stock": 2,
@@ -4157,7 +13131,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-33.png"
     ],
     "seoTitle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7-8745H (8 nhân 16 luồng, tần số cơ bản 3.8GHz, có thể đạt tới 4.9GHz với turbo boost, bộ nhớ đệm 8MB L2 / 16MB L3, 4nm, TDP 35-54W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16 GB DDR5 5600MHz( có thể nâng cấp được)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15.6″ FHD (1920×1080) IPS, 300nits, 100% sRGB, 144Hz, Dolby® Vision™, AMD FreeSync™, NVIDIA G-SYNC®, Advanced Optimus support, tỷ lệ khung hình 16:9"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 780M và NVIDIA®GeForce® RTX™ 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x E-camera shutter, 1x SD card, 3x USB-A 3.2 Gen 2, 1x Jack 3.5mm, 1x RJ45 (mạng LAN), 1x HDMI 2.1, 1x power input, 2x USB-C 3.2 gen 2"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6 + Bluetooth 5.1"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.88 x 26.23 x 1.99-2.4cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "230w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.4kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 60whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2024"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-PRO-Y9000P-2024-I9-14900HX-32GB-RAM-1TB-5-0",
@@ -4165,11 +13209,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "Intel Core i9 14900HX (24 nhân 32 luồng, xung nhịp có thể đạt tới 5.8GHz với turbo boost, 36MB Intel® Smart Cache)",
+    "ram": "32 GB DDR5 5200MHz",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "16.0 inch 2.5K+ (2560×1600), độ sáng 500nits, màn nhám chống lóa, không cảm ứng, tỷ lệ khung hình 16:10; tần số quét 240Hz, 100% sRGB, Dolby Vision, DisplayHDR™ 400, NVIDIA G-SYNC, DC dimmer, TÜV Low Blue Light, TÜV High Gaming Performance, Delta E < 2",
+    "gpu": "Đồ họa UHD Intel® dành cho Bộ xử lý Intel® thế hệ thứ 14 và VGA NVIDIA®GeForce® RTX™ 4060 8GB GDDR6",
     "price": 35800000,
     "originalPrice": 39500000,
     "stock": 2,
@@ -4189,7 +13233,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-38.png"
     ],
     "seoTitle": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i9 14900HX (24 nhân 32 luồng, xung nhịp có thể đạt tới 5.8GHz với turbo boost, 36MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB DDR5 5200MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0 inch 2.5K+ (2560×1600), độ sáng 500nits, màn nhám chống lóa, không cảm ứng, tỷ lệ khung hình 16:10; tần số quét 240Hz, 100% sRGB, Dolby Vision, DisplayHDR™ 400, NVIDIA G-SYNC, DC dimmer, TÜV Low Blue Light, TÜV High Gaming Performance, Delta E < 2"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Đồ họa UHD Intel® dành cho Bộ xử lý Intel® thế hệ thứ 14 và VGA NVIDIA®GeForce® RTX™ 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with DisplayPort™ 1.4, 1x HDMI 2.1, up to 8K/60Hz, 1x Ethernet (RJ-45), 1x Headphone / microphone combo jack (3.5mm), 1x Power connector, 1x USB-A (USB 5Gbps / USB 3.2 Gen 1), Always On, 1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with PD 140W and DisplayPort 1.4"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "300W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "363.4 x 261.75 x 21.99-26.95 mm (14.31 x 10.31 x 0.87-1.06 inches)"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "80 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-Y7000-2024-I7-13650HX-24GB-RAM-512GB-SS-5-1",
@@ -4197,11 +13311,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "24GB",
-    "storage": "512GB",
-    "display": "15.6\" FHD 144Hz",
-    "gpu": "RTX 4060 15.6\" FHD 144Hz",
+    "cpu": "Intel Core i7 13650HX (14 nhân 20 luồng, turbo boost, 24MB Intel® Smart Cache)",
+    "ram": "24GB DDR5 4800MHz(có thể nâng cấp)",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD",
+    "display": "15.6″ FHD (1920×1080) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:9, độ sáng 300nits, tần số quét 144Hz, 100% sRGB, NVidia G-Sync, DC dimmer, màn giảm ánh sáng xanh bảo vệ mắt công nghệ TÜV Rheinland. (các thông số do hãng công bố)",
+    "gpu": "Intel UHD Graphics cho gen 14 và NVIDIA®GeForce® RTX™ 4060 8GB GDDR6",
     "price": 23700000,
     "originalPrice": 27500000,
     "stock": 2,
@@ -4221,7 +13335,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-34.png"
     ],
     "seoTitle": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7 13650HX (14 nhân 20 luồng, turbo boost, 24MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "24GB DDR5 4800MHz(có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15.6″ FHD (1920×1080) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:9, độ sáng 300nits, tần số quét 144Hz, 100% sRGB, NVidia G-Sync, DC dimmer, màn giảm ánh sáng xanh bảo vệ mắt công nghệ TÜV Rheinland. (các thông số do hãng công bố)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel UHD Graphics cho gen 14 và NVIDIA®GeForce® RTX™ 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB 3.2 Gen 1, 1x USB 3.2 Gen 1 (Always On), 1x USB-C® 3.2 Gen 2 (support data transfer and DisplayPort™ 1.4), 1x USB-C® 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort™ 1.4), 1x HDMI®, up to 8K/60Hz, 1x Ethernet (RJ-45), 1x Headphone / microphone combo jack (3.5mm), 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.2"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "230W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.45 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "358mm*261mm*22mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4cell 60wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-Y7000P-2024-I7-14650HX-16GB-RAM-1TB-SSD-5-2",
@@ -4229,11 +13413,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4050",
+    "cpu": "Intel Core i7 14650HX (16 nhân 24 luồng, xung nhịp có thể đạt tối đa 5.2GHz với Turbo boost, 30MB Intel® Smart Cache)",
+    "ram": "16GB DDR5 5600MHZ",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ screen-to-body 92.8%, độ sáng 350nits, tần số quét 165Hz, 100% sRGB, chỉ số DeltaE <2, Dolby Vision, NVidia G-Sync, DC dimmer, màn giảm ánh sáng xanh bảo vệ mắt",
+    "gpu": "Đồ họa UHD Intel® dành cho Bộ xử lý Intel® thế hệ thứ 14 và VGA NVIDIA®GeForce® RTX™ 4050 GDDR6",
     "price": 25000000,
     "originalPrice": 31900000,
     "stock": 2,
@@ -4253,7 +13437,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-39.png"
     ],
     "seoTitle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7 14650HX (16 nhân 24 luồng, xung nhịp có thể đạt tối đa 5.2GHz với Turbo boost, 30MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHZ"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ screen-to-body 92.8%, độ sáng 350nits, tần số quét 165Hz, 100% sRGB, chỉ số DeltaE <2, Dolby Vision, NVidia G-Sync, DC dimmer, màn giảm ánh sáng xanh bảo vệ mắt"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Đồ họa UHD Intel® dành cho Bộ xử lý Intel® thế hệ thứ 14 và VGA NVIDIA®GeForce® RTX™ 4050 GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB 3.2 Gen 1, 1x USB 3.2 Gen 1 (Always On), 1x USB-C® 3.2 Gen 2 (support data transfer and DisplayPort™ 1.4), 1x USB-C® 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort™ 1.4), 1x HDMI®, up to 8K/60Hz, 1x Ethernet (RJ-45), 1x Headphone / microphone combo jack (3.5mm), 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "230W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.35 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "360 x 267 x 19.9~22.8 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "80 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-Y7000P-2024-I7-14650HX-16GB-RAM-1TB-SSD-5-3",
@@ -4261,11 +13515,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "Intel Core i7 14650HX (16 nhân 24 luồng, xung nhịp có thể đạt tối đa 5.2GHz với Turbo boost, 30MB Intel® Smart Cache)",
+    "ram": "16GB DDR5 5600MHZ",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ screen-to-body 92.8%, độ sáng 350nits, tần số quét 165Hz, 100% sRGB, chỉ số DeltaE <2, Dolby Vision, NVidia G-Sync, DC dimmer, màn giảm ánh sáng xanh bảo vệ mắt",
+    "gpu": "Đồ họa UHD Intel® dành cho Bộ xử lý Intel® thế hệ thứ 14 và VGA NVIDIA®GeForce® RTX™ 4060 8GB GDDR6",
     "price": 27700000,
     "originalPrice": 33900000,
     "stock": 2,
@@ -4285,7 +13539,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-39.png"
     ],
     "seoTitle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7 14650HX (16 nhân 24 luồng, xung nhịp có thể đạt tối đa 5.2GHz với Turbo boost, 30MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHZ"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ screen-to-body 92.8%, độ sáng 350nits, tần số quét 165Hz, 100% sRGB, chỉ số DeltaE <2, Dolby Vision, NVidia G-Sync, DC dimmer, màn giảm ánh sáng xanh bảo vệ mắt"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Đồ họa UHD Intel® dành cho Bộ xử lý Intel® thế hệ thứ 14 và VGA NVIDIA®GeForce® RTX™ 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB 3.2 Gen 1, 1x USB 3.2 Gen 1 (Always On), 1x USB-C® 3.2 Gen 2 (support data transfer and DisplayPort™ 1.4), 1x USB-C® 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort™ 1.4), 1x HDMI®, up to 8K/60Hz, 1x Ethernet (RJ-45), 1x Headphone / microphone combo jack (3.5mm), 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "230W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.35 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "360 x 267 x 19.9~22.8 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "80 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-Y7000P-2024-I7-14700HX-16GB-RAM-1TB-SSD-5-4",
@@ -4293,11 +13617,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4070",
+    "cpu": "Intel Core i7 14700HX (20 nhân 28 luồng, xung nhịp có thể đạt tối đa 5.5GHz với Turbo boost, 33MB Intel® Smart Cache)",
+    "ram": "16GB DDR5 5600MHZ (có thể nâng cấp)",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "16″ WQXGA (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ screen-to-body 92.8%, độ sáng 350nits, tần số quét 165Hz, 100% sRGB, chỉ số DeltaE <2, Dolby Vision, NVidia G-Sync, DC dimmer, màn giảm ánh sáng xanh bảo vệ mắt",
+    "gpu": "Đồ họa UHD Intel® dành cho Bộ xử lý Intel® thế hệ thứ 14 và VGA NVIDIA®GeForce® RTX™ 4070 8GB GDDR6",
     "price": 30300000,
     "originalPrice": 35200000,
     "stock": 2,
@@ -4317,7 +13641,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-30.png"
     ],
     "seoTitle": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7 14700HX (20 nhân 28 luồng, xung nhịp có thể đạt tối đa 5.5GHz với Turbo boost, 33MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHZ (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560×1600) IPS, màn nhám không cảm ứng, tỷ lệ khung hình 16:10, tỷ lệ screen-to-body 92.8%, độ sáng 350nits, tần số quét 165Hz, 100% sRGB, chỉ số DeltaE <2, Dolby Vision, NVidia G-Sync, DC dimmer, màn giảm ánh sáng xanh bảo vệ mắt"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Đồ họa UHD Intel® dành cho Bộ xử lý Intel® thế hệ thứ 14 và VGA NVIDIA®GeForce® RTX™ 4070 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB 3.2 Gen 1, 1x USB 3.2 Gen 1 (Always On), 1x USB-C® 3.2 Gen 2 (support data transfer and DisplayPort™ 1.4), 1x USB-C® 3.2 Gen 2 (support data transfer, Power Delivery 140W and DisplayPort™ 1.4), 1x HDMI®, up to 8K/60Hz, 1x Ethernet (RJ-45), 1x Headphone / microphone combo jack (3.5mm), 1x Power connector"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "230W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.35 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "360 x 267 x 19.9~22.8 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "80 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-7-Y9000X-2024-I9-14900HX-32GB-RAM-1TB-SSD-5-5",
@@ -4325,11 +13719,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "Intel Core i9 14900HX (24 nhân 32 luồng, xung nhịp có thể đạt tới 5.8GHz với turbo boost, 36MB Intel® Smart Cache)",
+    "ram": "32GB DDR5 5600MHZ",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "16 inchs 3.2K (3200×2000) IPS, màn nhám, tỷ lệ 16:10, tỷ lệ tương phản 1200:1, độ sáng 430nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <2, Dolby® Vison, NVIDIA® G-SYNC®, Advanced Optimus support, TÜV Low Blue Light",
+    "gpu": "Intel® UHD Graphics và VGA NVIDIA®GeForce® RTX™ 4060 8GB GDDR6",
     "price": 46500000,
     "originalPrice": 49990000,
     "stock": 2,
@@ -4349,7 +13743,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/7-17.png"
     ],
     "seoTitle": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i9 14900HX (24 nhân 32 luồng, xung nhịp có thể đạt tới 5.8GHz với turbo boost, 36MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5600MHZ"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16 inchs 3.2K (3200×2000) IPS, màn nhám, tỷ lệ 16:10, tỷ lệ tương phản 1200:1, độ sáng 430nits, tần số quét 165Hz, 100% DCI-P3, chỉ số DeltaE <2, Dolby® Vison, NVIDIA® G-SYNC®, Advanced Optimus support, TÜV Low Blue Light"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® UHD Graphics và VGA NVIDIA®GeForce® RTX™ 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with PD 140W, with DisplayPort™ 1.4, 1x HDMI 2.1, 1x SD card, 1x Headphone / microphone combo jack (3.5mm), 1x Power connector, 1x USB-c (USB 3.2 Gen 1), 1x Thunderbolt 4(USB 3.2 Gen 2), with PD 140W and DisplayPort 1.4"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Webcam, có bảo mật vân tay"
+      },
+      {
+        "label": "Sạc",
+        "value": "230W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.25 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.7cm x 26.2cm x 1.7-1.9cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Fullsize, led RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "99.9 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-SLIM-7-R9000X-2023-R7-7840H-16GB-RAM-1TB--5-6",
@@ -4357,11 +13821,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "AMD Ryzen™ 7 7840H (3.80 GHz, up to 5.10 GHz Max Boost, 8 Cores, 16 Threads, 16 MB Cache)",
+    "ram": "16GB DDR5 5600MHZ(có thể nâng cấp)",
+    "storage": "1TB M.2 PCIe NVMe PCIe 4.0",
+    "display": "16 inch (3200×2000), 3.2K IPS, 165Hz 3ms, 100% P3, 430 nits, Hỗ trợ G-Sync và FreeSync",
+    "gpu": "AMD Graphics 780M và NVIDIA GeForce RTX 4060 8GB GDDR6",
     "price": 28200000,
     "originalPrice": 34200000,
     "stock": 2,
@@ -4381,7 +13845,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-34.png"
     ],
     "seoTitle": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 7 7840H (3.80 GHz, up to 5.10 GHz Max Boost, 8 Cores, 16 Threads, 16 MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 5600MHZ(có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB M.2 PCIe NVMe PCIe 4.0"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16 inch (3200×2000), 3.2K IPS, 165Hz 3ms, 100% P3, 430 nits, Hỗ trợ G-Sync và FreeSync"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Graphics 780M và NVIDIA GeForce RTX 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A (USB 5Gbps / USB 3.2 Gen 1), 1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with PD 140W, with DisplayPort™ 1.4, 1x HDMI 2.1, 1x SD card, 1x Headphone / microphone combo jack (3.5mm), 1x Power connector, 1x USB-c (USB 3.2 Gen 2), 1x Thunderbolt 4(USB 3.2 Gen 2), with PD 140W and DisplayPort 1.4"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "230W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.1 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "17.6mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Fullsize, led trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "99.9 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-SLIM-5-Y7000P-I7-13620H-16GB-RAM-1TB-SSD--5-7",
@@ -4389,11 +13923,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "Core i7-13620H (10 nhân 16 luồng, tần số cơ bản 3.6GHz, có thể đạt tới 4.9GHz với turbo boost, bộ nhớ đệm 24 MB Intel® Smart Cache)",
+    "ram": "16 GB DDR5 5200MHz – 5600MHz",
+    "storage": "1TB PCIe NVMe M.2 SSD Gen 4",
+    "display": "16″ WQXGA (2560 x 1600), 400 nits, 165Hz, sRGB: 100%, IPS",
+    "gpu": "NVIDIA Geforce RTX 4060 8GB GDDR6",
     "price": 26800000,
     "originalPrice": 31500000,
     "stock": 2,
@@ -4413,7 +13947,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/7-21.png"
     ],
     "seoTitle": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
-    "seoDescription": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core i7-13620H (10 nhân 16 luồng, tần số cơ bản 3.6GHz, có thể đạt tới 4.9GHz với turbo boost, bộ nhớ đệm 24 MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16 GB DDR5 5200MHz – 5600MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ WQXGA (2560 x 1600), 400 nits, 165Hz, sRGB: 100%, IPS"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA Geforce RTX 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x E-camera shutter, 1x SD card, 2x USB-A 3.2 Gen 2, 1x RJ45 (mạng LAN), 1x HDMI 2.1, 1x power input, 2x USB-C 3.2 gen 2 USB-C"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "HD Webcam"
+      },
+      {
+        "label": "Sạc",
+        "value": "230W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.3 kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell, 80whr, Super Rapid Charge"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-2023-R7-7840H-16GB-RAM-512GB-SSD-RTX-40-5-8",
@@ -4421,11 +14021,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "AMD Ryzen 7 7840H “Zen 4” (8 nhân 16 luồng, tần số cơ bản 3.8GHz, có thể đạt tới 5.1GHz với turbo boost, bộ nhớ đệm 8MB L2 / 16MB L3, 4nm, TDP 35-54W)",
+    "ram": "16 GB DDR5 5600MHz",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "15.6″ FHD (1920×1080) IPS, 350nits, 100% sRGB, 144Hz, Dolby® Vision™, AMD FreeSync™, NVIDIA G-SYNC®, Advanced Optimus support, tỷ lệ khung hình 16:9",
+    "gpu": "AMD Radeon™ 780M và NVIDIA®GeForce® RTX™ 4060 8GB GDDR6",
     "price": 25290000,
     "originalPrice": 26900000,
     "stock": 2,
@@ -4445,7 +14045,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-37.png"
     ],
     "seoTitle": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 7840H “Zen 4” (8 nhân 16 luồng, tần số cơ bản 3.8GHz, có thể đạt tới 5.1GHz với turbo boost, bộ nhớ đệm 8MB L2 / 16MB L3, 4nm, TDP 35-54W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16 GB DDR5 5600MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15.6″ FHD (1920×1080) IPS, 350nits, 100% sRGB, 144Hz, Dolby® Vision™, AMD FreeSync™, NVIDIA G-SYNC®, Advanced Optimus support, tỷ lệ khung hình 16:9"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 780M và NVIDIA®GeForce® RTX™ 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x E-camera shutter, 1x SD card, 3x USB-A 3.2 Gen 2, 1x Jack 3.5mm, 1x RJ45 (mạng LAN), 1x HDMI 2.1, 1x power input, 2x USB-C 3.2 gen 2"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6 + Bluetooth 5.1"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.88 x 26.23 x 1.99-2.4cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "230w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.4kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 60whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2023"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LEGION-5-2023-R7-7735H-RTX-4060-5-11",
@@ -4453,11 +14123,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Legion",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "Đang cập nhật",
-    "storage": "Đang cập nhật",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "AMD Ryzen 7 7735H (8 nhân 16 luồng, tần số cơ bản 3.2GHz, có thể đạt tới 4.75GHz với turbo boost, bộ nhớ đệm 4MB L2 / 16MB L3, 6nm, TDP 35-54W)",
+    "ram": "16GB DDR5 4800MHz (có 2 khe cắm có thể nâng cấp được tối đa tới 64GB)",
+    "storage": "512B SSD M.2 2280 PCIe 4×4 NVMe",
+    "display": "15.6″ (2560×1440) IPS, 350nits, 100% sRGB, 165Hz, Dolby® Vision™, AMD FreeSync™, NVIDIA G-SYNC®, Advanced Optimus support, tỷ lệ tương phản 1200:1, tỷ lệ khung hình 16:9",
+    "gpu": "AMD Radeon™ 680M và NVIDIA®GeForce® RTX™ 4060 8GB GDDR6",
     "price": 24700000,
     "originalPrice": 25400000,
     "stock": 2,
@@ -4477,7 +14147,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-1.jpg"
     ],
     "seoTitle": "Legion 5 2023 R7-7735H RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 2023 R7-7735H RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Legion 5 2023 R7-7735H RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 7735H (8 nhân 16 luồng, tần số cơ bản 3.2GHz, có thể đạt tới 4.75GHz với turbo boost, bộ nhớ đệm 4MB L2 / 16MB L3, 6nm, TDP 35-54W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 4800MHz (có 2 khe cắm có thể nâng cấp được tối đa tới 64GB)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512B SSD M.2 2280 PCIe 4×4 NVMe"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "15.6″ (2560×1440) IPS, 350nits, 100% sRGB, 165Hz, Dolby® Vision™, AMD FreeSync™, NVIDIA G-SYNC®, Advanced Optimus support, tỷ lệ tương phản 1200:1, tỷ lệ khung hình 16:9"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 680M và NVIDIA®GeForce® RTX™ 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "+ Jack 3.5mm, + USB-A 3.2 Gen 1, + USB-C, + USB 4.0 Gen 3 40G"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6 + Bluetooth 5.1"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.88 x 26.23 x 1.99-2.4cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "230w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.4kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 60whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2023"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G6-2024-R7-8845H-16GB-RAM-1TB-SSD-5-12",
@@ -4485,11 +14225,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Ryzen 7 8845H (8 nhân 16 luồng, xung nhịp cơ bản 3.8GHz, tối đa với Turbo Boost tới 5.1GHz, 8MB L2 Cache, 16MB L3 Cache)",
+    "ram": "16GB LPDDR5X 7500Mhz (không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe NVMe M.2 SSD",
+    "display": "14.5″, 2.5K IPS, LED, độ sáng 300nits, tỷ lệ 16:10, viền micro-edge, độ phủ màu 100% SRGB, tần số quét màn 90Hz, màn có chứng nhận EyeSafe TÜV RHEINLAND, giảm ánh sáng xanh bảo vệ mắt",
+    "gpu": "AMD Radeon 780M",
     "price": 19300000,
     "originalPrice": 20500000,
     "stock": 2,
@@ -4509,7 +14249,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-14.png"
     ],
     "seoTitle": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen 7 8845H (8 nhân 16 luồng, xung nhịp cơ bản 3.8GHz, tối đa với Turbo Boost tới 5.1GHz, 8MB L2 Cache, 16MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5X 7500Mhz (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″, 2.5K IPS, LED, độ sáng 300nits, tỷ lệ 16:10, viền micro-edge, độ phủ màu 100% SRGB, tần số quét màn 90Hz, màn có chứng nhận EyeSafe TÜV RHEINLAND, giảm ánh sáng xanh bảo vệ mắt"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C,, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x Micro SD,, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.45 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "322 x 228 x 15.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G6-2024-ULTRA-5-125H-16GB-RAM-512GB-5-13",
@@ -4517,11 +14327,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Core Ultra 5-125H (14 nhân 18 luồng, xung nhịp tối đa với Turbo Boost tới 4.5GHz, 18 MB Intel® Smart Cache)",
+    "ram": "16GB LPDDR5x-7647MHz (không thể nâng cấp)",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD",
+    "display": "14.5″, 2.5K+ (2560×1600) IPS, độ sáng 300nits, tỷ lệ khung hình 16:10, viền mảnh micro-edge, độ phủ màu 100% sRGB, tần số quét màn 90Hz, màn có chứng nhận EyeSafe TÜV RHEINLAND, giảm ánh sáng xanh bảo vệ mắt, DC dimmer",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 17800000,
     "originalPrice": 21200000,
     "stock": 2,
@@ -4541,7 +14351,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-17.png"
     ],
     "seoTitle": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core Ultra 5-125H (14 nhân 18 luồng, xung nhịp tối đa với Turbo Boost tới 4.5GHz, 18 MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5x-7647MHz (không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″, 2.5K+ (2560×1600) IPS, độ sáng 300nits, tỷ lệ khung hình 16:10, viền mảnh micro-edge, độ phủ màu 100% sRGB, tần số quét màn 90Hz, màn có chứng nhận EyeSafe TÜV RHEINLAND, giảm ánh sáng xanh bảo vệ mắt, DC dimmer"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C,, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x Micro SD,, 1x USB 2.0 Type-A, 1x TGX"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Công nghệ mới",
+        "value": "—"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 224 x 15.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G6-2024-ULTRA-5-125H-32GB-RAM-1TB-S-5-14",
@@ -4549,11 +14433,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Core Ultra 5-125H (14 nhân 18 luồng, xung nhịp tối đa với Turbo Boost tới 4.5GHz, 18 MB Intel® Smart Cache)",
+    "ram": "32GB DDR5 5600MHz, có thể nâng cấp",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "16″, 2.5K+ (2560×1600) IPS, tỷ lệ 16:10, viền mảnh micro-edge, độ phủ màu 100% sRGB, tần số quét màn 120Hz, màn có chứng nhận EyeSafe TÜV RHEINLAND, giảm ánh sáng xanh bảo vệ mắt, DC dimmer",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 20800000,
     "originalPrice": 24000000,
     "stock": 2,
@@ -4573,7 +14457,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-1.png"
     ],
     "seoTitle": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core Ultra 5-125H (14 nhân 18 luồng, xung nhịp tối đa với Turbo Boost tới 4.5GHz, 18 MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB DDR5 5600MHz, có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″, 2.5K+ (2560×1600) IPS, tỷ lệ 16:10, viền mảnh micro-edge, độ phủ màu 100% sRGB, tần số quét màn 120Hz, màn có chứng nhận EyeSafe TÜV RHEINLAND, giảm ánh sáng xanh bảo vệ mắt, DC dimmer"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C,, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x SD,, 1x USB 2.0 Type-A, 1x TGX"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Công nghệ mới",
+        "value": "—"
+      },
+      {
+        "label": "Sạc",
+        "value": "140W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.9 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "356 x 248 x 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 85 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G5-2023-R7-7840H-32GB-RAM-1TB-SSD-5-15",
@@ -4581,11 +14539,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ 7 7840H Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 5.2 GHz max boost)",
+    "ram": "32GB LPDDR5 5200MHz",
+    "storage": "1TB PCIe NVMe M.2 SSD gen 4",
+    "display": "14 inch 2.8K (2880×1800), 100% RGB, 90Hz",
+    "gpu": "AMD Radeon 780M Graphics",
     "price": 19000000,
     "originalPrice": 21700000,
     "stock": 2,
@@ -4605,7 +14563,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-7.png"
     ],
     "seoTitle": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 7 7840H Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 5.2 GHz max boost)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5 5200MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe NVMe M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14 inch 2.8K (2880×1800), 100% RGB, 90Hz"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 780M Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB – Type C, 2x USB – Type A, 1x HDMI 2.1, 1x Thunderbolt ( USB, sạc, DisplayPort), 1x jack 3.5mm, 1x LAN, 1x Micro SD"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080p"
+      },
+      {
+        "label": "Sạc",
+        "value": "100w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1,4kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 62 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G5-2023-R7-7840H-32GB-RAM-1TB-SSD-5-16",
@@ -4613,11 +14637,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ 7 7840H Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 5.2 GHz max boost)",
+    "ram": "32GB LPDDR5 6400MHz",
+    "storage": "1TB SSD M.2 2280 PCIe Gen4",
+    "display": "16’’, 2.5K (2560 x 1600), LED, 120Hz, IPS",
+    "gpu": "AMD Radeon 780M",
     "price": 19100000,
     "originalPrice": 22700000,
     "stock": 2,
@@ -4637,7 +14661,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-8.png"
     ],
     "seoTitle": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 7 7840H Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 5.2 GHz max boost)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5 6400MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB SSD M.2 2280 PCIe Gen4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16’’, 2.5K (2560 x 1600), LED, 120Hz, IPS"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 780M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB Type-C 3.2 Gen 2, 2x USB Type-A 3.2 Gen 1, 1x HDMI 2.1, 1x Thunderbolt 4, 1x 3.5mm, 1x USB Type-A 2.9, 1x SD card, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080p"
+      },
+      {
+        "label": "Sạc",
+        "value": "100w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.8kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Backlit keyboard, đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 71Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G5-2023-R7-7735H-16GB-RAM-512B-SSD-5-17",
@@ -4645,11 +14735,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "Đang cập nhật",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen 7 7735H (8 nhân 16 luồng, tần số cơ bản 3.2GHz, có thể đạt tới 4.75GHz với turbo boost, bộ nhớ đệm 4MB L2 / 16MB L3, 6nm, TDP 35-54W)",
+    "ram": "16GB LPDDR5 6400Mhz (không hỗ trợ nâng cấp)",
+    "storage": "512GB PCIe NVMe M.2 SSD",
+    "display": "14″, 2.8K (2880×1800) IPS, tỷ lệ khung hình 16:10, viền mảnh micro-edge, độ phủ màu 100% sRGB, tần số quét màn 90Hz, độ sáng 400nits, màn có chứng nhận EyeSafe TÜV RHEINLAND, giảm ánh sáng xanh bảo vệ mắt, DC dimmer",
+    "gpu": "AMD Radeon 680M",
     "price": 16190000,
     "originalPrice": 17500000,
     "stock": 2,
@@ -4669,7 +14759,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-19.png"
     ],
     "seoTitle": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 7735H (8 nhân 16 luồng, tần số cơ bản 3.2GHz, có thể đạt tới 4.75GHz với turbo boost, bộ nhớ đệm 4MB L2 / 16MB L3, 6nm, TDP 35-54W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 6400Mhz (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe NVMe M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″, 2.8K (2880×1800) IPS, tỷ lệ khung hình 16:10, viền mảnh micro-edge, độ phủ màu 100% sRGB, tần số quét màn 90Hz, độ sáng 400nits, màn có chứng nhận EyeSafe TÜV RHEINLAND, giảm ánh sáng xanh bảo vệ mắt, DC dimmer"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 680M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 2 Type-C,, 1x USB 4.0 Type-C,, 1x HDMI 2.1,, 1x USB 3.2 Gen 1 Type-A,, 1x Headphone / mic combo 3.5,, 1x RJ45,, 1x USB 3.2 Gen 1 Type-A,, 1x Micro SD,, 1x USB 2.0 Type-A"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.4 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312 x 224 x 15.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 62 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14-G4-2022-R7-6800H-16GB-RAM-512B-SSD-5-18",
@@ -4677,11 +14837,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "Đang cập nhật",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen 7 6800H (8 nhân 16 luồng, xung nhịp cơ bản 3.2GHz, có thể đạt xung nhịp tối đa với Turbo Boost tới 4.7GHz, 4MB L2 Cache / 16MB L3 Cache, Default TDP 45W)",
+    "ram": "16GB LPDDR5 6400Mhz (không hỗ trợ nâng cấp)",
+    "storage": "512GB PCIe NVMe M.2 SSD",
+    "display": "14” 2.8K(2880 x 1800), 90Hz, Nhám, Không cảm ứng, Tỉ lệ 16:10, IPS, 400Nits, 100% sRGB",
+    "gpu": "AMD Radeon 660M",
     "price": 15600000,
     "originalPrice": 16500000,
     "stock": 2,
@@ -4701,7 +14861,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-18.png"
     ],
     "seoTitle": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 6800H (8 nhân 16 luồng, xung nhịp cơ bản 3.2GHz, có thể đạt xung nhịp tối đa với Turbo Boost tới 4.7GHz, 4MB L2 Cache / 16MB L3 Cache, Default TDP 45W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 6400Mhz (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe NVMe M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14” 2.8K(2880 x 1800), 90Hz, Nhám, Không cảm ứng, Tỉ lệ 16:10, IPS, 400Nits, 100% sRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 660M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2 x USB Type C, 2 x USB Type A, 1 x HDMI 2.1, 1 x Jack tai nghe 3.5mm, 1 x Cổng mạng Lan, 1 x Có khe thẻ SD"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P Full HD IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.43 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "313 x 225 x 1605mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell – 62 Whr"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14P-G3-2022-R7-6800H-16GB-RAM-512GB-SS-5-19",
@@ -4709,11 +14939,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD “Zen 3+” Ryzen 7 6800H (8 nhân 16 luồng, xung nhịp cơ bản 3.2GHz, có thể đạt xung nhịp tối đa với Turbo Boost tới 4.7GHz, 4MB L2 Cache / 16MB L3 Cache, Default TDP 45W)",
+    "ram": "16GB LPDDR5 6400MHz",
+    "storage": "512GB PCIe® NVMe™ M.2 SSD gen 4",
+    "display": "14″, 2.2K (2240×1400), IPS, màn nhám không cảm ứng, độ sáng 300nits, tần số 60Hz, tỷ lệ khung hình 16:10, độ phủ màu 100%sRGB, công nghệ Auto Display Brightness, Dolby® Vision, màn bảo vệ mắt, XRite® factory color calibration (∆E<1)",
+    "gpu": "AMD Radeon 680M Graphics",
     "price": 15390000,
     "originalPrice": 17500000,
     "stock": 2,
@@ -4733,7 +14963,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-1-1.png"
     ],
     "seoTitle": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD “Zen 3+” Ryzen 7 6800H (8 nhân 16 luồng, xung nhịp cơ bản 3.2GHz, có thể đạt xung nhịp tối đa với Turbo Boost tới 4.7GHz, 4MB L2 Cache / 16MB L3 Cache, Default TDP 45W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 6400MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® NVMe™ M.2 SSD gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″, 2.2K (2240×1400), IPS, màn nhám không cảm ứng, độ sáng 300nits, tần số 60Hz, tỷ lệ khung hình 16:10, độ phủ màu 100%sRGB, công nghệ Auto Display Brightness, Dolby® Vision, màn bảo vệ mắt, XRite® factory color calibration (∆E<1)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 680M Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "+ 2 x USB Type-C, + Jack tai nghe 3.5 mm, + 1 x MicroSD, + 1 x USB 3.2, + HDMI, + 1 x USB 3.2 (Always on)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Bluetooth 5.2, Wi-Fi 6"
+      },
+      {
+        "label": "Camera",
+        "value": "1080p"
+      },
+      {
+        "label": "Sạc",
+        "value": "100w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "Nặng 1.4 kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 61Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-16-G4-I5-12500H-16GB-RAM-512GB-SSD-5-20",
@@ -4741,11 +15037,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Core™ i5-12500H (12 Cores/ 16 Threads, Turbo 4.50 GHz, 18 MB Intel® Smart Cache)",
+    "ram": "16 GB DDR5 4800MHz (không thể nâng cấp)",
+    "storage": "512GB PCIe SSD",
+    "display": "16.0 inch WQXGA (2560×1600) IPS 350nits Anti glare, 60Hz, 100% sRGB",
+    "gpu": "Intel Iris Xe Graphics",
     "price": 14300000,
     "originalPrice": 16990000,
     "stock": 2,
@@ -4765,7 +15061,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/3-16.png"
     ],
     "seoTitle": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core™ i5-12500H (12 Cores/ 16 Threads, Turbo 4.50 GHz, 18 MB Intel® Smart Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16 GB DDR5 4800MHz (không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16.0 inch WQXGA (2560×1600) IPS 350nits Anti glare, 60Hz, 100% sRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Iris Xe Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1 x USB 2.0, 1 x USB 3.2 Gen 1 on, 1 x USB 3.2 Gen 1, 2 x USB C 3.2 Gen 2, 1 x HDMI, 1 x Ethernet RJ-45, 1 x Headphone / microphone combo jack"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080p"
+      },
+      {
+        "label": "Sạc",
+        "value": "100w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.8kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Backlit keyboard, đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "3-cell, 71Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-THINKBOOK-14P-G2-2022-R7-5800H-16GB-RAM-512GB-SS-5-21",
@@ -4773,11 +15135,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "ThinkBook",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ 7 5800H Mobile Processor 8 nhân 16 luồng, 3.20 ghz upto 4.40 Ghz, 4Mb L2 cache, 16MB L3 cache",
+    "ram": "16GB DDR4 3200Mhz (Onboard), Không hỗ trợ nâng cấp",
+    "storage": "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",
+    "display": "14 inch 2.2K (2240×1400), Chống chói Anti Glare, Công nghệ IPS, 100% sRGB, Độ sáng 300 nits, Dolby Vision",
+    "gpu": "AMD Radeon Graphics",
     "price": 14890000,
     "originalPrice": 16100000,
     "stock": 2,
@@ -4797,7 +15159,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/9-2.png"
     ],
     "seoTitle": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 7 5800H Mobile Processor 8 nhân 16 luồng, 3.20 ghz upto 4.40 Ghz, 4Mb L2 cache, 16MB L3 cache"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR4 3200Mhz (Onboard), Không hỗ trợ nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14 inch 2.2K (2240×1400), Chống chói Anti Glare, Công nghệ IPS, 100% sRGB, Độ sáng 300 nits, Dolby Vision"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "+ 2 x USB Type-C, + Jack tai nghe 3.5 mm, + 1 x USB 3.2, + HDMI, + 1 x USB 3.2 (Always on)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Bluetooth 5.2, Wi-Fi 6 (802.11ax)"
+      },
+      {
+        "label": "Camera",
+        "value": "1080p"
+      },
+      {
+        "label": "Sạc",
+        "value": "100w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "Nặng 1.4 kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 61Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-YOGA-13S-R5-5600U-16GB-RAM-512GB-SSD-7-6",
@@ -4805,11 +15233,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Mỏng nhẹ",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ 5-5600U (6 core, 12 threads, 2.3GHz – 4.20GHz, 16MB Cache)",
+    "ram": "16 GB LPDDR4x 4266MHz (không thể nâng cấp)",
+    "storage": "512GB SSD",
+    "display": "13.3″ 2.5K (2560 x 1600), 60Hz, 100% sRGB, DC dimming, 300nits, Rheinland low blue light certification, Dolby Vision, 91% screen-to-body ratio",
+    "gpu": "AMD Radeon Vega 7 Graphics",
     "price": 13400000,
     "originalPrice": 15500000,
     "stock": 2,
@@ -4829,7 +15257,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-44.png"
     ],
     "seoTitle": "Yoga 13s R5-5600U 16GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "Yoga 13s R5-5600U 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Yoga 13s R5-5600U 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 5-5600U (6 core, 12 threads, 2.3GHz – 4.20GHz, 16MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16 GB LPDDR4x 4266MHz (không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.3″ 2.5K (2560 x 1600), 60Hz, 100% sRGB, DC dimming, 300nits, Rheinland low blue light certification, Dolby Vision, 91% screen-to-body ratio"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon Vega 7 Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×full function Type-C,, 2×full function Type-C,, Headphone/microphone"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.0"
+      },
+      {
+        "label": "Camera",
+        "value": "720p HD camera (IR, TOF)"
+      },
+      {
+        "label": "Sạc",
+        "value": "65 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "295.88mm x 208.85mm x 13.8mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 cell, 50 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-YOGA-SLIM-7-PRO-X-R7-6800HS-16GB-512GB-RTX-3050--7-7",
@@ -4837,11 +15335,11 @@ export const importedLaptopProducts = [
     "brand": "Lenovo",
     "line": "Yoga",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 3050 3K",
+    "cpu": "AMD Ryzen™ 7 6800HS CE (3.2GHz – 4.7GHz Max Boost, 8 cores, 16 threads, 16MB cache)",
+    "ram": "16GB LDDR5 6400MHz",
+    "storage": "512GB SSD M.2 2280 PCIe® 4.0×4 NVMe®",
+    "display": "14.5″ 3K (3072×1920) IPS 400nits Anti-glare, 100% sRGB, 120Hz, Eyesafe®, TCON, Dolby® Vision™ (Touchsreen)",
+    "gpu": "Integrated AMD Radeon™ Graphics, NVIDIA® GeForce RTX™ 3050 4GB GDDR6",
     "price": 20500000,
     "originalPrice": 22100000,
     "stock": 2,
@@ -4861,7 +15359,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-43.png"
     ],
     "seoTitle": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K giá tốt tại DP Lab",
-    "seoDescription": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 7 6800HS CE (3.2GHz – 4.7GHz Max Boost, 8 cores, 16 threads, 16MB cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LDDR5 6400MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB SSD M.2 2280 PCIe® 4.0×4 NVMe®"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14.5″ 3K (3072×1920) IPS 400nits Anti-glare, 100% sRGB, 120Hz, Eyesafe®, TCON, Dolby® Vision™ (Touchsreen)"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Integrated AMD Radeon™ Graphics, NVIDIA® GeForce RTX™ 3050 4GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x USB 3.2 Gen 1, 1x USB 3.2 Gen 1 (Always On), 2x USB-C 3.2 Gen 2 (Truyền dữ liệu, Power Delivery 3.0, DisplayPort 1.4), 1x Headphone / microphone combo jack 3.5mm"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.1"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.45 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "328.2 x 221.4 x 15.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "70 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-F16-2026-ULTRA-5-235HX-16GB-RAM--1-0",
@@ -4869,11 +15437,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5050 165Hz",
+    "cpu": "Utra5 – 235HX",
+    "ram": "16GB RAM DDR5 (có thể nâng cấp, 2 khe ram)",
+    "storage": "512GB PCIe SSD Gen 4 ( 2 khe ssd)",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5050 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 36500000,
     "originalPrice": 40500000,
     "stock": 2,
@@ -4893,7 +15461,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/06/asus5.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Utra5 – 235HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 (có thể nâng cấp, 2 khe ram)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe SSD Gen 4 ( 2 khe ssd)"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5050 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x Thunderbolt 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại mặt A"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ZENBOOK-S-14-CORE-ULTRA-7-356H-32GB-RAM-1TB-1-1",
@@ -4901,11 +15539,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "Zenbook",
     "category": "Đồ họa",
-    "cpu": "Core Ultra 7 356H / 32GB RAM / 1TB S",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra 7 356H (16 nhân 16 luồng)",
+    "ram": "32GB LPDDR5x 8533MHz (không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4, chỉ có 1 khe lắp, nâng cấp tiếp được",
+    "display": "14″ 2.8K (2880 x 1800) Asus Lumina OLED, màn gương, không cảm ứng, tần số quét 120Hz, độ sáng màn hình 1100nits, viền cực mảnh NanoEdge, Pantone validate: 100% DCI-P3, HDR1000,",
+    "gpu": "Intel ® Graphics",
     "price": 40200000,
     "originalPrice": 47000000,
     "stock": 2,
@@ -4925,7 +15563,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/02/64136413.jpg"
     ],
     "seoTitle": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED giá tốt tại DP Lab",
-    "seoDescription": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 7 356H (16 nhân 16 luồng)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4, chỉ có 1 khe lắp, nâng cấp tiếp được"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2.8K (2880 x 1800) Asus Lumina OLED, màn gương, không cảm ứng, tần số quét 120Hz, độ sáng màn hình 1100nits, viền cực mảnh NanoEdge, Pantone validate: 100% DCI-P3, HDR1000,"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel ® Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1 cổng USB-A 3.2 Gen 2 (10Gbps)2 cổng USB4 Type C (hỗ trợ tốc độ truyền tải 40Gbps, sạc, DisplayPort) HDMI 2.1 jack tai nghe"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "68 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.19kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "~ 1.1cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "77Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Ceraluminum (Ceramic Aluminum – chất liệu kết hợp tính chất của sứ và nhôm thường được sử dụng trong chế tạo máy bay và đồng hồ – gia tăng lực bền và độ dẻo dai nhưng vẫn cứng cáp)"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ZENBOOK-S-14-CORE-ULTRA-9-386H-32GB-RAM-1TB-1-2",
@@ -4933,11 +15641,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "Zenbook",
     "category": "Đồ họa",
-    "cpu": "Core Ultra 9 386H / 32GB RAM / 1TB S",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Core Ultra 9 386H (16 nhân 16 luồng)",
+    "ram": "32GB LPDDR5x 8533MHz (không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4, chỉ có 1 khe lắp, nâng cấp tiếp được",
+    "display": "14″ 2.8K (2880 x 1800) Asus Lumina OLED, màn gương, không cảm ứng, tần số quét 120Hz, độ sáng màn hình 1100nits, viền cực mảnh NanoEdge, Pantone validate: 100% DCI-P3, HDR1000,",
+    "gpu": "Intel ® Graphics",
     "price": 44000000,
     "originalPrice": 49000000,
     "stock": 2,
@@ -4957,7 +15665,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/02/4-1.jpg"
     ],
     "seoTitle": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED giá tốt tại DP Lab",
-    "seoDescription": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Ultra 9 386H (16 nhân 16 luồng)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4, chỉ có 1 khe lắp, nâng cấp tiếp được"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2.8K (2880 x 1800) Asus Lumina OLED, màn gương, không cảm ứng, tần số quét 120Hz, độ sáng màn hình 1100nits, viền cực mảnh NanoEdge, Pantone validate: 100% DCI-P3, HDR1000,"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel ® Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1 cổng USB-A 3.2 Gen 2 (10Gbps) 2 cổng USB4 Type C (hỗ trợ tốc độ truyền tải 40Gbps, sạc, DisplayPort) HDMI 2.1 jack tai nghe"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "65 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.19kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "~ 1.1cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "77Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Ceraluminum (Ceramic Aluminum – chất liệu kết hợp tính chất của sứ và nhôm thường được sử dụng trong chế tạo máy bay và đồng hồ – gia tăng lực bền và độ dẻo dai nhưng vẫn cứng cáp)"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-PROART-PX13-AI-MAX-395-64GB-RAM-1TB-SSD-13--1-9",
@@ -4965,11 +15743,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ProArt",
     "category": "Đồ họa",
-    "cpu": "Đang cập nhật",
-    "ram": "64GB",
-    "storage": "1TB",
-    "display": "13\" 2.8K OLED Cảm Ứng",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen AI Max+ 395 (16 nhân 32 luồng)",
+    "ram": "64GB LPDDR5X 8000MHz",
+    "storage": "1TB PCIe® 4.0 SSD",
+    "display": "13.3″ 3K (2880 x 1800) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 60Hz, 550nits Peak Brightness, NanoEdge, Pantone validate: 100% DCI-P3, Display HDR True Black 500, Delta E <1, Dolby Vision",
+    "gpu": "AMD Radeon 8060S",
     "price": 73000000,
     "originalPrice": 82000000,
     "stock": 2,
@@ -4989,7 +15767,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/01/FFFFF.jpg"
     ],
     "seoTitle": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI Max+ 395 (16 nhân 32 luồng)"
+      },
+      {
+        "label": "Ram",
+        "value": "64GB LPDDR5X 8000MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.3″ 3K (2880 x 1800) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 60Hz, 550nits Peak Brightness, NanoEdge, Pantone validate: 100% DCI-P3, Display HDR True Black 500, Delta E <1, Dolby Vision"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 8060S"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x MicroSD Reader 4.0 1x USB-A 3.2 Gen 2 2x USB-C 4.0 Gen 3 support 40Gbps data transfer, PD, DP support 1x HDMI 2.1 FRL 1x 3.5 Combo Audio Jack"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "200W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.39kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "298x210x16 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "73Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại, phủ Nano, chống bám bẩn. Chất liệu cứng, bền nhưng siêu nhẹ"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A14-2026-AI-MAX-392-32GB-RAM-1TB-1-10",
@@ -4997,11 +15845,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen AI MAX+ 392 (12 nhân 24 luồng)",
+    "ram": "32 GB RAM LPDDR5X 8000MHz",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 14″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, đạt chuẩn 100% sRGB",
+    "gpu": "AMD Radeon 8060S",
     "price": 44000000,
     "originalPrice": 53000000,
     "stock": 2,
@@ -5021,7 +15869,69 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/01/ssssss.png"
     ],
     "seoTitle": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI MAX+ 392 (12 nhân 24 luồng)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB RAM LPDDR5X 8000MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 14″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, đạt chuẩn 100% sRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 8060S"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1 FRL, 1x USB3.2 Type-C 10Gpbs support DP2.1 G-Sync, 1x USB4 Type-C support DP 1.4, PD 100W, 2x USB3.2 Type-A support 10Gbps data transfer, 1x micro-SD, 1x Jack tai nghe/micrô, 1x Power Port"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "FULL HD IR Camera"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.48 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "73 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A14-2026-AI9-H-465-32GB-RAM-1TB--1-11",
@@ -5029,11 +15939,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX5060| 165Hz",
+    "cpu": "AMD Ryzen 9 H 465 (10 nhân 20 luồng)",
+    "ram": "32 GB RAM LPDDR5X 7500MHz",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 14″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, 400nits, đạt chuẩn 100% sRGB",
+    "gpu": "Đồ họa NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR6,",
     "price": 46000000,
     "originalPrice": 54000000,
     "stock": 2,
@@ -5053,7 +15963,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/01/ssssss.png"
     ],
     "seoTitle": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 H 465 (10 nhân 20 luồng)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB RAM LPDDR5X 7500MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 14″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, 400nits, đạt chuẩn 100% sRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Đồ họa NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR6,"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1 FRL, 1x USB3.2 Type-C 10Gpbs support DP2.1 G-Sync, 1x USB4 Type-C support DP 1.4, PD 100W, 2x USB3.2 Type-A support 10Gbps data transfer, 1x micro-SD, 1x Jack tai nghe/micrô, 1x Power Port"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR Camera"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.46 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "311.1 x 227.5 x 16.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "73 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ZENBOOK-S-16-RYZEN-AI-9-H-465-RAM-32GB-SSD--1-12",
@@ -5061,11 +16037,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "Zenbook",
     "category": "Đồ họa",
-    "cpu": "Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\"",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 2.8K OLED",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen AI 9 H 465 (10 nhân 20 luồng)",
+    "ram": "32GB LPDDR5x 8533MHz (không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4, chỉ có 1 khe lắp, nâng cấp tiếp được",
+    "display": "16″ 2.8K (2880 x 1800) Asus Lumina OLED, màn gương, không cảm ứng, tần số quét 120Hz, độ sáng màn hình 1100nits, viền cực mảnh NanoEdge, Pantone validate: 100% DCI-P3, HDR1000, Dolby Vision, LOW BLUE LIGHT, đạt chứng nhận bảo vệ mắt TUV Rheinland",
+    "gpu": "AMD Radeon 880M",
     "price": 44800000,
     "originalPrice": 48000000,
     "stock": 2,
@@ -5085,7 +16061,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2026/01/Picsart_26-01-27_16-38-55-332-scaled.jpg"
     ],
     "seoTitle": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED giá tốt tại DP Lab",
-    "seoDescription": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 H 465 (10 nhân 20 luồng)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x 8533MHz (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4, chỉ có 1 khe lắp, nâng cấp tiếp được"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.8K (2880 x 1800) Asus Lumina OLED, màn gương, không cảm ứng, tần số quét 120Hz, độ sáng màn hình 1100nits, viền cực mảnh NanoEdge, Pantone validate: 100% DCI-P3, HDR1000, Dolby Vision, LOW BLUE LIGHT, đạt chứng nhận bảo vệ mắt TUV Rheinland"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 880M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "khe đọc-ghi thẻ SD 4.0 1 cổng USB-A 3.2 Gen 2 (10Gbps) 2 cổng USB4 Type C (hỗ trợ tốc độ truyền tải 40Gbps, sạc, DisplayPort) HDMI 2.1 jack tai nghe"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "68 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.36 x 24.30 x 1.19 ~ 1.29 cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "83Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Ceraluminum (Ceramic Aluminum – chất liệu kết hợp tính chất của sứ và nhôm thường được sử dụng trong chế tạo máy bay và đồng hồ – gia tăng lực bền và độ dẻo dai nhưng vẫn cứng cáp)"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A14-2024-AI-9-HX-370-32GB-RAM-1T-1-13",
@@ -5093,11 +16139,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060| 165Hz",
+    "cpu": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 3.3GHz có thể đạt max với turbo boost tới 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache)",
+    "ram": "32 GB RAM LPDDR5",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 14″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, công nghệ chống chói, G-Sync, G-Sync, đạt chuẩn 100% sRGB",
+    "gpu": "Đồ họa NVIDIA® GeForce RTX™ 4060 Laptop GPU 8GB GDDR6, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 36000000,
     "originalPrice": 44000000,
     "stock": 2,
@@ -5117,7 +16163,69 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-35.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 3.3GHz có thể đạt max với turbo boost tới 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB RAM LPDDR5"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 14″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, công nghệ chống chói, G-Sync, G-Sync, đạt chuẩn 100% sRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Đồ họa NVIDIA® GeForce RTX™ 4060 Laptop GPU 8GB GDDR6, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1, 2x Thunderbolt ™ 4 với USB Type-C, 1x USB Type-A Tín hiệu 10Gbps tốc độ, 1x Jack tai nghe/micrô"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.46 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 16.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "73 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A14-2025-RYZEN-7-H-260-32GB-RAM--1-14",
@@ -5125,11 +16233,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Ryzen 7 H 260",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060| 165Hz",
+    "cpu": "AMD Ryzen 7 H 260 (8 nhân 16 luồng, xung nhịp cơ bản từ 3.8GHz có thể đạt max với turbo boost tới 5.1GHz, 8 MB L2 Cache, 16MB L3 Cache)",
+    "ram": "32 GB RAM LPDDR5X",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 14″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, 400nits, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB",
+    "gpu": "Đồ họa NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR6, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 34000000,
     "originalPrice": 44000000,
     "stock": 2,
@@ -5149,7 +16257,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-8.png"
     ],
     "seoTitle": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 H 260 (8 nhân 16 luồng, xung nhịp cơ bản từ 3.8GHz có thể đạt max với turbo boost tới 5.1GHz, 8 MB L2 Cache, 16MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB RAM LPDDR5X"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 14″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, 400nits, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Đồ họa NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR6, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1 FRL, 1x USB3.2 Type-C 10Gpbs support DP2.1 G-Sync, 1x USB4 Type-C support DP 1.4, PD 100W, 2x USB3.2 Type-A support 10Gbps data transfer, 1x micro-SD, 1x Jack tai nghe/micrô, 1x Power Port"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.46 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "311.1 x 227.5 x 16.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "73 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A14-2025-RYZEN-AI-7-H-350-32GB-R-1-15",
@@ -5157,11 +16331,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Ryzen AI 7 H 350",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060| 165Hz",
+    "cpu": "AMD Ryzen AI 7 H 350 (8 nhân 16 luồng, xung nhịp cơ bản từ 2GHz có thể đạt max với turbo boost tới 5.0GHz, 8 MB L2 Cache, 16MB L3 Cache)",
+    "ram": "32 GB RAM LPDDR5X",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 14″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, 400nits, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB",
+    "gpu": "Đồ họa NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR6, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 35500000,
     "originalPrice": 46000000,
     "stock": 2,
@@ -5181,7 +16355,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-8.png"
     ],
     "seoTitle": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 7 H 350 (8 nhân 16 luồng, xung nhịp cơ bản từ 2GHz có thể đạt max với turbo boost tới 5.0GHz, 8 MB L2 Cache, 16MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB RAM LPDDR5X"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 14″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, 400nits, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Đồ họa NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR6, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1 FRL, 1x USB3.2 Type-C 10Gpbs support DP2.1 G-Sync, 1x USB4 Type-C support DP 1.4, PD 100W, 2x USB3.2 Type-A support 10Gbps data transfer, 1x micro-SD, 1x Jack tai nghe/micrô, 1x Power Port"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.46 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "311.1 x 227.5 x 16.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "73 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ZENBOOK-14-2025-ULTRA-9-285H-32GB-RAM-1TB-S-1-16",
@@ -5189,11 +16429,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "Zenbook",
     "category": "Mỏng nhẹ",
-    "cpu": "Ultra 9 285H",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Core Ultra 9 285H",
+    "ram": "32 GB DDR5 RAM",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 16:10 aspect ratio, 120Hz",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 28500000,
     "originalPrice": 35000000,
     "stock": 2,
@@ -5213,7 +16453,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/w800-5.png"
     ],
     "seoTitle": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core Ultra 9 285H"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB DDR5 RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 16:10 aspect ratio, 120Hz"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1, 2x Thunderbolt ™ 4 với USB Type-C, 1x USB Type-A Tín hiệu 5Gbps tốc độ, 1x Jack tai nghe/micrô"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "75 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.19 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 13.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 75 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ZENBOOK-14-2024-ULTRA-9-185H-32GB-RAM-1TB-S-1-17",
@@ -5221,11 +16531,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "Zenbook",
     "category": "Mỏng nhẹ",
-    "cpu": "Ultra 9 185H",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Core Ultra 9 185H",
+    "ram": "32 GB DDR5 RAM",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 16:10 aspect ratio, 120Hz",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 22500000,
     "originalPrice": 28900000,
     "stock": 2,
@@ -5245,7 +16555,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/w800-5.png"
     ],
     "seoTitle": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core Ultra 9 185H"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB DDR5 RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 16:10 aspect ratio, 120Hz"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1, 2x Thunderbolt ™ 4 với USB Type-C, 1x USB Type-A Tín hiệu 5Gbps tốc độ, 1x Jack tai nghe/micrô"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "75 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 14.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 75 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ZENBOOK-14-2025-RYZEN-AI-7-350-32GB-RAM-1TB-1-18",
@@ -5254,10 +16634,10 @@ export const importedLaptopProducts = [
     "line": "Zenbook",
     "category": "Mỏng nhẹ",
     "cpu": "Ryzen AI 7 350",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "ram": "32 GB DDR5 RAM",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 16:10 aspect ratio, 120Hz",
+    "gpu": "AMD® Radeon™ 860M",
     "price": 28400000,
     "originalPrice": 35000000,
     "stock": 2,
@@ -5277,7 +16657,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png"
     ],
     "seoTitle": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen AI 7 350"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB DDR5 RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 16:10 aspect ratio, 120Hz"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD® Radeon™ 860M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1, 1x USB 3.2 Gen 2 Type-C, support DP, PD, 1x USB 4 Gen 3 Type-C, support DP, PD, 1x USB 3.2 Gen 1 Type-A Tín hiệu 5Gbps tốc độ, 1x Jack tai nghe/micrô"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.2"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "65W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.19 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "312.4 x 220.1 x 14.9 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 75 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ZENBOOK-14-2024-ULTRA-7-155H-32GB-RAM-1TB-S-1-19",
@@ -5285,11 +16735,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "Zenbook",
     "category": "Mỏng nhẹ",
-    "cpu": "Ultra 7 155H",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Core Ultra 7 155H",
+    "ram": "32 GB DDR5 RAM",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 16:10 aspect ratio, 120Hz",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 22000000,
     "originalPrice": 27900000,
     "stock": 2,
@@ -5309,7 +16759,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/w800-5.png"
     ],
     "seoTitle": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core Ultra 7 155H"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB DDR5 RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 16:10 aspect ratio, 120Hz"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1, 2x Thunderbolt ™ 4 với USB Type-C, 1x USB Type-A Tín hiệu 5Gbps tốc độ, 1x Jack tai nghe/micrô"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "75 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 14.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 75 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ZENBOOK-S-16-RYZEN-AI-9-HX-370-RAM-32GB-SSD-1-20",
@@ -5317,11 +16837,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "Zenbook",
     "category": "Đồ họa",
-    "cpu": "Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 2.8K OLED",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 3.3GHz có thể đạt max với turbo boost tới 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache)",
+    "ram": "32GB LPDDR5x (không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4, chỉ có 1 khe lắp, nâng cấp tiếp được",
+    "display": "16″ 2.8K (2880 x 1800) Asus Lumina OLED, màn gương, không cảm ứng, tần số quét 120Hz, độ sáng màn hình 600nits, viền cực mảnh NanoEdge, Pantone validate: 100% DCI-P3, HDR500, Dolby Vision, LOW BLUE LIGHT, đạt chứng nhận bảo vệ mắt TUV Rheinland",
+    "gpu": "AMD Radeon 890M",
     "price": 36400000,
     "originalPrice": 40000000,
     "stock": 2,
@@ -5341,7 +16861,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/100000012047NBB-ASUUM5606WARJ108WMS.png"
     ],
     "seoTitle": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED giá tốt tại DP Lab",
-    "seoDescription": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 3.3GHz có thể đạt max với turbo boost tới 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4, chỉ có 1 khe lắp, nâng cấp tiếp được"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.8K (2880 x 1800) Asus Lumina OLED, màn gương, không cảm ứng, tần số quét 120Hz, độ sáng màn hình 600nits, viền cực mảnh NanoEdge, Pantone validate: 100% DCI-P3, HDR500, Dolby Vision, LOW BLUE LIGHT, đạt chứng nhận bảo vệ mắt TUV Rheinland"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 890M"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "khe đọc-ghi thẻ SD 4.0 1 cổng USB-A 3.2 Gen 2 (10Gbps) 2 cổng USB4 Type C (hỗ trợ tốc độ truyền tải 40Gbps, sạc, DisplayPort) HDMI 2.1 jack tai nghe"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "65 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.36 x 24.30 x 1.19 ~ 1.29 cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell 78Wh sạc nhanh, sạc 65W"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Ceraluminum (Ceramic Aluminum – chất liệu kết hợp tính chất của sứ và nhôm thường được sử dụng trong chế tạo máy bay và đồng hồ – gia tăng lực bền và độ dẻo dai nhưng vẫn cứng cáp)"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-AI-ASUS-ZENBOOK-S-14-ULTRA-5-226V-16GB-RAM-1TB-S-1-21",
@@ -5349,11 +16939,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "Zenbook",
     "category": "Mỏng nhẹ",
-    "cpu": "Ultra 5 226V",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 5 Processor 226V (3nm, 8-core/8-thread, up to 4.5 GHz, NPU AI)",
+    "ram": "16 GB RAM LPDDR5X 8533 MT/s",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 100 %sRGB, 16:10 aspect ratio, 120Hz, 10 bits, SGS Eye Care, Display HDR True Black 600",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 27800000,
     "originalPrice": 37200000,
     "stock": 2,
@@ -5373,7 +16963,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/7-1-3.png"
     ],
     "seoTitle": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 5 Processor 226V (3nm, 8-core/8-thread, up to 4.5 GHz, NPU AI)"
+      },
+      {
+        "label": "Ram",
+        "value": "16 GB RAM LPDDR5X 8533 MT/s"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 100 %sRGB, 16:10 aspect ratio, 120Hz, 10 bits, SGS Eye Care, Display HDR True Black 600"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1, 2x Thunderbolt ™ 4 với USB Type-C, 1x USB Type-A Tín hiệu 10Gbps tốc độ, 1x Jack tai nghe/micrô"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "65 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.15 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 1.1cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "72 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-AI-ASUS-ZENBOOK-S-14-UX5406S-ULTRA-7-258V-32GB-R-1-22",
@@ -5381,11 +17041,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "Zenbook",
     "category": "Mỏng nhẹ",
-    "cpu": "Ultra 7 258V",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 7 Processor 258V (3nm, 8-core/8-thread, up to 4.8 GHz, NPU AI)",
+    "ram": "32 GB RAM LPDDR5X 8533 MT/s",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 100 %sRGB, 16:10 aspect ratio, 120Hz, 10 bits, SGS Eye Care, Display HDR True Black 600",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 35000000,
     "originalPrice": 37200000,
     "stock": 2,
@@ -5405,7 +17065,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/7-1-3.png"
     ],
     "seoTitle": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 7 Processor 258V (3nm, 8-core/8-thread, up to 4.8 GHz, NPU AI)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB RAM LPDDR5X 8533 MT/s"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ ASUS Lumina OLED display—ultra-vivid 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 100 %sRGB, 16:10 aspect ratio, 120Hz, 10 bits, SGS Eye Care, Display HDR True Black 600"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1, 2x Thunderbolt ™ 4 với USB Type-C, 1x USB Type-A Tín hiệu 10Gbps tốc độ, 1x Jack tai nghe/micrô"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "65 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.15 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 1.1cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "72 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ZENBOOK-S-16-ULTRA-7-258V-32GB-RAM-1TB-SSD--1-23",
@@ -5413,11 +17143,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "Zenbook",
     "category": "Đồ họa",
-    "cpu": "Ultra 7 258V",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 3K OLED",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel® Core™ Ultra 7 Processor 258V (3nm, 8-core/8-thread, up to 4.8 GHz, NPU AI)",
+    "ram": "32GB LPDDR5x (không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4, chỉ có 1 khe lắp, nâng cấp tiếp được",
+    "display": "16″ 2.8K (2880 x 1800) Asus Lumina OLED, màn gương, không cảm ứng, tần số quét 120Hz, độ sáng màn hình 600nits, viền cực mảnh NanoEdge, Pantone validate: 100% DCI-P3, HDR500, Dolby Vision, LOW BLUE LIGHT, đạt chứng nhận bảo vệ mắt TUV Rheinland",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 37000000,
     "originalPrice": 41000000,
     "stock": 2,
@@ -5437,7 +17167,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/100000012047NBB-ASUUM5606WARJ108WMS.png"
     ],
     "seoTitle": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) giá tốt tại DP Lab",
-    "seoDescription": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ Ultra 7 Processor 258V (3nm, 8-core/8-thread, up to 4.8 GHz, NPU AI)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4, chỉ có 1 khe lắp, nâng cấp tiếp được"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.8K (2880 x 1800) Asus Lumina OLED, màn gương, không cảm ứng, tần số quét 120Hz, độ sáng màn hình 600nits, viền cực mảnh NanoEdge, Pantone validate: 100% DCI-P3, HDR500, Dolby Vision, LOW BLUE LIGHT, đạt chứng nhận bảo vệ mắt TUV Rheinland"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "khe đọc-ghi thẻ SD 4.0 1 cổng USB-A 3.2 Gen 2 (10Gbps) 2 cổng USB4 Type C (hỗ trợ tốc độ truyền tải 40Gbps, sạc, DisplayPort) HDMI 2.1 jack tai nghe"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "65 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.36 x 24.30 x 1.19 ~ 1.29 cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell 78Wh sạc nhanh, sạc 65W"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Ceraluminum (Ceramic Aluminum – chất liệu kết hợp tính chất của sứ và nhôm thường được sử dụng trong chế tạo máy bay và đồng hồ – gia tăng lực bền và độ dẻo dai nhưng vẫn cứng cáp)"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-PROART-P16-AI9-HX-370-32GB-RAM-1TB-SSD-RTX--1-24",
@@ -5445,11 +17245,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ProArt",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "16\" 4K OLED Cảm Ứng",
-    "gpu": "RTX 4060| 16\" 4K OLED Cảm Ứn",
+    "cpu": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS",
+    "ram": "32GB LPDDR5x (không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD",
+    "display": "16″ 4K (3840 x 2400) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 60Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 100% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision",
+    "gpu": "AMD Radeon 890M + Nvidia Geforce RTX 4060 8GB",
     "price": 46700000,
     "originalPrice": 60000000,
     "stock": 2,
@@ -5469,7 +17269,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png"
     ],
     "seoTitle": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 4K (3840 x 2400) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 60Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 100% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 890M + Nvidia Geforce RTX 4060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "Khe đọc-ghi thẻ SD Express 7.0 2 cổng USB-A 3.2 Gen 2 1 cổng USB-C 3.2 Gen 2 1 cổng USB-C 4.0 Gen 3 tốc độ 40Gbps hỗ trợ PD, DP HDMI 2.1 Jack tai nghe"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "200W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.85kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.49 x 24.69 x 1.49 ~ 1.73 cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell 90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại, phủ Nano, chống bám bẩn. Chất liệu cứng, bền nhưng siêu nhẹ"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-PROART-P16-AI9-HX-370-64GB-RAM-1TB-SSD-RTX--1-25",
@@ -5477,11 +17347,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ProArt",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "64GB",
-    "storage": "1TB",
-    "display": "16\" 2.8K OLED 120Hz Cảm Ứng",
-    "gpu": "RTX 5060| 16\" 2.8K OLED 120H",
+    "cpu": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS",
+    "ram": "64GB LPDDR5x 7500MHz (không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD",
+    "display": "16″ 2.8K (2880 x 1800) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 120Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 133% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision",
+    "gpu": "AMD Radeon 890M + Nvidia Geforce RTX 5060 8GB",
     "price": 72000000,
     "originalPrice": 80000000,
     "stock": 2,
@@ -5501,7 +17371,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg"
     ],
     "seoTitle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS"
+      },
+      {
+        "label": "Ram",
+        "value": "64GB LPDDR5x 7500MHz (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.8K (2880 x 1800) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 120Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 133% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 890M + Nvidia Geforce RTX 5060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "Khe đọc-ghi thẻ SD Express 7.0, 2x USB-A 3.2 Gen 2, 1x USB-C 3.2 Gen 2 hỗ trợ PD, DP1.4, 1x USB-C USB4 hỗ trợ PD, DP 2.1, HDMI 2.1, Jack tai nghe"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "200W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.85kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.49 x 24.69 x 1.49 ~ 1.73 cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell 90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại, phủ Nano, chống bám bẩn. Chất liệu cứng, bền nhưng siêu nhẹ"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-PROART-P16-AI9-HX-370-64GB-RAM-2TB-SSD-RTX--1-26",
@@ -5509,11 +17449,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ProArt",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "64GB",
-    "storage": "2TB",
-    "display": "16\" 4K OLED Cảm Ứng",
-    "gpu": "RTX 4070| 16\" 4K OLED Cảm Ứn",
+    "cpu": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS",
+    "ram": "64GB LPDDR5x (không hỗ trợ nâng cấp)",
+    "storage": "2TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD",
+    "display": "16″ 4K (3840 x 2400) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 60Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 100% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision",
+    "gpu": "AMD Radeon 890M + Nvidia Geforce RTX 4070 8GB",
     "price": 66000000,
     "originalPrice": 76000000,
     "stock": 2,
@@ -5533,7 +17473,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg"
     ],
     "seoTitle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS"
+      },
+      {
+        "label": "Ram",
+        "value": "64GB LPDDR5x (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "2TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 4K (3840 x 2400) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 60Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 100% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 890M + Nvidia Geforce RTX 4070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "Khe đọc-ghi thẻ SD Express 7.0 2 cổng USB-A 3.2 Gen 2 1 cổng USB-C 3.2 Gen 2 1 cổng USB-C 4.0 Gen 3 tốc độ 40Gbps hỗ trợ PD, DP HDMI 2.1 Jack tai nghe"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "200W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.85kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.49 x 24.69 x 1.49 ~ 1.73 cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell 90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại, phủ Nano, chống bám bẩn. Chất liệu cứng, bền nhưng siêu nhẹ"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-PROART-P16-2025-AI-9-HX-370-64GB-RAM-2TB-SS-1-27",
@@ -5541,11 +17551,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ProArt",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "64GB",
-    "storage": "2TB",
-    "display": "16\" 2.8K OLED Cảm Ứng",
-    "gpu": "RTX 5070| 16\" 2.8K OLED Cảm",
+    "cpu": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS",
+    "ram": "64GB LPDDR5x (không hỗ trợ nâng cấp)",
+    "storage": "2TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD",
+    "display": "16″ 2.8K (2880 x 1800) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 120Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 100% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision",
+    "gpu": "AMD Radeon 890M + Nvidia Geforce RTX 5070 8GB",
     "price": 80000000,
     "originalPrice": 100000000,
     "stock": 2,
@@ -5565,7 +17575,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-29_14-09-50.jpg"
     ],
     "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS"
+      },
+      {
+        "label": "Ram",
+        "value": "64GB LPDDR5x (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "2TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 2.8K (2880 x 1800) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 120Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 100% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 890M + Nvidia Geforce RTX 5070 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "Khe đọc-ghi thẻ SD Express 7.0, 2 cổng USB-A 3.2 Gen 2, 1 cổng USB-C 3.2 Gen 2, 1 cổng USB-C 4.0 Gen 3 tốc độ 40Gbps hỗ trợ PD, DP, HDMI 2.1 FRL, Jack tai nghe"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "200W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.85kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.49 x 24.69 x 1.49 ~ 1.73 cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell 90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại, phủ Nano, chống bám bẩn. Chất liệu cứng, bền nhưng siêu nhẹ"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-PROART-P16-2025-AI-9-HX-370-64GB-RAM-4TB-SS-1-28",
@@ -5573,11 +17653,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ProArt",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "64GB",
-    "storage": "4TB",
-    "display": "16\" 4K OLED Cảm Ứng",
-    "gpu": "RTX 5080| 16\" 4K OLED Cảm Ứn",
+    "cpu": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS",
+    "ram": "64GB LPDDR5x (không hỗ trợ nâng cấp)",
+    "storage": "4TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD",
+    "display": "16″ 4K Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 120Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 100% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision",
+    "gpu": "AMD Radeon 890M + Nvidia Geforce RTX 5080 16GB",
     "price": 105000000,
     "originalPrice": 125000000,
     "stock": 2,
@@ -5597,7 +17677,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/z6465596478854_82dee816add76a49ce62d6d8e4bf45a0.jpg"
     ],
     "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS"
+      },
+      {
+        "label": "Ram",
+        "value": "64GB LPDDR5x (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "4TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 4K Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 120Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 100% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 890M + Nvidia Geforce RTX 5080 16GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "Khe đọc-ghi thẻ SD Express 7.0, 2 cổng USB-A 3.2 Gen 2, 1 cổng USB-C 3.2 Gen 2, 1 cổng USB-C 4.0 Gen 3 tốc độ 40Gbps hỗ trợ PD, DP, HDMI 2.1 FRL, Jack tai nghe"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "200W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.85kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.49 x 24.69 x 1.49 ~ 1.73 cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell 90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại, phủ Nano, chống bám bẩn. Chất liệu cứng, bền nhưng siêu nhẹ"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-PROART-P16-2025-AI-9-HX-370-64GB-RAM-4TB-SS-1-29",
@@ -5605,11 +17755,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ProArt",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "64GB",
-    "storage": "4TB",
-    "display": "16\" 4K OLED Cảm Ứng",
-    "gpu": "RTX 5090| 16\" 4K OLED Cảm Ứn",
+    "cpu": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS",
+    "ram": "64GB LPDDR5x (không hỗ trợ nâng cấp)",
+    "storage": "4TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD",
+    "display": "16″ 4K Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 120Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 100% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision",
+    "gpu": "AMD Radeon 890M + Nvidia Geforce RTX 5090 24GB",
     "price": 120000000,
     "originalPrice": 140000000,
     "stock": 2,
@@ -5629,7 +17779,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
     "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS"
+      },
+      {
+        "label": "Ram",
+        "value": "64GB LPDDR5x (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "4TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16″ 4K Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 120Hz, 400-500nits, NanoEdge, Pantone validate: 100% DCI-P3, 100% sRGB, 99% AdobeRGB, VESA CERTIFIED Display HDR True Black 500, Delta E <1, Dolby Vision"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 890M + Nvidia Geforce RTX 5090 24GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "Khe đọc-ghi thẻ SD Express 7.0, 2 cổng USB-A 3.2 Gen 2, 1 cổng USB-C 3.2 Gen 2, 1 cổng USB-C 4.0 Gen 3 tốc độ 40Gbps hỗ trợ PD, DP, HDMI 2.1 FRL, Jack tai nghe"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "200W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.85kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.49 x 24.69 x 1.49 ~ 1.73 cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell 90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại, phủ Nano, chống bám bẩn. Chất liệu cứng, bền nhưng siêu nhẹ"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-PROART-PX13-AI9-HX-370-32GB-RAM-1TB-SSD-RTX-1-30",
@@ -5637,11 +17857,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ProArt",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "13\" 3K OLED Cảm Ứng",
-    "gpu": "RTX 4060| 13\" 3K OLED Cảm Ứn",
+    "cpu": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS",
+    "ram": "32GB LPDDR5x (không hỗ trợ nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD",
+    "display": "13.3″ 3K (2800 x 1800) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 60Hz, 500nits Peak Brightness, NanoEdge, Pantone validate: 100% DCI-P3, Display HDR True Black 500, Delta E <1, Dolby Vision",
+    "gpu": "AMD Radeon 890M + Nvidia Geforce RTX 4060 8GB",
     "price": 55000000,
     "originalPrice": 65000000,
     "stock": 2,
@@ -5661,7 +17881,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, Turbo Boost up to 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache) NPU AMD XDNA™ up to 50TOPS"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5x (không hỗ trợ nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2 SSD gen 4, 2 khe lắp SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.3″ 3K (2800 x 1800) Asus Lumina OLED, tỷ lệ 16:10, màn gương, có cảm ứng, 60Hz, 500nits Peak Brightness, NanoEdge, Pantone validate: 100% DCI-P3, Display HDR True Black 500, Delta E <1, Dolby Vision"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon 890M + Nvidia Geforce RTX 4060 8GB"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x MicroSD Reader 4.0 1x USB-A 3.2 Gen 2 2x USB-C 4.0 Gen 3 support 40Gbps data transfer, PD, DP support 1x HDMI 2.1 FRL 1x 3.5 Combo Audio Jack"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "200W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.38kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "298x210x16 mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4 Cell 73Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại, phủ Nano, chống bám bẩn. Chất liệu cứng, bền nhưng siêu nhẹ"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A16-2025-AI-9-HX-370-32GB-RAM-1T-1-31",
@@ -5669,11 +17959,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060| 165Hz",
+    "cpu": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 3.3GHz có thể đạt max với turbo boost tới 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache)",
+    "ram": "32 GB RAM LPDDR5 7500MHz",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 4060 Laptop GPU 8GB GDDR6, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 36000000,
     "originalPrice": 43000000,
     "stock": 2,
@@ -5693,7 +17983,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744864291_48c4a773cb51113bd2740f25a04c8e33.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 3.3GHz có thể đạt max với turbo boost tới 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB RAM LPDDR5 7500MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 4060 Laptop GPU 8GB GDDR6, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x USB-C 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "240W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-F16-2025-I7-13650HX-16GB-RAM-1TB-1-32",
@@ -5701,11 +18061,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5050| 165Hz",
+    "cpu": "Intel Core i7-13650HX (14 nhân 20 luồng, xung nhịp cơ bản từ 2.6GHz có thể đạt max với turbo boost tới 4.9GHz, 24MB Cache)",
+    "ram": "16GB RAM DDR5 4800MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5050 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 32900000,
     "originalPrice": 40000000,
     "stock": 2,
@@ -5725,7 +18085,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/P16-1.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7-13650HX (14 nhân 20 luồng, xung nhịp cơ bản từ 2.6GHz có thể đạt max với turbo boost tới 4.9GHz, 24MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 4800MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5050 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x Thunderbolt 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-F16-2025-I7-13650HX-16GB-RAM-1TB-1-33",
@@ -5733,11 +18163,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060| 165Hz",
+    "cpu": "Intel Core i7-13650HX (14 nhân 20 luồng, xung nhịp cơ bản từ 2.6GHz có thể đạt max với turbo boost tới 4.9GHz, 24MB Cache)",
+    "ram": "16GB RAM DDR5 4800MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 34500000,
     "originalPrice": 42000000,
     "stock": 2,
@@ -5757,7 +18187,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7-13650HX (14 nhân 20 luồng, xung nhịp cơ bản từ 2.6GHz có thể đạt max với turbo boost tới 4.9GHz, 24MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 4800MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x Thunderbolt 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-F16-2025-I7-13650HX-16GB-RAM-1TB-1-34",
@@ -5765,11 +18265,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070| 165Hz",
+    "cpu": "Intel Core i7-13650HX (14 nhân 20 luồng, xung nhịp cơ bản từ 2.6GHz có thể đạt max với turbo boost tới 4.9GHz, 24MB Cache)",
+    "ram": "16GB RAM DDR5 4800MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 37800000,
     "originalPrice": 45000000,
     "stock": 2,
@@ -5789,7 +18289,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_03_2400_x_2400.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7-13650HX (14 nhân 20 luồng, xung nhịp cơ bản từ 2.6GHz có thể đạt max với turbo boost tới 4.9GHz, 24MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 4800MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x Thunderbolt 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-F16-2025-I7-14650HX-16GB-RAM-1TB-1-35",
@@ -5797,11 +18367,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5050| 165Hz",
+    "cpu": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản từ 2.2GHz có thể đạt max với turbo boost tới 5.2GHz, 30MB Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5050 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 33700000,
     "originalPrice": 42900000,
     "stock": 2,
@@ -5821,7 +18391,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản từ 2.2GHz có thể đạt max với turbo boost tới 5.2GHz, 30MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5050 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x Thunderbolt 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-F16-2025-I7-14650HX-16GB-RAM-1TB-1-36",
@@ -5829,11 +18469,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060| 165Hz",
+    "cpu": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản từ 2.2GHz có thể đạt max với turbo boost tới 5.2GHz, 30MB Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 35500000,
     "originalPrice": 42000000,
     "stock": 2,
@@ -5853,7 +18493,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản từ 2.2GHz có thể đạt max với turbo boost tới 5.2GHz, 30MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x Thunderbolt 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-F16-2025-I7-14650HX-16GB-RAM-1TB-1-37",
@@ -5861,11 +18571,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070| 165Hz",
+    "cpu": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản từ 2.2GHz có thể đạt max với turbo boost tới 5.2GHz, 30MB Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 38200000,
     "originalPrice": 45000000,
     "stock": 2,
@@ -5885,7 +18595,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Core i7-14650HX (16 nhân 24 luồng, xung nhịp cơ bản từ 2.2GHz có thể đạt max với turbo boost tới 5.2GHz, 30MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x Thunderbolt 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A16-2025-R9-8940HX-16GB-RAM-1TB--1-38",
@@ -5893,11 +18673,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060| 165Hz",
+    "cpu": "AMD Ryzen 9 8940HX (16 nhân 32 luồng, xung nhịp cơ bản từ 2.4GHz có thể đạt max với turbo boost tới 5.3GHz, 80MB Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 34900000,
     "originalPrice": 42000000,
     "stock": 2,
@@ -5917,7 +18697,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/z6465596478854_82dee816add76a49ce62d6d8e4bf45a0.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8940HX (16 nhân 32 luồng, xung nhịp cơ bản từ 2.4GHz có thể đạt max với turbo boost tới 5.3GHz, 80MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x USB-C support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A16-2025-R9-8940HX-16GB-RAM-1TB--1-39",
@@ -5925,11 +18775,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070| 165Hz",
+    "cpu": "AMD Ryzen 9 8940HX (16 nhân 32 luồng, xung nhịp cơ bản từ 2.4GHz có thể đạt max với turbo boost tới 5.3GHz, 80MB Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 37000000,
     "originalPrice": 45000000,
     "stock": 2,
@@ -5949,7 +18799,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8940HX (16 nhân 32 luồng, xung nhịp cơ bản từ 2.4GHz có thể đạt max với turbo boost tới 5.3GHz, 80MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x USB-C support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A16-2025-AI-9-HX-370-16GB-RAM-1T-2-0",
@@ -5957,11 +18877,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060| 165Hz",
+    "cpu": "AMD AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 2GHz có thể đạt max với turbo boost tới 5.1GHz, 12MB L2 Cache, 24MB L3 Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 36000000,
     "originalPrice": 49000000,
     "stock": 2,
@@ -5981,7 +18901,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 2GHz có thể đạt max với turbo boost tới 5.1GHz, 12MB L2 Cache, 24MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x USB-C support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A16-2025-AI-9-HX-370-16GB-RAM-1T-2-1",
@@ -5989,11 +18979,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070| 165Hz",
+    "cpu": "AMD AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 2GHz có thể đạt max với turbo boost tới 5.1GHz, 12MB L2 Cache, 24MB L3 Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5070",
     "price": 42000000,
     "originalPrice": 52000000,
     "stock": 2,
@@ -6013,7 +19003,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/z6465596478854_82dee816add76a49ce62d6d8e4bf45a0.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 2GHz có thể đạt max với turbo boost tới 5.1GHz, 12MB L2 Cache, 24MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x USB-C support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A16-2025-R9-9955HX-16GB-RAM-1TB--2-2",
@@ -6021,11 +19081,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060| 165Hz",
+    "cpu": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản từ 2.5GHz có thể đạt max với turbo boost tới 5.4GHz, 80MB Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 35700000,
     "originalPrice": 52000000,
     "stock": 2,
@@ -6045,7 +19105,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX (16 nhân 32 luồng, xung nhịp cơ bản từ 2.5GHz có thể đạt max với turbo boost tới 5.4GHz, 80MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x USB-C support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A16-2025-R9-9955HX-16GB-RAM-1TB--2-3",
@@ -6053,11 +19183,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070| 165Hz",
+    "cpu": "AMD Ryzen 9 9945HX (16 nhân 32 luồng, xung nhịp cơ bản từ 2.5GHz có thể đạt max với turbo boost tới 5.4GHz, 80MB Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 40100000,
     "originalPrice": 52000000,
     "stock": 2,
@@ -6077,7 +19207,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9945HX (16 nhân 32 luồng, xung nhịp cơ bản từ 2.5GHz có thể đạt max với turbo boost tới 5.4GHz, 80MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x USB-C support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A16-2025-RYZEN-7-H-260-16GB-RAM--2-4",
@@ -6085,11 +19285,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Ryzen 7 H 260",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5050| 165Hz",
+    "cpu": "AMD Ryzen 7 H 260 (8 nhân 16 luồng, xung nhịp cơ bản từ 3.8GHz có thể đạt max với turbo boost tới 5.1GHz, 8MB L2 Cache, 16MB L3 Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5050 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 32600000,
     "originalPrice": 40000000,
     "stock": 2,
@@ -6109,7 +19309,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 H 260 (8 nhân 16 luồng, xung nhịp cơ bản từ 3.8GHz có thể đạt max với turbo boost tới 5.1GHz, 8MB L2 Cache, 16MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5050 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x USB-C support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A16-2025-RYZEN-7-H-260-16GB-RAM--2-5",
@@ -6117,11 +19387,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Ryzen 7 H 260",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060| 165Hz",
+    "cpu": "AMD Ryzen 7 H 260 (8 nhân 16 luồng, xung nhịp cơ bản từ 3.8GHz có thể đạt max với turbo boost tới 5.1GHz, 8MB L2 Cache, 16MB L3 Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 35000000,
     "originalPrice": 48000000,
     "stock": 2,
@@ -6141,7 +19411,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 7 H 260 (8 nhân 16 luồng, xung nhịp cơ bản từ 3.8GHz có thể đạt max với turbo boost tới 5.1GHz, 8MB L2 Cache, 16MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x USB-C support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-F16-2025-ULTRA-7-255HX-16GB-RAM--2-6",
@@ -6149,11 +19489,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060| 165Hz",
+    "cpu": "Intel Ultra 7-255HX (20 nhân 20 luồng, xung nhịp cơ bản từ 2.4GHz có thể đạt max với turbo boost tới 5.2GHz, 30MB Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 35600000,
     "originalPrice": 48000000,
     "stock": 2,
@@ -6173,7 +19513,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 7-255HX (20 nhân 20 luồng, xung nhịp cơ bản từ 2.4GHz có thể đạt max với turbo boost tới 5.2GHz, 30MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x Thunderbolt 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-F16-2025-ULTRA-7-255HX-16GB-RAM--2-7",
@@ -6181,11 +19591,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070| 165Hz",
+    "cpu": "Intel Ultra 7-255HX (20 nhân 20 luồng, xung nhịp cơ bản từ 2.4GHz có thể đạt max với turbo boost tới 5.2GHz, 30MB Cache)",
+    "ram": "16GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 40800000,
     "originalPrice": 48000000,
     "stock": 2,
@@ -6205,7 +19615,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 7-255HX (20 nhân 20 luồng, xung nhịp cơ bản từ 2.4GHz có thể đạt max với turbo boost tới 5.2GHz, 30MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x Thunderbolt 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-F16-2025-ULTRA-9-275HX-32GB-RAM--2-8",
@@ -6213,11 +19693,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060| 165Hz",
+    "cpu": "Intel Ultra 9-275HX (24 nhân 24 luồng, xung nhịp cơ bản từ 2.7GHz có thể đạt max với turbo boost tới 5.4GHz, 36MB Cache)",
+    "ram": "32GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 39000000,
     "originalPrice": 60000000,
     "stock": 2,
@@ -6237,7 +19717,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9-275HX (24 nhân 24 luồng, xung nhịp cơ bản từ 2.7GHz có thể đạt max với turbo boost tới 5.4GHz, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x Thunderbolt 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-F16-2025-ULTRA-9-275HX-32GB-RAM--2-9",
@@ -6245,11 +19795,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070| 165Hz",
+    "cpu": "Intel Ultra 9-275HX (24 nhân 24 luồng, xung nhịp cơ bản từ 2.7GHz có thể đạt max với turbo boost tới 5.4GHz, 36MB Cache)",
+    "ram": "32GB RAM DDR5 5600MHz (có thể nâng cấp)",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 42000000,
     "originalPrice": 60000000,
     "stock": 2,
@@ -6269,7 +19819,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9-275HX (24 nhân 24 luồng, xung nhịp cơ bản từ 2.7GHz có thể đạt max với turbo boost tới 5.4GHz, 36MB Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB RAM DDR5 5600MHz (có thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, 3ms, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "3x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x Thunderbolt 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "280W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.3 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-TUF-GAMING-A16-2025-AI-9-HX-370-32GB-RAM-1T-2-10",
@@ -6277,11 +19897,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "TUF",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4070| 165Hz",
+    "cpu": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 3.3GHz có thể đạt max với turbo boost tới 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache)",
+    "ram": "32 GB RAM LPDDR5 7500MHz",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits",
+    "gpu": "NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6, MUX Switch + NVIDIA® Advanced Optimus",
     "price": 40500000,
     "originalPrice": 50000000,
     "stock": 2,
@@ -6301,7 +19921,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744864291_48c4a773cb51113bd2740f25a04c8e33.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370 (12 nhân 24 luồng, xung nhịp cơ bản từ 3.3GHz có thể đạt max với turbo boost tới 5.1GHz, 12 MB L2 Cache, 24MB L3 Cache)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB RAM LPDDR5 7500MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "Màn hình 16″ 2.5K (2560 x 1600, WQXGA) 16:10 165Hz, IPS, công nghệ chống chói, G-Sync, đạt chuẩn 100% sRGB, độ sáng 400nits"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6, MUX Switch + NVIDIA® Advanced Optimus"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB-A 3.2 Gen 2, 1x RJ45, 1x HDMI 2.1, 1x USB-C 4.0 support data transfer 40Gbps, DP 2.1, 1x USB-C support PD 100W, DP 1.4, 1x 3.5mm Jack Headphone/Micro"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "240W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~2.2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "Mỏng 17.9mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ZENBOOK-A14-2025-SNAPDRAGON-X-32GB-RAM-1TB--2-11",
@@ -6309,11 +19999,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "Zenbook",
     "category": "Đồ họa",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Snapdragon® X",
+    "ram": "32 GB DDR5 RAM",
+    "storage": "1TB PCIe SSD Gen 4",
+    "display": "14″ 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 16:9 aspect ratio, 120Hz",
+    "gpu": "Qualcomm® Adreno™ GPU",
     "price": 27500000,
     "originalPrice": 32000000,
     "stock": 2,
@@ -6333,7 +20023,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_05_2400_x_2400.jpg"
     ],
     "seoTitle": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) giá tốt tại DP Lab",
-    "seoDescription": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Snapdragon® X"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB DDR5 RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe SSD Gen 4"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ 2880 x 1800 resolution, 600-nit brightness, 100% DCI-P3 color, 16:9 aspect ratio, 120Hz"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Qualcomm® Adreno™ GPU"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x HDMI 2.1 TMDS, 2x Thunderbolt ™ 4 với USB Type-C, 1x USB Type-A Tín hiệu 10Gbps tốc độ, 1x Jack tai nghe/micrô"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6E + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "1080P IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "65 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "960g"
+      },
+      {
+        "label": "Kích thước",
+        "value": "31.07 x 21.39 x 1.29cm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 70 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-FLOW-Z13-2025-AI-MAX-395-32GB-RAM-1TB-S-2-12",
@@ -6341,11 +20101,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Radeon 8060S",
+    "cpu": "Ryzen AI MAX+ 395",
+    "ram": "32GB LPDDR5X 8200MHz",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "13.4inch, IPS 16:10 2.5K (2560 x 1600), 180Hz 3ms, 500nits, AMD FreeSync, 100%DCI-P3, Delta E < 1",
+    "gpu": "AMD Radeon™ 8060S",
     "price": 62000000,
     "originalPrice": 75000000,
     "stock": 2,
@@ -6365,7 +20125,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
     "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen AI MAX+ 395"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X 8200MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.4inch, IPS 16:10 2.5K (2560 x 1600), 180Hz 3ms, 500nits, AMD FreeSync, 100%DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 8060S"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 1x USB 3.2 Gen 1 Type-A 10Gbps, 2x Type-C USB 4 support DP2.1, PD 100W, 40Gbps Data Transfer, 1x MicroSD UHS"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR Camera"
+      },
+      {
+        "label": "Kích thước",
+        "value": "300 x 204 x 129mm ~14.9mm"
+      },
+      {
+        "label": "Sạc",
+        "value": "200w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.3kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "70Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-FLOW-Z13-2025-AI-MAX-395-64GB-RAM-1TB-S-2-13",
@@ -6373,11 +20207,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "64GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Radeon 8060S",
+    "cpu": "Ryzen AI MAX+ 395",
+    "ram": "64GB LPDDR5X 8200MHz",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "13.4inch, IPS 16:10 2.5K (2560 x 1600), 180Hz 3ms, 500nits, AMD FreeSync, 100%DCI-P3, Delta E < 1",
+    "gpu": "AMD Radeon™ 8060S",
     "price": 67000000,
     "originalPrice": 85000000,
     "stock": 2,
@@ -6397,7 +20231,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
     "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen AI MAX+ 395"
+      },
+      {
+        "label": "Ram",
+        "value": "64GB LPDDR5X 8200MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.4inch, IPS 16:10 2.5K (2560 x 1600), 180Hz 3ms, 500nits, AMD FreeSync, 100%DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 8060S"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 1x USB 3.2 Gen 1 Type-A 10Gbps, 2x Type-C USB 4 support DP2.1, PD 100W, 40Gbps Data Transfer, 1x MicroSD UHS"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR Camera"
+      },
+      {
+        "label": "Kích thước",
+        "value": "300 x 204 x 129mm ~14.9mm"
+      },
+      {
+        "label": "Sạc",
+        "value": "200w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.3kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "70Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G16-2024-I9-13980HX-16GB-RAM-1TB--2-14",
@@ -6405,11 +20313,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "Core Intel i9 13980HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC, 100%DCI-P3, Delta E < 1",
+    "gpu": "NVIDIA® GeForce RTX™ 4060 8GB GDDR6",
     "price": 32500000,
     "originalPrice": 40000000,
     "stock": 2,
@@ -6429,7 +20337,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-122003.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Core Intel i9 13980HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC, 100%DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A 10Gbps, 1x Type-C USB3.2 support DP1.4, PD 100W, 1x Type-C Thunderbolt4 support DP1.4, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6E + Bluetooth® 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD Camera"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.5kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G16-2025-RYZEN-9-8940HX-16GB-RAM--2-15",
@@ -6437,11 +20419,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "AMD Ryzen 9 8940HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 400nits, G-SYNC 100%sRGB, Delta E < 1",
+    "gpu": "NVIDIA® GeForce RTX™ 5060 8GB GDDR7",
     "price": 43000000,
     "originalPrice": 60000000,
     "stock": 2,
@@ -6461,7 +20443,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113327.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8940HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 400nits, G-SYNC 100%sRGB, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A 10Gbps, 1x Type-C USB4 support DP1.4, PD 100W, 1x Type-C USB4 support DP1.4, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6E + Bluetooth® 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD Camera"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.5kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G16-2025-RYZEN-9-8940HX-16GB-RAM--2-16",
@@ -6469,11 +20525,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070Ti",
+    "cpu": "AMD Ryzen 9 8940HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 400nits, G-SYNC 100%sRGB, Delta E < 1",
+    "gpu": "NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7",
     "price": 60000000,
     "originalPrice": 70000000,
     "stock": 2,
@@ -6493,7 +20549,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113327.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 8940HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 400nits, G-SYNC 100%sRGB, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A 10Gbps, 1x Type-C USB4 support DP1.4, PD 100W, 1x Type-C USB4 support DP1.4, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6E + Bluetooth® 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD Camera"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.5kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G16-2025-RYZEN-9-9955HX-16GB-RAM--2-17",
@@ -6501,11 +20631,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "AMD Ryzen 9 9955HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "NVIDIA® GeForce RTX™ 5060 8GB GDDR7",
     "price": 50000000,
     "originalPrice": 70000000,
     "stock": 2,
@@ -6525,7 +20655,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113337.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A 10Gbps, 1x Type-C USB4 support DP1.4, PD 100W, 1x Type-C USB4 support DP1.4, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6E + Bluetooth® 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD Camera"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.5kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G16-2025-RYZEN-9-9955HX-16GB-RAM--2-18",
@@ -6533,11 +20737,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070",
+    "cpu": "AMD Ryzen 9 9955HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "NVIDIA® GeForce RTX™ 5070 8GB GDDR7",
     "price": 53000000,
     "originalPrice": 70000000,
     "stock": 2,
@@ -6557,7 +20761,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113337.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A 10Gbps, 1x Type-C USB4 support DP1.4, PD 100W, 1x Type-C USB4 support DP1.4, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6E + Bluetooth® 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD Camera"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.5kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G16-2025-RYZEN-9-9955HX-16GB-RAM--2-19",
@@ -6565,11 +20843,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070Ti",
+    "cpu": "AMD Ryzen 9 9955HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7",
     "price": 55000000,
     "originalPrice": 70000000,
     "stock": 2,
@@ -6589,7 +20867,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113337.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A 10Gbps, 1x Type-C USB4 support DP1.4, PD 100W, 1x Type-C USB4 support DP1.4, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6E + Bluetooth® 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD Camera"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.5kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G16-2025-RYZEN-9-9955HX3D-16GB-RA-2-20",
@@ -6597,11 +20949,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070Ti",
+    "cpu": "AMD Ryzen 9 9955HX3D",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7",
     "price": 60000000,
     "originalPrice": 70000000,
     "stock": 2,
@@ -6621,7 +20973,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113327.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen 9 9955HX3D"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A 10Gbps, 1x Type-C USB4 support DP1.4, PD 100W, 1x Type-C USB4 support DP1.4, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6E + Bluetooth® 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD Camera"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.5kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G16-2025-ULTRA-7-255HX-16GB-RAM-1-2-21",
@@ -6629,11 +21055,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Intel Ultra 7 255HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5060 8GB GDDR7",
     "price": 50000000,
     "originalPrice": 75000000,
     "stock": 2,
@@ -6653,7 +21079,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 7 255HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.65kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G16-2025-ULTRA-9-275HX-16GB-RAM-1-2-22",
@@ -6661,11 +21161,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Intel Ultra 9 275HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5060 8GB GDDR7",
     "price": 54000000,
     "originalPrice": 75000000,
     "stock": 2,
@@ -6685,7 +21185,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.65kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G16-2025-ULTRA-9-275HX-16GB-RAM-1-2-23",
@@ -6693,11 +21267,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070",
+    "cpu": "Intel Ultra 9 275HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5070 8GB GDDR7",
     "price": 55000000,
     "originalPrice": 75000000,
     "stock": 2,
@@ -6717,7 +21291,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5070 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.65kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G16-2025-ULTRA-9-275HX-16GB-RAM-1-2-24",
@@ -6725,11 +21373,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070Ti",
+    "cpu": "Intel Ultra 9 275HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7",
     "price": 60000000,
     "originalPrice": 75000000,
     "stock": 2,
@@ -6749,7 +21397,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.65kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-G14-2024-R9-8945HS-32GB-RAM-1T-2-25",
@@ -6757,11 +21479,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "AMD Ryzen™ 9 8945HS 4GHz (24MB Cache, up to 5.2 GHz, 8 Cores, 16 Threads), AMD Ryzen™ AI technology",
+    "ram": "32GB LPDDR5X 6400 RAM",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "14-inch, OLED 16:10 2.8K (2880 x 1800) 120Hz G-Sync, 500nits, 100% DCI-P3, Delta E < 1",
+    "gpu": "AMD Radeon™ Graphics và NVIDIA® GeForce RTX™ 4060 8GB GDDR6",
     "price": 43000000,
     "originalPrice": 50800000,
     "stock": 2,
@@ -6781,7 +21503,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-56.png"
     ],
     "seoTitle": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 9 8945HS 4GHz (24MB Cache, up to 5.2 GHz, 8 Cores, 16 Threads), AMD Ryzen™ AI technology"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X 6400 RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14-inch, OLED 16:10 2.8K (2880 x 1800) 120Hz G-Sync, 500nits, 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ Graphics và NVIDIA® GeForce RTX™ 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, DisplayPort 1.4, Power Delivery 3.0, 1x Type-C USB 4, 1x card reader (microSD) (UHS-II)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6E(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.3"
+      },
+      {
+        "label": "Kích thước",
+        "value": "15.9cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "180w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.5kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Có đèn"
+      },
+      {
+        "label": "Pin",
+        "value": "73Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2024"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-FLOW-Z13-2025-AI-MAX-390-32GB-RAM-1TB-S-2-26",
@@ -6789,11 +21581,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Radeon 8050S",
+    "cpu": "Ryzen AI MAX 390",
+    "ram": "32GB LPDDR5X 8200MHz",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "13.4inch, IPS 16:10 2.5K (2560 x 1600), 180Hz 3ms, 500nits, AMD FreeSync, 100%DCI-P3, Delta E < 1",
+    "gpu": "AMD Radeon™ 8050S",
     "price": 56000000,
     "originalPrice": 72000000,
     "stock": 2,
@@ -6813,7 +21605,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
     "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen AI MAX 390"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X 8200MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.4inch, IPS 16:10 2.5K (2560 x 1600), 180Hz 3ms, 500nits, AMD FreeSync, 100%DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 8050S"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 1x USB 3.2 Gen 1 Type-A 10Gbps, 2x Type-C USB 4 support DP2.1, PD 100W, 40Gbps Data Transfer, 1x MicroSD UHS"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR Camera"
+      },
+      {
+        "label": "Kích thước",
+        "value": "300 x 204 x 129mm ~14.9mm"
+      },
+      {
+        "label": "Sạc",
+        "value": "200w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.3kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "70Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G18-2025-ULTRA-9-275HX-16GB-RAM-1-2-27",
@@ -6821,11 +21687,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Intel Ultra 9 275HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "18-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5060 8GB GDDR7",
     "price": 59000000,
     "originalPrice": 80000000,
     "stock": 2,
@@ -6845,7 +21711,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "18-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "39.9 x 29.8 x 2.35 ~ 3.20 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "3.2kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-FLOW-Z13-2025-AI-MAX-395-128GB-RAM-1TB--2-28",
@@ -6853,11 +21793,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "Đang cập nhật",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Radeon 8060S",
+    "cpu": "Ryzen AI MAX+ 395",
+    "ram": "128GB LPDDR5X 8200MHz",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "13.4inch, IPS 16:10 2.5K (2560 x 1600), 180Hz 3ms, 500nits, AMD FreeSync, 100%DCI-P3, Delta E < 1",
+    "gpu": "AMD Radeon™ 8060S",
     "price": 77000000,
     "originalPrice": 100000000,
     "stock": 2,
@@ -6877,7 +21817,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
     "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen AI MAX+ 395"
+      },
+      {
+        "label": "Ram",
+        "value": "128GB LPDDR5X 8200MHz"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "13.4inch, IPS 16:10 2.5K (2560 x 1600), 180Hz 3ms, 500nits, AMD FreeSync, 100%DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ 8060S"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 1x USB 3.2 Gen 1 Type-A 10Gbps, 2x Type-C USB 4 support DP2.1, PD 100W, 40Gbps Data Transfer, 1x MicroSD UHS"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR Camera"
+      },
+      {
+        "label": "Kích thước",
+        "value": "300 x 204 x 129mm ~14.9mm"
+      },
+      {
+        "label": "Sạc",
+        "value": "200w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.3kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "70Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G18-2025-ULTRA-9-275HX-16GB-RAM-1-2-29",
@@ -6885,10 +21899,10 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
+    "cpu": "Intel Ultra 9 275HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "18-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
     "gpu": "RTX 5070",
     "price": 61000000,
     "originalPrice": 80000000,
@@ -6909,7 +21923,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-29_14-09-50.jpg"
     ],
     "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "18-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5070 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "39.9 x 29.8 x 2.35 ~ 3.20 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "3.2kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G18-2025-ULTRA-9-275HX-16GB-RAM-1-2-30",
@@ -6917,11 +22005,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070Ti",
+    "cpu": "Intel Ultra 9 275HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "18-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7",
     "price": 63000000,
     "originalPrice": 80000000,
     "stock": 2,
@@ -6941,7 +22029,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113202.png"
     ],
     "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "18-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "39.9 x 29.8 x 2.35 ~ 3.20 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "3.2kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-G18-2025-ULTRA-9-275HX-16GB-RAM-1-2-31",
@@ -6949,11 +22111,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5080",
+    "cpu": "Intel Ultra 9 275HX",
+    "ram": "16GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "18-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5080 16GB GDDR7",
     "price": 81000000,
     "originalPrice": 90000000,
     "stock": 2,
@@ -6973,7 +22135,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-22_16-49-05.jpg"
     ],
     "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "18-inch, IPS 16:10 2.5K 240Hz 3ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5080 16GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "39.9 x 29.8 x 2.35 ~ 3.20 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "280w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "3.2kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-SCAR-16-2025-ULTRA-9-275HX-32GB-R-2-32",
@@ -6981,11 +22217,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5080",
+    "cpu": "Intel Ultra 9 275HX",
+    "ram": "32GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, MiniLED 16:10 2.5K 240Hz 3ms, 1200nits Peak Brightness, G-SYNC, 100% DCI-P3,HDR 1000, Delta E < 1, TUV Certification",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5080 16GB GDDR7",
     "price": 90000000,
     "originalPrice": 112000000,
     "stock": 2,
@@ -7005,7 +22241,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.4.png"
     ],
     "seoTitle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, MiniLED 16:10 2.5K 240Hz 3ms, 1200nits Peak Brightness, G-SYNC, 100% DCI-P3,HDR 1000, Delta E < 1, TUV Certification"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5080 16GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "380w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.8kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-SCAR-16-2025-ULTRA-9-275HX-32GB-R-2-33",
@@ -7013,11 +22323,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5090",
+    "cpu": "Intel Ultra 9 275HX",
+    "ram": "32GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, MiniLED 16:10 2.5K 240Hz 3ms, 1200nits Peak Brightness, G-SYNC, 100% DCI-P3,HDR 1000, Delta E < 1, TUV Certification",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5090 24GB GDDR7",
     "price": 109000000,
     "originalPrice": 139000000,
     "stock": 2,
@@ -7037,7 +22347,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.4.png"
     ],
     "seoTitle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, MiniLED 16:10 2.5K 240Hz 3ms, 1200nits Peak Brightness, G-SYNC, 100% DCI-P3,HDR 1000, Delta E < 1, TUV Certification"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5090 24GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4×26.8×2.28 ~ 3.08 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "380w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2.8kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-SCAR-18-2025-ULTRA-9-275HX-32GB-R-2-34",
@@ -7045,11 +22429,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5080",
+    "cpu": "Intel Ultra 9 275HX",
+    "ram": "32GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "18-inch, MiniLED 16:10 2.5K 240Hz 3ms, 1200nits Peak Brightness, HDR 1000, G-SYNC, 100% DCI-P3, Delta E < 1, TUV Certification",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5080 16GB GDDR7",
     "price": 95000000,
     "originalPrice": 125000000,
     "stock": 2,
@@ -7069,7 +22453,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png"
     ],
     "seoTitle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "18-inch, MiniLED 16:10 2.5K 240Hz 3ms, 1200nits Peak Brightness, HDR 1000, G-SYNC, 100% DCI-P3, Delta E < 1, TUV Certification"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5080 16GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "39.9 x 29.8 x 2.35 ~ 3.20 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "380w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "3.3kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-STRIX-SCAR-18-2025-ULTRA-9-275HX-64GB-R-2-35",
@@ -7077,11 +22535,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "64GB",
-    "storage": "2TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5090",
+    "cpu": "Intel Ultra 9 275HX",
+    "ram": "64GB LPDDR5 RAM có thể nâng cấp",
+    "storage": "2TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "18-inch, MiniLED 16:10 2.5K 240Hz 3ms, 1200nits Peak Brightness, HDR 1000, G-SYNC, 100% DCI-P3, Delta E < 1, TUV Certification",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5090 24GB GDDR7",
     "price": 123000000,
     "originalPrice": 160000000,
     "stock": 2,
@@ -7101,7 +22559,81 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 275HX"
+      },
+      {
+        "label": "Ram",
+        "value": "64GB LPDDR5 RAM có thể nâng cấp"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "2TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "18-inch, MiniLED 16:10 2.5K 240Hz 3ms, 1200nits Peak Brightness, HDR 1000, G-SYNC, 100% DCI-P3, Delta E < 1, TUV Certification"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5090 24GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 3x USB 3.2 Gen 2 Type-A 10Gbps, 2x Type-C Thunderbolt 5 support DP2.1, PD 100W, 1x RJ45"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD IR"
+      },
+      {
+        "label": "Kích thước",
+        "value": "39.9 x 29.8 x 2.35 ~ 3.20 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "380w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "3.3kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-G14-2025-AI-9-HX-370-32GB-RAM--2-36",
@@ -7109,11 +22641,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Ryzen AI 9 HX 370",
+    "ram": "32GB LPDDR5X RAM",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "14-inch, OLED 16:10 3K 120Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "NVIDIA® GeForce RTX™ 5060 8GB GDDR7",
     "price": 52000000,
     "originalPrice": 80000000,
     "stock": 2,
@@ -7133,7 +22665,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
     "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen AI 9 HX 370"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14-inch, OLED 16:10 3K 120Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, DisplayPort 1.4, Power Delivery 3.0, 1x Type-C USB 4, 1x card reader (microSD) (UHS-II)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Kích thước",
+        "value": "31.1 x 22.0 x 1.59 ~ 1.83 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "180w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.57kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "73Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Trắng và Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-G14-2025-AI-9-HX-370-32GB-RAM--2-37",
@@ -7141,11 +22743,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070",
+    "cpu": "Ryzen AI 9 HX 370",
+    "ram": "32GB LPDDR5X RAM",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "14-inch, OLED 16:10 3K 120Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "NVIDIA® GeForce RTX™ 5070 8GB GDDR7",
     "price": 57000000,
     "originalPrice": 80000000,
     "stock": 2,
@@ -7165,7 +22767,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
     "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen AI 9 HX 370"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14-inch, OLED 16:10 3K 120Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, DisplayPort 1.4, Power Delivery 3.0, 1x Type-C USB 4, 1x card reader (microSD) (UHS-II)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Kích thước",
+        "value": "31.1 x 22.0 x 1.59 ~ 1.83 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "180w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.57kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "73Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Trắng và Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-G14-2025-AI-9-HX-370-32GB-RAM--2-38",
@@ -7173,11 +22845,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070Ti",
+    "cpu": "Ryzen AI 9 HX 370",
+    "ram": "32GB LPDDR5X RAM",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "14-inch, OLED 16:10 3K 120Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7",
     "price": 72000000,
     "originalPrice": 80000000,
     "stock": 2,
@@ -7197,7 +22869,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
     "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen AI 9 HX 370"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14-inch, OLED 16:10 3K 120Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, DisplayPort 1.4, Power Delivery 3.0, 1x Type-C USB 4, 1x card reader (microSD) (UHS-II)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Kích thước",
+        "value": "31.1 x 22.0 x 1.59 ~ 1.83 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "180w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.57kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "73Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Trắng và Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-G14-2025-AI-9-HX-370-32GB-RAM--2-39",
@@ -7205,11 +22947,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5080",
+    "cpu": "Ryzen AI 9 HX 370",
+    "ram": "32GB LPDDR5X RAM",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "14-inch, OLED 16:10 3K 120Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "NVIDIA® GeForce RTX™ 5080 16GB GDDR7",
     "price": 81000000,
     "originalPrice": 90000000,
     "stock": 2,
@@ -7229,7 +22971,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
     "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Ryzen AI 9 HX 370"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14-inch, OLED 16:10 3K 120Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "NVIDIA® GeForce RTX™ 5080 16GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, DisplayPort 1.4, Power Delivery 3.0, 1x Type-C USB 4, 1x card reader (microSD) (UHS-II)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Kích thước",
+        "value": "31.1 x 22.0 x 1.59 ~ 1.83 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "180w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.57kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "73Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Trắng và Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-G16-2024-RYZEN-AI-9-HX-370-32G-3-0",
@@ -7237,11 +23049,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Ryzen AI 9 HX 370",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 4060",
+    "cpu": "AMD Ryzen AI 9 HX 370",
+    "ram": "32GB LPDDR5X RAM",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, OLED 16:10 2.5K 240Hz, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "AMD Radeon™ Graphics và NVIDIA® GeForce RTX™ 4060 8GB GDDR6",
     "price": 52000000,
     "originalPrice": 65000000,
     "stock": 2,
@@ -7261,7 +23073,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-07.webp"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 9 HX 370"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, OLED 16:10 2.5K 240Hz, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon™ Graphics và NVIDIA® GeForce RTX™ 4060 8GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, DisplayPort 1.4, Power Delivery 3.0, 1x Type-C USB 4, 1x card reader (microSD) (UHS-II)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6E(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.3"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4 x 24.6 x 1.49 ~ 1.74 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "180w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.85kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Có đèn"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Trắng và Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2024"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-G16-2025-RYZEN-AI-7-H-350-32GB-3-1",
@@ -7269,11 +23151,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Ryzen AI 7 H 350",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "AMD Ryzen AI 7 H 350",
+    "ram": "32GB LPDDR5X RAM",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, OLED 16:10 2.5K 240Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "AMD Radeon Graphics và NVIDIA® GeForce RTX™ 5060 8GB GDDR7",
     "price": 57000000,
     "originalPrice": 90000000,
     "stock": 2,
@@ -7293,7 +23175,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen AI 7 H 350"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, OLED 16:10 2.5K 240Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "AMD Radeon Graphics và NVIDIA® GeForce RTX™ 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, DisplayPort 1.4, Power Delivery 3.0, 1x Type-C USB 4, 1x card reader (microSD) (UHS-II)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4 x 24.6 x 1.49 ~ 1.74 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "180w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.95kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Có đèn"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Trắng và Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-G16-2025-ULTRA-9-285H-32GB-RAM-3-2",
@@ -7301,11 +23253,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5060",
+    "cpu": "Intel Ultra 9 285H",
+    "ram": "32GB LPDDR5X RAM",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, OLED 16:10 2.5K 240Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5060 8GB GDDR7",
     "price": 59500000,
     "originalPrice": 90000000,
     "stock": 2,
@@ -7325,7 +23277,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 285H"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, OLED 16:10 2.5K 240Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5060 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, DisplayPort 1.4, Power Delivery 3.0, 1x Type-C USB 4, 1x card reader (microSD) (UHS-II)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4 x 24.6 x 1.49 ~ 1.74 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "180w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.95kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Có đèn"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Trắng và Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-G16-2025-ULTRA-9-285H-32GB-RAM-3-3",
@@ -7333,11 +23355,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070",
+    "cpu": "Intel Ultra 9 285H",
+    "ram": "32GB LPDDR5X RAM",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, OLED 16:10 2.5K 240Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5070 8GB GDDR7",
     "price": 65000000,
     "originalPrice": 90000000,
     "stock": 2,
@@ -7357,7 +23379,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 285H"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, OLED 16:10 2.5K 240Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5070 8GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, DisplayPort 1.4, Power Delivery 3.0, 1x Type-C USB 4, 1x card reader (microSD) (UHS-II)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4 x 24.6 x 1.49 ~ 1.74 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "180w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.95kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Có đèn"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Trắng và Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-G16-2025-ULTRA-9-285H-32GB-RAM-3-4",
@@ -7365,11 +23457,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5070Ti",
+    "cpu": "Intel Ultra 9 285H",
+    "ram": "32GB LPDDR5X RAM",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, OLED 16:10 2.5K 240Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7",
     "price": 80000000,
     "originalPrice": 120000000,
     "stock": 2,
@@ -7389,7 +23481,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 285H"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, OLED 16:10 2.5K 240Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, DisplayPort 1.4, Power Delivery 3.0, 1x Type-C USB 4, 1x card reader (microSD) (UHS-II)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4 x 24.6 x 1.49 ~ 1.74 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "180w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.95kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Có đèn"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Trắng và Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-G16-2025-ULTRA-9-285H-32GB-RAM-3-5",
@@ -7397,11 +23559,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 5080",
+    "cpu": "Intel Ultra 9 285H",
+    "ram": "32GB LPDDR5X RAM",
+    "storage": "1TB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "16-inch, OLED 16:10 2.5K 240Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1",
+    "gpu": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5080 16GB GDDR7",
     "price": 83500000,
     "originalPrice": 120000000,
     "stock": 2,
@@ -7421,7 +23583,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 9 285H"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X RAM"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16-inch, OLED 16:10 2.5K 240Hz 0.2ms, 500nits, G-SYNC 100% DCI-P3, Delta E < 1"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel Arc Graphics và NVIDIA® GeForce RTX™ 5080 16GB GDDR7"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1×3.5mm combo audio jack, 1x HDMI 2.1, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, DisplayPort 1.4, Power Delivery 3.0, 1x Type-C USB 4, 1x card reader (microSD) (UHS-II)"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 7(802.11ax) (Tri-Band) 2*2 + Bluetooth® 5.4"
+      },
+      {
+        "label": "Kích thước",
+        "value": "35.4 x 24.6 x 1.49 ~ 1.74 cm"
+      },
+      {
+        "label": "Sạc",
+        "value": "180w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.95kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Có đèn"
+      },
+      {
+        "label": "Pin",
+        "value": "90Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Màu sắc",
+        "value": "Trắng và Đẹn Xám"
+      },
+      {
+        "label": "Năm sản xuất",
+        "value": "2025"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-ASUS-ROG-ZEPHYRUS-M16-2022-I7-12700H-16GB-RAM-51-3-6",
@@ -7429,11 +23661,11 @@ export const importedLaptopProducts = [
     "brand": "Asus",
     "line": "ROG",
     "category": "Gaming",
-    "cpu": "Đang cập nhật",
-    "ram": "16GB",
-    "storage": "512GB",
-    "display": "Đang cập nhật",
-    "gpu": "RTX 3060| 165Hz",
+    "cpu": "Intel® Core™ i7-12700H (14 nhân 20 luồng, tần số xung nhịp cơ bản 3.5GHz – tối đa Turbo boost có thể đạt 4.7GHz, 24 MB Intel® Smart Cache, 45W)",
+    "ram": "16GB DDR5 4800MHz (8GB onboard)",
+    "storage": "512GB PCIe® 4.0 NVMe™ M.2 SSD",
+    "display": "ROG Nebula Display, 16″ 2.5K+ (2560×1600) IPS, tỷ lệ 16:10, không cảm ứng, 165Hz, 100% DCI-P3, MUX Switch + NVIDIA® Advanced Optimus, Dolby Vision HDR, G-Sync, Pantone® Validation",
+    "gpu": "Intel® Iris® Xe + NVIDIA GeForce RTX 3060 6GB GDDR6",
     "price": 24500000,
     "originalPrice": 28500000,
     "stock": 2,
@@ -7453,7 +23685,73 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-65.png"
     ],
     "seoTitle": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel® Core™ i7-12700H (14 nhân 20 luồng, tần số xung nhịp cơ bản 3.5GHz – tối đa Turbo boost có thể đạt 4.7GHz, 24 MB Intel® Smart Cache, 45W)"
+      },
+      {
+        "label": "Ram",
+        "value": "16GB DDR5 4800MHz (8GB onboard)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "512GB PCIe® 4.0 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "ROG Nebula Display, 16″ 2.5K+ (2560×1600) IPS, tỷ lệ 16:10, không cảm ứng, 165Hz, 100% DCI-P3, MUX Switch + NVIDIA® Advanced Optimus, Dolby Vision HDR, G-Sync, Pantone® Validation"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Iris® Xe + NVIDIA GeForce RTX 3060 6GB GDDR6"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "1x 3.5mm Combo Audio Jack, 1x HDMI 2.0b, 1x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 1 Type-A, 1x USB 3.2 Gen 2 Type-C support DisplayPort™ / power delivery, 1x RJ45 LAN port, 1x card reader (microSD), 1x Thunderbolt™ 4 support DisplayPort™ / power deliver"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wi-Fi 6E+ Bluetooth®"
+      },
+      {
+        "label": "Camera",
+        "value": "720P HD camera có IR cảm biến nhận diện khuôn mặt"
+      },
+      {
+        "label": "Sạc",
+        "value": "240w"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "2kg"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Rút gọn, 1-zone LED RGB"
+      },
+      {
+        "label": "Pin",
+        "value": "4-cell, 90 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-HP-PAVILION-PLUS-14-2024-R7-8845HS-32GB-RAM-1TB--2-5",
@@ -7461,11 +23759,11 @@ export const importedLaptopProducts = [
     "brand": "HP",
     "line": "Pavilion",
     "category": "Văn phòng",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "AMD Ryzen™ 7 8845HS (up to 5.1 GHz max boost clock, 16 MB L3 cache, 8 cores, 16 threads)",
+    "ram": "32 GB LPDDR5x-6400 MT/s (không thể nâng cấp)",
+    "storage": "1TB PCIe® NVMe™ M.2",
+    "display": "14″ diagonal, 2.8K (2880 x 1800), OLED, 120 Hz, 0.2 ms response time, UWVA, micro-edge, BrightView, Low Blue Light, SDR 400 nits, HDR 500 nits, 100% DCI-P3",
+    "gpu": "Integrated AMD Radeon™ 780M Graphics",
     "price": 21000000,
     "originalPrice": 25000000,
     "stock": 2,
@@ -7485,7 +23783,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-46.png"
     ],
     "seoTitle": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "AMD Ryzen™ 7 8845HS (up to 5.1 GHz max boost clock, 16 MB L3 cache, 8 cores, 16 threads)"
+      },
+      {
+        "label": "Ram",
+        "value": "32 GB LPDDR5x-6400 MT/s (không thể nâng cấp)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1TB PCIe® NVMe™ M.2"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "14″ diagonal, 2.8K (2880 x 1800), OLED, 120 Hz, 0.2 ms response time, UWVA, micro-edge, BrightView, Low Blue Light, SDR 400 nits, HDR 500 nits, 100% DCI-P3"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Integrated AMD Radeon™ 780M Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4, HP Sleep and Charge);, 1x USB Type-A 10Gbps signaling rate;, 1x USB Type-A 5Gbps signaling rate;, 1x HDMI-out 2.1;, 1x headphone/microphone combo"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 6 + Bluetooth 5.3"
+      },
+      {
+        "label": "Camera",
+        "value": "5MP IR Camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100 W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "~1.5 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "12.36 x 8.94 x 0.69 in (front); 12.36 x 8.94 x 0.74 in (rear)"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "68 Wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LG-GRAM-PRO-16-2025-ULTRA-7-255H-32GB-RAM-1TB-SS-1-14",
@@ -7493,11 +23861,11 @@ export const importedLaptopProducts = [
     "brand": "LG",
     "line": "Gram",
     "category": "Mỏng nhẹ",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Ultra 7 255H (up to 5.1 GHz max boost clock, 24 MB cache, 16 cores, 16 threads)",
+    "ram": "32GB LPDDR5X 8533MHz (không nâng cấp được)",
+    "storage": "1 TB PCIe® Gen4 NVMe™ M.2 SSD",
+    "display": "16 inch, WQXGA+ (2560 x 1600), 16:10, 144 Hz, IPS, anti-glare, Low Blue Light, 400 nits, 100% sRGB, 100%DCI-P3, 100%AdobeRGB",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 49000000,
     "originalPrice": 60000000,
     "stock": 2,
@@ -7516,7 +23884,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140333.png"
     ],
     "seoTitle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch giá tốt tại DP Lab",
-    "seoDescription": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 7 255H (up to 5.1 GHz max boost clock, 24 MB cache, 16 cores, 16 threads)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X 8533MHz (không nâng cấp được)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1 TB PCIe® Gen4 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16 inch, WQXGA+ (2560 x 1600), 16:10, 144 Hz, IPS, anti-glare, Low Blue Light, 400 nits, 100% sRGB, 100%DCI-P3, 100%AdobeRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x Thunderbolt™ 4 with USB Type-C® 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4), 2x USB Type-A 3.2 Gen 1, 1x HDMI 2.0, 1x stereo headphone/microphone combo jack"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD camera, 5MP IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "357.7 x 251.6 x 12.4~12.8mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "77wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LG-GRAM-PRO-16-2025-ULTRA-7-255H-32GB-RAM-1TB-SS-1-15",
@@ -7524,11 +23962,11 @@ export const importedLaptopProducts = [
     "brand": "LG",
     "line": "Gram",
     "category": "Đồ họa",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Ultra 7 255H (up to 5.1 GHz max boost clock, 24 MB cache, 16 cores, 16 threads)",
+    "ram": "32GB LPDDR5X 8533MHz (không nâng cấp được)",
+    "storage": "1 TB PCIe® Gen4 NVMe™ M.2 SSD",
+    "display": "16 inch, WQXGA+ (2880 x 1800), 16:10, 120 Hz, OLED, anti-glare, Low Blue Light, 400 nits, 100% sRGB, 100%DCI-P3, 100%AdobeRGB",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 51000000,
     "originalPrice": 65000000,
     "stock": 2,
@@ -7547,7 +23985,77 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140333.png"
     ],
     "seoTitle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch giá tốt tại DP Lab",
-    "seoDescription": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 7 255H (up to 5.1 GHz max boost clock, 24 MB cache, 16 cores, 16 threads)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X 8533MHz (không nâng cấp được)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1 TB PCIe® Gen4 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "16 inch, WQXGA+ (2880 x 1800), 16:10, 120 Hz, OLED, anti-glare, Low Blue Light, 400 nits, 100% sRGB, 100%DCI-P3, 100%AdobeRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x Thunderbolt™ 4 with USB Type-C® 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4), 2x USB Type-A 3.2 Gen 1, 1x HDMI 2.0, 1x stereo headphone/microphone combo jack"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD camera, 5MP IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.2 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "357.7 x 251.6 x 12.4~12.8mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "77wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   },
   {
     "id": "TB-LG-GRAM-PRO-17-2025-ULTRA-7-255H-32GB-RAM-1TB-SS-1-16",
@@ -7555,11 +24063,11 @@ export const importedLaptopProducts = [
     "brand": "LG",
     "line": "Gram",
     "category": "Mỏng nhẹ",
-    "cpu": "Đang cập nhật",
-    "ram": "32GB",
-    "storage": "1TB",
-    "display": "Đang cập nhật",
-    "gpu": "Đang cập nhật",
+    "cpu": "Intel Ultra 7 255H (up to 5.1 GHz max boost clock, 24 MB cache, 16 cores, 16 threads)",
+    "ram": "32GB LPDDR5X 8533MHz (không nâng cấp được)",
+    "storage": "1 TB PCIe® Gen4 NVMe™ M.2 SSD",
+    "display": "17 inch, WQXGA+ (2560 x 1600), 16:10, 144 Hz, IPS, anti-glare, Low Blue Light, 400 nits, 100% sRGB, 100%DCI-P3, 100%AdobeRGB",
+    "gpu": "Intel® Arc™ Graphics",
     "price": 52000000,
     "originalPrice": 60000000,
     "stock": 2,
@@ -7578,6 +24086,76 @@ export const importedLaptopProducts = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140333.png"
     ],
     "seoTitle": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch giá tốt tại DP Lab",
-    "seoDescription": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
+    "seoDescription": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "specifications": [
+      {
+        "label": "CPU",
+        "value": "Intel Ultra 7 255H (up to 5.1 GHz max boost clock, 24 MB cache, 16 cores, 16 threads)"
+      },
+      {
+        "label": "Ram",
+        "value": "32GB LPDDR5X 8533MHz (không nâng cấp được)"
+      },
+      {
+        "label": "Ổ cứng",
+        "value": "1 TB PCIe® Gen4 NVMe™ M.2 SSD"
+      },
+      {
+        "label": "Độ phân giải",
+        "value": "17 inch, WQXGA+ (2560 x 1600), 16:10, 144 Hz, IPS, anti-glare, Low Blue Light, 400 nits, 100% sRGB, 100%DCI-P3, 100%AdobeRGB"
+      },
+      {
+        "label": "Card màn hình",
+        "value": "Intel® Arc™ Graphics"
+      },
+      {
+        "label": "Cổng kết nối",
+        "value": "2x Thunderbolt™ 4 with USB Type-C® 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4), 2x USB Type-A 3.2 Gen 1, 1x HDMI 2.0, 1x stereo headphone/microphone combo jack"
+      },
+      {
+        "label": "Kết nối không dây",
+        "value": "Wifi 7 + Bluetooth 5.4"
+      },
+      {
+        "label": "Camera",
+        "value": "FHD camera, 5MP IR camera"
+      },
+      {
+        "label": "Sạc",
+        "value": "100W"
+      },
+      {
+        "label": "Trọng lượng",
+        "value": "1.37 kg"
+      },
+      {
+        "label": "Kích thước",
+        "value": "379.4 x 265.4 x 13.2~14.6mm"
+      },
+      {
+        "label": "Bàn Phím",
+        "value": "Đèn nền trắng"
+      },
+      {
+        "label": "Pin",
+        "value": "90wh"
+      },
+      {
+        "label": "Hệ điều hành",
+        "value": "Windows 11 Home"
+      },
+      {
+        "label": "Tình trạng",
+        "value": "Mới 100% – FullBox, nhập khẩu"
+      },
+      {
+        "label": "Chất liệu vỏ",
+        "value": "Kim loại"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng"
+      }
+    ]
   }
 ]

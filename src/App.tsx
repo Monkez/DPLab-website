@@ -95,10 +95,25 @@ export function App() {
     setSelectedLine(line)
   }
 
+  const handleSearch = (value: string) => {
+    setSearch(value)
+    setSelectedBrand(undefined)
+    setSelectedLine(undefined)
+
+    if (path !== '/') {
+      window.history.pushState({}, '', '/')
+      setPath('/')
+    }
+
+    if (value.trim()) {
+      window.setTimeout(() => document.getElementById('products')?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 30)
+    }
+  }
+
   if (path.startsWith('/admin')) return <AdminPage navigate={navigate} />
 
   return <>
-    <Header onCart={() => setCartOpen(true)} onSearch={setSearch} search={search} navigate={navigate} onCatalogSelect={selectCatalog} />
+    <Header onCart={() => setCartOpen(true)} onSearch={handleSearch} search={search} navigate={navigate} onCatalogSelect={selectCatalog} />
     {detailProduct
       ? <ProductDetailPage product={detailProduct} navigate={navigate} />
       : <Storefront search={search} openCart={() => setCartOpen(true)} selectedBrand={selectedBrand} selectedLine={selectedLine} onClearCatalog={() => selectCatalog()} navigate={navigate} />}

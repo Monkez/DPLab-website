@@ -97,7 +97,7 @@ export function AdminPage({ navigate }: { navigate: (path: string) => void }) {
         <button className="admin-menu" onClick={() => setSidebar(true)} aria-label="Mở menu"><Menu /></button>
         <label><Search /><input placeholder="Tìm kiếm nhanh..." /></label>
         <div>
-          <button className="icon-button" aria-label="Th�ng b�o"><Bell />{newOrders > 0 && <span />}</button>
+          <button className="icon-button" aria-label="Thông báo"><Bell />{newOrders > 0 && <span />}</button>
           <button className="button button--light" onClick={() => navigate('/')}><Eye />Xem cửa hàng</button>
         </div>
       </header>
@@ -299,6 +299,10 @@ function ProductModal({ product, onClose, onSave }: { product: Product | null; o
       detailTitle: String(data.get('detailTitle')) || undefined,
       detailArticle: String(data.get('detailArticle')) || undefined,
       detailImages: String(data.get('detailImages') || '').split('\n').map(item => item.trim()).filter(Boolean),
+      specifications: String(data.get('specifications') || '').split('\n').map(item => item.trim()).filter(Boolean).map(item => {
+        const separator = item.indexOf(':')
+        return separator > 0 ? { label: item.slice(0, separator).trim(), value: item.slice(separator + 1).trim() } : null
+      }).filter((item): item is { label: string; value: string } => Boolean(item?.label && item.value)),
       videoUrl: String(data.get('videoUrl')) || undefined,
       seoTitle: String(data.get('seoTitle')) || undefined,
       seoDescription: String(data.get('seoDescription')) || undefined,
@@ -319,18 +323,19 @@ function ProductModal({ product, onClose, onSave }: { product: Product | null; o
         <label>CPU<input name="cpu" required defaultValue={product?.cpu} /></label>
         <label>RAM<input name="ram" required defaultValue={product?.ram} /></label>
         <label>Ổ cứng<input name="storage" required defaultValue={product?.storage} /></label>
-        <label>M�n h�nh<input name="display" required defaultValue={product?.display} /></label>
+        <label>Màn hình<input name="display" required defaultValue={product?.display} /></label>
         <label>GPU<input name="gpu" required defaultValue={product?.gpu} /></label>
         <label>Tình trạng<select name="condition" defaultValue={product?.condition ?? 'Like new'}>{productConditions.map(condition => <option key={condition}>{condition}</option>)}</select></label>
         <label>Nhãn nổi bật<input name="badge" defaultValue={product?.badge} placeholder="Bán chạy" /></label>
-        <label>Gi� b�n<input name="price" type="number" min="0" required defaultValue={product?.price} /></label>
+        <label>Giá bán<input name="price" type="number" min="0" required defaultValue={product?.price} /></label>
         <label>Giá niêm yết<input name="originalPrice" type="number" min="0" defaultValue={product?.originalPrice} /></label>
         <label>Tồn kho<input name="stock" type="number" min="0" required defaultValue={product?.stock ?? 1} /></label>
         <label>Trạng thái<select name="status" defaultValue={product?.status ?? 'active'}>{Object.entries(productStatusLabels).map(([value, label]) => <option key={value} value={value}>{label}</option>)}</select></label>
         <label className="form-span">Tóm tắt bán hàng<textarea name="salesSummary" rows={3} defaultValue={product?.salesSummary} placeholder="Viết ngắn gọn điểm mạnh, nhu cầu phù hợp, lý do nên chọn máy này." /></label>
         <label className="form-span">Tiêu đề bài viết chi tiết<input name="detailTitle" defaultValue={product?.detailTitle} placeholder="Ví dụ: Vì sao nên chọn Lenovo Legion 5 Pro?" /></label>
         <label className="form-span">Bài viết giới thiệu<textarea name="detailArticle" rows={6} defaultValue={product?.detailArticle} placeholder="Mỗi đoạn xuống dòng một lần. Nội dung này hiển thị trên trang chi tiết sản phẩm." /></label>
-        <label className="form-span">Link ảnh chi tiết<textarea name="detailImages" rows={3} defaultValue={(product?.detailImages ?? []).join('`n')} placeholder="Mỗi dòng một link ảnh. Có thể dùng ảnh CDN hoặc ảnh public." /></label>
+        <label className="form-span">Link ảnh chi tiết<textarea name="detailImages" rows={3} defaultValue={(product?.detailImages ?? []).join('\n')} placeholder="Mỗi dòng một link ảnh. Có thể dùng ảnh CDN hoặc ảnh public." /></label>
+        <label className="form-span">Cấu hình chi tiết<textarea name="specifications" rows={8} defaultValue={(product?.specifications ?? []).map(item => `${item.label}: ${item.value}`).join('\n')} placeholder={'Mỗi dòng một thông số, ví dụ:\nCPU: Intel Core Ultra 7 255H\nRAM: 32GB LPDDR5X'} /></label>
         <label className="form-span">Link video giới thiệu<input name="videoUrl" defaultValue={product?.videoUrl} placeholder="YouTube hoặc link video nhúng" /></label>
         <label>SEO title<input name="seoTitle" defaultValue={product?.seoTitle} placeholder="Tiêu đề Google cho sản phẩm" /></label>
         <label>SEO description<input name="seoDescription" defaultValue={product?.seoDescription} placeholder="Mô tả ngắn hiển thị trên Google" /></label>
@@ -398,8 +403,8 @@ function SettingsTab({ settings, updateSettings, resetDemo }: { settings: StoreS
             <div className="logo-manager__preview"><span>Xem trước logo đang dùng</span><Logo variant={previewLogo} name={settings.storeName} slogan={settings.slogan} roundSrc={logoRoundSrc} wideSrc={logoWideSrc} /></div>
             <div className="logo-manager__controls">
               <div className="logo-style-toggle" role="radiogroup" aria-label="Chọn kiểu logo hiển thị">
-                <label className={previewLogo === 'round' ? 'active' : ''}><input type="radio" name="logoStyle" value="round" checked={previewLogo === 'round'} onChange={() => setPreviewLogo('round')} /> D�ng logo tr�n</label>
-                <label className={previewLogo === 'wide' ? 'active' : ''}><input type="radio" name="logoStyle" value="wide" checked={previewLogo === 'wide'} onChange={() => setPreviewLogo('wide')} /> D�ng logo d�i</label>
+                <label className={previewLogo === 'round' ? 'active' : ''}><input type="radio" name="logoStyle" value="round" checked={previewLogo === 'round'} onChange={() => setPreviewLogo('round')} /> Dùng logo tròn</label>
+                <label className={previewLogo === 'wide' ? 'active' : ''}><input type="radio" name="logoStyle" value="wide" checked={previewLogo === 'wide'} onChange={() => setPreviewLogo('wide')} /> Dùng logo dài</label>
               </div>
               <div className="logo-upload-row"><div><strong>Logo tròn</strong><small>Nên dùng ảnh vuông PNG/WebP.</small></div><span className="logo-upload-button">Chọn ảnh<input className="logo-file-input" type="file" accept="image/*" onChange={event => uploadLogo(event, 'round')} /></span><button type="button" onClick={() => setLogoRoundSrc('/dp-lab-logo.png')}>Mặc định</button></div>
               <div className="logo-upload-row"><div><strong>Logo dài</strong><small>Nên dùng ảnh ngang, nền trong suốt hoặc trắng.</small></div><span className="logo-upload-button">Chọn ảnh<input className="logo-file-input" type="file" accept="image/*" onChange={event => uploadLogo(event, 'wide')} /></span><button type="button" onClick={() => setLogoWideSrc('/dtpt-techs-logo.png')}>Mặc định</button></div>
@@ -417,7 +422,7 @@ function SettingsTab({ settings, updateSettings, resetDemo }: { settings: StoreS
       </section>
 
       <ContentSection number="02" title="Thanh đầu trang & menu" description="Hai dòng thông báo trên cùng và tên các mục điều hướng.">
-        <ContentInput name="announcementPrimary" label="Th�ng b�o b�n tr�i" value={settings.content.announcementPrimary} />
+        <ContentInput name="announcementPrimary" label="Thông báo bên trái" value={settings.content.announcementPrimary} />
         <ContentInput name="announcementSecondary" label="Thông báo bên phải" value={settings.content.announcementSecondary} />
         <ContentInput name="navProducts" label="Menu sản phẩm" value={settings.content.navProducts} />
         <ContentInput name="navWhy" label="Menu giới thiệu" value={settings.content.navWhy} />

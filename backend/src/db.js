@@ -14,6 +14,7 @@ export async function query(text, params) {
 }
 
 export async function initDatabase() {
+  const catalogVersion = 'trieubom-237-v5-full-specifications'
   await query(`
     CREATE TABLE IF NOT EXISTS products (
       id TEXT PRIMARY KEY,
@@ -48,11 +49,16 @@ export async function initDatabase() {
 
   await query(`DELETE FROM products WHERE id LIKE 'DEV-%'`)
 
-  const productCount = await query('SELECT COUNT(*)::int AS count FROM products')
-  if (productCount.rows[0].count === 0) {
+  const importedCatalogVersion = await query('SELECT data FROM settings WHERE id = $1', ['catalog_version'])
+  if (importedCatalogVersion.rows[0]?.data?.version !== catalogVersion) {
     for (const product of seedProducts) {
       await saveProduct(product)
     }
+    await query(
+      `INSERT INTO settings (id, data, updated_at) VALUES ($1, $2, NOW())
+       ON CONFLICT (id) DO UPDATE SET data = EXCLUDED.data, updated_at = NOW()`,
+      ['catalog_version', { version: catalogVersion }],
+    )
   } else {
     for (const product of seedProducts) {
       const exists = await query('SELECT 1 FROM products WHERE id = $1', [product.id])
@@ -67,7 +73,7 @@ export async function initDatabase() {
     }
   }
 
-  const settingsCount = await query('SELECT COUNT(*)::int AS count FROM settings')
+  const settingsCount = await query("SELECT COUNT(*)::int AS count FROM settings WHERE id = 'main'")
   if (settingsCount.rows[0].count === 0) {
     await saveSettings(seedSettings)
   }

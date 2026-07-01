@@ -25,7 +25,7 @@ export function ProductDetailPage({ product, navigate }: { product: Product; nav
   const article = paragraphs(product.detailArticle)
   const summary = product.salesSummary || `${product.name} là lựa chọn đáng cân nhắc cho nhu cầu ${product.category.toLowerCase()}, cấu hình ${product.cpu}, ${product.ram}, ${product.storage}.`
   const video = videoEmbed(product.videoUrl)
-  const specs = [
+  const coreSpecs = [
     ['CPU', product.cpu],
     ['RAM', product.ram],
     ['Ổ cứng', product.storage],
@@ -35,6 +35,7 @@ export function ProductDetailPage({ product, navigate }: { product: Product; nav
     ['Thương hiệu', product.brand],
     ['Dòng máy', product.line || 'Đang cập nhật'],
   ]
+  const specs = product.specifications?.length ? product.specifications : coreSpecs.map(([label, value]) => ({ label, value }))
 
   return <main className="product-detail">
     <div className="container">
@@ -57,7 +58,7 @@ export function ProductDetailPage({ product, navigate }: { product: Product; nav
       <section className="detail-grid">
         <article className="detail-panel">
           <h2>Cấu hình chi tiết</h2>
-          <div className="detail-specs">{specs.map(([label, value]) => <div key={label}><span>{label}</span><strong>{value}</strong></div>)}</div>
+          <div className="detail-specs">{specs.map(({ label, value }) => <div key={`${label}-${value}`}><span>{label}</span><strong>{value}</strong></div>)}</div>
         </article>
         <article className="detail-panel detail-article">
           <h2>{product.detailTitle || `Giới thiệu ${product.name}`}</h2>

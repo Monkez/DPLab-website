@@ -3,6 +3,11 @@ export type OrderStatus = 'new' | 'confirmed' | 'shipping' | 'completed' | 'canc
 export type ProductCategory = 'Văn phòng' | 'Đồ họa' | 'Gaming' | 'Mỏng nhẹ'
 export type ProductCondition = 'Mới' | 'Like new' | 'Đã qua sử dụng'
 
+export interface ProductSpecification {
+  label: string
+  value: string
+}
+
 export interface Product {
   id: string
   name: string
@@ -25,6 +30,7 @@ export interface Product {
   detailTitle?: string
   detailArticle?: string
   detailImages?: string[]
+  specifications?: ProductSpecification[]
   videoUrl?: string
   seoTitle?: string
   seoDescription?: string

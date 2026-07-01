@@ -31,7 +31,7 @@ export function ProductCard({ product, navigate }: { product: Product; navigate?
       <div className="product-card__body">
         <p className="eyebrow">{meta}</p>
         <button className="product-card__title" onClick={openDetail}><h3>{product.name}</h3></button>
-        <ul className="spec-list">{specs.map(spec => <li key={spec}><Check size={13} />{spec}</li>)}</ul>
+        <ul className="spec-list">{specs.map((spec, index) => <li key={`${index}-${spec}`}><Check size={13} />{spec}</li>)}</ul>
         <div className="price-row">
           <div><strong>{money(product.price)}</strong>{product.originalPrice && <del>{money(product.originalPrice)}</del>}</div>
           <span className={product.stock > 0 ? 'stock' : 'stock stock--empty'}>{product.stock > 0 ? `Còn ${product.stock}` : 'Hết hàng'}</span>

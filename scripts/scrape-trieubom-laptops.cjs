@@ -15,7 +15,21 @@ const money = value => {
     .filter(value => value >= 1000000 && value <= 200000000)
   return candidates[0] || 0
 }
-const clean = value => String(value || '').replace(/<[^>]+>/g, ' ').replace(/&quot;/g, '"').replace(/&#8211;/g, '-').replace(/&#8217;/g, "'").replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim()
+const namedEntities = { amp: '&', quot: '"', apos: "'", lt: '<', gt: '>', nbsp: ' ', ndash: '-', mdash: '-', hellip: '…', reg: '®', trade: '™' }
+const decodeHtml = value => String(value || '')
+  .replace(/&#(x?)([0-9a-f]+);/gi, (_, hex, code) => String.fromCodePoint(parseInt(code, hex ? 16 : 10)))
+  .replace(/&([a-z]+);/gi, (entity, name) => namedEntities[name.toLowerCase()] ?? entity)
+const clean = value => decodeHtml(String(value || '')
+  .replace(/<br\s*\/?\s*>/gi, ', ')
+  .replace(/<\/(?:p|li)>/gi, ' ')
+  .replace(/<[^>]+>/g, ' '))
+  .replace(/\s+/g, ' ')
+  .replace(/\s+,/g, ',')
+  .replace(/kh\uFFFD+ng/gi, 'không')
+  .replace(/thư\uFFFD+c/gi, 'thước')
+  .replace(/v\uFFFD+i/gi, 'với')
+  .replace(/h\uFFFD+nh/gi, 'hình')
+  .trim()
 const slug = value => clean(value).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/đ/g, 'd').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
 
 function get(url) {
@@ -51,6 +65,50 @@ function detectCategory(name) {
 
 function spec(pattern, name, fallback) {
   return clean((name.match(pattern) || [])[0] || fallback)
+}
+
+function extractSpecifications(html) {
+  const specs = []
+  const seen = new Set()
+  const add = (rawLabel, rawValue) => {
+    const label = clean(rawLabel).replace(/\s*:\s*$/, '')
+    const value = clean(rawValue)
+    const key = `${label.toLowerCase()}::${value.toLowerCase()}`
+    if (!label || !value || label.length > 70 || seen.has(key)) return
+    seen.add(key)
+    specs.push({ label, value })
+  }
+
+  for (const match of html.matchAll(/<td[^>]*class="[^"]*spec-name[^"]*"[^>]*>([\s\S]*?)<\/td>\s*<td[^>]*class="[^"]*spec-value[^"]*"[^>]*>([\s\S]*?)<\/td>/gi)) {
+    add(match[1], match[2])
+  }
+
+  if (!specs.length) {
+    for (const row of html.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/gi)) {
+      const cells = [...row[1].matchAll(/<t[dh][^>]*>([\s\S]*?)<\/t[dh]>/gi)].map(cell => cell[1])
+      if (cells.length === 2) add(cells[0], cells[1])
+    }
+  }
+  return specs
+}
+
+function normalizedLabel(value) {
+  return slug(value).replace(/-/g, ' ')
+}
+
+function findSpecification(specifications, aliases) {
+  return specifications.find(item => aliases.some(alias => normalizedLabel(item.label).includes(alias)))?.value
+}
+
+function applyDetailedSpecifications(product, html) {
+  const specifications = extractSpecifications(html)
+  if (!specifications.length) return
+  product.specifications = specifications
+  product.cpu = findSpecification(specifications, ['cpu', 'bo vi xu ly']) || product.cpu
+  product.ram = findSpecification(specifications, ['ram', 'bo nho trong']) || product.ram
+  product.storage = findSpecification(specifications, ['o cung', 'ssd', 'luu tru']) || product.storage
+  product.display = findSpecification(specifications, ['man hinh', 'do phan giai', 'display']) || product.display
+  product.gpu = findSpecification(specifications, ['card man hinh', 'card do hoa', 'gpu', 'vga']) || product.gpu
 }
 
 function productFromCard(group, html, index) {
@@ -111,6 +169,7 @@ async function scrape() {
   }
   for (const product of items) {
     const html = await get(product.sourceUrl)
+    applyDetailedSpecifications(product, html)
     const images = [...html.matchAll(/(?:data-src|src)="(https:\/\/trieubom\.com\/wp-content\/uploads\/[^"]+\.(?:jpg|jpeg|png|webp))"/gi)]
       .map(match => match[1])
       .filter(src => !src.includes('-100x100') && !src.includes('-150x150'))
