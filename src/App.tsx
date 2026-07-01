@@ -116,7 +116,7 @@ export function App() {
     <Header onCart={() => setCartOpen(true)} onSearch={handleSearch} search={search} navigate={navigate} onCatalogSelect={selectCatalog} />
     {detailProduct
       ? <ProductDetailPage product={detailProduct} navigate={navigate} />
-      : <Storefront search={search} openCart={() => setCartOpen(true)} selectedBrand={selectedBrand} selectedLine={selectedLine} onClearCatalog={() => selectCatalog()} navigate={navigate} />}
+      : <Storefront search={search} selectedBrand={selectedBrand} selectedLine={selectedLine} onClearCatalog={() => selectCatalog()} navigate={navigate} />}
     <Footer settings={settings} navigate={navigate} />
     <FloatingContact settings={settings} />
     <CartDrawer open={cartOpen} onClose={() => setCartOpen(false)} onCheckout={() => { setCartOpen(false); setCheckoutOpen(true) }} />
@@ -139,8 +139,8 @@ function Footer({ settings, navigate }: { settings: ReturnType<typeof useStore>[
       </div>
       <div><h3>Khám phá</h3><a href="#products">Laptop văn phòng</a><a href="#products">Laptop đồ họa</a><a href="#products">Laptop gaming</a><button onClick={() => navigate('/admin')}>Trang quản trị</button></div>
       <div><h3>Hỗ trợ</h3><a href="#why-us">Chính sách bảo hành</a><a href="#why-us">Giao nhận & kiểm máy</a><a href="#contact">Tư vấn chọn máy</a></div>
-      <div><h3>Liên hệ</h3><a href={`tel:${settings.phone.replace(/\s/g, '')}`}><Phone />{settings.phone}</a><a href={`mailto:${settings.email}`}><Mail />{settings.email}</a><span><MapPin />{settings.address}</span><a href={`https://${settings.facebook}`}><MessageCircle />DP Lab</a></div>
+      <div><h3>Liên hệ</h3><a href={`tel:${settings.phone.replace(/\s/g, '')}`}><Phone />{settings.phone}</a><a href={`mailto:${settings.email}`}><Mail />{settings.email}</a><span><MapPin />{settings.address}</span><a href={`https://${settings.facebook}`}><MessageCircle />DTPT Shop</a></div>
     </div>
-    <div className="container footer__bottom"><span>© 2026 DP Lab. Một thương hiệu thuộc DTPT-Techs.</span><span>{settings.slogan}</span></div>
+    <div className="container footer__bottom"><span>© 2026 DTPT Shop. Một thương hiệu thuộc DTPT-Techs.</span><span>{settings.slogan}</span></div>
   </footer>
 }

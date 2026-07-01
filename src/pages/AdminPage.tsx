@@ -146,7 +146,7 @@ function AdminLogin({ navigate, onLogin }: { navigate: (path: string) => void; o
   return <main className="admin-login">
     <form className="admin-login-card" onSubmit={submit}>
       <button type="button" className="admin-login-back" onClick={() => navigate('/')}>← Về cửa hàng</button>
-      <div className="admin-login-brand"><span>DP</span><div><strong>DP Lab Admin</strong><small>Đăng nhập để quản lý website</small></div></div>
+      <div className="admin-login-brand"><span>DT</span><div><strong>DTPT Shop Admin</strong><small>Đăng nhập để quản lý website</small></div></div>
       <label>Tên đăng nhập<input name="username" autoComplete="username" required /></label>
       <label>Mật khẩu<input name="password" type="password" autoComplete="current-password" required /></label>
       {error && <p className="admin-login-error">{error}</p>}
@@ -256,7 +256,7 @@ function AccountsTab({ currentUsername }: { currentUsername: string }) {
   }
 
   return <>
-    <PageTitle eyebrow="BẢO MẬT" title="Tài khoản quản trị" subtitle="Thêm tài khoản cho người có quyền quản lý website DP Lab." />
+    <PageTitle eyebrow="BẢO MẬT" title="Tài khoản quản trị" subtitle="Thêm tài khoản cho người có quyền quản lý website DTPT Shop." />
     <div className="accounts-grid">
       <form className="admin-panel account-form" onSubmit={submit}>
         <h2>Thêm tài khoản</h2>
@@ -315,7 +315,7 @@ function ProductModal({ product, onClose, onSave }: { product: Product | null; o
     <form className="product-modal" onSubmit={submit}>
       <div className="modal-title"><div><p className="eyebrow">SẢN PHẨM</p><h2>{product ? 'Chỉnh sửa sản phẩm' : 'Thêm sản phẩm mới'}</h2></div><button type="button" className="icon-button" onClick={onClose}><X /></button></div>
       <div className="form-grid">
-        <label>Mã sản phẩm<input name="id" required defaultValue={product?.id ?? `DP-${Date.now().toString().slice(-5)}`} readOnly={!!product} /></label>
+        <label>Mã sản phẩm<input name="id" required defaultValue={product?.id ?? `DTPT-${Date.now().toString().slice(-5)}`} readOnly={!!product} /></label>
         <label>Tên sản phẩm<input name="name" required defaultValue={product?.name} /></label>
         <label>Thương hiệu<input name="brand" required defaultValue={product?.brand} /></label>
         <label>Dòng sản phẩm<input name="line" defaultValue={product?.line} placeholder="Ví dụ: Legion, XPS, Zenbook..." /></label>
@@ -453,7 +453,7 @@ function SettingsTab({ settings, updateSettings, resetDemo }: { settings: StoreS
         <ContentInput name="productsDescription" label="Mô tả" value={settings.content.productsDescription} multiline wide />
       </ContentSection>
 
-      <ContentSection number="06" title="Vì sao chọn DP Lab" description="Thông điệp thương hiệu và bốn điểm thuyết phục khách hàng.">
+      <ContentSection number="06" title="Vì sao chọn DTPT Shop" description="Thông điệp thương hiệu và bốn điểm thuyết phục khách hàng.">
         <ContentInput name="whyEyebrow" label="Nhãn mục" value={settings.content.whyEyebrow} />
         <ContentInput name="whyTitle" label="Tiêu đề" value={settings.content.whyTitle} />
         <ContentInput name="whyDescription" label="Đoạn giới thiệu" value={settings.content.whyDescription} multiline wide />

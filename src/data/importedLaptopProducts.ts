@@ -19,9 +19,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060?",
-    "detailArticle": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/r7000x-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x1.jpg",
@@ -30,8 +30,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7x4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x5.jpg"
     ],
-    "seoTitle": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -117,9 +117,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch?",
-    "detailArticle": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/r9000p.png",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p1.jpg",
@@ -128,8 +128,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
-    "seoTitle": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -215,9 +215,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070?",
-    "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000p-2026.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p-1-1.jpg",
@@ -226,8 +226,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7p4-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p5-1.jpg"
     ],
-    "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -313,9 +313,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060?",
-    "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000p-2026.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p-1-1.jpg",
@@ -324,8 +324,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7p4-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p5-1.jpg"
     ],
-    "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -411,9 +411,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060?",
-    "detailArticle": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000x-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x1.jpg",
@@ -422,8 +422,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7x4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x5.jpg"
     ],
-    "seoTitle": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -509,9 +509,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060?",
-    "detailArticle": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000x-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x1.jpg",
@@ -520,8 +520,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7x4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x5.jpg"
     ],
-    "seoTitle": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -607,9 +607,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch?",
-    "detailArticle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y9p.png",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p1.jpg",
@@ -618,8 +618,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
-    "seoTitle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -705,9 +705,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch?",
-    "detailArticle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y9p.png",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p1.jpg",
@@ -716,8 +716,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
-    "seoTitle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -803,9 +803,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch?",
-    "detailArticle": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y9p.png",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p1.jpg",
@@ -814,8 +814,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
-    "seoTitle": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -901,9 +901,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz?",
-    "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yoa1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/yoa2.png",
@@ -912,8 +912,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/yoa3.png",
       "https://trieubom.com/wp-content/uploads/2026/06/yoa7.png"
     ],
-    "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -1003,9 +1003,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD?",
-    "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yogaair.png",
       "https://trieubom.com/wp-content/uploads/2026/06/prm6.jpg",
@@ -1014,8 +1014,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/prm3.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/prm2.jpg"
     ],
-    "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -1105,9 +1105,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD?",
-    "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yogaair.png",
       "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-1.jpg",
@@ -1116,8 +1116,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-5.jpg"
     ],
-    "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -1207,9 +1207,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD?",
-    "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yogaair.png",
       "https://trieubom.com/wp-content/uploads/2026/06/prm4.jpg",
@@ -1218,8 +1218,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/prm1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/prm3.jpg"
     ],
-    "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -1309,9 +1309,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD?",
-    "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yogaair.png",
       "https://trieubom.com/wp-content/uploads/2026/06/prm1.jpg",
@@ -1320,8 +1320,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/yoga20226-7.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-9.jpg"
     ],
-    "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -1411,9 +1411,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD?",
-    "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yogaair.png",
       "https://trieubom.com/wp-content/uploads/2026/06/prm1.jpg",
@@ -1422,8 +1422,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/yoga20226-7.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-9.jpg"
     ],
-    "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -1513,9 +1513,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD?",
-    "detailArticle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yoga.png",
       "https://trieubom.com/wp-content/uploads/2026/06/yoa.jpg",
@@ -1524,8 +1524,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/yoa3.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/yoa7.jpg"
     ],
-    "seoTitle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -1615,9 +1615,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060?",
-    "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000p-2026.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p-1.jpg",
@@ -1626,8 +1626,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7p4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p6.jpg"
     ],
-    "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -1713,9 +1713,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060?",
-    "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000p-2026.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p-1.jpg",
@@ -1724,8 +1724,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/y7p4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p5.jpg"
     ],
-    "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -1811,9 +1811,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE)?",
-    "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/zzzzzz.png",
       "https://trieubom.com/wp-content/uploads/2026/03/11111.jpg",
@@ -1822,8 +1822,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/545.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/3333000.jpg"
     ],
-    "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -1913,9 +1913,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE)?",
-    "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/zzzzzzzzv.png",
       "https://trieubom.com/wp-content/uploads/2026/03/zzzzz.jpg",
@@ -1924,8 +1924,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/zxcxzc.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/00033.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -2015,9 +2015,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE)?",
-    "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/14vcvcvvccv.png",
       "https://trieubom.com/wp-content/uploads/2026/03/cvcvcv.jpg",
@@ -2026,8 +2026,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/bcabcascb.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/ads-1.jpg"
     ],
-    "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -2117,9 +2117,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE)?",
-    "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvbcbvbvb.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn-1.jpg",
@@ -2128,8 +2128,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/sdbvvdsbsdv.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/00033.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -2219,9 +2219,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE)?",
-    "detailArticle": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/1221212121.png",
       "https://trieubom.com/wp-content/uploads/2026/03/fdsfds.jpg",
@@ -2230,8 +2230,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/uerdfasf.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/ads.jpg"
     ],
-    "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -2321,9 +2321,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE)?",
-    "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvcv.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16zzzz.jpg",
@@ -2332,8 +2332,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16vcvcv.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -2423,9 +2423,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE)?",
-    "detailArticle": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/1221212121.png",
       "https://trieubom.com/wp-content/uploads/2026/03/fdsfds.jpg",
@@ -2434,8 +2434,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/uerdfasf.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/ads.jpg"
     ],
-    "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -2525,9 +2525,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE)?",
-    "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvcv.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16zzzz-1.jpg",
@@ -2536,8 +2536,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/16bvbv.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -2627,9 +2627,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE)?",
-    "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvcv.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16zzzz.jpg",
@@ -2638,8 +2638,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/16vcvcv.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -2729,9 +2729,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE)?",
-    "detailArticle": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/1221212121.png",
       "https://trieubom.com/wp-content/uploads/2026/03/cdsafasf.jpg",
@@ -2740,8 +2740,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/gfagbvc.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/uerdfasf.jpg"
     ],
-    "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -2831,9 +2831,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE)?",
-    "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvcv.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16zzzz.jpg",
@@ -2842,8 +2842,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16vcvcv.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -2933,9 +2933,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD?",
-    "detailArticle": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/05/fia.png",
       "https://trieubom.com/wp-content/uploads/2026/05/fia10.png",
@@ -2944,8 +2944,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/05/fia3.jpg",
       "https://trieubom.com/wp-content/uploads/2026/05/fia4.jpg"
     ],
-    "seoTitle": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -3035,9 +3035,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE)?",
-    "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/14vcvcvvccv.png",
       "https://trieubom.com/wp-content/uploads/2026/03/cvcvcv.jpg",
@@ -3046,8 +3046,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/bcabcascb.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn-1.jpg"
     ],
-    "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -3137,9 +3137,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE)?",
-    "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvbcbvbvb.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn-1.jpg",
@@ -3148,8 +3148,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/sdbvvdsbsdv.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/cvcvcv.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -3239,9 +3239,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD?",
-    "detailArticle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/05/nen.png",
       "https://trieubom.com/wp-content/uploads/2026/05/111y.jpg",
@@ -3250,8 +3250,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/05/4yyyyy.jpg",
       "https://trieubom.com/wp-content/uploads/2026/05/555yyy.jpg"
     ],
-    "seoTitle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -3341,9 +3341,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE)?",
-    "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/14vcvcvvccv.png",
       "https://trieubom.com/wp-content/uploads/2026/03/cvcvcv.jpg",
@@ -3352,8 +3352,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/bcabcascb.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bcabacb.jpg"
     ],
-    "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -3443,9 +3443,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White)?",
-    "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvbcbvbvb.png",
       "https://trieubom.com/wp-content/uploads/2026/03/cvcvcv.jpg",
@@ -3454,8 +3454,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/03/bvsdbsvdbsdv.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/sdbvvdsbsdv.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -3545,9 +3545,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD)?",
-    "detailArticle": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_1_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_9_2025-03-18_19-15-09.jpg",
@@ -3556,8 +3556,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-15-09.jpg"
     ],
-    "seoTitle": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -3647,9 +3647,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD)?",
-    "detailArticle": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/09/221.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/221-1.jpg",
@@ -3658,8 +3658,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/09/227.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/224.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -3749,9 +3749,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch?",
-    "detailArticle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/u098068VZkw70BlFmlrXtmubH-0873.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/HYcWvZrHAHhd59csQYHtInDNu-1403.jpg",
@@ -3760,8 +3760,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/GzAHj9lFLP0d9ihKzF94x9foO-0900.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-16.png"
     ],
-    "seoTitle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -3851,9 +3851,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch?",
-    "detailArticle": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/cO3esrv9HVOan3Sz5x6wLdb50-1752.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/9lNeZOD6n5gpt4A7K4N8LcPAc-1194.jpg",
@@ -3862,8 +3862,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/MZH8H9xArIEyv4pAEh9qsGvtm-1196.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/sDIBAWKKbDGw99R3SYFRiDF2m-0679.jpg"
     ],
-    "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -3953,9 +3953,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch?",
-    "detailArticle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/cO3esrv9HVOan3Sz5x6wLdb50-1752.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/9lNeZOD6n5gpt4A7K4N8LcPAc-1194.jpg",
@@ -3964,8 +3964,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/MZH8H9xArIEyv4pAEh9qsGvtm-1196.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/sDIBAWKKbDGw99R3SYFRiDF2m-0679.jpg"
     ],
-    "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -4055,9 +4055,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch?",
-    "detailArticle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/cO3esrv9HVOan3Sz5x6wLdb50-1752.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/9lNeZOD6n5gpt4A7K4N8LcPAc-1194.jpg",
@@ -4066,8 +4066,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/MZH8H9xArIEyv4pAEh9qsGvtm-1196.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/sDIBAWKKbDGw99R3SYFRiDF2m-0679.jpg"
     ],
-    "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -4153,9 +4153,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060?",
-    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/JYKp76JDuyMIWq0Z6UkGgdVEW-1760.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/YzODdILZSfWOwiH1DL2pMF4en-3089.jpg",
@@ -4164,8 +4164,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -4255,9 +4255,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng?",
-    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/VmuWvKYgRK9ML0fO5gIrpuUTd-8681.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/Kozg8pGsTKsn60vbf0Y8M62OL-9742.jpg",
@@ -4266,8 +4266,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -4357,9 +4357,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch?",
-    "detailArticle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/u098068VZkw70BlFmlrXtmubH-0873.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/HYcWvZrHAHhd59csQYHtInDNu-1403.jpg",
@@ -4368,8 +4368,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/GzAHj9lFLP0d9ihKzF94x9foO-0900.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1.png"
     ],
-    "seoTitle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -4459,9 +4459,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070?",
-    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/JYKp76JDuyMIWq0Z6UkGgdVEW-1760.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/YzODdILZSfWOwiH1DL2pMF4en-3089.jpg",
@@ -4470,8 +4470,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -4561,9 +4561,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng?",
-    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/VmuWvKYgRK9ML0fO5gIrpuUTd-8681.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/Kozg8pGsTKsn60vbf0Y8M62OL-9742.jpg",
@@ -4572,8 +4572,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -4663,9 +4663,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED?",
-    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/JYKp76JDuyMIWq0Z6UkGgdVEW-1760.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/YzODdILZSfWOwiH1DL2pMF4en-3089.jpg",
@@ -4674,8 +4674,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -4765,9 +4765,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng?",
-    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/VmuWvKYgRK9ML0fO5gIrpuUTd-8681.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/Kozg8pGsTKsn60vbf0Y8M62OL-9742.jpg",
@@ -4776,8 +4776,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -4867,9 +4867,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED?",
-    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/JYKp76JDuyMIWq0Z6UkGgdVEW-1760.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/YzODdILZSfWOwiH1DL2pMF4en-3089.jpg",
@@ -4878,8 +4878,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -4969,9 +4969,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng?",
-    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/VmuWvKYgRK9ML0fO5gIrpuUTd-8681.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/Kozg8pGsTKsn60vbf0Y8M62OL-9742.jpg",
@@ -4980,8 +4980,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -5071,9 +5071,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti?",
-    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/JYKp76JDuyMIWq0Z6UkGgdVEW-1760.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/YzODdILZSfWOwiH1DL2pMF4en-3089.jpg",
@@ -5082,8 +5082,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -5173,9 +5173,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED?",
-    "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/09/AYEJaCgZGebepwfCPoKk6zEg3-3029.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/59azNbzOlgFJrl4Lft8k5hsCD-5724.jpg",
@@ -5184,8 +5184,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/09/rxh1gnhpzjJUCYMO4WnI373f6-3023.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/5ilq8QisSUWqf9awjou9wuUv3-3007.jpg"
     ],
-    "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -5275,9 +5275,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng?",
-    "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/09/zvsjJ8SLL6sSKCDsTFACUJYVJ-6492.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/KaOWBSbIXzuwUjUhnTYhXcuuT-7636.jpg",
@@ -5286,8 +5286,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/09/KlolPQxFnIlhOSvAWJ9K8N55U-6553.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/Nij1aWEBVmEeIzyp9wkTs0DQB-6557.jpg"
     ],
-    "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -5377,9 +5377,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED?",
-    "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/09/AYEJaCgZGebepwfCPoKk6zEg3-3029.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/59azNbzOlgFJrl4Lft8k5hsCD-5724.jpg",
@@ -5388,8 +5388,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/09/rxh1gnhpzjJUCYMO4WnI373f6-3023.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/5ilq8QisSUWqf9awjou9wuUv3-3007.jpg"
     ],
-    "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -5479,9 +5479,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng?",
-    "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/09/zvsjJ8SLL6sSKCDsTFACUJYVJ-6492.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/KaOWBSbIXzuwUjUhnTYhXcuuT-7636.jpg",
@@ -5490,8 +5490,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/09/KlolPQxFnIlhOSvAWJ9K8N55U-6553.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/Nij1aWEBVmEeIzyp9wkTs0DQB-6557.jpg"
     ],
-    "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -5581,9 +5581,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch?",
-    "detailArticle": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/WfYpB2QdFh2GGDJZq5F3YkWwf-4541.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/IpZKJYovavcFBV4DzybOnhUFA-9650.jpg",
@@ -5592,8 +5592,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/8-copy.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-6.png"
     ],
-    "seoTitle": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -5683,9 +5683,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch?",
-    "detailArticle": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/DMUSJKBqGElSmxTaaPimjCfbg-0211.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/pkCHObRRsZHRrmmxTQFhUPhuS-9641.jpg",
@@ -5694,8 +5694,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/t7W5WMEUVU8p9jdcR8PJixhfv-9650.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-18.png"
     ],
-    "seoTitle": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -5785,9 +5785,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch?",
-    "detailArticle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Zw1xpnzwYM1p5TJfcL6iV50Qy-0869.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/QRD2DrChVpzgGqmZyMrNtPUVn-0433.jpg",
@@ -5796,8 +5796,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
-    "seoTitle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -5883,9 +5883,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch?",
-    "detailArticle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Zw1xpnzwYM1p5TJfcL6iV50Qy-0869.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/QRD2DrChVpzgGqmZyMrNtPUVn-0433.jpg",
@@ -5894,8 +5894,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
-    "seoTitle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -5981,9 +5981,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch?",
-    "detailArticle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Zw1xpnzwYM1p5TJfcL6iV50Qy-0869.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/QRD2DrChVpzgGqmZyMrNtPUVn-0433.jpg",
@@ -5992,8 +5992,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
-    "seoTitle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -6079,9 +6079,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch?",
-    "detailArticle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Zw1xpnzwYM1p5TJfcL6iV50Qy-0869.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/QRD2DrChVpzgGqmZyMrNtPUVn-0433.jpg",
@@ -6090,8 +6090,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
-    "seoTitle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -6177,9 +6177,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch?",
-    "detailArticle": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Zw1xpnzwYM1p5TJfcL6iV50Qy-0869.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/QRD2DrChVpzgGqmZyMrNtPUVn-0433.jpg",
@@ -6188,8 +6188,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
-    "seoTitle": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -6275,9 +6275,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060?",
-    "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/wyDJHQsNiMTOPCPXHHWJJt9Ad-3934.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/irsKHadgAyHEsfvsMGxxxqyBO-4509.jpg",
@@ -6286,8 +6286,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/3p94gzjVDFpH2BYfYsPclvNLc-4010.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/jx0ZqmGIySnfPXj2uCDYkHfZe-4563.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -6377,9 +6377,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng?",
-    "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/F6dsx3Tu3gkTQKPvuz9Gfy9d3-6947.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/JKib54uKFredXlHD9kScPHWoW-7543.jpg",
@@ -6388,8 +6388,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/HqgTpoNQWD6FoplOAL5Mi6br1-7046.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/K451Xonev6w9KDoklprKlUfPA-7549.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -6479,9 +6479,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070?",
-    "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/wyDJHQsNiMTOPCPXHHWJJt9Ad-3934.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/irsKHadgAyHEsfvsMGxxxqyBO-4509.jpg",
@@ -6490,8 +6490,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/3p94gzjVDFpH2BYfYsPclvNLc-4010.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/jx0ZqmGIySnfPXj2uCDYkHfZe-4563.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -6581,9 +6581,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng?",
-    "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/F6dsx3Tu3gkTQKPvuz9Gfy9d3-6947.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/JKib54uKFredXlHD9kScPHWoW-7543.jpg",
@@ -6592,8 +6592,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/HqgTpoNQWD6FoplOAL5Mi6br1-7046.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/K451Xonev6w9KDoklprKlUfPA-7549.jpg"
     ],
-    "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -6683,9 +6683,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti?",
-    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/uvGwvQmBE40ksUTpEmluCheB4-1776.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/3TujFhltBdOVesmvlgNMZ91jA-2583.jpg",
@@ -6694,8 +6694,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/VAG9A7FWSOHsSCF85SkX26hPu-2213.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-19.png"
     ],
-    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -6785,9 +6785,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng?",
-    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/OnlbsAU5ogGz2HOT45Ip3rsMP-0717.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/vByS5HnEhyftGS8nO0zql6k51-1250.jpg",
@@ -6796,8 +6796,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/8A3AohAFdrFTGoSpclsDWegkA-1159.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/pAAOSqxmOlBBAdXnrFr5T4lb7-1066.jpg"
     ],
-    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -6887,9 +6887,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080?",
-    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/uvGwvQmBE40ksUTpEmluCheB4-1776.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/3TujFhltBdOVesmvlgNMZ91jA-2583.jpg",
@@ -6898,8 +6898,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/VAG9A7FWSOHsSCF85SkX26hPu-2213.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-20.png"
     ],
-    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -6989,9 +6989,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng?",
-    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/OnlbsAU5ogGz2HOT45Ip3rsMP-0717.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/vByS5HnEhyftGS8nO0zql6k51-1250.jpg",
@@ -7000,8 +7000,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/8A3AohAFdrFTGoSpclsDWegkA-1159.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/pAAOSqxmOlBBAdXnrFr5T4lb7-1066.jpg"
     ],
-    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -7091,9 +7091,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090?",
-    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/uvGwvQmBE40ksUTpEmluCheB4-1776.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/3TujFhltBdOVesmvlgNMZ91jA-2583.jpg",
@@ -7102,8 +7102,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/VAG9A7FWSOHsSCF85SkX26hPu-2213.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-11.png"
     ],
-    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -7193,9 +7193,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng?",
-    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/OnlbsAU5ogGz2HOT45Ip3rsMP-0717.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/vByS5HnEhyftGS8nO0zql6k51-1250.jpg",
@@ -7204,8 +7204,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/8A3AohAFdrFTGoSpclsDWegkA-1159.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/pAAOSqxmOlBBAdXnrFr5T4lb7-1066.jpg"
     ],
-    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -7295,9 +7295,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060?",
-    "detailArticle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/UsLzKs0iPovinA04fp6vfjbmq-1832.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/TBmj9XzejRG4Cmxcx0mN9wBrN-1816.jpg",
@@ -7306,8 +7306,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-11.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
-    "seoTitle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -7397,9 +7397,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070?",
-    "detailArticle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/UsLzKs0iPovinA04fp6vfjbmq-1832.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/TBmj9XzejRG4Cmxcx0mN9wBrN-1816.jpg",
@@ -7408,8 +7408,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-15.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-20.png"
     ],
-    "seoTitle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DP Lab",
-    "seoDescription": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -7499,9 +7499,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060?",
-    "detailArticle": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-25.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-29.png",
@@ -7510,8 +7510,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-31.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-30.png"
     ],
-    "seoTitle": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -7601,9 +7601,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060?",
-    "detailArticle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-28.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-34.png",
@@ -7612,8 +7612,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-34.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-32.png"
     ],
-    "seoTitle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -7703,9 +7703,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng?",
-    "detailArticle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/h2pjDd7WnisGegAU7ZCkfmcLj-6083.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/cHCCFAoA1WymCUOLIz4UaiYka-6609.jpg",
@@ -7714,8 +7714,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/1andFr3DfwtrMVYN9vcUbQI53-7191.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/9-1-1.png"
     ],
-    "seoTitle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -7805,9 +7805,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070?",
-    "detailArticle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-28.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-32.png",
@@ -7816,8 +7816,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-33.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-34.png"
     ],
-    "seoTitle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -7907,9 +7907,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng?",
-    "detailArticle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/h2pjDd7WnisGegAU7ZCkfmcLj-6083.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/EpTrWCy5lZFX5Dii5PJkgMQhF-6625.jpg",
@@ -7918,8 +7918,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/1andFr3DfwtrMVYN9vcUbQI53-7191.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/8-copy.png"
     ],
-    "seoTitle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -8009,9 +8009,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz?",
-    "detailArticle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_1_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_9_2025-03-18_19-15-09.jpg",
@@ -8020,8 +8020,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-15-09.jpg"
     ],
-    "seoTitle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -8111,9 +8111,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz?",
-    "detailArticle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-22-42.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_1_2025-03-18_19-22-42.jpg",
@@ -8122,8 +8122,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-22-42.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_7_2025-03-18_19-22-42.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -8213,9 +8213,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz?",
-    "detailArticle": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/pXjO8diI6hWZIRKtwmKET8eND-5172.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/yU6ZmVKRPIQWtEqk1LOLgXyDC-3804.jpg",
@@ -8224,8 +8224,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
-    "seoTitle": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DTPT Shop",
+    "seoDescription": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -8315,9 +8315,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz?",
-    "detailArticle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/pXjO8diI6hWZIRKtwmKET8eND-5172.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/yU6ZmVKRPIQWtEqk1LOLgXyDC-3804.jpg",
@@ -8326,8 +8326,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
-    "seoTitle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DTPT Shop",
+    "seoDescription": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -8417,9 +8417,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz?",
-    "detailArticle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/pXjO8diI6hWZIRKtwmKET8eND-5172.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/yU6ZmVKRPIQWtEqk1LOLgXyDC-3804.jpg",
@@ -8428,8 +8428,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
-    "seoTitle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz giá tốt tại DTPT Shop",
+    "seoDescription": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -8519,9 +8519,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz?",
-    "detailArticle": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/pXjO8diI6hWZIRKtwmKET8eND-5172.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/yU6ZmVKRPIQWtEqk1LOLgXyDC-3804.jpg",
@@ -8530,8 +8530,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
-    "seoTitle": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz giá tốt tại DTPT Shop",
+    "seoDescription": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -8621,9 +8621,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz?",
-    "detailArticle": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/hMdbNxdcCWESYgxOLhGE8lSm9-5571.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/ompZqXG9RokIaxNCFHI2d5VfT-5184.jpg",
@@ -8632,8 +8632,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/gVBB4G1jLPuTQuuG2tlcHRjc2-4831.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/rYNpYNmA5j3U6Q6RaZFsWbcgK-4822.jpg"
     ],
-    "seoTitle": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DTPT Shop",
+    "seoDescription": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -8723,9 +8723,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060?",
-    "detailArticle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Trl8W5YdjJy7z27WQ3acpoxTS-7087.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/ompZqXG9RokIaxNCFHI2d5VfT-5184.jpg",
@@ -8734,8 +8734,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/gVBB4G1jLPuTQuuG2tlcHRjc2-4831.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/rYNpYNmA5j3U6Q6RaZFsWbcgK-4822.jpg"
     ],
-    "seoTitle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 giá tốt tại DTPT Shop",
+    "seoDescription": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -8825,9 +8825,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070?",
-    "detailArticle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Trl8W5YdjJy7z27WQ3acpoxTS-7087.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/ompZqXG9RokIaxNCFHI2d5VfT-5184.jpg",
@@ -8836,8 +8836,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/gVBB4G1jLPuTQuuG2tlcHRjc2-4831.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/rYNpYNmA5j3U6Q6RaZFsWbcgK-4822.jpg"
     ],
-    "seoTitle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 giá tốt tại DTPT Shop",
+    "seoDescription": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -8927,9 +8927,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060?",
-    "detailArticle": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-14.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-15.png",
@@ -8938,8 +8938,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/3-15.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-15.png"
     ],
-    "seoTitle": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 giá tốt tại DTPT Shop",
+    "seoDescription": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -9033,9 +9033,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD?",
-    "detailArticle": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/LZu7fVWbgvQQMQxXKKB3Y98RJ-3995.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/wMPbypKpIMf2wIQI2lNv82asP-4114.jpg",
@@ -9044,8 +9044,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/RtG27feBERNzb1NhyJ7XGcFS8-3787.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/8wvVBz7xfnT4Cw1Erkj9srn8V-4833.jpg"
     ],
-    "seoTitle": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -9135,9 +9135,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD?",
-    "detailArticle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/LZu7fVWbgvQQMQxXKKB3Y98RJ-3995.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/wMPbypKpIMf2wIQI2lNv82asP-4114.jpg",
@@ -9146,8 +9146,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/RtG27feBERNzb1NhyJ7XGcFS8-3787.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/8wvVBz7xfnT4Cw1Erkj9srn8V-4833.jpg"
     ],
-    "seoTitle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -9237,9 +9237,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition)?",
-    "detailArticle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/xdnG8vbuESA8LX8aYNtXEkZRt-0692.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/Q6elzlWxm1XllNlHwYQW6p4H4-1708.jpg",
@@ -9248,8 +9248,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/DRZE4E76jhTn2CEbLzqdKSgGH-0565.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
-    "seoTitle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -9339,9 +9339,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB?",
-    "detailArticle": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-8.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-9.png",
@@ -9350,8 +9350,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-9.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-9.png"
     ],
-    "seoTitle": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -9441,9 +9441,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB?",
-    "detailArticle": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-9.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-10.png",
@@ -9452,8 +9452,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-10.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-10.png"
     ],
-    "seoTitle": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -9543,9 +9543,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz?",
-    "detailArticle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_1_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_9_2025-03-18_19-15-09.jpg",
@@ -9554,8 +9554,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-15-09.jpg"
     ],
-    "seoTitle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -9645,9 +9645,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz?",
-    "detailArticle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-22-42.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_1_2025-03-18_19-22-42.jpg",
@@ -9656,8 +9656,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-22-42.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_7_2025-03-18_19-22-42.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -9747,9 +9747,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz?",
-    "detailArticle": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/uqNQDI9ampueP5OB3GNkVibpZ-0566.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/Awst28Id8pbZC7h7LdtFXQ5ui-0725.jpg",
@@ -9758,8 +9758,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/lvy5ir51.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
-    "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -9849,9 +9849,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz?",
-    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/kk0MIKhCegYsbrRxy0l7OvOzF-9215.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/GkR6oNDqViqc21PSNgEeqvrYB-4900.jpg",
@@ -9860,8 +9860,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-21.png"
     ],
-    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -9951,9 +9951,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz?",
-    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/kk0MIKhCegYsbrRxy0l7OvOzF-9215.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/GkR6oNDqViqc21PSNgEeqvrYB-4900.jpg",
@@ -9962,8 +9962,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-7.png"
     ],
-    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -10053,9 +10053,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz?",
-    "detailArticle": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/uqNQDI9ampueP5OB3GNkVibpZ-0566.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/Awst28Id8pbZC7h7LdtFXQ5ui-0725.jpg",
@@ -10064,8 +10064,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/lvy5ir51.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
-    "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -10155,9 +10155,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz?",
-    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/kk0MIKhCegYsbrRxy0l7OvOzF-9215.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/GkR6oNDqViqc21PSNgEeqvrYB-4900.jpg",
@@ -10166,8 +10166,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-14.png"
     ],
-    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -10257,9 +10257,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad?",
-    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/w5i9Gx4Znuh71aBg2XRK6YcEg-4065.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/j3seb8uLgCzjOeENwu1X9Ahaj-3810.jpg",
@@ -10268,8 +10268,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/coRXw2n3ylXvFbFq5N8wPfKxJ-3583.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/rudFD9xRn75B9CJsnIw0gZvn2-3465.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -10359,9 +10359,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz?",
-    "detailArticle": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/uqNQDI9ampueP5OB3GNkVibpZ-0566.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/Awst28Id8pbZC7h7LdtFXQ5ui-0725.jpg",
@@ -10370,8 +10370,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/lvy5ir51.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-6.png"
     ],
-    "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -10461,9 +10461,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz?",
-    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/kk0MIKhCegYsbrRxy0l7OvOzF-9215.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/GkR6oNDqViqc21PSNgEeqvrYB-4900.jpg",
@@ -10472,8 +10472,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-1.png"
     ],
-    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -10563,9 +10563,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad?",
-    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/2mmMGdIj9f8JAsBnOZfOqDNRi-8906.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/WdCIyLHnDshbQTYcbyvq7Llys-3322.jpg",
@@ -10574,8 +10574,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/rudFD9xRn75B9CJsnIw0gZvn2-3465.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/coRXw2n3ylXvFbFq5N8wPfKxJ-3583.jpg"
     ],
-    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -10665,9 +10665,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD?",
-    "detailArticle": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-18.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-20.png",
@@ -10676,8 +10676,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-20.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-19.png"
     ],
-    "seoTitle": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -10767,9 +10767,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng)?",
-    "detailArticle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-10.png",
       "https://trieubom.com/wp-content/uploads/2024/12/8-5.png",
@@ -10778,8 +10778,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/7-6.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-11.png"
     ],
-    "seoTitle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -10869,9 +10869,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng?",
-    "detailArticle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1.png",
@@ -10880,8 +10880,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/3.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5.png"
     ],
-    "seoTitle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -10971,9 +10971,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz?",
-    "detailArticle": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/t2jB01fQ03BV7AnRSYhKlWJTo-3439.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/5lajFC4RehGF6ZyTPpx8qlTFi-3732.jpg",
@@ -10982,8 +10982,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/873TW8HW0uocNnjM9ZwIW4Q7Z-3772.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/gM44TzqBf3HLU2RuM4tyHk5Au-3752.jpg"
     ],
-    "seoTitle": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -11073,9 +11073,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD?",
-    "detailArticle": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-2.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-3.png",
@@ -11084,8 +11084,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/3-2.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-2.png"
     ],
-    "seoTitle": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -11179,9 +11179,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD?",
-    "detailArticle": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-3.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-4.png",
@@ -11190,8 +11190,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-3.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-3.png"
     ],
-    "seoTitle": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -11285,9 +11285,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD?",
-    "detailArticle": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-5.png",
@@ -11296,8 +11296,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-4.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-4.png"
     ],
-    "seoTitle": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -11387,9 +11387,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz?",
-    "detailArticle": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-211116.png",
       "https://trieubom.com/wp-content/uploads/2025/05/LtCWIW3uqtm9GKgQ9GdE1AAIB-9583.jpg",
@@ -11398,8 +11398,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/TWRylWWYdplVIEYeGa4s3zSnU-2130.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/zSMtzXNkvwPiHGkoF8QHBRHKI-2345.jpg"
     ],
-    "seoTitle": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -11489,9 +11489,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD?",
-    "detailArticle": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-6.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-6.png",
@@ -11500,8 +11500,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-5.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-5.png"
     ],
-    "seoTitle": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -11591,9 +11591,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD?",
-    "detailArticle": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-12.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-13.png",
@@ -11602,8 +11602,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-13.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-13.png"
     ],
-    "seoTitle": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -11693,9 +11693,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz?",
-    "detailArticle": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/4b8AkyNVOP4gUPcCdQoy0ZpOh-7753.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/jnsZrm2pYWAu6EOe6KGUELb8x-7761.jpg",
@@ -11704,8 +11704,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/rJpfkvvsUjahXHH7wneAKbb1T-8099.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/O5zKBHCo9OKiYIE0MhZxWkbT1-8116.jpg"
     ],
-    "seoTitle": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -11795,9 +11795,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz?",
-    "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Nmk8KL5BnxoBZhoDGOYT3jpFQ-3629.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rhf4gT48NFT5eTJpLVJGVIxfR-8337.png",
@@ -11806,8 +11806,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png",
       "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
-    "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -11897,9 +11897,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng?",
-    "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Nmk8KL5BnxoBZhoDGOYT3jpFQ-3629.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rhf4gT48NFT5eTJpLVJGVIxfR-8337.png",
@@ -11908,8 +11908,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png",
       "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
-    "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -11999,9 +11999,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz?",
-    "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Nmk8KL5BnxoBZhoDGOYT3jpFQ-3629.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rhf4gT48NFT5eTJpLVJGVIxfR-8337.png",
@@ -12010,8 +12010,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png",
       "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
-    "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -12101,9 +12101,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng?",
-    "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Nmk8KL5BnxoBZhoDGOYT3jpFQ-3629.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rhf4gT48NFT5eTJpLVJGVIxfR-8337.png",
@@ -12112,8 +12112,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png",
       "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
-    "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -12203,9 +12203,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz?",
-    "detailArticle": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-19.jpg",
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-25.jpg",
@@ -12214,8 +12214,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-35.jpg",
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-57.jpg"
     ],
-    "seoTitle": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -12305,9 +12305,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD?",
-    "detailArticle": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-11.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-12.png",
@@ -12316,8 +12316,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-12.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-12.png"
     ],
-    "seoTitle": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -12407,9 +12407,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz?",
-    "detailArticle": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/z6372604631493_fb8676a65af6dec2d5338578aaa1073f.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6372604657863_1a2f7f1a3e7a4956b72b8764f558eb94.jpg",
@@ -12418,8 +12418,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6372604707390_57a1e32f0af5e214fdc48e661b151dca.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6372604606469_0d39401ae7bf2535023f2f48fa7e6d21.jpg"
     ],
-    "seoTitle": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -12509,9 +12509,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng?",
-    "detailArticle": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/01/photo_2025-01-09_11-11-50.jpg",
       "https://trieubom.com/wp-content/uploads/2025/01/air-14s-2-510x510-1.jpg",
@@ -12520,8 +12520,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-16.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-8.png"
     ],
-    "seoTitle": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng giá tốt tại DP Lab",
-    "seoDescription": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng giá tốt tại DTPT Shop",
+    "seoDescription": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -12611,9 +12611,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB?",
-    "detailArticle": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-52.jpg",
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-52-2.jpg",
@@ -12622,8 +12622,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-51-2.jpg",
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-52-3.jpg"
     ],
-    "seoTitle": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB giá tốt tại DP Lab",
-    "seoDescription": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB giá tốt tại DTPT Shop",
+    "seoDescription": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -12713,9 +12713,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch?",
-    "detailArticle": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/3DUsoDrLvAdM1xEfNBRudhQbR-2647.jpg",
       "https://trieubom.com/wp-content/uploads/2025/08/20pTrQW4JBfVPFsQDIpzIu2uL-3143.jpg",
@@ -12724,8 +12724,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/08/ERLSSkKcEgiLJfaocKNMfxz8z-3612.jpg",
       "https://trieubom.com/wp-content/uploads/2025/08/Ux729ZLPl5B8MjkJT3YZVAjzE-3733.jpg"
     ],
-    "seoTitle": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch giá tốt tại DP Lab",
-    "seoDescription": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch giá tốt tại DTPT Shop",
+    "seoDescription": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -12815,9 +12815,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD?",
-    "detailArticle": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-3-2.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-2-2.png",
@@ -12826,8 +12826,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-42.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-42.png"
     ],
-    "seoTitle": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -12917,9 +12917,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD?",
-    "detailArticle": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-37.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-43.png",
@@ -12928,8 +12928,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/3-46.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-45.png"
     ],
-    "seoTitle": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -13019,9 +13019,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050?",
-    "detailArticle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-26.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-30.png",
@@ -13030,8 +13030,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-32.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-31.png"
     ],
-    "seoTitle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -13121,9 +13121,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060?",
-    "detailArticle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-27.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-31.png",
@@ -13132,8 +13132,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-32.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-33.png"
     ],
-    "seoTitle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -13223,9 +13223,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060?",
-    "detailArticle": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-33.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-38.png",
@@ -13234,8 +13234,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/3-40.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-38.png"
     ],
-    "seoTitle": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -13325,9 +13325,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz?",
-    "detailArticle": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-29.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-33.png",
@@ -13336,8 +13336,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-35.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-34.png"
     ],
-    "seoTitle": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -13427,9 +13427,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050?",
-    "detailArticle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-32.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-37.png",
@@ -13438,8 +13438,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-38.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-39.png"
     ],
-    "seoTitle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -13529,9 +13529,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060?",
-    "detailArticle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-32.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-37.png",
@@ -13540,8 +13540,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-38.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-39.png"
     ],
-    "seoTitle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -13631,9 +13631,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070?",
-    "detailArticle": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-24.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-28.png",
@@ -13642,8 +13642,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-29.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-30.png"
     ],
-    "seoTitle": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -13733,9 +13733,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060?",
-    "detailArticle": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-31.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-35.png",
@@ -13744,8 +13744,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/3-37.png",
       "https://trieubom.com/wp-content/uploads/2024/12/7-17.png"
     ],
-    "seoTitle": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -13835,9 +13835,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060?",
-    "detailArticle": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-30.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-36.png",
@@ -13846,8 +13846,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-36.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-34.png"
     ],
-    "seoTitle": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -13937,9 +13937,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060)?",
-    "detailArticle": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/2-copy.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-39.png",
@@ -13948,8 +13948,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-40.png",
       "https://trieubom.com/wp-content/uploads/2024/12/7-21.png"
     ],
-    "seoTitle": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
-    "seoDescription": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) giá tốt tại DTPT Shop",
+    "seoDescription": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -14035,9 +14035,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060?",
-    "detailArticle": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-36.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-copy-5.png",
@@ -14046,8 +14046,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/7-18.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-37.png"
     ],
-    "seoTitle": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -14137,9 +14137,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Legion 5 2023 R7-7735H RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Legion 5 2023 R7-7735H RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Legion 5 2023 R7-7735H RTX 4060?",
-    "detailArticle": "Legion 5 2023 R7-7735H RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Legion 5 2023 R7-7735H RTX 4060 phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/a-16.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/5-1.jpg",
@@ -14148,8 +14148,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-1.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-1.jpg"
     ],
-    "seoTitle": "Legion 5 2023 R7-7735H RTX 4060 giá tốt tại DP Lab",
-    "seoDescription": "Legion 5 2023 R7-7735H RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Legion 5 2023 R7-7735H RTX 4060 giá tốt tại DTPT Shop",
+    "seoDescription": "Legion 5 2023 R7-7735H RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -14239,9 +14239,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD?",
-    "detailArticle": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-13.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-14.png",
@@ -14250,8 +14250,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-14.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-14.png"
     ],
-    "seoTitle": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -14341,9 +14341,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD?",
-    "detailArticle": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-15.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-17.png",
@@ -14352,8 +14352,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/2-17.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-17.png"
     ],
-    "seoTitle": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -14447,9 +14447,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD?",
-    "detailArticle": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-2.png",
@@ -14458,8 +14458,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/6-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-1.png"
     ],
-    "seoTitle": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -14553,9 +14553,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD)?",
-    "detailArticle": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-7.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-copy-1.png",
@@ -14564,8 +14564,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-7.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-7.png"
     ],
-    "seoTitle": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -14651,9 +14651,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD)?",
-    "detailArticle": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/8-copy.png",
       "https://trieubom.com/wp-content/uploads/2024/12/8-3.png",
@@ -14662,8 +14662,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-8.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-8.png"
     ],
-    "seoTitle": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -14749,9 +14749,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD?",
-    "detailArticle": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-17.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-19.png",
@@ -14760,8 +14760,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-18.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-19.png"
     ],
-    "seoTitle": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -14851,9 +14851,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD?",
-    "detailArticle": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-16.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-18.png",
@@ -14862,8 +14862,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-18.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-18.png"
     ],
-    "seoTitle": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -14953,9 +14953,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD?",
-    "detailArticle": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/3-1-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-1-1.png",
@@ -14964,8 +14964,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-1-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-1-1.png"
     ],
-    "seoTitle": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -15051,9 +15051,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD?",
-    "detailArticle": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/9-1-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/9-4.png",
@@ -15062,8 +15062,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-16.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-16.png"
     ],
-    "seoTitle": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -15149,9 +15149,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD)?",
-    "detailArticle": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-7.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-copy.png",
@@ -15160,8 +15160,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/10-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/9-2.png"
     ],
-    "seoTitle": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) giá tốt tại DP Lab",
-    "seoDescription": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) giá tốt tại DTPT Shop",
+    "seoDescription": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -15247,9 +15247,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "Yoga 13s R5-5600U 16GB RAM 512GB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Yoga 13s R5-5600U 16GB RAM 512GB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Yoga 13s R5-5600U 16GB RAM 512GB SSD?",
-    "detailArticle": "Yoga 13s R5-5600U 16GB RAM 512GB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Yoga 13s R5-5600U 16GB RAM 512GB SSD phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-36.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-42.png",
@@ -15258,8 +15258,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/3-45.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-44.png"
     ],
-    "seoTitle": "Yoga 13s R5-5600U 16GB RAM 512GB SSD giá tốt tại DP Lab",
-    "seoDescription": "Yoga 13s R5-5600U 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Yoga 13s R5-5600U 16GB RAM 512GB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "Yoga 13s R5-5600U 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -15349,9 +15349,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K?",
-    "detailArticle": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-35.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-41.png",
@@ -15360,8 +15360,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-43.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-43.png"
     ],
-    "seoTitle": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K giá tốt tại DP Lab",
-    "seoDescription": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K giá tốt tại DTPT Shop",
+    "seoDescription": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -15451,9 +15451,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz?",
-    "detailArticle": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/asusaaa.png",
       "https://trieubom.com/wp-content/uploads/2026/06/asus-1.jpg",
@@ -15462,8 +15462,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/06/asus4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/asus5.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -15553,9 +15553,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED?",
-    "detailArticle": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/02/hhhh.png",
       "https://trieubom.com/wp-content/uploads/2026/02/4314312.jpg",
@@ -15564,8 +15564,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/02/64161.jpg",
       "https://trieubom.com/wp-content/uploads/2026/02/64136413.jpg"
     ],
-    "seoTitle": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED giá tốt tại DP Lab",
-    "seoDescription": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED giá tốt tại DTPT Shop",
+    "seoDescription": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -15655,9 +15655,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED?",
-    "detailArticle": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/02/bbb-1.png",
       "https://trieubom.com/wp-content/uploads/2026/02/zzzzv-1.png",
@@ -15666,8 +15666,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/02/3-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/02/4-1.jpg"
     ],
-    "seoTitle": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED giá tốt tại DP Lab",
-    "seoDescription": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED giá tốt tại DTPT Shop",
+    "seoDescription": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -15757,9 +15757,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng)?",
-    "detailArticle": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/01/AAA.png",
       "https://trieubom.com/wp-content/uploads/2026/01/unnamed-file.jpg",
@@ -15768,8 +15768,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/01/SSSSS.jpg",
       "https://trieubom.com/wp-content/uploads/2026/01/FFFFF.jpg"
     ],
-    "seoTitle": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) giá tốt tại DTPT Shop",
+    "seoDescription": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -15859,9 +15859,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/01/tuf-ai-max-111.png",
       "https://trieubom.com/wp-content/uploads/2026/01/aaa.png",
@@ -15870,8 +15870,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/01/22222.png",
       "https://trieubom.com/wp-content/uploads/2026/01/ssssss.png"
     ],
-    "seoTitle": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -15953,9 +15953,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/01/ghggg.png",
       "https://trieubom.com/wp-content/uploads/2026/01/3333.png",
@@ -15964,8 +15964,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/01/22222.png",
       "https://trieubom.com/wp-content/uploads/2026/01/ssssss.png"
     ],
-    "seoTitle": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -16051,9 +16051,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED?",
-    "detailArticle": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/01/11111112.png",
       "https://trieubom.com/wp-content/uploads/2026/01/trashed-1772098208-Picsart_26-01-27_16-29-26-483-scaled.jpg",
@@ -16062,8 +16062,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2026/01/Picsart_26-01-27_16-15-13-012-scaled.jpg",
       "https://trieubom.com/wp-content/uploads/2026/01/Picsart_26-01-27_16-38-55-332-scaled.jpg"
     ],
-    "seoTitle": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED giá tốt tại DP Lab",
-    "seoDescription": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED giá tốt tại DTPT Shop",
+    "seoDescription": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -16153,9 +16153,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-23.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-26.jpg",
@@ -16164,8 +16164,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-33.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-35.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -16247,9 +16247,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/tuf-a14.1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-230149.png",
@@ -16258,8 +16258,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-7.png",
       "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-8.png"
     ],
-    "seoTitle": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -16345,9 +16345,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-230730.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-230149.png",
@@ -16356,8 +16356,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-7.png",
       "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-8.png"
     ],
-    "seoTitle": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -16443,9 +16443,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD)?",
-    "detailArticle": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-22_16-49-05.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-1.png",
@@ -16454,8 +16454,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/w800-3.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-5.png"
     ],
-    "seoTitle": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -16545,9 +16545,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD)?",
-    "detailArticle": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-1.png",
@@ -16556,8 +16556,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/w800-3.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-5.png"
     ],
-    "seoTitle": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -16647,9 +16647,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD)?",
-    "detailArticle": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-220434.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-220500.png",
@@ -16658,8 +16658,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/P16-1.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png"
     ],
-    "seoTitle": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -16749,9 +16749,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD)?",
-    "detailArticle": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-1.png",
@@ -16760,8 +16760,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/w800-3.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-5.png"
     ],
-    "seoTitle": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -16851,9 +16851,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED?",
-    "detailArticle": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012038NBB-ASUUM5606WARJ108WMS.png",
@@ -16862,8 +16862,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/100000012048NBB-ASUUM5606WARJ108WMS.png",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012047NBB-ASUUM5606WARJ108WMS.png"
     ],
-    "seoTitle": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED giá tốt tại DP Lab",
-    "seoDescription": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED giá tốt tại DTPT Shop",
+    "seoDescription": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -16953,9 +16953,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD)?",
-    "detailArticle": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-50.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-63.png",
@@ -16964,8 +16964,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-62.png",
       "https://trieubom.com/wp-content/uploads/2024/12/7-1-3.png"
     ],
-    "seoTitle": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) giá tốt tại DTPT Shop",
+    "seoDescription": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -17055,9 +17055,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD)?",
-    "detailArticle": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-50.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-63.png",
@@ -17066,8 +17066,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/5-62.png",
       "https://trieubom.com/wp-content/uploads/2024/12/7-1-3.png"
     ],
-    "seoTitle": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
-    "seoDescription": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) giá tốt tại DTPT Shop",
+    "seoDescription": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -17157,9 +17157,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED)?",
-    "detailArticle": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012038NBB-ASUUM5606WARJ108WMS.png",
@@ -17168,8 +17168,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/100000012048NBB-ASUUM5606WARJ108WMS.png",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012047NBB-ASUUM5606WARJ108WMS.png"
     ],
-    "seoTitle": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) giá tốt tại DP Lab",
-    "seoDescription": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) giá tốt tại DTPT Shop",
+    "seoDescription": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -17259,9 +17259,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng)?",
-    "detailArticle": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/P16-1.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
@@ -17270,8 +17270,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png"
     ],
-    "seoTitle": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) giá tốt tại DTPT Shop",
+    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -17361,9 +17361,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng)?",
-    "detailArticle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-134806.png",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
@@ -17372,8 +17372,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png",
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg"
     ],
-    "seoTitle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) giá tốt tại DTPT Shop",
+    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -17463,9 +17463,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng)?",
-    "detailArticle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/P16-1.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
@@ -17474,8 +17474,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/Capture.png",
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg"
     ],
-    "seoTitle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) giá tốt tại DTPT Shop",
+    "seoDescription": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -17565,9 +17565,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng)?",
-    "detailArticle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-08-145637.png",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
@@ -17576,8 +17576,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-29_14-09-50.jpg"
     ],
-    "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) giá tốt tại DTPT Shop",
+    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -17667,9 +17667,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng)?",
-    "detailArticle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-08-145637.png",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
@@ -17678,8 +17678,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/z6465596478854_82dee816add76a49ce62d6d8e4bf45a0.jpg"
     ],
-    "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) giá tốt tại DTPT Shop",
+    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -17769,9 +17769,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng)?",
-    "detailArticle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-08-145637.png",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
@@ -17780,8 +17780,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_03_2400_x_2400.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
-    "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) giá tốt tại DTPT Shop",
+    "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -17871,9 +17871,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng)?",
-    "detailArticle": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6465596478854_82dee816add76a49ce62d6d8e4bf45a0.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/z6465596497940_9d9661d4cc0299f2bccc0c5ef82d87b7.jpg",
@@ -17882,8 +17882,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/z6465596495414_4559e9d17f3a3fdecc2e36392f5cad1f.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
-    "seoTitle": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) giá tốt tại DP Lab",
-    "seoDescription": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) giá tốt tại DTPT Shop",
+    "seoDescription": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -17973,9 +17973,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744837278_dba9ebb07bffaf463e12d507ce9f2dd1.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744840369_0f1fb45cc526ae4ee8f497a04ac9bc76.jpg",
@@ -17984,8 +17984,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744856184_0d695aaa92021cdee5003fa53afdac83.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744864291_48c4a773cb51113bd2740f25a04c8e33.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -18075,9 +18075,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -18086,8 +18086,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-1.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -18177,9 +18177,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -18188,8 +18188,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -18279,9 +18279,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -18290,8 +18290,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_03_2400_x_2400.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -18381,9 +18381,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -18392,8 +18392,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -18483,9 +18483,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -18494,8 +18494,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
-    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -18585,9 +18585,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -18596,8 +18596,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png"
     ],
-    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -18687,9 +18687,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -18698,8 +18698,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/z6465596478854_82dee816add76a49ce62d6d8e4bf45a0.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -18789,9 +18789,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -18800,8 +18800,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -18891,9 +18891,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -18902,8 +18902,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -18993,9 +18993,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -19004,8 +19004,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/z6465596478854_82dee816add76a49ce62d6d8e4bf45a0.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -19095,9 +19095,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -19106,8 +19106,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -19197,9 +19197,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -19208,8 +19208,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png"
     ],
-    "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -19299,9 +19299,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -19310,8 +19310,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
-    "seoTitle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -19401,9 +19401,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -19412,8 +19412,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
-    "seoTitle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -19503,9 +19503,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-145731.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -19514,8 +19514,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -19605,9 +19605,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-145731.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -19616,8 +19616,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png"
     ],
-    "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -19707,9 +19707,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-145731.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -19718,8 +19718,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png"
     ],
-    "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -19809,9 +19809,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-145731.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
@@ -19820,8 +19820,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -19911,9 +19911,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz)?",
-    "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744840369_0f1fb45cc526ae4ee8f497a04ac9bc76.jpg",
@@ -19922,8 +19922,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744856184_0d695aaa92021cdee5003fa53afdac83.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744864291_48c4a773cb51113bd2740f25a04c8e33.jpg"
     ],
-    "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -20013,9 +20013,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED)?",
-    "detailArticle": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_03_2400_x_2400.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_01_2400_x_2400.jpg",
@@ -20024,8 +20024,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_02_2400_x_2400.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_05_2400_x_2400.jpg"
     ],
-    "seoTitle": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) giá tốt tại DP Lab",
-    "seoDescription": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -20115,9 +20115,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S)?",
-    "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-123819.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125735.png",
@@ -20126,8 +20126,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
-    "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -20221,9 +20221,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S)?",
-    "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-123819.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125735.png",
@@ -20232,8 +20232,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
-    "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -20327,9 +20327,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060)?",
-    "detailArticle": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-121903.png",
       "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-121939.png",
@@ -20338,8 +20338,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-122013.png",
       "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-122003.png"
     ],
-    "seoTitle": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -20433,9 +20433,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060)?",
-    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113202.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
@@ -20444,8 +20444,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113305.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113327.png"
     ],
-    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -20539,9 +20539,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti)?",
-    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113202.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
@@ -20550,8 +20550,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113305.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113327.png"
     ],
-    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -20645,9 +20645,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060)?",
-    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
@@ -20656,8 +20656,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113337.png"
     ],
-    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -20751,9 +20751,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070)?",
-    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
@@ -20762,8 +20762,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113337.png"
     ],
-    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -20857,9 +20857,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti)?",
-    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
@@ -20868,8 +20868,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113337.png"
     ],
-    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -20963,9 +20963,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti)?",
-    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
@@ -20974,8 +20974,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113327.png"
     ],
-    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -21069,9 +21069,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060)?",
-    "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111553.png",
@@ -21080,8 +21080,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
-    "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -21175,9 +21175,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060)?",
-    "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111553.png",
@@ -21186,8 +21186,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
-    "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -21281,9 +21281,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070)?",
-    "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111553.png",
@@ -21292,8 +21292,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
-    "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -21387,9 +21387,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti)?",
-    "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111553.png",
@@ -21398,8 +21398,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
-    "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -21493,9 +21493,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060)?",
-    "detailArticle": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/Capture.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-3-3.png",
@@ -21504,8 +21504,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-63.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-56.png"
     ],
-    "seoTitle": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -21595,9 +21595,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S)?",
-    "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-123819.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125735.png",
@@ -21606,8 +21606,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
-    "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -21701,9 +21701,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060)?",
-    "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145443.png",
@@ -21712,8 +21712,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
-    "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -21807,9 +21807,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S)?",
-    "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-123819.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125735.png",
@@ -21818,8 +21818,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
-    "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -21913,9 +21913,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070)?",
-    "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145443.png",
@@ -21924,8 +21924,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png",
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-29_14-09-50.jpg"
     ],
-    "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -22019,9 +22019,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti)?",
-    "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145443.png",
@@ -22030,8 +22030,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113202.png"
     ],
-    "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -22125,9 +22125,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080)?",
-    "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145443.png",
@@ -22136,8 +22136,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png",
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-22_16-49-05.jpg"
     ],
-    "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -22231,9 +22231,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080)?",
-    "detailArticle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.1.png",
@@ -22242,8 +22242,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.3.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.4.png"
     ],
-    "seoTitle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -22337,9 +22337,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090)?",
-    "detailArticle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.1.png",
@@ -22348,8 +22348,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.3.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.4.png"
     ],
-    "seoTitle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -22443,9 +22443,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080)?",
-    "detailArticle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.1.png",
@@ -22454,8 +22454,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.4.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png"
     ],
-    "seoTitle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -22549,9 +22549,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090)?",
-    "detailArticle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.1.png",
@@ -22560,8 +22560,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.4.png",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
-    "seoTitle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -22655,9 +22655,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060)?",
-    "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/h7312.png",
@@ -22666,8 +22666,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/312312312.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
-    "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -22757,9 +22757,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070)?",
-    "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/h7312.png",
@@ -22768,8 +22768,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/312312312.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
-    "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -22859,9 +22859,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti)?",
-    "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/h7312.png",
@@ -22870,8 +22870,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/312312312.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
-    "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -22961,9 +22961,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080)?",
-    "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/h7312.png",
@@ -22972,8 +22972,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/04/312312312.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
-    "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -23063,9 +23063,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060)?",
-    "detailArticle": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-29_14-09-50.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
@@ -23074,8 +23074,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-07.webp"
     ],
-    "seoTitle": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -23165,9 +23165,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060)?",
-    "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
@@ -23176,8 +23176,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
-    "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -23267,9 +23267,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060)?",
-    "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
@@ -23278,8 +23278,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
-    "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -23369,9 +23369,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070)?",
-    "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
@@ -23380,8 +23380,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
-    "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -23471,9 +23471,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti)?",
-    "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
@@ -23482,8 +23482,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
-    "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -23573,9 +23573,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080)?",
-    "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
@@ -23584,8 +23584,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
-    "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
-    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DTPT Shop",
+    "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -23675,9 +23675,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Gaming",
     "accent": "#455865",
-    "salesSummary": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz)?",
-    "detailArticle": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) phù hợp cho nhu cầu gaming. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-51.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-61.png",
@@ -23686,8 +23686,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-64.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-65.png"
     ],
-    "seoTitle": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) giá tốt tại DP Lab",
-    "seoDescription": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) giá tốt tại DTPT Shop",
+    "seoDescription": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -23773,9 +23773,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD?",
-    "detailArticle": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-38.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-44.png",
@@ -23784,8 +23784,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2024/12/4-46.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-46.png"
     ],
-    "seoTitle": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD giá tốt tại DP Lab",
-    "seoDescription": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD giá tốt tại DTPT Shop",
+    "seoDescription": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -23875,9 +23875,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch?",
-    "detailArticle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140314.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140341.png",
@@ -23885,8 +23885,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140425.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140333.png"
     ],
-    "seoTitle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch giá tốt tại DP Lab",
-    "seoDescription": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -23976,9 +23976,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Creator",
     "accent": "#645d73",
-    "salesSummary": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch?",
-    "detailArticle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch phù hợp cho nhu cầu đồ họa. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140314.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140341.png",
@@ -23986,8 +23986,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140425.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140333.png"
     ],
-    "seoTitle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch giá tốt tại DP Lab",
-    "seoDescription": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch giá tốt tại DTPT Shop",
+    "seoDescription": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",
@@ -24077,9 +24077,9 @@ export const importedLaptopProducts: Product[] = [
     "condition": "Mới",
     "badge": "Giá tốt",
     "accent": "#7997ae",
-    "salesSummary": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
+    "salesSummary": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.",
     "detailTitle": "Có nên chọn LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch?",
-    "detailArticle": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
+    "detailArticle": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch phù hợp cho nhu cầu mỏng nhẹ. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140314.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140341.png",
@@ -24087,8 +24087,8 @@ export const importedLaptopProducts: Product[] = [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140425.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140333.png"
     ],
-    "seoTitle": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch giá tốt tại DP Lab",
-    "seoDescription": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.",
+    "seoTitle": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch giá tốt tại DTPT Shop",
+    "seoDescription": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.",
     "specifications": [
       {
         "label": "CPU",

@@ -157,5 +157,5 @@ if (!process.env.DATABASE_URL) {
 
 await initDatabase()
 app.listen(port, () => {
-  console.log(`DP Lab backend is running on port ${port}`)
+  console.log(`DTPT Shop backend is running on port ${port}`)
 })

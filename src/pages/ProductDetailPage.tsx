@@ -63,7 +63,7 @@ export function ProductDetailPage({ product, navigate }: { product: Product; nav
         <article className="detail-panel detail-article">
           <h2>{product.detailTitle || `Giới thiệu ${product.name}`}</h2>
           {(article.length ? article : [
-            `${product.name} được DP Lab chọn theo tiêu chí cấu hình rõ ràng, giá minh bạch và phù hợp với nhu cầu sử dụng thực tế.`,
+            `${product.name} được DTPT Shop chọn theo tiêu chí cấu hình rõ ràng, giá minh bạch và phù hợp với nhu cầu sử dụng thực tế.`,
             `Máy phù hợp cho nhóm nhu cầu ${product.category.toLowerCase()}, đặc biệt khi bạn cần một lựa chọn cân bằng giữa hiệu năng, độ bền và ngân sách.`,
           ]).map(item => <p key={item}><Check size={16} />{item}</p>)}
         </article>

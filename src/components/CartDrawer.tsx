@@ -10,9 +10,9 @@ export function CartDrawer({ open, onClose, onCheckout }: { open: boolean; onClo
     <div className={`drawer-shell ${open ? 'drawer-shell--open' : ''}`} aria-hidden={!open}>
       <button className="drawer-backdrop" onClick={onClose} aria-label="Đóng giỏ hàng" />
       <aside className="cart-drawer" aria-label="Giỏ hàng">
-        <div className="drawer-header"><div><p className="eyebrow">DP LAB</p><h2>Giỏ hàng <span>{cart.length}</span></h2></div><button className="icon-button" onClick={onClose}><X /></button></div>
+        <div className="drawer-header"><div><p className="eyebrow">DTPT SHOP</p><h2>Giỏ hàng <span>{cart.length}</span></h2></div><button className="icon-button" onClick={onClose}><X /></button></div>
         <div className="drawer-content">
-          {cart.length === 0 ? <div className="empty-state"><span><ShoppingBag size={32} /></span><h3>Giỏ hàng đang trống</h3><p>Chọn một chiếc laptop ưng ý, DP Lab sẽ giữ máy giúp bạn.</p><button className="button button--primary" onClick={onClose}>Tiếp tục xem máy</button></div> : cart.map(item => {
+          {cart.length === 0 ? <div className="empty-state"><span><ShoppingBag size={32} /></span><h3>Giỏ hàng đang trống</h3><p>Chọn một chiếc laptop ưng ý, DTPT Shop sẽ giữ máy giúp bạn.</p><button className="button button--primary" onClick={onClose}>Tiếp tục xem máy</button></div> : cart.map(item => {
             const product = products.find(p => p.id === item.productId)
             if (!product) return null
             return <div className="cart-item" key={item.productId}>

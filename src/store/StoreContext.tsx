@@ -3,7 +3,21 @@ import { seedOrders, seedProducts, seedSettings } from '../data/seed'
 import { api } from '../services/api'
 import type { CartItem, CustomerInfo, Order, OrderStatus, Product, ProductCategory, ProductCondition, StoreSettings } from '../types'
 
-const CATALOG_VERSION = 'trieubom-237-v5-full-specifications'
+const CATALOG_VERSION = 'trieubom-237-v6-dtpt-shop'
+
+function migrateBrandSettings(settings: StoreSettings): StoreSettings {
+  const content = Object.fromEntries(Object.entries(settings.content).map(([key, value]) => [
+    key,
+    value.replaceAll('DP LAB', 'DTPT SHOP').replaceAll('DP Lab', 'DTPT Shop'),
+  ])) as StoreSettings['content']
+  return {
+    ...settings,
+    storeName: 'DTPT Shop',
+    email: settings.email === 'hello@dplab.vn' ? 'hello@dtpt.shop' : settings.email,
+    facebook: settings.facebook === 'facebook.com/dplab.vn' ? 'facebook.com/dtpt.shop' : settings.facebook,
+    content,
+  }
+}
 
 const readStorage = <T,>(key: string, fallback: T): T => {
   try {
@@ -29,7 +43,7 @@ const readProducts = () => {
 
 const readSettings = (): StoreSettings => {
   const saved = readStorage<Partial<StoreSettings>>('dplab_settings', {})
-  return { ...seedSettings, ...saved, content: { ...seedSettings.content, ...(saved.content ?? {}) } }
+  return migrateBrandSettings({ ...seedSettings, ...saved, content: { ...seedSettings.content, ...(saved.content ?? {}) } })
 }
 
 const categoryFixes: Record<string, ProductCategory> = {
@@ -110,7 +124,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
       .then(data => {
         setProducts(preferImportedCatalog(data.products))
         setOrders(data.orders)
-        setSettings({ ...seedSettings, ...data.settings, content: { ...seedSettings.content, ...data.settings.content } })
+        setSettings(migrateBrandSettings({ ...seedSettings, ...data.settings, content: { ...seedSettings.content, ...data.settings.content } }))
       })
       .catch(error => console.warn('Không tải được dữ liệu backend, dùng dữ liệu local.', error))
   }, [])
@@ -133,7 +147,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
     updateCartQuantity: (productId, quantity) => setCart(current => quantity <= 0 ? current.filter(item => item.productId !== productId) : current.map(item => item.productId === productId ? { ...item, quantity } : item)),
     clearCart: () => setCart([]),
     createOrder: customer => {
-      const order: Order = { id: `DP-${Date.now().toString().slice(-8)}`, createdAt: new Date().toISOString(), customer, items: cart, total: cartTotal, status: 'new' }
+      const order: Order = { id: `DTPT-${Date.now().toString().slice(-8)}`, createdAt: new Date().toISOString(), customer, items: cart, total: cartTotal, status: 'new' }
       setOrders(current => [order, ...current])
       setCart([])
       if (api.enabled) api.createOrder(order).catch(error => console.warn('Không lưu được đơn hàng lên backend.', error))

@@ -132,7 +132,7 @@ function productFromCard(group, html, index) {
   const display = spec(/\b(13|14|14\.5|15\.6|16|17)(("| inch|”)[^,)]{0,24})/i, name, 'Đang cập nhật')
   const gpu = spec(/\b(RTX\s?\d{4}|GTX\s?\d{4}|Intel Iris Xe|Radeon|Apple GPU)[^,)]{0,20}/i, name, 'Đang cập nhật')
   const id = `TB-${slug(name).slice(0, 48)}-${index}`.toUpperCase()
-  const summary = `${name} phù hợp cho nhu cầu ${category.toLowerCase()}. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.`
+  const summary = `${name} phù hợp cho nhu cầu ${category.toLowerCase()}. DTPT Shop tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.`
   return {
     sourceUrl: href,
     id, name, brand, line, category, cpu, ram, storage, display, gpu,
@@ -141,10 +141,10 @@ function productFromCard(group, html, index) {
     accent: category === 'Gaming' ? '#455865' : category === 'Đồ họa' ? '#645d73' : '#7997ae',
     salesSummary: summary,
     detailTitle: `Có nên chọn ${name}?`,
-    detailArticle: `${summary}\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.`,
+    detailArticle: `${summary}\nMáy được đưa vào danh mục DTPT Shop để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DTPT Shop trước khi đặt hàng.`,
     detailImages: image ? [image] : [],
-    seoTitle: `${name} giá tốt tại DP Lab`,
-    seoDescription: `${name} - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab.`,
+    seoTitle: `${name} giá tốt tại DTPT Shop`,
+    seoDescription: `${name} - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DTPT Shop.`,
   }
 }
 

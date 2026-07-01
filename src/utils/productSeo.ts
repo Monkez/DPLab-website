@@ -19,5 +19,5 @@ export function productSeoTitle(product: Product, settings: StoreSettings) {
 }
 
 export function productSeoDescription(product: Product) {
-  return product.seoDescription || product.salesSummary || `${product.name} cấu hình ${product.cpu}, ${product.ram}, ${product.storage}. Xem giá, tình trạng và tư vấn đặt hàng tại DP Lab.`
+  return product.seoDescription || product.salesSummary || `${product.name} cấu hình ${product.cpu}, ${product.ram}, ${product.storage}. Xem giá, tình trạng và tư vấn đặt hàng tại DTPT Shop.`
 }

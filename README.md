@@ -1,6 +1,6 @@
-# DP Lab Website
+# DTPT Shop Website
 
-Website bán laptop cho **DP Lab** với frontend Vite React và backend Express/PostgreSQL.
+Website bán laptop cho **DTPT Shop** với frontend Vite React và backend Express/PostgreSQL.
 
 ## Chạy local
 

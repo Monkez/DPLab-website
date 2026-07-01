@@ -12,7 +12,7 @@ export function Logo({
   compact = false,
   inverse = false,
   variant = 'round',
-  name = 'DP Lab',
+  name = 'DTPT Shop',
   slogan = 'Giá tốt · Uy tín · Chất lượng',
   roundSrc = '/dp-lab-logo.png',
   wideSrc = '/dtpt-techs-logo.png',

@@ -14,7 +14,8 @@ export async function query(text, params) {
 }
 
 export async function initDatabase() {
-  const catalogVersion = 'trieubom-237-v5-full-specifications'
+  const catalogVersion = 'trieubom-237-v6-dtpt-shop'
+  const brandVersion = 'dtpt-shop-v1'
   await query(`
     CREATE TABLE IF NOT EXISTS products (
       id TEXT PRIMARY KEY,
@@ -78,6 +79,17 @@ export async function initDatabase() {
     await saveSettings(seedSettings)
   }
 
+  const storedBrandVersion = await query('SELECT data FROM settings WHERE id = $1', ['brand_version'])
+  if (storedBrandVersion.rows[0]?.data?.version !== brandVersion) {
+    const storedSettings = await query('SELECT data FROM settings WHERE id = $1', ['main'])
+    await saveSettings(migrateBrandSettings(storedSettings.rows[0]?.data ?? seedSettings))
+    await query(
+      `INSERT INTO settings (id, data, updated_at) VALUES ($1, $2, NOW())
+       ON CONFLICT (id) DO UPDATE SET data = EXCLUDED.data, updated_at = NOW()`,
+      ['brand_version', { version: brandVersion }],
+    )
+  }
+
   const adminCount = await query('SELECT COUNT(*)::int AS count FROM admin_users')
   if (adminCount.rows[0].count === 0) {
     await createAdminUser({
@@ -85,6 +97,20 @@ export async function initDatabase() {
       password: process.env.ADMIN_DEFAULT_PASSWORD || '1711@pie',
       displayName: process.env.ADMIN_DEFAULT_DISPLAY_NAME || 'Tiến Đệ',
     })
+  }
+}
+
+function migrateBrandSettings(settings) {
+  const content = Object.fromEntries(Object.entries(settings.content ?? {}).map(([key, value]) => [
+    key,
+    typeof value === 'string' ? value.replaceAll('DP LAB', 'DTPT SHOP').replaceAll('DP Lab', 'DTPT Shop') : value,
+  ]))
+  return {
+    ...settings,
+    storeName: 'DTPT Shop',
+    email: settings.email === 'hello@dplab.vn' ? 'hello@dtpt.shop' : settings.email,
+    facebook: settings.facebook === 'facebook.com/dplab.vn' ? 'facebook.com/dtpt.shop' : settings.facebook,
+    content,
   }
 }
 
