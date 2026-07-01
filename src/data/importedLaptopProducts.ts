@@ -12,8 +12,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 490000008363,
-    "originalPrice": 358000008363,
+    "price": 35800000,
+    "originalPrice": 49000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -24,11 +24,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/r7000x-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/y7x4.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/y7x4.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/y7x5.jpg"
     ],
     "seoTitle": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
     "seoDescription": "Legion R7000X 2026(Legion 5a 2026) Ryzen 7 255H / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -44,7 +44,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 16inch",
-    "price": 0,
+    "price": 47000000,
+    "originalPrice": 48000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -55,11 +56,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/r9000p.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
     "seoTitle": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion R9000P 2026 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -75,8 +76,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070",
-    "price": 610000008363,
-    "originalPrice": 540000008363,
+    "price": 54000000,
+    "originalPrice": 61000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -87,11 +88,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000p-2026.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p-1-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p2-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p3-1.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/y7p4-1.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/y7p4-1.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/y7p5-1.jpg"
     ],
     "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 giá tốt tại DP Lab",
     "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -107,8 +108,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 570000008363,
-    "originalPrice": 480000008363,
+    "price": 48000000,
+    "originalPrice": 57000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -119,11 +120,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000p-2026.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p-1-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p2-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p3-1.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/y7p4-1.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/y7p4-1.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/y7p5-1.jpg"
     ],
     "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
     "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 255HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -139,7 +140,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 0,
+    "price": 39300000,
+    "originalPrice": 40500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -150,11 +152,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000x-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/y7x4.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/y7x4.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/y7x5.jpg"
     ],
     "seoTitle": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 giá tốt tại DP Lab",
     "seoDescription": "Legion Y7000X 2026(Legion 5i 2026) Core 7 245HX / 16GB RAM / 512GB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -170,7 +172,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 0,
+    "price": 40000000,
+    "originalPrice": 40500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -181,11 +184,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000x-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7x3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/y7x4.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/y7x4.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/y7x5.jpg"
     ],
     "seoTitle": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
     "seoDescription": "Legion Y7000X 2026(Legion 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -201,7 +204,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 16inch",
-    "price": 0,
+    "price": 62000000,
+    "originalPrice": 66000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -212,11 +216,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y9p.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
     "seoTitle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -232,7 +236,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070 16inch",
-    "price": 0,
+    "price": 72000000,
+    "originalPrice": 75000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -243,11 +248,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y9p.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
     "seoTitle": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion Y9000P 2026 Core Ultra 9 290HX Plus 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -263,7 +268,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 16inch",
-    "price": 0,
+    "price": 49000000,
+    "originalPrice": 50000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -274,11 +280,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y9p.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/r9p3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/r9p4.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/r9p5.jpg"
     ],
     "seoTitle": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion Y9000P 2026 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -294,8 +300,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16 inch 2.8K OLED 120Hz",
     "gpu": "RTX 5060 16 inch 2.8K OLED 1",
-    "price": 510000008363,
-    "originalPrice": 450000008363,
+    "price": 45000000,
+    "originalPrice": 51000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -306,11 +312,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yoa1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/yoa2.png",
       "https://trieubom.com/wp-content/uploads/2026/06/yoa5.png",
       "https://trieubom.com/wp-content/uploads/2026/06/yoa4.png",
-      "https://trieubom.com/wp-content/uploads/2026/06/yoa3.png"
+      "https://trieubom.com/wp-content/uploads/2026/06/yoa3.png",
+      "https://trieubom.com/wp-content/uploads/2026/06/yoa7.png"
     ],
     "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -326,8 +332,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "Đang cập nhật",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 510000008363,
-    "originalPrice": 450000008363,
+    "price": 45000000,
+    "originalPrice": 51000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -338,11 +344,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yogaair.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/prm6.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/prm5.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/prm4.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/prm3.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/prm3.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/prm2.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 325 16 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -358,8 +364,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "Đang cập nhật",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 620000008363,
-    "originalPrice": 550000008363,
+    "price": 55000000,
+    "originalPrice": 62000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -370,11 +376,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yogaair.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-4.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-4.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-5.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra 5 338H 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -390,8 +396,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "Đang cập nhật",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 630000008363,
-    "originalPrice": 580000008363,
+    "price": 58000000,
+    "originalPrice": 63000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -402,11 +408,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yogaair.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/prm4.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/prm6.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/prm5.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/prm1.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/prm1.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/prm3.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X7 358H 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -422,8 +428,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "Đang cập nhật",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 830000008363,
-    "originalPrice": 740000008363,
+    "price": 74000000,
+    "originalPrice": 83000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -434,11 +440,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yogaair.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/prm1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/prm3.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/prm2.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/yoga20226-7.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/yoga20226-7.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-9.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 378H 32 GB RAM 2 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -454,8 +460,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "Đang cập nhật",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 1110000008363,
-    "originalPrice": 960000008363,
+    "price": 96000000,
+    "originalPrice": 111000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -466,11 +472,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yogaair.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/prm1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/prm2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/prm3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/yoga20226-7.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/yoga20226-7.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/yoga2026-9.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Slim 7i Ultra Aura Edition (Yoga Air 14 Ultra Aura) Core Ultra X9 388H 64 GB RAM 2 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -486,8 +492,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "Đang cập nhật",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 395000008363,
-    "originalPrice": 340000008363,
+    "price": 34000000,
+    "originalPrice": 39500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -498,11 +504,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/yoga.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/yoa.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/yoa2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/yoa4.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/yoa3.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/yoa3.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/yoa7.jpg"
     ],
     "seoTitle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
     "seoDescription": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 258V 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -518,8 +524,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 530000008363,
-    "originalPrice": 445000008363,
+    "price": 44500000,
+    "originalPrice": 53000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -530,11 +536,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000p-2026.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/y7p4.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/y7p4.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/y7p6.jpg"
     ],
     "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
     "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) Core Ultra 7 251HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -550,8 +556,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 510000008363,
-    "originalPrice": 440000008363,
+    "price": 44000000,
+    "originalPrice": 51000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -562,11 +568,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/y7000p-2026.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/y7p3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/y7p4.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/y7p4.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/y7p5.jpg"
     ],
     "seoTitle": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 giá tốt tại DP Lab",
     "seoDescription": "Legion Y7000P 2026(Legion Pro 5i 2026) i7-14650HX / 16GB RAM / 1TB SSD / RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -582,8 +588,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14.5\" 3K 120Hz(LUNAR GREY",
     "gpu": "Đang cập nhật",
-    "price": 291000008363,
-    "originalPrice": 265000008363,
+    "price": 26500000,
+    "originalPrice": 29100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -594,11 +600,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/zzzzzz.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/11111.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/222222.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/33333.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/545.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/545.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/3333000.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -614,8 +620,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 3.2K 165Hz(LUNAR GREY",
     "gpu": "Đang cập nhật",
-    "price": 301000008363,
-    "originalPrice": 270000008363,
+    "price": 27000000,
+    "originalPrice": 30100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -626,11 +632,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/zzzzzzzzv.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/zzzzz.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/222.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/vczvcxz.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/zxcxzc.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/zxcxzc.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/00033.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -646,8 +652,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14.5\" 3K 120Hz(STAR WHITE",
     "gpu": "Đang cập nhật",
-    "price": 320000008363,
-    "originalPrice": 290000008363,
+    "price": 29000000,
+    "originalPrice": 32000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -658,11 +664,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/14vcvcvvccv.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/cvcvcv.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bcabcab.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bcabacb.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/bcabcascb.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/bcabcascb.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/ads-1.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 14.5\" 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -678,7 +684,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 0,
+    "price": 28600000,
+    "originalPrice": 29100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -689,11 +696,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvbcbvbvb.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bvbvb.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bvsdbsvdbsdv.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/sdbvvdsbsdv.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/sdbvvdsbsdv.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/00033.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 7 H 450 RAM 32GB SSD 1TB 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -709,7 +716,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 0,
+    "price": 36400000,
+    "originalPrice": 36500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -720,11 +728,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/1221212121.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/fdsfds.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/cdsafasf.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/gfagbvc.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/uerdfasf.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/uerdfasf.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/ads.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -740,7 +748,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 0,
+    "price": 37500000,
+    "originalPrice": 37700000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -751,11 +760,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvcv.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16zzzz.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16gfgf.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16bvbv.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/16vcvcv.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra 5 338H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -771,7 +780,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 0,
+    "price": 39000000,
+    "originalPrice": 39200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -782,11 +792,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/1221212121.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/fdsfds.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/cdsafasf.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/gfagbvc.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/uerdfasf.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/uerdfasf.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/ads.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -802,7 +812,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 0,
+    "price": 39200000,
+    "originalPrice": 39400000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -813,11 +824,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvcv.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16zzzz-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16gfgf.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16vcvcv.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/16bvbv.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/16bvbv.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra X7 358H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -833,7 +844,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060 16″ 3.2K 165Hz(LUNA",
-    "price": 0,
+    "price": 48500000,
+    "originalPrice": 49000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -844,11 +856,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvcv.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16zzzz.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16gfgf.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16bvbv.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/16vcvcv.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/16vcvcv.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra 7 356H 32GB RAM 1TB SSD RTX 5060 16″ 3.2K 165Hz(LUNAR GREY)(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -864,8 +876,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 530000008363,
-    "originalPrice": 470000008363,
+    "price": 47000000,
+    "originalPrice": 53000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -876,11 +888,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/1221212121.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/cdsafasf.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/fdsfds.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/ads.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/gfagbvc.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/gfagbvc.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/uerdfasf.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -896,8 +908,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 560000008363,
-    "originalPrice": 490000008363,
+    "price": 49000000,
+    "originalPrice": 56000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -908,11 +920,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvcv.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16zzzz.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16bvbv.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16gfgf.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/16vcvcv.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G8+ 2026 Core Ultra X9 388H 32GB RAM 1TB SSD 16″ 3.2K 165Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -928,8 +940,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 490000008363,
-    "originalPrice": 460000008363,
+    "price": 46000000,
+    "originalPrice": 49000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -940,11 +952,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/05/fia.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/05/fia10.png",
       "https://trieubom.com/wp-content/uploads/2026/05/fifa1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/05/fia2.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/05/fia3.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/05/fia3.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/05/fia4.jpg"
     ],
     "seoTitle": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Lenovo ThinkBook 14 G8+ FIFA World Cup 26 Edition Core Ultra X7 358H / 32GB RAM / 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -960,8 +972,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 390000008363,
-    "originalPrice": 318000008363,
+    "price": 31800000,
+    "originalPrice": 39000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -972,11 +984,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/14vcvcvvccv.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/cvcvcv.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bcabcab.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bcabacb.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/bcabcascb.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/bcabcascb.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn-1.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -992,8 +1004,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 410000008363,
-    "originalPrice": 342000008363,
+    "price": 34200000,
+    "originalPrice": 41000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1004,11 +1016,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvbcbvbvb.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bvbvb.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bvsdbsvdbsdv.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/sdbvvdsbsdv.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/sdbvvdsbsdv.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/cvcvcv.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16″ 3.2K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1024,8 +1036,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "Đang cập nhật",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 490000008363,
-    "originalPrice": 430000008363,
+    "price": 43000000,
+    "originalPrice": 49000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1036,11 +1048,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/05/nen.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/05/111y.jpg",
       "https://trieubom.com/wp-content/uploads/2026/05/22222y.jpg",
       "https://trieubom.com/wp-content/uploads/2026/05/3333yy.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/05/4yyyyy.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/05/4yyyyy.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/05/555yyy.jpg"
     ],
     "seoTitle": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD giá tốt tại DP Lab",
     "seoDescription": "Yoga Slim 7i Aura Edition 2026(YOGA Air 14 Aura AI) Core Ultra 7 355 32 GB RAM 1 TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1056,8 +1068,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 410000008363,
-    "originalPrice": 340000008363,
+    "price": 34000000,
+    "originalPrice": 41000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1068,11 +1080,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/14vcvcvvccv.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/cvcvcv.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bcabcasc.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bcabcab.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/bcabcascb.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/bcabcascb.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/bcabacb.jpg"
     ],
     "seoTitle": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5″ 3K 120Hz(STAR WHITE) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1088,8 +1100,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 3.2K 165Hz (Star White",
     "gpu": "Đang cập nhật",
-    "price": 430000008363,
-    "originalPrice": 350000008363,
+    "price": 35000000,
+    "originalPrice": 43000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1100,11 +1112,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/03/vcvbcbvbvb.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/03/cvcvcv.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/16nbnbn-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/03/bvbvb.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/03/bvsdbsvdbsdv.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/03/bvsdbsvdbsdv.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/03/sdbvvdsbsdv.jpg"
     ],
     "seoTitle": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1120,8 +1132,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 281000008363,
-    "originalPrice": 245000008363,
+    "price": 24500000,
+    "originalPrice": 28100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1132,11 +1144,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_1_2025-03-18_19-15-09.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_9_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_7_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_8_2025-03-18_19-15-09.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-15-09.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-15-09.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-15-09.jpg"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1152,8 +1164,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 231000008363,
-    "originalPrice": 215000008363,
+    "price": 21500000,
+    "originalPrice": 23100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1164,11 +1176,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/09/221.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/09/221-1.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/228.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/225.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/09/227.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/09/227.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/09/224.jpg"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G7+ 2025 (Ryzen 7 H 255| 24GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1184,8 +1196,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 15.3inch",
-    "price": 430000008363,
-    "originalPrice": 330000008363,
+    "price": 33000000,
+    "originalPrice": 43000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1196,11 +1208,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/u098068VZkw70BlFmlrXtmubH-0873.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/HYcWvZrHAHhd59csQYHtInDNu-1403.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/4cVUn1F4XYiUPtlhKGvJhio79-1356.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/GE1GPmKWPyZ7meGtfJ4L4DtpY-1336.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/GzAHj9lFLP0d9ihKzF94x9foO-0900.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/GzAHj9lFLP0d9ihKzF94x9foO-0900.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-16.png"
     ],
     "seoTitle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1216,8 +1228,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 16inch",
-    "price": 430000008363,
-    "originalPrice": 365000008363,
+    "price": 36500000,
+    "originalPrice": 43000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1228,11 +1240,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/cO3esrv9HVOan3Sz5x6wLdb50-1752.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/9lNeZOD6n5gpt4A7K4N8LcPAc-1194.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/4vF66BZFJvkCJfoL7O5o8XnIX-1201.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/9iGQIHPhFDXyHE0GnWn8aEg0c-0681.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/MZH8H9xArIEyv4pAEh9qsGvtm-1196.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/MZH8H9xArIEyv4pAEh9qsGvtm-1196.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/sDIBAWKKbDGw99R3SYFRiDF2m-0679.jpg"
     ],
     "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8940HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1248,8 +1260,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 16inch",
-    "price": 430000008363,
-    "originalPrice": 375000008363,
+    "price": 37500000,
+    "originalPrice": 43000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1260,11 +1272,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/cO3esrv9HVOan3Sz5x6wLdb50-1752.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/9lNeZOD6n5gpt4A7K4N8LcPAc-1194.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/4vF66BZFJvkCJfoL7O5o8XnIX-1201.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/9iGQIHPhFDXyHE0GnWn8aEg0c-0681.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/MZH8H9xArIEyv4pAEh9qsGvtm-1196.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/MZH8H9xArIEyv4pAEh9qsGvtm-1196.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/sDIBAWKKbDGw99R3SYFRiDF2m-0679.jpg"
     ],
     "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1280,8 +1292,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070 16inch",
-    "price": 500000008363,
-    "originalPrice": 388000008363,
+    "price": 38800000,
+    "originalPrice": 50000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1292,11 +1304,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/cO3esrv9HVOan3Sz5x6wLdb50-1752.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/9lNeZOD6n5gpt4A7K4N8LcPAc-1194.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/4vF66BZFJvkCJfoL7O5o8XnIX-1201.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/9iGQIHPhFDXyHE0GnWn8aEg0c-0681.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/MZH8H9xArIEyv4pAEh9qsGvtm-1196.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/MZH8H9xArIEyv4pAEh9qsGvtm-1196.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/sDIBAWKKbDGw99R3SYFRiDF2m-0679.jpg"
     ],
     "seoTitle": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 R7000P 2025 Ryzen 9 8945HX 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1312,8 +1324,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060",
-    "price": 480000008363,
-    "originalPrice": 440000008363,
+    "price": 44000000,
+    "originalPrice": 48000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1324,11 +1336,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/JYKp76JDuyMIWq0Z6UkGgdVEW-1760.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/YzODdILZSfWOwiH1DL2pMF4en-3089.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/Ee0i0JPOjjjqoFxRtAp7GNKz2-2276.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/tNhsZUy09BSp3efO5h9WTryZB-2715.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1344,8 +1356,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 Trắng",
-    "price": 470000008363,
-    "originalPrice": 455000008363,
+    "price": 45500000,
+    "originalPrice": 47000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1356,11 +1368,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/VmuWvKYgRK9ML0fO5gIrpuUTd-8681.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Kozg8pGsTKsn60vbf0Y8M62OL-9742.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/zCjGnUtKlGHgYOVVmIbtXlKd4-9247.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/J7EKwVwIGbkaAJWzYJnrDOPzx-9637.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1376,8 +1388,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "RTX5050 15.3inch",
-    "price": 380000008363,
-    "originalPrice": 320000008363,
+    "price": 32000000,
+    "originalPrice": 38000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1388,11 +1400,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/u098068VZkw70BlFmlrXtmubH-0873.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/HYcWvZrHAHhd59csQYHtInDNu-1403.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/4cVUn1F4XYiUPtlhKGvJhio79-1356.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/GE1GPmKWPyZ7meGtfJ4L4DtpY-1336.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/GzAHj9lFLP0d9ihKzF94x9foO-0900.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/GzAHj9lFLP0d9ihKzF94x9foO-0900.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1.png"
     ],
     "seoTitle": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 R7000 2025 Ryzen 7 H 255 16GB RAM 512GB SSD RTX5050 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1408,8 +1420,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070",
-    "price": 500000008363,
-    "originalPrice": 460000008363,
+    "price": 46000000,
+    "originalPrice": 50000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1420,11 +1432,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/JYKp76JDuyMIWq0Z6UkGgdVEW-1760.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/YzODdILZSfWOwiH1DL2pMF4en-3089.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/Ee0i0JPOjjjqoFxRtAp7GNKz2-2276.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/tNhsZUy09BSp3efO5h9WTryZB-2715.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1440,8 +1452,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070 Trắng",
-    "price": 510000008363,
-    "originalPrice": 483000008363,
+    "price": 48300000,
+    "originalPrice": 51000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1452,11 +1464,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/VmuWvKYgRK9ML0fO5gIrpuUTd-8681.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Kozg8pGsTKsn60vbf0Y8M62OL-9742.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/zCjGnUtKlGHgYOVVmIbtXlKd4-9247.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/J7EKwVwIGbkaAJWzYJnrDOPzx-9637.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1472,8 +1484,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 OLED",
-    "price": 550000008363,
-    "originalPrice": 510000008363,
+    "price": 51000000,
+    "originalPrice": 55000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1484,11 +1496,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/JYKp76JDuyMIWq0Z6UkGgdVEW-1760.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/YzODdILZSfWOwiH1DL2pMF4en-3089.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/Ee0i0JPOjjjqoFxRtAp7GNKz2-2276.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/tNhsZUy09BSp3efO5h9WTryZB-2715.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1504,8 +1516,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 OLED Trắng",
-    "price": 600000008363,
-    "originalPrice": 515000008363,
+    "price": 51500000,
+    "originalPrice": 60000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1516,11 +1528,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/VmuWvKYgRK9ML0fO5gIrpuUTd-8681.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Kozg8pGsTKsn60vbf0Y8M62OL-9742.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/zCjGnUtKlGHgYOVVmIbtXlKd4-9247.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/J7EKwVwIGbkaAJWzYJnrDOPzx-9637.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5060 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1536,8 +1548,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070 OLED",
-    "price": 640000008363,
-    "originalPrice": 560000008363,
+    "price": 56000000,
+    "originalPrice": 64000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1548,11 +1560,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/JYKp76JDuyMIWq0Z6UkGgdVEW-1760.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/YzODdILZSfWOwiH1DL2pMF4en-3089.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/Ee0i0JPOjjjqoFxRtAp7GNKz2-2276.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/tNhsZUy09BSp3efO5h9WTryZB-2715.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1568,8 +1580,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070 OLED Trắng",
-    "price": 650000008363,
-    "originalPrice": 575000008363,
+    "price": 57500000,
+    "originalPrice": 65000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1580,11 +1592,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/VmuWvKYgRK9ML0fO5gIrpuUTd-8681.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Kozg8pGsTKsn60vbf0Y8M62OL-9742.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/zCjGnUtKlGHgYOVVmIbtXlKd4-9247.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/J7EKwVwIGbkaAJWzYJnrDOPzx-9637.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/NLh0gxD9Y18TBm0HXfvBrIKzE-9140.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/X1rX2SoC1dEmZh95znv1cjvWy-8687.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1600,8 +1612,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070Ti",
-    "price": 650000008363,
-    "originalPrice": 590000008363,
+    "price": 59000000,
+    "originalPrice": 65000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1612,11 +1624,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/JYKp76JDuyMIWq0Z6UkGgdVEW-1760.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/YzODdILZSfWOwiH1DL2pMF4en-3089.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/Ee0i0JPOjjjqoFxRtAp7GNKz2-2276.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/tNhsZUy09BSp3efO5h9WTryZB-2715.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/hWBTpXq7LQRTEUA3Vm7uJK4d3-2243.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/vfqdW5nRKSteaI9pcSTmxqxeN-2170.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 R9000P Ryzen 9 8945HX 32GB RAM 1TB SSD RTX5070Ti - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1632,8 +1644,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070Ti OLED",
-    "price": 780000008363,
-    "originalPrice": 735000008363,
+    "price": 73500000,
+    "originalPrice": 78000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1644,11 +1656,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/09/AYEJaCgZGebepwfCPoKk6zEg3-3029.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/09/59azNbzOlgFJrl4Lft8k5hsCD-5724.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/z9PQ0HVU5MhHNpy4hNNfherbk-7212.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/xQqtpWycZNMHpXEJGtkxVqSRw-7190.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/09/rxh1gnhpzjJUCYMO4WnI373f6-3023.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/09/rxh1gnhpzjJUCYMO4WnI373f6-3023.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/09/5ilq8QisSUWqf9awjou9wuUv3-3007.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1664,8 +1676,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070Ti OLED Trắng",
-    "price": 800000008363,
-    "originalPrice": 745000008363,
+    "price": 74500000,
+    "originalPrice": 80000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1676,11 +1688,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/09/zvsjJ8SLL6sSKCDsTFACUJYVJ-6492.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/09/KaOWBSbIXzuwUjUhnTYhXcuuT-7636.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/Eyp8dJedApHSh6WH2Ww9tjWo3-7679.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/hdCK7N4vCYIvKQdPOBe7yXc9H-8958.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/09/KlolPQxFnIlhOSvAWJ9K8N55U-6553.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/09/KlolPQxFnIlhOSvAWJ9K8N55U-6553.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/09/Nij1aWEBVmEeIzyp9wkTs0DQB-6557.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX 32GB RAM 1TB SSD RTX5070Ti OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1696,8 +1708,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5080 OLED",
-    "price": 1000000008363,
-    "originalPrice": 860000008363,
+    "price": 86000000,
+    "originalPrice": 100000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1708,11 +1720,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/09/AYEJaCgZGebepwfCPoKk6zEg3-3029.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/09/59azNbzOlgFJrl4Lft8k5hsCD-5724.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/z9PQ0HVU5MhHNpy4hNNfherbk-7212.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/xQqtpWycZNMHpXEJGtkxVqSRw-7190.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/09/rxh1gnhpzjJUCYMO4WnI373f6-3023.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/09/rxh1gnhpzjJUCYMO4WnI373f6-3023.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/09/5ilq8QisSUWqf9awjou9wuUv3-3007.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1728,8 +1740,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5080 OLED Trắng",
-    "price": 1000000008363,
-    "originalPrice": 875000008363,
+    "price": 87500000,
+    "originalPrice": 100000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1740,11 +1752,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/09/zvsjJ8SLL6sSKCDsTFACUJYVJ-6492.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/09/KaOWBSbIXzuwUjUhnTYhXcuuT-7636.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/Eyp8dJedApHSh6WH2Ww9tjWo3-7679.jpg",
       "https://trieubom.com/wp-content/uploads/2025/09/hdCK7N4vCYIvKQdPOBe7yXc9H-8958.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/09/KlolPQxFnIlhOSvAWJ9K8N55U-6553.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/09/KlolPQxFnIlhOSvAWJ9K8N55U-6553.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/09/Nij1aWEBVmEeIzyp9wkTs0DQB-6557.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 7 2025 R9000P Ryzen 9 9955HX3D 32GB RAM 1TB SSD RTX5080 OLED Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1760,8 +1772,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 15.3inch",
-    "price": 480000008363,
-    "originalPrice": 340000008363,
+    "price": 34000000,
+    "originalPrice": 48000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1772,11 +1784,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/WfYpB2QdFh2GGDJZq5F3YkWwf-4541.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/IpZKJYovavcFBV4DzybOnhUFA-9650.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/t2QHuYXnl0dHuDrj8kQMOOb9C-0134.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/t7W5WMEUVU8p9jdcR8PJixhfv-9650.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/8-copy.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/8-copy.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-6.png"
     ],
     "seoTitle": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Y7000 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1792,7 +1804,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 15.3inch",
-    "price": 0,
+    "price": 34000000,
+    "originalPrice": 35500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1803,11 +1816,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/DMUSJKBqGElSmxTaaPimjCfbg-0211.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/pkCHObRRsZHRrmmxTQFhUPhuS-9641.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/IpZKJYovavcFBV4DzybOnhUFA-9650.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/t2QHuYXnl0dHuDrj8kQMOOb9C-0134.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/t7W5WMEUVU8p9jdcR8PJixhfv-9650.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/t7W5WMEUVU8p9jdcR8PJixhfv-9650.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-18.png"
     ],
     "seoTitle": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Y7000 2025 i7-14650HX 16/24GB RAM 512GB SSD RTX5060 15.3inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1823,8 +1836,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5050 16inch",
-    "price": 400000008363,
-    "originalPrice": 332000008363,
+    "price": 33200000,
+    "originalPrice": 40000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1835,11 +1848,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Zw1xpnzwYM1p5TJfcL6iV50Qy-0869.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/QRD2DrChVpzgGqmZyMrNtPUVn-0433.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/yE9jVobFzji15mI76sgSVSzFq-0351.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/ZLA7wr716Bge3K0TTN2MLCG5p-0431.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
     "seoTitle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5050 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1855,8 +1868,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 16inch",
-    "price": 400000008363,
-    "originalPrice": 375000008363,
+    "price": 37500000,
+    "originalPrice": 40000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1867,11 +1880,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Zw1xpnzwYM1p5TJfcL6iV50Qy-0869.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/QRD2DrChVpzgGqmZyMrNtPUVn-0433.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/yE9jVobFzji15mI76sgSVSzFq-0351.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/ZLA7wr716Bge3K0TTN2MLCG5p-0431.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
     "seoTitle": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Y7000P 2025 i7-14650HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1887,8 +1900,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 16inch",
-    "price": 420000008363,
-    "originalPrice": 392000008363,
+    "price": 39200000,
+    "originalPrice": 42000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1899,11 +1912,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Zw1xpnzwYM1p5TJfcL6iV50Qy-0869.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/QRD2DrChVpzgGqmZyMrNtPUVn-0433.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/yE9jVobFzji15mI76sgSVSzFq-0351.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/ZLA7wr716Bge3K0TTN2MLCG5p-0431.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
     "seoTitle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1919,8 +1932,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070 16inch",
-    "price": 430000008363,
-    "originalPrice": 400000008363,
+    "price": 40000000,
+    "originalPrice": 43000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1931,11 +1944,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Zw1xpnzwYM1p5TJfcL6iV50Qy-0869.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/QRD2DrChVpzgGqmZyMrNtPUVn-0433.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/yE9jVobFzji15mI76sgSVSzFq-0351.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/ZLA7wr716Bge3K0TTN2MLCG5p-0431.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
     "seoTitle": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Y7000P 2025 i9-14900HX 16GB RAM 1TB SSD RTX5070 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1951,8 +1964,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 16inch",
-    "price": 500000008363,
-    "originalPrice": 375000008363,
+    "price": 37500000,
+    "originalPrice": 50000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1963,11 +1976,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Zw1xpnzwYM1p5TJfcL6iV50Qy-0869.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/QRD2DrChVpzgGqmZyMrNtPUVn-0433.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/yE9jVobFzji15mI76sgSVSzFq-0351.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/ZLA7wr716Bge3K0TTN2MLCG5p-0431.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/zEG4iIRuUOZeHw9GKzeZCPNSd-9895.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/9Kb5odlat3zfVwiNdx9BoB3Vm-9889.jpg"
     ],
     "seoTitle": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Y7000P 2025 Ultra 7-255HX 16GB RAM 1TB SSD RTX5060 16inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -1983,8 +1996,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060",
-    "price": 550000008363,
-    "originalPrice": 475000008363,
+    "price": 47500000,
+    "originalPrice": 55000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -1995,11 +2008,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/wyDJHQsNiMTOPCPXHHWJJt9Ad-3934.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/irsKHadgAyHEsfvsMGxxxqyBO-4509.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/ddohB4qUkHeZo5qFR7qDlIcQk-4497.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/sq0mGkWKNeATwPhegAc2kdw59-3970.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/3p94gzjVDFpH2BYfYsPclvNLc-4010.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/3p94gzjVDFpH2BYfYsPclvNLc-4010.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/jx0ZqmGIySnfPXj2uCDYkHfZe-4563.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2015,8 +2028,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060 Trắng",
-    "price": 550000008363,
-    "originalPrice": 480000008363,
+    "price": 48000000,
+    "originalPrice": 55000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2027,11 +2040,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/F6dsx3Tu3gkTQKPvuz9Gfy9d3-6947.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/JKib54uKFredXlHD9kScPHWoW-7543.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/XjCCWuUuzxe8YvOyuvf99tMAO-7489.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/22Z8QRP2mQWOSRcW30oMbBfX4-6998.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/HqgTpoNQWD6FoplOAL5Mi6br1-7046.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/HqgTpoNQWD6FoplOAL5Mi6br1-7046.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/K451Xonev6w9KDoklprKlUfPA-7549.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2047,8 +2060,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070",
-    "price": 550000008363,
-    "originalPrice": 520000008363,
+    "price": 52000000,
+    "originalPrice": 55000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2059,11 +2072,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/wyDJHQsNiMTOPCPXHHWJJt9Ad-3934.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/irsKHadgAyHEsfvsMGxxxqyBO-4509.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/ddohB4qUkHeZo5qFR7qDlIcQk-4497.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/sq0mGkWKNeATwPhegAc2kdw59-3970.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/3p94gzjVDFpH2BYfYsPclvNLc-4010.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/3p94gzjVDFpH2BYfYsPclvNLc-4010.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/jx0ZqmGIySnfPXj2uCDYkHfZe-4563.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2079,8 +2092,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070 Trắng",
-    "price": 550000008363,
-    "originalPrice": 530000008363,
+    "price": 53000000,
+    "originalPrice": 55000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2091,11 +2104,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/F6dsx3Tu3gkTQKPvuz9Gfy9d3-6947.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/JKib54uKFredXlHD9kScPHWoW-7543.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/XjCCWuUuzxe8YvOyuvf99tMAO-7489.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/22Z8QRP2mQWOSRcW30oMbBfX4-6998.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/HqgTpoNQWD6FoplOAL5Mi6br1-7046.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/HqgTpoNQWD6FoplOAL5Mi6br1-7046.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/K451Xonev6w9KDoklprKlUfPA-7549.jpg"
     ],
     "seoTitle": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 5 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2111,8 +2124,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070Ti",
-    "price": 810000008363,
-    "originalPrice": 770000008363,
+    "price": 77000000,
+    "originalPrice": 81000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2123,11 +2136,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/uvGwvQmBE40ksUTpEmluCheB4-1776.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/3TujFhltBdOVesmvlgNMZ91jA-2583.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/ZI7HSFFE50bz3htKee40QWLMM-2328.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/TSqAmAdCsamIGmVbBflrsLvtB-2619.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/04/VAG9A7FWSOHsSCF85SkX26hPu-2213.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/04/VAG9A7FWSOHsSCF85SkX26hPu-2213.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-19.png"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2143,8 +2156,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070Ti Trắng",
-    "price": 829000008363,
-    "originalPrice": 780000008363,
+    "price": 78000000,
+    "originalPrice": 82900000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2155,11 +2168,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/OnlbsAU5ogGz2HOT45Ip3rsMP-0717.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/vByS5HnEhyftGS8nO0zql6k51-1250.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/If02X7ys0sX6mbF7wznt58xfa-1526.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/8mlPqCP9e0Qt9SmTLP8icZrvC-1575.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/04/8A3AohAFdrFTGoSpclsDWegkA-1159.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/04/8A3AohAFdrFTGoSpclsDWegkA-1159.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/pAAOSqxmOlBBAdXnrFr5T4lb7-1066.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5070Ti Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2175,8 +2188,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5080",
-    "price": 900000008363,
-    "originalPrice": 810000008363,
+    "price": 81000000,
+    "originalPrice": 90000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2187,11 +2200,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/uvGwvQmBE40ksUTpEmluCheB4-1776.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/3TujFhltBdOVesmvlgNMZ91jA-2583.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/ZI7HSFFE50bz3htKee40QWLMM-2328.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/TSqAmAdCsamIGmVbBflrsLvtB-2619.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/04/VAG9A7FWSOHsSCF85SkX26hPu-2213.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/04/VAG9A7FWSOHsSCF85SkX26hPu-2213.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-20.png"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2207,8 +2220,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5080 Trắng",
-    "price": 900000008363,
-    "originalPrice": 820000008363,
+    "price": 82000000,
+    "originalPrice": 90000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2219,11 +2232,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/OnlbsAU5ogGz2HOT45Ip3rsMP-0717.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/vByS5HnEhyftGS8nO0zql6k51-1250.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/If02X7ys0sX6mbF7wznt58xfa-1526.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/8mlPqCP9e0Qt9SmTLP8icZrvC-1575.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/04/8A3AohAFdrFTGoSpclsDWegkA-1159.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/04/8A3AohAFdrFTGoSpclsDWegkA-1159.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/pAAOSqxmOlBBAdXnrFr5T4lb7-1066.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 32GB RAM 1TB SSD RTX5080 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2239,8 +2252,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "2TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5090",
-    "price": 1200000008363,
-    "originalPrice": 970000008363,
+    "price": 97000000,
+    "originalPrice": 120000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2251,11 +2264,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/uvGwvQmBE40ksUTpEmluCheB4-1776.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/3TujFhltBdOVesmvlgNMZ91jA-2583.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/ZI7HSFFE50bz3htKee40QWLMM-2328.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/TSqAmAdCsamIGmVbBflrsLvtB-2619.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/04/VAG9A7FWSOHsSCF85SkX26hPu-2213.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/04/VAG9A7FWSOHsSCF85SkX26hPu-2213.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-11.png"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2271,8 +2284,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "2TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5090 Trắng",
-    "price": 1200000008363,
-    "originalPrice": 1010000008363,
+    "price": 101000000,
+    "originalPrice": 120000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2283,11 +2296,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/OnlbsAU5ogGz2HOT45Ip3rsMP-0717.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/vByS5HnEhyftGS8nO0zql6k51-1250.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/If02X7ys0sX6mbF7wznt58xfa-1526.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/8mlPqCP9e0Qt9SmTLP8icZrvC-1575.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/04/8A3AohAFdrFTGoSpclsDWegkA-1159.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/04/8A3AohAFdrFTGoSpclsDWegkA-1159.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/pAAOSqxmOlBBAdXnrFr5T4lb7-1066.jpg"
     ],
     "seoTitle": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion Pro 7 2025 Y9000P Ultra 9-275HX 64GB RAM 2TB SSD RTX5090 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2303,8 +2316,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060",
-    "price": 700000008363,
-    "originalPrice": 520000008363,
+    "price": 52000000,
+    "originalPrice": 70000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2315,11 +2328,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/UsLzKs0iPovinA04fp6vfjbmq-1832.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/TBmj9XzejRG4Cmxcx0mN9wBrN-1816.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/mv72TGpZLyY18gnETEVGKnBuD-2323.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/5Njhj7tfdM94IbjUlJ3QNY2TV-2360.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/1-1-11.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-11.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
     "seoTitle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 giá tốt tại DP Lab",
     "seoDescription": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2335,8 +2348,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5070",
-    "price": 700000008363,
-    "originalPrice": 570000008363,
+    "price": 57000000,
+    "originalPrice": 70000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2347,11 +2360,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/UsLzKs0iPovinA04fp6vfjbmq-1832.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/TBmj9XzejRG4Cmxcx0mN9wBrN-1816.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/mv72TGpZLyY18gnETEVGKnBuD-2323.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/5Njhj7tfdM94IbjUlJ3QNY2TV-2360.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/1-1-15.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-15.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-20.png"
     ],
     "seoTitle": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 giá tốt tại DP Lab",
     "seoDescription": "Legion 7 2025 Y9000X Ultra 9-275HX 32GB RAM 1TB SSD RTX5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2367,8 +2380,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 318000008363,
-    "originalPrice": 254000008363,
+    "price": 25400000,
+    "originalPrice": 31800000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2379,11 +2392,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-25.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-29.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-31.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-31.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-31.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-31.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/4-30.png"
     ],
     "seoTitle": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
     "seoDescription": "Legion Slim 5 R7000P 2024 R7-8845H 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2399,8 +2412,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX4060",
-    "price": 362000008363,
-    "originalPrice": 320000008363,
+    "price": 32000000,
+    "originalPrice": 36200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2411,11 +2424,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-28.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-34.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-34.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-33.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-34.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-34.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/6-32.png"
     ],
     "seoTitle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2431,8 +2444,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX4060 Trắng",
-    "price": 362000008363,
-    "originalPrice": 330000008363,
+    "price": 33000000,
+    "originalPrice": 36200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2443,11 +2456,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/h2pjDd7WnisGegAU7ZCkfmcLj-6083.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/cHCCFAoA1WymCUOLIz4UaiYka-6609.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/Dhj5ErooOq4uUVAxFu8yAdNRF-6689.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/EpTrWCy5lZFX5Dii5PJkgMQhF-6625.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/04/1andFr3DfwtrMVYN9vcUbQI53-7191.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/04/1andFr3DfwtrMVYN9vcUbQI53-7191.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/9-1-1.png"
     ],
     "seoTitle": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Pro 2024 R9000P ARX8 Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4060 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2463,8 +2476,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX4070",
-    "price": 402000008363,
-    "originalPrice": 350000008363,
+    "price": 35000000,
+    "originalPrice": 40200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2475,11 +2488,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-28.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-32.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-34.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-34.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-33.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-33.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-34.png"
     ],
     "seoTitle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2495,8 +2508,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX4070 Trắng",
-    "price": 402000008363,
-    "originalPrice": 346000008363,
+    "price": 34600000,
+    "originalPrice": 40200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2507,11 +2520,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/h2pjDd7WnisGegAU7ZCkfmcLj-6083.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/EpTrWCy5lZFX5Dii5PJkgMQhF-6625.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/cHCCFAoA1WymCUOLIz4UaiYka-6609.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/Dhj5ErooOq4uUVAxFu8yAdNRF-6689.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/04/1andFr3DfwtrMVYN9vcUbQI53-7191.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/04/1andFr3DfwtrMVYN9vcUbQI53-7191.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/8-copy.png"
     ],
     "seoTitle": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Pro 2024 R9000P Ryzen 9 7945HX 16GB RAM 1TB SSD RTX4070 Trắng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2527,8 +2540,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14.5\" 3K 120Hz",
     "gpu": "Đang cập nhật",
-    "price": 291000008363,
-    "originalPrice": 255000008363,
+    "price": 25500000,
+    "originalPrice": 29100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2539,11 +2552,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_1_2025-03-18_19-15-09.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_9_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_7_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_8_2025-03-18_19-15-09.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-15-09.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-15-09.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-15-09.jpg"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2559,8 +2572,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 3.2K 165Hz",
     "gpu": "Đang cập nhật",
-    "price": 292000008363,
-    "originalPrice": 250000008363,
+    "price": 25000000,
+    "originalPrice": 29200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2571,11 +2584,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-22-42.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_1_2025-03-18_19-22-42.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_2_2025-03-18_19-22-42.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_4_2025-03-18_19-22-42.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-22-42.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-22-42.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/photo_7_2025-03-18_19-22-42.jpg"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 260 RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2591,7 +2604,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060 2.5K 240Hz",
-    "price": 0,
+    "price": 39000000,
+    "originalPrice": 40000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2602,11 +2616,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/pXjO8diI6hWZIRKtwmKET8eND-5172.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/yU6ZmVKRPIQWtEqk1LOLgXyDC-3804.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/q40j6Mj1u2cCPDDJiE8m7Erld-3872.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/IR8pEFYoTsuGBB2RYbRkiemIP-3637.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DP Lab",
     "seoDescription": "ThinkBook 16P 2025 R9-8945HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2622,8 +2636,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060 2.5K 240Hz",
-    "price": 600000008363,
-    "originalPrice": 465000008363,
+    "price": 46500000,
+    "originalPrice": 60000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2634,11 +2648,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/pXjO8diI6hWZIRKtwmKET8eND-5172.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/yU6ZmVKRPIQWtEqk1LOLgXyDC-3804.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/q40j6Mj1u2cCPDDJiE8m7Erld-3872.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/IR8pEFYoTsuGBB2RYbRkiemIP-3637.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DP Lab",
     "seoDescription": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2654,8 +2668,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070 2.5K 240Hz",
-    "price": 650000008363,
-    "originalPrice": 530000008363,
+    "price": 53000000,
+    "originalPrice": 65000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2666,11 +2680,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/pXjO8diI6hWZIRKtwmKET8eND-5172.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/yU6ZmVKRPIQWtEqk1LOLgXyDC-3804.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/q40j6Mj1u2cCPDDJiE8m7Erld-3872.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/IR8pEFYoTsuGBB2RYbRkiemIP-3637.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz giá tốt tại DP Lab",
     "seoDescription": "ThinkBook 16P 2025 R9-9955HX 32GB RAM 1TB SSD RTX 5070 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2686,8 +2700,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060 2.5K 165Hz",
-    "price": 450000008363,
-    "originalPrice": 380000008363,
+    "price": 38000000,
+    "originalPrice": 45000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2698,11 +2712,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/pXjO8diI6hWZIRKtwmKET8eND-5172.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/yU6ZmVKRPIQWtEqk1LOLgXyDC-3804.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/q40j6Mj1u2cCPDDJiE8m7Erld-3872.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/IR8pEFYoTsuGBB2RYbRkiemIP-3637.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/7Pwm5JIjP9JOsQyCOQIoHRk8H-4946.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/UcBkX1UgLXr0ZAMbK7TKtX97z-4620.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz giá tốt tại DP Lab",
     "seoDescription": "ThinkBook 16P 2025 R9-8945HX 16GB RAM 1TB SSD RTX 5060 2.5K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2718,7 +2732,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060 2.5K 240Hz",
-    "price": 0,
+    "price": 40000000,
+    "originalPrice": 42500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2729,11 +2744,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/hMdbNxdcCWESYgxOLhGE8lSm9-5571.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/ompZqXG9RokIaxNCFHI2d5VfT-5184.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/hXji4uKPfLH5410cXXjbqAdyw-5078.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/OE8Fl1ikJhPpMUtfPYyd0SiQC-5507.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/gVBB4G1jLPuTQuuG2tlcHRjc2-4831.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/gVBB4G1jLPuTQuuG2tlcHRjc2-4831.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/rYNpYNmA5j3U6Q6RaZFsWbcgK-4822.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz giá tốt tại DP Lab",
     "seoDescription": "ThinkBook 16P 2025 Ultra 7-255HX 16/32GB RAM 1TB SSD RTX 5060 2.5K 240Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2749,7 +2764,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 0,
+    "price": 46000000,
+    "originalPrice": 48000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2760,11 +2776,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Trl8W5YdjJy7z27WQ3acpoxTS-7087.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/ompZqXG9RokIaxNCFHI2d5VfT-5184.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/hXji4uKPfLH5410cXXjbqAdyw-5078.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/OE8Fl1ikJhPpMUtfPYyd0SiQC-5507.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/gVBB4G1jLPuTQuuG2tlcHRjc2-4831.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/gVBB4G1jLPuTQuuG2tlcHRjc2-4831.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/rYNpYNmA5j3U6Q6RaZFsWbcgK-4822.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 giá tốt tại DP Lab",
     "seoDescription": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2780,7 +2796,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070",
-    "price": 0,
+    "price": 52500000,
+    "originalPrice": 53500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2791,11 +2808,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Trl8W5YdjJy7z27WQ3acpoxTS-7087.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/ompZqXG9RokIaxNCFHI2d5VfT-5184.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/hXji4uKPfLH5410cXXjbqAdyw-5078.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/OE8Fl1ikJhPpMUtfPYyd0SiQC-5507.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/gVBB4G1jLPuTQuuG2tlcHRjc2-4831.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/gVBB4G1jLPuTQuuG2tlcHRjc2-4831.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/rYNpYNmA5j3U6Q6RaZFsWbcgK-4822.jpg"
     ],
     "seoTitle": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 giá tốt tại DP Lab",
     "seoDescription": "ThinkBook 16P 2025 Ultra 9-275HX 32GB RAM 1TB SSD RTX 5070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2811,8 +2828,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 365000008363,
-    "originalPrice": 320000008363,
+    "price": 32000000,
+    "originalPrice": 36500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2823,11 +2840,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-14.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-15.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-15.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-15.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/3-15.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/3-15.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-15.png"
     ],
     "seoTitle": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
     "seoDescription": "ThinkBook 16P G5 2024 i7-14650HX 16/32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2843,7 +2860,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 0,
+    "price": 29500000,
+    "originalPrice": 30500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2854,11 +2872,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/LZu7fVWbgvQQMQxXKKB3Y98RJ-3995.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/wMPbypKpIMf2wIQI2lNv82asP-4114.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/I9KjXWt09KFpVYyE7TGFDqbXX-4091.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/SXXRo3hj0bVhz7wwHZATwSGCM-3825.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/RtG27feBERNzb1NhyJ7XGcFS8-3787.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/RtG27feBERNzb1NhyJ7XGcFS8-3787.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/8wvVBz7xfnT4Cw1Erkj9srn8V-4833.jpg"
     ],
     "seoTitle": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook X AI 2025 Ultra 5-225H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2874,7 +2892,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 0,
+    "price": 32000000,
+    "originalPrice": 33200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2885,11 +2904,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/LZu7fVWbgvQQMQxXKKB3Y98RJ-3995.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/wMPbypKpIMf2wIQI2lNv82asP-4114.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/I9KjXWt09KFpVYyE7TGFDqbXX-4091.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/SXXRo3hj0bVhz7wwHZATwSGCM-3825.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/RtG27feBERNzb1NhyJ7XGcFS8-3787.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/RtG27feBERNzb1NhyJ7XGcFS8-3787.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/8wvVBz7xfnT4Cw1Erkj9srn8V-4833.jpg"
     ],
     "seoTitle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2905,8 +2924,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 450000008363,
-    "originalPrice": 365000008363,
+    "price": 36500000,
+    "originalPrice": 45000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2917,11 +2936,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/xdnG8vbuESA8LX8aYNtXEkZRt-0692.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/Q6elzlWxm1XllNlHwYQW6p4H4-1708.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/Kp2yNohLrt338DgSns83nIuOJ-1386.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/qwyoFvY6TrLN4TOXHxaGtxQZF-0329.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/DRZE4E76jhTn2CEbLzqdKSgGH-0565.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/DRZE4E76jhTn2CEbLzqdKSgGH-0565.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
     "seoTitle": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook X AI 2025 Ultra 9-285H 32GB RAM 1TB SSD (Stainless Magnesium Edition) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2937,8 +2956,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 271000008363,
-    "originalPrice": 258000008363,
+    "price": 25800000,
+    "originalPrice": 27100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2949,11 +2968,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-8.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-9.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-9.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-9.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-9.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-9.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/6-9.png"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -2969,8 +2988,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 272000008363,
-    "originalPrice": 264900008363,
+    "price": 26490000,
+    "originalPrice": 27200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -2981,11 +3000,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-9.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-10.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-10.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-10.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-10.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-10.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/4-10.png"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G7+ 2025 AI 9-365 RAM 32GB SSD 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3001,8 +3020,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14.5\" 3K 120Hz",
     "gpu": "Đang cập nhật",
-    "price": 291000008363,
-    "originalPrice": 279000008363,
+    "price": 27900000,
+    "originalPrice": 29100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3013,11 +3032,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_1_2025-03-18_19-15-09.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_9_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_7_2025-03-18_19-15-09.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_8_2025-03-18_19-15-09.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-15-09.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-15-09.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-15-09.jpg"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3033,8 +3052,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 3.2K 165Hz",
     "gpu": "Đang cập nhật",
-    "price": 292000008363,
-    "originalPrice": 238000008363,
+    "price": 23800000,
+    "originalPrice": 29200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3045,11 +3064,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/photo_5_2025-03-18_19-22-42.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_1_2025-03-18_19-22-42.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_2_2025-03-18_19-22-42.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/photo_4_2025-03-18_19-22-42.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-22-42.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/photo_6_2025-03-18_19-22-42.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/photo_7_2025-03-18_19-22-42.jpg"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G7+ 2025 AMD Ryzen AI 7 H 350 RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3065,8 +3084,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14.5\" 3K 120Hz",
     "gpu": "Đang cập nhật",
-    "price": 291000008363,
-    "originalPrice": 270000008363,
+    "price": 27000000,
+    "originalPrice": 29100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3077,11 +3096,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/uqNQDI9ampueP5OB3GNkVibpZ-0566.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/Awst28Id8pbZC7h7LdtFXQ5ui-0725.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/YBjscIcVjuy202JX6NtHaRFhs-0625.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/Dji3DmDVcnnrdYfOdJpwr0F1h-0906.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/lvy5ir51.png"
+      "https://trieubom.com/wp-content/uploads/2025/03/lvy5ir51.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3097,8 +3116,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 3.2K 165Hz",
     "gpu": "Đang cập nhật",
-    "price": 292000008363,
-    "originalPrice": 277000008363,
+    "price": 27700000,
+    "originalPrice": 29200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3109,11 +3128,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/kk0MIKhCegYsbrRxy0l7OvOzF-9215.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/GkR6oNDqViqc21PSNgEeqvrYB-4900.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/tffzddgWIDiO5OcbirCLY6fmv-4756.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/ZmmDNhfmgZFCEoRUTxv0VzQ7M-4797.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-21.png"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3129,8 +3148,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 3.2K 165Hz",
     "gpu": "RTX 5050 16\" 3.2K 165Hz",
-    "price": 400000008363,
-    "originalPrice": 340000008363,
+    "price": 34000000,
+    "originalPrice": 40000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3141,11 +3160,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/kk0MIKhCegYsbrRxy0l7OvOzF-9215.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/GkR6oNDqViqc21PSNgEeqvrYB-4900.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/tffzddgWIDiO5OcbirCLY6fmv-4756.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/ZmmDNhfmgZFCEoRUTxv0VzQ7M-4797.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-7.png"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 5 225H RAM 32GB SSD 1TB RTX 5050 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3161,8 +3180,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14.5\" 3K 120Hz",
     "gpu": "Đang cập nhật",
-    "price": 391000008363,
-    "originalPrice": 320000008363,
+    "price": 32000000,
+    "originalPrice": 39100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3173,11 +3192,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/uqNQDI9ampueP5OB3GNkVibpZ-0566.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/Awst28Id8pbZC7h7LdtFXQ5ui-0725.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/Dji3DmDVcnnrdYfOdJpwr0F1h-0906.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/YBjscIcVjuy202JX6NtHaRFhs-0625.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/lvy5ir51.png"
+      "https://trieubom.com/wp-content/uploads/2025/03/lvy5ir51.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3193,8 +3212,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 3.2K 165Hz",
     "gpu": "Đang cập nhật",
-    "price": 390000008363,
-    "originalPrice": 320000008363,
+    "price": 32000000,
+    "originalPrice": 39000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3205,11 +3224,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/kk0MIKhCegYsbrRxy0l7OvOzF-9215.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/GkR6oNDqViqc21PSNgEeqvrYB-4900.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/tffzddgWIDiO5OcbirCLY6fmv-4756.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/ZmmDNhfmgZFCEoRUTxv0VzQ7M-4797.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-14.png"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3225,8 +3244,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 3.2K 165Hz Forcepad",
     "gpu": "RTX 5060 16\" 3.2K 165Hz Forc",
-    "price": 450000008363,
-    "originalPrice": 366000008363,
+    "price": 36600000,
+    "originalPrice": 45000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3237,11 +3256,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/w5i9Gx4Znuh71aBg2XRK6YcEg-4065.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/j3seb8uLgCzjOeENwu1X9Ahaj-3810.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/WdCIyLHnDshbQTYcbyvq7Llys-3322.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/WQibxV5So4nbBHsf2Wv2PtyEq-3244.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/coRXw2n3ylXvFbFq5N8wPfKxJ-3583.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/coRXw2n3ylXvFbFq5N8wPfKxJ-3583.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/rudFD9xRn75B9CJsnIw0gZvn2-3465.jpg"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3257,8 +3276,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14.5\" 3K 120Hz",
     "gpu": "Đang cập nhật",
-    "price": 400000008363,
-    "originalPrice": 330000008363,
+    "price": 33000000,
+    "originalPrice": 40000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3269,11 +3288,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/uqNQDI9ampueP5OB3GNkVibpZ-0566.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/Awst28Id8pbZC7h7LdtFXQ5ui-0725.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/Dji3DmDVcnnrdYfOdJpwr0F1h-0906.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/YBjscIcVjuy202JX6NtHaRFhs-0625.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/lvy5ir51.png"
+      "https://trieubom.com/wp-content/uploads/2025/03/lvy5ir51.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-6.png"
     ],
     "seoTitle": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 14.5\" 3K 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3289,8 +3308,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 3.2K 165Hz",
     "gpu": "Đang cập nhật",
-    "price": 450000008363,
-    "originalPrice": 330000008363,
+    "price": 33000000,
+    "originalPrice": 45000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3301,11 +3320,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/kk0MIKhCegYsbrRxy0l7OvOzF-9215.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/GkR6oNDqViqc21PSNgEeqvrYB-4900.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/tffzddgWIDiO5OcbirCLY6fmv-4756.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/ZmmDNhfmgZFCEoRUTxv0VzQ7M-4797.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/hva5kcpco7yA33CTjbMsEQ9NO-5027.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-1.png"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB 16\" 3.2K 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3321,8 +3340,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 3.2K 165Hz Forcepad",
     "gpu": "RTX 5060 16\" 3.2K 165Hz Forc",
-    "price": 550000008363,
-    "originalPrice": 385000008363,
+    "price": 38500000,
+    "originalPrice": 55000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3333,11 +3352,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/2mmMGdIj9f8JAsBnOZfOqDNRi-8906.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/WdCIyLHnDshbQTYcbyvq7Llys-3322.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/j3seb8uLgCzjOeENwu1X9Ahaj-3810.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/WQibxV5So4nbBHsf2Wv2PtyEq-3244.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/rudFD9xRn75B9CJsnIw0gZvn2-3465.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/rudFD9xRn75B9CJsnIw0gZvn2-3465.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/coRXw2n3ylXvFbFq5N8wPfKxJ-3583.jpg"
     ],
     "seoTitle": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G7+ 2025 Intel Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 3.2K 165Hz Forcepad - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3353,8 +3372,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 285000008363,
-    "originalPrice": 239000008363,
+    "price": 23900000,
+    "originalPrice": 28500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3365,11 +3384,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-18.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-20.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-20.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-20.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/6-20.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/6-20.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/4-19.png"
     ],
     "seoTitle": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook X AI 2024 Ultra 5-125H 16GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3385,8 +3404,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 325000008363,
-    "originalPrice": 279000008363,
+    "price": 27900000,
+    "originalPrice": 32500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3397,11 +3416,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-10.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/8-5.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-11.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-11.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/7-6.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/7-6.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/3-11.png"
     ],
     "seoTitle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD (màn không cảm ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3417,8 +3436,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 345000008363,
-    "originalPrice": 293000008363,
+    "price": 29300000,
+    "originalPrice": 34500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3429,11 +3448,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/3.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/3.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5.png"
     ],
     "seoTitle": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng giá tốt tại DP Lab",
     "seoDescription": "Thinkbook X AI 2024 Ultra 9-185H 32GB RAM 1TB SSD bản màn cảm ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3449,8 +3468,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14 inch 2.8K OLED 120Hz",
     "gpu": "Đang cập nhật",
-    "price": 400000008363,
-    "originalPrice": 345000008363,
+    "price": 34500000,
+    "originalPrice": 40000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3461,11 +3480,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/t2jB01fQ03BV7AnRSYhKlWJTo-3439.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/5lajFC4RehGF6ZyTPpx8qlTFi-3732.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/2oVAa1arOtZpFDUN4u0ubDPbw-3434.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/sSvHXT6K5BvAyhI4qul3ptnqt-0163.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/873TW8HW0uocNnjM9ZwIW4Q7Z-3772.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/873TW8HW0uocNnjM9ZwIW4Q7Z-3772.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/gM44TzqBf3HLU2RuM4tyHk5Au-3752.jpg"
     ],
     "seoTitle": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga 360 AI (Yoga 7 2-in-1 2025) Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3481,8 +3500,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 279000008363,
-    "originalPrice": 241000008363,
+    "price": 24100000,
+    "originalPrice": 27900000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3493,11 +3512,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-2.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-3.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-2.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-2.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/3-2.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/3-2.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-2.png"
     ],
     "seoTitle": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3513,8 +3532,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 275000008363,
-    "originalPrice": 238000008363,
+    "price": 23800000,
+    "originalPrice": 27500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3525,11 +3544,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-3.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-4.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-3.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-3.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/6-3.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/6-3.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-3.png"
     ],
     "seoTitle": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G6+ 2024 Ultra 7-155H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3545,8 +3564,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 229000008363,
-    "originalPrice": 203000008363,
+    "price": 20300000,
+    "originalPrice": 22900000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3557,11 +3576,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-5.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-4.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-4.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-4.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-4.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/3-4.png"
     ],
     "seoTitle": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G6+ 2024 R7-8845H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3577,8 +3596,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14 inch 2.8K OLED 120Hz",
     "gpu": "Đang cập nhật",
-    "price": 550000008363,
-    "originalPrice": 415000008363,
+    "price": 41500000,
+    "originalPrice": 55000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3589,11 +3608,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-211116.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/LtCWIW3uqtm9GKgQ9GdE1AAIB-9583.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/ck4gF2KY5TUKxkyX3O9ZOVWw9-2890.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/M1uWVgORjLshoh2V2aBEC3w7D-2143.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/TWRylWWYdplVIEYeGa4s3zSnU-2130.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/TWRylWWYdplVIEYeGa4s3zSnU-2130.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/05/zSMtzXNkvwPiHGkoF8QHBRHKI-2345.jpg"
     ],
     "seoTitle": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga 360 Aura AI (Yoga 9 2-in-1) 2025 Ultra 7 258V 32GB RAM 1TB SSD 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3609,8 +3628,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 226000008363,
-    "originalPrice": 202000008363,
+    "price": 20200000,
+    "originalPrice": 22600000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3621,11 +3640,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-6.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-6.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-5.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-5.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/6-5.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/6-5.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-5.png"
     ],
     "seoTitle": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G6+ 2024 R7-8845H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3641,8 +3660,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 199900008363,
-    "originalPrice": 188000008363,
+    "price": 18800000,
+    "originalPrice": 19990000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3653,11 +3672,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-12.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-13.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-13.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-13.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-13.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-13.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/4-13.png"
     ],
     "seoTitle": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G6+ 2024 R7-8745H 24GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3673,8 +3692,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14.5 inch 3K OLED 120Hz",
     "gpu": "Đang cập nhật",
-    "price": 500000008363,
-    "originalPrice": 365000008363,
+    "price": 36500000,
+    "originalPrice": 50000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3685,11 +3704,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/4b8AkyNVOP4gUPcCdQoy0ZpOh-7753.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/jnsZrm2pYWAu6EOe6KGUELb8x-7761.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/eyEqf6oxuoWWvQPh0Ga9tCVjM-7779.jpg",
       "https://trieubom.com/wp-content/uploads/2025/06/4tm5bL2RcIIxE7kj3vNUsOZFV-8101.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/06/rJpfkvvsUjahXHH7wneAKbb1T-8099.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/06/rJpfkvvsUjahXHH7wneAKbb1T-8099.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/06/O5zKBHCo9OKiYIE0MhZxWkbT1-8116.jpg"
     ],
     "seoTitle": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Pro 7i Aura Editon (Yoga Pro 14 Aura AI) Ultra 9 285H RAM 32GB SSD 1TB 14.5 inch 3K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3705,8 +3724,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16 inch 2.8K OLED 120Hz",
     "gpu": "RTX 5060 16 inch 2.8K OLED 1",
-    "price": 600000008363,
-    "originalPrice": 375000008363,
+    "price": 37500000,
+    "originalPrice": 60000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3717,11 +3736,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Nmk8KL5BnxoBZhoDGOYT3jpFQ-3629.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rhf4gT48NFT5eTJpLVJGVIxfR-8337.png",
       "https://trieubom.com/wp-content/uploads/2025/06/sK3mOXh6CHoJLntkw8IbEG1Ox-7671.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rwyLVTYupU754MVRMGow1oLpr-7524.png",
-      "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png"
+      "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png",
+      "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
     "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 7 255H RAM 32GB SSD 1TB RTX 5060 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3737,8 +3756,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16 inch 3.2K Tandem OLED 120Hz",
     "gpu": "RTX 5060 16 inch 3.2K Tandem",
-    "price": 650000008363,
-    "originalPrice": 540000008363,
+    "price": 54000000,
+    "originalPrice": 65000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3749,11 +3768,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Nmk8KL5BnxoBZhoDGOYT3jpFQ-3629.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rhf4gT48NFT5eTJpLVJGVIxfR-8337.png",
       "https://trieubom.com/wp-content/uploads/2025/06/sK3mOXh6CHoJLntkw8IbEG1Ox-7671.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rwyLVTYupU754MVRMGow1oLpr-7524.png",
-      "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png"
+      "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png",
+      "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
     "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3769,8 +3788,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16 inch 2.8K OLED 120Hz",
     "gpu": "RTX 5070 16 inch 2.8K OLED 1",
-    "price": 600000008363,
-    "originalPrice": 460000008363,
+    "price": 46000000,
+    "originalPrice": 60000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3781,11 +3800,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Nmk8KL5BnxoBZhoDGOYT3jpFQ-3629.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rhf4gT48NFT5eTJpLVJGVIxfR-8337.png",
       "https://trieubom.com/wp-content/uploads/2025/06/sK3mOXh6CHoJLntkw8IbEG1Ox-7671.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rwyLVTYupU754MVRMGow1oLpr-7524.png",
-      "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png"
+      "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png",
+      "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
     "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070 16 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3801,8 +3820,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "2TB",
     "display": "16 inch 3.2K Tandem OLED 120Hz",
     "gpu": "RTX 5070 16 inch 3.2K Tandem",
-    "price": 800000008363,
-    "originalPrice": 715000008363,
+    "price": 71500000,
+    "originalPrice": 80000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3813,11 +3832,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Nmk8KL5BnxoBZhoDGOYT3jpFQ-3629.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rhf4gT48NFT5eTJpLVJGVIxfR-8337.png",
       "https://trieubom.com/wp-content/uploads/2025/06/sK3mOXh6CHoJLntkw8IbEG1Ox-7671.png",
       "https://trieubom.com/wp-content/uploads/2025/06/rwyLVTYupU754MVRMGow1oLpr-7524.png",
-      "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png"
+      "https://trieubom.com/wp-content/uploads/2025/06/FRWXTvWYRuWEu90uBthQIc15Y-8051.png",
+      "https://trieubom.com/wp-content/uploads/2025/06/TpJ6mLY4B1YJpsCnMnavAcUfT-8435.png"
     ],
     "seoTitle": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Pro 9 2025 Ultra 9 285H RAM 64GB SSD 2TB RTX 5070 16 inch 3.2K Tandem OLED 120Hz Cảm Ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3833,8 +3852,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14 inch 2.8K OLED 120Hz",
     "gpu": "Đang cập nhật",
-    "price": 400000008363,
-    "originalPrice": 340000008363,
+    "price": 34000000,
+    "originalPrice": 40000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3845,11 +3864,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-19.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-25.jpg",
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-39.jpg",
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-30.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-35.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-35.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-26_13-22-57.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Slim 7 (Yoga Air 14 Aura AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 2.8K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3865,8 +3884,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 221000008363,
-    "originalPrice": 193900008363,
+    "price": 19390000,
+    "originalPrice": 22100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3877,11 +3896,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-11.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-12.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-12.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-12.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/6-12.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/6-12.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-12.png"
     ],
     "seoTitle": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G6+ 2024 R7-8745H 24GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3897,8 +3916,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "14 inch 4K OLED 120Hz",
     "gpu": "Đang cập nhật",
-    "price": 600000008363,
-    "originalPrice": 520000008363,
+    "price": 52000000,
+    "originalPrice": 60000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3909,11 +3928,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/z6372604631493_fb8676a65af6dec2d5338578aaa1073f.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/z6372604657863_1a2f7f1a3e7a4956b72b8764f558eb94.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6372604730057_f6b61f628103f61acd1c38cadd50d4fe.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6372604681590_18e66ae3513c280941eeb8eaa0c13c7d.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/z6372604707390_57a1e32f0af5e214fdc48e661b151dca.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/z6372604707390_57a1e32f0af5e214fdc48e661b151dca.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/z6372604606469_0d39401ae7bf2535023f2f48fa7e6d21.jpg"
     ],
     "seoTitle": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Slim 9 (Yoga Air X AI) Ultra 7 258V RAM 32GB SSD 1TB 14 inch 4K OLED 120Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3929,7 +3948,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 0,
+    "price": 25000000,
+    "originalPrice": 26100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3940,11 +3960,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/01/photo_2025-01-09_11-11-50.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/01/air-14s-2-510x510-1.jpg",
       "https://trieubom.com/wp-content/uploads/2025/01/photo_2025-01-09_11-11-47.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-5.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/1-1-16.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-16.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-8.png"
     ],
     "seoTitle": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng giá tốt tại DP Lab",
     "seoDescription": "Yoga Air 14s R7-7840S 16GB/32GB 1TB màn 2.9k 90Hz OLED cảm ứng - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3960,8 +3980,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 385000008363,
-    "originalPrice": 290000008363,
+    "price": 29000000,
+    "originalPrice": 38500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -3972,11 +3992,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-52.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-52-2.jpg",
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-51.jpg",
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-51-3.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-51-2.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-51-2.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-12_17-45-52-3.jpg"
     ],
     "seoTitle": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB giá tốt tại DP Lab",
     "seoDescription": "Lenovo Yoga Pro 7 - Ryzen AI 9 365, 32GB, 1TB - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -3992,8 +4012,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 345000008363,
-    "originalPrice": 255000008363,
+    "price": 25500000,
+    "originalPrice": 34500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4004,11 +4024,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/3DUsoDrLvAdM1xEfNBRudhQbR-2647.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/08/20pTrQW4JBfVPFsQDIpzIu2uL-3143.jpg",
       "https://trieubom.com/wp-content/uploads/2025/08/JTeeIfkkIIhm9NIknATlSqkXF-3182.jpg",
       "https://trieubom.com/wp-content/uploads/2025/08/ZPiQvlE7W0UQS6efsabdkWJkW-3149.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/08/ERLSSkKcEgiLJfaocKNMfxz8z-3612.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/08/ERLSSkKcEgiLJfaocKNMfxz8z-3612.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/08/Ux729ZLPl5B8MjkJT3YZVAjzE-3733.jpg"
     ],
     "seoTitle": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch giá tốt tại DP Lab",
     "seoDescription": "Yoga Slim 7 Ultra 7 155H 32GB RAM 1TB SSD 2.8K OLED 14inch - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4024,8 +4044,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 345000008363,
-    "originalPrice": 313000008363,
+    "price": 31300000,
+    "originalPrice": 34500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4036,11 +4056,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-3-2.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-2-2.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-43.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-43.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-42.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-42.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-42.png"
     ],
     "seoTitle": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Yoga Slim 7i Aura Edition | Ultra7 258V 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4056,8 +4076,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 255000008363,
-    "originalPrice": 225000008363,
+    "price": 22500000,
+    "originalPrice": 25500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4068,11 +4088,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-37.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-43.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-46.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-43.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/3-46.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/3-46.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/4-45.png"
     ],
     "seoTitle": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Yoga Pro 7 R7 7840HS 16/32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4088,8 +4108,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4050",
-    "price": 259000008363,
-    "originalPrice": 212000008363,
+    "price": 21200000,
+    "originalPrice": 25900000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4100,11 +4120,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-26.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-30.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-32.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-32.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-32.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-32.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/4-31.png"
     ],
     "seoTitle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 giá tốt tại DP Lab",
     "seoDescription": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4050 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4120,8 +4140,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 271000008363,
-    "originalPrice": 227000008363,
+    "price": 22700000,
+    "originalPrice": 27100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4132,11 +4152,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-27.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-31.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-33.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-33.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-32.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-32.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-33.png"
     ],
     "seoTitle": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 giá tốt tại DP Lab",
     "seoDescription": "Legion 5 2024 R7-8745H 16GB RAM 512GB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4152,8 +4172,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 395000008363,
-    "originalPrice": 358000008363,
+    "price": 35800000,
+    "originalPrice": 39500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4164,11 +4184,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-33.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-38.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-40.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-39.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/3-40.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/3-40.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/6-38.png"
     ],
     "seoTitle": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Pro Y9000P 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4184,8 +4204,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "15.6\" FHD 144Hz",
     "gpu": "RTX 4060 15.6\" FHD 144Hz",
-    "price": 275000008363,
-    "originalPrice": 237000008363,
+    "price": 23700000,
+    "originalPrice": 27500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4196,11 +4216,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-29.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-33.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-35.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-35.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-35.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-35.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/4-34.png"
     ],
     "seoTitle": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Y7000 2024 i7 13650HX 24GB RAM 512GB SSD RTX 4060 15.6\" FHD 144Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4216,8 +4236,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4050",
-    "price": 319000008363,
-    "originalPrice": 250000008363,
+    "price": 25000000,
+    "originalPrice": 31900000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4228,11 +4248,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-32.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-37.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-39.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-39.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-38.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-38.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-39.png"
     ],
     "seoTitle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4050 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4248,8 +4268,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 339000008363,
-    "originalPrice": 277000008363,
+    "price": 27700000,
+    "originalPrice": 33900000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4260,11 +4280,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-32.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-37.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-39.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-39.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-38.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-38.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-39.png"
     ],
     "seoTitle": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Y7000P 2024 I7-14650HX 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4280,8 +4300,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4070",
-    "price": 352000008363,
-    "originalPrice": 303000008363,
+    "price": 30300000,
+    "originalPrice": 35200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4292,11 +4312,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-24.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-28.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-30.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-30.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-29.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-29.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-30.png"
     ],
     "seoTitle": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 giá tốt tại DP Lab",
     "seoDescription": "Legion 5 Y7000P 2024 I7-14700HX 16GB RAM 1TB SSD RTX 4070 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4312,8 +4332,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 499900008363,
-    "originalPrice": 465000008363,
+    "price": 46500000,
+    "originalPrice": 49990000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4324,11 +4344,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-31.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-35.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-37.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-36.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/3-37.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/3-37.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/7-17.png"
     ],
     "seoTitle": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
     "seoDescription": "Legion 7 Y9000X 2024 I9-14900HX 32GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4344,8 +4364,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 342000008363,
-    "originalPrice": 282000008363,
+    "price": 28200000,
+    "originalPrice": 34200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4356,11 +4376,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-30.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-36.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-36.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-35.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-36.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-36.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/6-34.png"
     ],
     "seoTitle": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 giá tốt tại DP Lab",
     "seoDescription": "Legion Slim 7 R9000X 2023 R7-7840H 16GB RAM 1TB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4376,8 +4396,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 315000008363,
-    "originalPrice": 268000008363,
+    "price": 26800000,
+    "originalPrice": 31500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4388,11 +4408,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/2-copy.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-39.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-41.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-41.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-40.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-40.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/7-21.png"
     ],
     "seoTitle": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
     "seoDescription": "Legion Slim 5 Y7000P (I7-13620H| 16GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4408,8 +4428,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 269000008363,
-    "originalPrice": 252900008363,
+    "price": 25290000,
+    "originalPrice": 26900000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4420,11 +4440,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-36.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-copy-5.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-38.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-38.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/7-18.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/7-18.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/4-37.png"
     ],
     "seoTitle": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 giá tốt tại DP Lab",
     "seoDescription": "Legion 5 2023 R7-7840H 16GB RAM 512GB SSD RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4440,8 +4460,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "Đang cập nhật",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 254000008363,
-    "originalPrice": 247000008363,
+    "price": 24700000,
+    "originalPrice": 25400000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4452,11 +4472,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Legion 5 2023 R7-7735H RTX 4060 phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/a-16.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/5-1.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/6-1.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/3-1.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-1.jpg"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-1.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/1-1-1.jpg"
     ],
     "seoTitle": "Legion 5 2023 R7-7735H RTX 4060 giá tốt tại DP Lab",
     "seoDescription": "Legion 5 2023 R7-7735H RTX 4060 - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4472,8 +4492,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 205000008363,
-    "originalPrice": 193000008363,
+    "price": 19300000,
+    "originalPrice": 20500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4484,11 +4504,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-13.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-14.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-14.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-14.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-14.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-14.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-14.png"
     ],
     "seoTitle": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G6+ 2024 R7-8845H 16GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4504,8 +4524,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 212000008363,
-    "originalPrice": 178000008363,
+    "price": 17800000,
+    "originalPrice": 21200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4516,11 +4536,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-15.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-17.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-17.png",
       "https://trieubom.com/wp-content/uploads/2024/12/8-7.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/2-17.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/2-17.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/6-17.png"
     ],
     "seoTitle": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G6+ 2024 Ultra 5-125H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4536,8 +4556,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 240000008363,
-    "originalPrice": 208000008363,
+    "price": 20800000,
+    "originalPrice": 24000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4548,11 +4568,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-2.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/6-1.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/6-1.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-1.png"
     ],
     "seoTitle": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G6+ 2024 Ultra 5-125H 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4568,8 +4588,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 217000008363,
-    "originalPrice": 190000008363,
+    "price": 19000000,
+    "originalPrice": 21700000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4580,11 +4600,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-7.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-copy-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-7.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-7.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-7.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-7.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-7.png"
     ],
     "seoTitle": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4600,8 +4620,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 227000008363,
-    "originalPrice": 191000008363,
+    "price": 19100000,
+    "originalPrice": 22700000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4612,11 +4632,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/8-copy.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/8-3.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-8.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-8.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-8.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-8.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-8.png"
     ],
     "seoTitle": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G5+ 2023 (R7-7840H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4632,8 +4652,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "Đang cập nhật",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 175000008363,
-    "originalPrice": 161900008363,
+    "price": 16190000,
+    "originalPrice": 17500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4644,11 +4664,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-17.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-19.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-19.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-19.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-18.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-18.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-19.png"
     ],
     "seoTitle": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G5+ 2023 R7-7735H 16GB RAM 512B SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4664,8 +4684,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "Đang cập nhật",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 165000008363,
-    "originalPrice": 156000008363,
+    "price": 15600000,
+    "originalPrice": 16500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4676,11 +4696,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-16.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-18.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-18.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-18.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-18.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-18.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/6-18.png"
     ],
     "seoTitle": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 14 G4+ 2022 R7-6800H 16GB RAM 512B SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4696,8 +4716,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 175000008363,
-    "originalPrice": 153900008363,
+    "price": 15390000,
+    "originalPrice": 17500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4708,11 +4728,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/3-1-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-1-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-4.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-1-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-1-1.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-1-1.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/6-1-1.png"
     ],
     "seoTitle": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD giá tốt tại DP Lab",
     "seoDescription": "ThinkBook 14P G3 2022 R7-6800H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4728,8 +4748,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 169900008363,
-    "originalPrice": 143000008363,
+    "price": 14300000,
+    "originalPrice": 16990000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4740,11 +4760,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/9-1-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/9-4.png",
       "https://trieubom.com/wp-content/uploads/2024/12/6-16.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-16.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-16.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-16.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/3-16.png"
     ],
     "seoTitle": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD giá tốt tại DP Lab",
     "seoDescription": "Thinkbook 16 G4+ I5-12500H 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4760,8 +4780,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 161000008363,
-    "originalPrice": 148900008363,
+    "price": 14890000,
+    "originalPrice": 16100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4772,11 +4792,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-7.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-copy.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-6.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-6.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/10-1.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/10-1.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/9-2.png"
     ],
     "seoTitle": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) giá tốt tại DP Lab",
     "seoDescription": "ThinkBook 14P G2 2022 (R7-5800H| 16GB RAM| 512GB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4792,8 +4812,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 155000008363,
-    "originalPrice": 134000008363,
+    "price": 13400000,
+    "originalPrice": 15500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4804,11 +4824,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Yoga 13s R5-5600U 16GB RAM 512GB SSD phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-36.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-42.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-45.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-44.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/3-45.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/3-45.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-44.png"
     ],
     "seoTitle": "Yoga 13s R5-5600U 16GB RAM 512GB SSD giá tốt tại DP Lab",
     "seoDescription": "Yoga 13s R5-5600U 16GB RAM 512GB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4824,8 +4844,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "RTX 3050 3K",
-    "price": 221000008363,
-    "originalPrice": 205000008363,
+    "price": 20500000,
+    "originalPrice": 22100000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4836,11 +4856,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-35.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-41.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-44.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-44.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-43.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-43.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-43.png"
     ],
     "seoTitle": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K giá tốt tại DP Lab",
     "seoDescription": "Yoga Slim 7 Pro X R7-6800HS 16GB 512GB RTX 3050 3K - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4856,7 +4876,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5050 165Hz",
-    "price": 0,
+    "price": 36500000,
+    "originalPrice": 40500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4867,11 +4888,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/06/asusaaa.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/06/asus-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/asus2.jpg",
       "https://trieubom.com/wp-content/uploads/2026/06/asus3.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/06/asus4.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/06/asus4.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/06/asus5.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming F16 (2026) Ultra 5-235HX 16GB RAM 512GB/1TB SSD RTX 5050 165Hz - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4887,8 +4908,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 470000008363,
-    "originalPrice": 402000008363,
+    "price": 40200000,
+    "originalPrice": 47000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4899,11 +4920,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/02/hhhh.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/02/4314312.jpg",
       "https://trieubom.com/wp-content/uploads/2026/02/541514.jpg",
       "https://trieubom.com/wp-content/uploads/2026/02/641641.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/02/64161.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/02/64161.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/02/64136413.jpg"
     ],
     "seoTitle": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED giá tốt tại DP Lab",
     "seoDescription": "Asus Zenbook S 14 Core Ultra 7 356H / 32GB RAM / 1TB SSD 14″ 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4919,8 +4940,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 490000008363,
-    "originalPrice": 440000008363,
+    "price": 44000000,
+    "originalPrice": 49000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4931,11 +4952,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/02/bbb-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/02/zzzzv-1.png",
       "https://trieubom.com/wp-content/uploads/2026/02/1-1.jpg",
       "https://trieubom.com/wp-content/uploads/2026/02/2-1.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/02/3-1.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/02/3-1.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/02/4-1.jpg"
     ],
     "seoTitle": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED giá tốt tại DP Lab",
     "seoDescription": "Asus Zenbook S 14 Core Ultra 9 386H / 32GB RAM / 1TB SSD 14″ 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4951,8 +4972,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "13\" 2.8K OLED Cảm Ứng",
     "gpu": "Đang cập nhật",
-    "price": 820000008363,
-    "originalPrice": 730000008363,
+    "price": 73000000,
+    "originalPrice": 82000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4963,11 +4984,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/01/AAA.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/01/unnamed-file.jpg",
       "https://trieubom.com/wp-content/uploads/2026/01/LLLL.jpg",
       "https://trieubom.com/wp-content/uploads/2026/01/GGGGG.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/01/SSSSS.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/01/SSSSS.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/01/FFFFF.jpg"
     ],
     "seoTitle": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) giá tốt tại DP Lab",
     "seoDescription": "Asus ProArt PX13 (AI Max+ 395| 64GB RAM| 1TB SSD| 13\" 2.8K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -4983,8 +5004,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 530000008363,
-    "originalPrice": 440000008363,
+    "price": 44000000,
+    "originalPrice": 53000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -4995,11 +5016,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/01/tuf-ai-max-111.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/01/aaa.png",
       "https://trieubom.com/wp-content/uploads/2026/01/3333.png",
       "https://trieubom.com/wp-content/uploads/2026/01/333333.png",
-      "https://trieubom.com/wp-content/uploads/2026/01/22222.png"
+      "https://trieubom.com/wp-content/uploads/2026/01/22222.png",
+      "https://trieubom.com/wp-content/uploads/2026/01/ssssss.png"
     ],
     "seoTitle": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A14 (2026) (AI MAX+ 392| 32GB RAM| 1TB SSD| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5015,8 +5036,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX5060| 165Hz",
-    "price": 540000008363,
-    "originalPrice": 460000008363,
+    "price": 46000000,
+    "originalPrice": 54000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5027,11 +5048,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/01/ghggg.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/01/3333.png",
       "https://trieubom.com/wp-content/uploads/2026/01/aaa.png",
       "https://trieubom.com/wp-content/uploads/2026/01/333333.png",
-      "https://trieubom.com/wp-content/uploads/2026/01/22222.png"
+      "https://trieubom.com/wp-content/uploads/2026/01/22222.png",
+      "https://trieubom.com/wp-content/uploads/2026/01/ssssss.png"
     ],
     "seoTitle": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A14 (2026) (AI9 H 465| 32GB RAM| 1TB SSD| RTX5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5047,8 +5068,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 2.8K OLED",
     "gpu": "Đang cập nhật",
-    "price": 480000008363,
-    "originalPrice": 448000008363,
+    "price": 44800000,
+    "originalPrice": 48000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5059,11 +5080,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2026/01/11111112.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2026/01/trashed-1772098208-Picsart_26-01-27_16-29-26-483-scaled.jpg",
       "https://trieubom.com/wp-content/uploads/2026/01/Picsart_26-01-27_16-26-23-456-scaled.jpg",
       "https://trieubom.com/wp-content/uploads/2026/01/Picsart_26-01-27_16-17-09-068-scaled.jpg",
-      "https://trieubom.com/wp-content/uploads/2026/01/Picsart_26-01-27_16-15-13-012-scaled.jpg"
+      "https://trieubom.com/wp-content/uploads/2026/01/Picsart_26-01-27_16-15-13-012-scaled.jpg",
+      "https://trieubom.com/wp-content/uploads/2026/01/Picsart_26-01-27_16-38-55-332-scaled.jpg"
     ],
     "seoTitle": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED giá tốt tại DP Lab",
     "seoDescription": "Asus Zenbook S 16 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5079,8 +5100,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060| 165Hz",
-    "price": 440000008363,
-    "originalPrice": 360000008363,
+    "price": 36000000,
+    "originalPrice": 44000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5091,11 +5112,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-23.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-26.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-28.jpg",
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-30.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-33.jpg"
+      "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-33.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-24_20-46-35.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A14 (2024) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5111,8 +5132,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060| 165Hz",
-    "price": 440000008363,
-    "originalPrice": 340000008363,
+    "price": 34000000,
+    "originalPrice": 44000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5123,11 +5144,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/tuf-a14.1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-230149.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-230644.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-230705.png",
-      "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-7.png"
+      "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-7.png",
+      "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-8.png"
     ],
     "seoTitle": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A14 (2025) (Ryzen 7 H 260| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5143,8 +5164,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060| 165Hz",
-    "price": 460000008363,
-    "originalPrice": 355000008363,
+    "price": 35500000,
+    "originalPrice": 46000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5155,11 +5176,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-230730.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-230149.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-230644.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-230705.png",
-      "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-7.png"
+      "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-7.png",
+      "https://trieubom.com/wp-content/uploads/2025/05/translated_image_en-8.png"
     ],
     "seoTitle": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A14 (2025) (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5175,8 +5196,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 350000008363,
-    "originalPrice": 285000008363,
+    "price": 28500000,
+    "originalPrice": 35000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5187,11 +5208,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-22_16-49-05.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-4.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-1-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/w800-3.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/w800-3.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/w800-5.png"
     ],
     "seoTitle": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
     "seoDescription": "ASUS Zenbook 14 2025 (Ultra 9 285H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5207,8 +5228,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 289000008363,
-    "originalPrice": 225000008363,
+    "price": 22500000,
+    "originalPrice": 28900000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5219,11 +5240,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-4.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-1-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/w800-3.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/w800-3.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/w800-5.png"
     ],
     "seoTitle": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
     "seoDescription": "ASUS Zenbook 14 2024 (Ultra 9 185H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5239,8 +5260,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 350000008363,
-    "originalPrice": 284000008363,
+    "price": 28400000,
+    "originalPrice": 35000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5251,11 +5272,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-220434.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-220500.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-220533.png",
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-220735.png",
-      "https://trieubom.com/wp-content/uploads/2025/03/P16-1.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/P16-1.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png"
     ],
     "seoTitle": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
     "seoDescription": "ASUS Zenbook 14 2025 (Ryzen AI 7 350| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5271,8 +5292,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 279000008363,
-    "originalPrice": 220000008363,
+    "price": 22000000,
+    "originalPrice": 27900000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5283,11 +5304,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-4.png",
       "https://trieubom.com/wp-content/uploads/2024/12/w800-1-1.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/w800-3.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/w800-3.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/w800-5.png"
     ],
     "seoTitle": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
     "seoDescription": "ASUS Zenbook 14 2024 (Ultra 7 155H| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5303,8 +5324,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 2.8K OLED",
     "gpu": "Đang cập nhật",
-    "price": 400000008363,
-    "originalPrice": 364000008363,
+    "price": 36400000,
+    "originalPrice": 40000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5315,11 +5336,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012038NBB-ASUUM5606WARJ108WMS.png",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012043NBB-ASUUM5606WARJ108WMS.png",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012045NBB-ASUUM5606WARJ108WMS.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/100000012048NBB-ASUUM5606WARJ108WMS.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/100000012048NBB-ASUUM5606WARJ108WMS.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/100000012047NBB-ASUUM5606WARJ108WMS.png"
     ],
     "seoTitle": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED giá tốt tại DP Lab",
     "seoDescription": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 2.8K OLED - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5335,8 +5356,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 372000008363,
-    "originalPrice": 278000008363,
+    "price": 27800000,
+    "originalPrice": 37200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5347,11 +5368,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-50.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-63.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-63.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-61.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-62.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-62.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/7-1-3.png"
     ],
     "seoTitle": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) giá tốt tại DP Lab",
     "seoDescription": "AI ASUS Zenbook S 14 (Ultra 5 226V| 16GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5367,8 +5388,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 372000008363,
-    "originalPrice": 350000008363,
+    "price": 35000000,
+    "originalPrice": 37200000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5379,11 +5400,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-50.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-63.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-63.png",
       "https://trieubom.com/wp-content/uploads/2024/12/4-61.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/5-62.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/5-62.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/7-1-3.png"
     ],
     "seoTitle": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) giá tốt tại DP Lab",
     "seoDescription": "AI ASUS Zenbook S 14 UX5406S (Ultra 7 258V| 32GB RAM| 1TB SSD) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5399,8 +5420,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 3K OLED",
     "gpu": "Đang cập nhật",
-    "price": 410000008363,
-    "originalPrice": 370000008363,
+    "price": 37000000,
+    "originalPrice": 41000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5411,11 +5432,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012038NBB-ASUUM5606WARJ108WMS.png",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012043NBB-ASUUM5606WARJ108WMS.png",
       "https://trieubom.com/wp-content/uploads/2024/12/100000012045NBB-ASUUM5606WARJ108WMS.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/100000012048NBB-ASUUM5606WARJ108WMS.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/100000012048NBB-ASUUM5606WARJ108WMS.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/100000012047NBB-ASUUM5606WARJ108WMS.png"
     ],
     "seoTitle": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) giá tốt tại DP Lab",
     "seoDescription": "Asus Zenbook S 16 (Ultra 7 258V| 32GB RAM| 1TB SSD| 16\" 3K OLED) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5431,8 +5452,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 4K OLED Cảm Ứng",
     "gpu": "RTX 4060| 16\" 4K OLED Cảm Ứn",
-    "price": 600000008363,
-    "originalPrice": 467000008363,
+    "price": 46700000,
+    "originalPrice": 60000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5443,11 +5464,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/P16-1.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-4.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-3.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg"
+      "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png"
     ],
     "seoTitle": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
     "seoDescription": "Asus ProArt P16 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5463,8 +5484,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "16\" 2.8K OLED 120Hz Cảm Ứng",
     "gpu": "RTX 5060| 16\" 2.8K OLED 120H",
-    "price": 800000008363,
-    "originalPrice": 720000008363,
+    "price": 72000000,
+    "originalPrice": 80000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5475,11 +5496,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-134806.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-4.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-3.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg"
     ],
     "seoTitle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) giá tốt tại DP Lab",
     "seoDescription": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 1TB SSD| RTX 5060| 16\" 2.8K OLED 120Hz Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5495,8 +5516,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "2TB",
     "display": "16\" 4K OLED Cảm Ứng",
     "gpu": "RTX 4070| 16\" 4K OLED Cảm Ứn",
-    "price": 760000008363,
-    "originalPrice": 660000008363,
+    "price": 66000000,
+    "originalPrice": 76000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5507,11 +5528,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/P16-1.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-4.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-3.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/Capture.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/Capture.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg"
     ],
     "seoTitle": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
     "seoDescription": "Asus ProArt P16 (AI9 HX 370| 64GB RAM| 2TB SSD| RTX 4070| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5527,8 +5548,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "2TB",
     "display": "16\" 2.8K OLED Cảm Ứng",
     "gpu": "RTX 5070| 16\" 2.8K OLED Cảm",
-    "price": 1000000008363,
-    "originalPrice": 800000008363,
+    "price": 80000000,
+    "originalPrice": 100000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5539,11 +5560,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-08-145637.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-4.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-3.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-29_14-09-50.jpg"
     ],
     "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) giá tốt tại DP Lab",
     "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 2TB SSD| RTX 5070| 16\" 2.8K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5559,8 +5580,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "4TB",
     "display": "16\" 4K OLED Cảm Ứng",
     "gpu": "RTX 5080| 16\" 4K OLED Cảm Ứn",
-    "price": 1250000008363,
-    "originalPrice": 1050000008363,
+    "price": 105000000,
+    "originalPrice": 125000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5571,11 +5592,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-08-145637.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-4.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-3.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/z6465596478854_82dee816add76a49ce62d6d8e4bf45a0.jpg"
     ],
     "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
     "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5080| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5591,8 +5612,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "4TB",
     "display": "16\" 4K OLED Cảm Ứng",
     "gpu": "RTX 5090| 16\" 4K OLED Cảm Ứn",
-    "price": 1400000008363,
-    "originalPrice": 1200000008363,
+    "price": 120000000,
+    "originalPrice": 140000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5603,11 +5624,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-08-145637.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-5.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-4.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/P16-3.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_03_2400_x_2400.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_03_2400_x_2400.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
     "seoTitle": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) giá tốt tại DP Lab",
     "seoDescription": "Asus ProArt P16 2025 (AI 9 HX 370| 64GB RAM| 4TB SSD| RTX 5090| 16\" 4K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5623,8 +5644,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "13\" 3K OLED Cảm Ứng",
     "gpu": "RTX 4060| 13\" 3K OLED Cảm Ứn",
-    "price": 650000008363,
-    "originalPrice": 550000008363,
+    "price": 55000000,
+    "originalPrice": 65000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5635,11 +5656,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6465596478854_82dee816add76a49ce62d6d8e4bf45a0.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/z6465596497940_9d9661d4cc0299f2bccc0c5ef82d87b7.jpg",
       "https://trieubom.com/wp-content/uploads/2025/04/da781c0f628875a434c6fad328d3680b.webp",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-02-112058.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/z6465596495414_4559e9d17f3a3fdecc2e36392f5cad1f.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/04/z6465596495414_4559e9d17f3a3fdecc2e36392f5cad1f.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) giá tốt tại DP Lab",
     "seoDescription": "Asus ProArt PX13 (AI9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 13\" 3K OLED Cảm Ứng) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5655,8 +5676,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060| 165Hz",
-    "price": 430000008363,
-    "originalPrice": 360000008363,
+    "price": 36000000,
+    "originalPrice": 43000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5667,11 +5688,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744837278_dba9ebb07bffaf463e12d507ce9f2dd1.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744840369_0f1fb45cc526ae4ee8f497a04ac9bc76.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744849924_abbd0a1cc5bc57a933542a37d2bdf1f8.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744854654_2fc95daedae4d007cbbe7281cffaf34f.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/z6433744856184_0d695aaa92021cdee5003fa53afdac83.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/z6433744856184_0d695aaa92021cdee5003fa53afdac83.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/z6433744864291_48c4a773cb51113bd2740f25a04c8e33.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5687,8 +5708,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5050| 165Hz",
-    "price": 400000008363,
-    "originalPrice": 329000008363,
+    "price": 32900000,
+    "originalPrice": 40000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5699,11 +5720,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/P16-1.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5719,8 +5740,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060| 165Hz",
-    "price": 420000008363,
-    "originalPrice": 345000008363,
+    "price": 34500000,
+    "originalPrice": 42000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5731,11 +5752,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5751,8 +5772,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070| 165Hz",
-    "price": 450000008363,
-    "originalPrice": 378000008363,
+    "price": 37800000,
+    "originalPrice": 45000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5763,11 +5784,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_03_2400_x_2400.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-13650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5783,8 +5804,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5050| 165Hz",
-    "price": 429000008363,
-    "originalPrice": 337000008363,
+    "price": 33700000,
+    "originalPrice": 42900000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5795,11 +5816,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5815,8 +5836,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060| 165Hz",
-    "price": 420000008363,
-    "originalPrice": 355000008363,
+    "price": 35500000,
+    "originalPrice": 42000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5827,11 +5848,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5847,8 +5868,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070| 165Hz",
-    "price": 450000008363,
-    "originalPrice": 382000008363,
+    "price": 38200000,
+    "originalPrice": 45000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5859,11 +5880,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-133031.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming F16 (2025) (i7-14650HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5879,8 +5900,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060| 165Hz",
-    "price": 420000008363,
-    "originalPrice": 349000008363,
+    "price": 34900000,
+    "originalPrice": 42000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5891,11 +5912,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/z6465596478854_82dee816add76a49ce62d6d8e4bf45a0.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5911,8 +5932,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070| 165Hz",
-    "price": 450000008363,
-    "originalPrice": 370000008363,
+    "price": 37000000,
+    "originalPrice": 45000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5923,11 +5944,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-8940HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5943,8 +5964,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060| 165Hz",
-    "price": 490000008363,
-    "originalPrice": 360000008363,
+    "price": 36000000,
+    "originalPrice": 49000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5955,11 +5976,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -5975,8 +5996,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070| 165Hz",
-    "price": 520000008363,
-    "originalPrice": 420000008363,
+    "price": 42000000,
+    "originalPrice": 52000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -5987,11 +6008,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/z6465596478854_82dee816add76a49ce62d6d8e4bf45a0.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6007,8 +6028,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060| 165Hz",
-    "price": 520000008363,
-    "originalPrice": 357000008363,
+    "price": 35700000,
+    "originalPrice": 52000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6019,11 +6040,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6039,8 +6060,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070| 165Hz",
-    "price": 520000008363,
-    "originalPrice": 401000008363,
+    "price": 40100000,
+    "originalPrice": 52000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6051,11 +6072,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A16 (2025) (R9-9955HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6071,8 +6092,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5050| 165Hz",
-    "price": 400000008363,
-    "originalPrice": 326000008363,
+    "price": 32600000,
+    "originalPrice": 40000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6083,11 +6104,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5050| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6103,8 +6124,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060| 165Hz",
-    "price": 480000008363,
-    "originalPrice": 350000008363,
+    "price": 35000000,
+    "originalPrice": 48000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6115,11 +6136,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-205745.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A16 (2025) (Ryzen 7 H 260| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6135,8 +6156,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060| 165Hz",
-    "price": 480000008363,
-    "originalPrice": 356000008363,
+    "price": 35600000,
+    "originalPrice": 48000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6147,11 +6168,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-145731.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6167,8 +6188,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070| 165Hz",
-    "price": 480000008363,
-    "originalPrice": 408000008363,
+    "price": 40800000,
+    "originalPrice": 48000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6179,11 +6200,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-145731.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6199,8 +6220,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060| 165Hz",
-    "price": 600000008363,
-    "originalPrice": 390000008363,
+    "price": 39000000,
+    "originalPrice": 60000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6211,11 +6232,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-145731.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/100000012042NBB-ASUUM5606WARJ108WMS.png"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6231,8 +6252,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070| 165Hz",
-    "price": 600000008363,
-    "originalPrice": 420000008363,
+    "price": 42000000,
+    "originalPrice": 60000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6243,11 +6264,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/Screenshot-2025-05-15-145731.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822087215_2bdce92e59dece69ece284dbee1be678.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822088551_1158becf6a0e1940512b375e726e751c.jpg",
       "https://trieubom.com/wp-content/uploads/2025/05/z6603822071332_d585d11b95523acadcb3f325fc376333.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/05/z6603822073730_d2d5e5d94f0dd288a87e64d6b46ce5c3.jpg",
+      "https://trieubom.com/wp-content/uploads/2024/12/photo_2025-01-04_10-07-08.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming F16 (2025) (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6263,8 +6284,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4070| 165Hz",
-    "price": 500000008363,
-    "originalPrice": 405000008363,
+    "price": 40500000,
+    "originalPrice": 50000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6275,11 +6296,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744840369_0f1fb45cc526ae4ee8f497a04ac9bc76.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744849924_abbd0a1cc5bc57a933542a37d2bdf1f8.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/z6433744854654_2fc95daedae4d007cbbe7281cffaf34f.jpg",
-      "https://trieubom.com/wp-content/uploads/2025/03/z6433744856184_0d695aaa92021cdee5003fa53afdac83.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/z6433744856184_0d695aaa92021cdee5003fa53afdac83.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/z6433744864291_48c4a773cb51113bd2740f25a04c8e33.jpg"
     ],
     "seoTitle": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "ASUS TUF Gaming A16 (2025) (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4070| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6295,8 +6316,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 320000008363,
-    "originalPrice": 275000008363,
+    "price": 27500000,
+    "originalPrice": 32000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6307,11 +6328,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_03_2400_x_2400.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_01_2400_x_2400.jpg",
       "https://trieubom.com/wp-content/uploads/2025/03/asus-zenbook-a14-ux3407-undefined-EFp.webp",
       "https://trieubom.com/wp-content/uploads/2025/03/asus-zenbook-a14-ux3407-undefined-PKS.webp",
-      "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_02_2400_x_2400.jpg"
+      "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_02_2400_x_2400.jpg",
+      "https://trieubom.com/wp-content/uploads/2025/03/zenbook_a14_ux3407_product_photo_zabriskie_beige_05_2400_x_2400.jpg"
     ],
     "seoTitle": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) giá tốt tại DP Lab",
     "seoDescription": "ASUS Zenbook A14 2025 (Snapdragon® X | 32GB RAM| 1TB SSD| 2.8K 120Hz OLED) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6327,8 +6348,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Radeon 8060S",
-    "price": 750000008363,
-    "originalPrice": 620000008363,
+    "price": 62000000,
+    "originalPrice": 75000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6339,11 +6360,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-123819.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125735.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125723.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125712.png",
-      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png"
+      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png",
+      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
     "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 32GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6359,8 +6380,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Radeon 8060S",
-    "price": 850000008363,
-    "originalPrice": 670000008363,
+    "price": 67000000,
+    "originalPrice": 85000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6371,11 +6392,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-123819.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125735.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125723.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125712.png",
-      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png"
+      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png",
+      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
     "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 64GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6391,8 +6412,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 400000008363,
-    "originalPrice": 325000008363,
+    "price": 32500000,
+    "originalPrice": 40000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6403,11 +6424,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-121903.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-121939.png",
       "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-121927.png",
       "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-121952.png",
-      "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-122013.png"
+      "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-122013.png",
+      "https://trieubom.com/wp-content/uploads/2025/06/Screenshot-2025-06-23-122003.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G16 2024 (i9-13980HX| 16GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6423,8 +6444,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 600000008363,
-    "originalPrice": 430000008363,
+    "price": 43000000,
+    "originalPrice": 60000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6435,11 +6456,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113202.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113256.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113305.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113305.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113327.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6455,8 +6476,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070Ti",
-    "price": 700000008363,
-    "originalPrice": 600000008363,
+    "price": 60000000,
+    "originalPrice": 70000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6467,11 +6488,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113202.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113256.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113305.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113305.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113327.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-8940HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6487,8 +6508,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 700000008363,
-    "originalPrice": 500000008363,
+    "price": 50000000,
+    "originalPrice": 70000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6499,11 +6520,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113256.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113305.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113337.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6519,8 +6540,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070",
-    "price": 700000008363,
-    "originalPrice": 530000008363,
+    "price": 53000000,
+    "originalPrice": 70000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6531,11 +6552,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113256.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113305.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113337.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6551,8 +6572,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070Ti",
-    "price": 700000008363,
-    "originalPrice": 550000008363,
+    "price": 55000000,
+    "originalPrice": 70000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6563,11 +6584,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113256.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113305.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113337.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6583,8 +6604,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070Ti",
-    "price": 700000008363,
-    "originalPrice": 600000008363,
+    "price": 60000000,
+    "originalPrice": 70000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6595,11 +6616,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-160043.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113245.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113256.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113305.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113318.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113327.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G16 2025 (Ryzen 9-9955HX3D| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6615,8 +6636,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 750000008363,
-    "originalPrice": 500000008363,
+    "price": 50000000,
+    "originalPrice": 75000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6627,11 +6648,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111553.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111435.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111445.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 7-255HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6647,8 +6668,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 750000008363,
-    "originalPrice": 540000008363,
+    "price": 54000000,
+    "originalPrice": 75000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6659,11 +6680,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111553.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111435.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111445.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6679,8 +6700,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070",
-    "price": 750000008363,
-    "originalPrice": 550000008363,
+    "price": 55000000,
+    "originalPrice": 75000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6691,11 +6712,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111553.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111435.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111445.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6711,8 +6732,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070Ti",
-    "price": 750000008363,
-    "originalPrice": 600000008363,
+    "price": 60000000,
+    "originalPrice": 75000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6723,11 +6744,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-18-154824.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111553.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111435.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111445.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111423.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-111454.png"
     ],
     "seoTitle": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G16 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6743,8 +6764,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 508000008363,
-    "originalPrice": 430000008363,
+    "price": 43000000,
+    "originalPrice": 50800000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6755,11 +6776,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/Capture.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-3-3.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-65.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-65.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-63.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-63.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/6-56.png"
     ],
     "seoTitle": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Zephyrus G14 2024 (R9-8945HS| 32GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6775,8 +6796,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Radeon 8050S",
-    "price": 720000008363,
-    "originalPrice": 560000008363,
+    "price": 56000000,
+    "originalPrice": 72000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6787,11 +6808,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-123819.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125735.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125723.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125712.png",
-      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png"
+      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png",
+      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
     "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX 390| 32GB RAM| 1TB SSD| Radeon 8050S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6807,8 +6828,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 800000008363,
-    "originalPrice": 590000008363,
+    "price": 59000000,
+    "originalPrice": 80000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6819,11 +6840,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145443.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145145.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145213.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png",
+      "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6839,8 +6860,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Radeon 8060S",
-    "price": 1000000008363,
-    "originalPrice": 770000008363,
+    "price": 77000000,
+    "originalPrice": 100000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6851,11 +6872,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-123819.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125735.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125723.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125712.png",
-      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png"
+      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125804.png",
+      "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-125754.png"
     ],
     "seoTitle": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Flow Z13 2025 (AI MAX+ 395| 128GB RAM| 1TB SSD| Radeon 8060S) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6871,8 +6892,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070",
-    "price": 800000008363,
-    "originalPrice": 610000008363,
+    "price": 61000000,
+    "originalPrice": 80000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6883,11 +6904,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145443.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145145.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145213.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-29_14-09-50.jpg"
     ],
     "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6903,8 +6924,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070Ti",
-    "price": 800000008363,
-    "originalPrice": 630000008363,
+    "price": 63000000,
+    "originalPrice": 80000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6915,11 +6936,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145443.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145145.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145213.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-05-24-113202.png"
     ],
     "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6935,8 +6956,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5080",
-    "price": 900000008363,
-    "originalPrice": 810000008363,
+    "price": 81000000,
+    "originalPrice": 90000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6947,11 +6968,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145443.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145145.png",
       "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145213.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-145201.png",
+      "https://trieubom.com/wp-content/uploads/2025/02/photo_2025-02-22_16-49-05.jpg"
     ],
     "seoTitle": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix G18 2025 (Ultra 9-275HX| 16GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6967,8 +6988,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5080",
-    "price": 1120000008363,
-    "originalPrice": 900000008363,
+    "price": 90000000,
+    "originalPrice": 112000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -6979,11 +7000,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.2.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.5.png",
-      "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.3.png"
+      "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.3.png",
+      "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.4.png"
     ],
     "seoTitle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -6999,8 +7020,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5090",
-    "price": 1390000008363,
-    "originalPrice": 1090000008363,
+    "price": 109000000,
+    "originalPrice": 139000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7011,11 +7032,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.2.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.5.png",
-      "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.3.png"
+      "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.3.png",
+      "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar16.4.png"
     ],
     "seoTitle": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix Scar 16 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5090) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7031,8 +7052,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5080",
-    "price": 1250000008363,
-    "originalPrice": 950000008363,
+    "price": 95000000,
+    "originalPrice": 125000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7043,11 +7064,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.3.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.2.png",
-      "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.4.png"
+      "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.4.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/Screenshot-2025-04-19-144457.png"
     ],
     "seoTitle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7063,8 +7084,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "2TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5090",
-    "price": 1600000008363,
-    "originalPrice": 1230000008363,
+    "price": 123000000,
+    "originalPrice": 160000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7075,11 +7096,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.1.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.3.png",
       "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.2.png",
-      "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.4.png"
+      "https://trieubom.com/wp-content/uploads/2025/05/rog-strix-scar18.4.png",
+      "https://trieubom.com/wp-content/uploads/2025/03/z6433765821890_1d67699b082dd18798578e1adeb3bf46.jpg"
     ],
     "seoTitle": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Strix Scar 18 2025 (Ultra 9-275HX| 64GB RAM| 2TB SSD| RTX 5090) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7095,8 +7116,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 800000008363,
-    "originalPrice": 520000008363,
+    "price": 52000000,
+    "originalPrice": 80000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7107,11 +7128,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h7312.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h7132.png",
       "https://trieubom.com/wp-content/uploads/2025/04/231312312.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/312312312.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/312312312.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
     "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7127,8 +7148,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070",
-    "price": 800000008363,
-    "originalPrice": 570000008363,
+    "price": 57000000,
+    "originalPrice": 80000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7139,11 +7160,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h7312.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h7132.png",
       "https://trieubom.com/wp-content/uploads/2025/04/231312312.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/312312312.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/312312312.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
     "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7159,8 +7180,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070Ti",
-    "price": 800000008363,
-    "originalPrice": 720000008363,
+    "price": 72000000,
+    "originalPrice": 80000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7171,11 +7192,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h7312.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h7132.png",
       "https://trieubom.com/wp-content/uploads/2025/04/231312312.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/312312312.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/312312312.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
     "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7191,8 +7212,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5080",
-    "price": 900000008363,
-    "originalPrice": 810000008363,
+    "price": 81000000,
+    "originalPrice": 90000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7203,11 +7224,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/danh_gia_asus_rog_zephyrus_g14_4_1738318281343.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h7312.png",
       "https://trieubom.com/wp-content/uploads/2025/04/h7132.png",
       "https://trieubom.com/wp-content/uploads/2025/04/231312312.png",
-      "https://trieubom.com/wp-content/uploads/2025/04/312312312.png"
+      "https://trieubom.com/wp-content/uploads/2025/04/312312312.png",
+      "https://trieubom.com/wp-content/uploads/2025/04/h731112.png"
     ],
     "seoTitle": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Zephyrus G14 2025 (AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7223,8 +7244,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 4060",
-    "price": 650000008363,
-    "originalPrice": 520000008363,
+    "price": 52000000,
+    "originalPrice": 65000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7235,11 +7256,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/photo_2024-12-29_14-09-50.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-02.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-06.webp",
-      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp"
+      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
+      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-07.webp"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Zephyrus G16 2024 (Ryzen AI 9 HX 370| 32GB RAM| 1TB SSD| RTX 4060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7255,8 +7276,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 900000008363,
-    "originalPrice": 570000008363,
+    "price": 57000000,
+    "originalPrice": 90000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7267,11 +7288,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-02.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-06.webp",
-      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp"
+      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
+      "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ryzen AI 7 H 350| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7287,8 +7308,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5060",
-    "price": 900000008363,
-    "originalPrice": 595000008363,
+    "price": 59500000,
+    "originalPrice": 90000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7299,11 +7320,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-02.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-06.webp",
-      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp"
+      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
+      "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5060) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7319,8 +7340,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070",
-    "price": 900000008363,
-    "originalPrice": 650000008363,
+    "price": 65000000,
+    "originalPrice": 90000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7331,11 +7352,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-02.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-06.webp",
-      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp"
+      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
+      "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7351,8 +7372,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5070Ti",
-    "price": 1200000008363,
-    "originalPrice": 800000008363,
+    "price": 80000000,
+    "originalPrice": 120000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7363,11 +7384,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-02.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-06.webp",
-      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp"
+      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
+      "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5070Ti) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7383,8 +7404,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "RTX 5080",
-    "price": 1200000008363,
-    "originalPrice": 835000008363,
+    "price": 83500000,
+    "originalPrice": 120000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7395,11 +7416,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/04/z6490855794768_feacb4d840f111d7c5bbe694a88828c1.jpg",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-03.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-02.webp",
       "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-06.webp",
-      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp"
+      "https://trieubom.com/wp-content/uploads/2024/12/laptop-gaming-asus-rog-zephyrus-g16-ga605wi-qr090ws-01.webp",
+      "https://trieubom.com/wp-content/uploads/2025/04/z6490855805363_e184fae8efd2b54d1640116894c37628.jpg"
     ],
     "seoTitle": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) giá tốt tại DP Lab",
     "seoDescription": "ASUS ROG Zephyrus G16 2025 (Ultra 9-285H| 32GB RAM| 1TB SSD| RTX 5080) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7415,8 +7436,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "512GB",
     "display": "Đang cập nhật",
     "gpu": "RTX 3060| 165Hz",
-    "price": 285000008363,
-    "originalPrice": 245000008363,
+    "price": 24500000,
+    "originalPrice": 28500000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7427,11 +7448,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) phù hợp cho nhu cầu gaming. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-51.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-61.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-66.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-66.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-64.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-64.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-65.png"
     ],
     "seoTitle": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) giá tốt tại DP Lab",
     "seoDescription": "Asus ROG Zephyrus M16 2022 (i7-12700H| 16GB RAM| 512GB SSD| RTX 3060| 165Hz) - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7447,8 +7468,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 250000008363,
-    "originalPrice": 210000008363,
+    "price": 21000000,
+    "originalPrice": 25000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7459,11 +7480,11 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD phù hợp cho nhu cầu văn phòng. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2024/12/1-1-38.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2024/12/1-44.png",
       "https://trieubom.com/wp-content/uploads/2024/12/2-47.png",
       "https://trieubom.com/wp-content/uploads/2024/12/3-47.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-46.png"
+      "https://trieubom.com/wp-content/uploads/2024/12/4-46.png",
+      "https://trieubom.com/wp-content/uploads/2024/12/5-46.png"
     ],
     "seoTitle": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD giá tốt tại DP Lab",
     "seoDescription": "HP Pavilion Plus 14 2024 R7-8845HS 32GB RAM 1TB SSD - xem giá, cấu hình, tình trạng và tư vấn chọn laptop tại DP Lab."
@@ -7479,8 +7500,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 600000008363,
-    "originalPrice": 490000008363,
+    "price": 49000000,
+    "originalPrice": 60000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7491,7 +7512,6 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 16inch phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140314.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140341.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140402.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140425.png",
@@ -7511,8 +7531,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 650000008363,
-    "originalPrice": 510000008363,
+    "price": 51000000,
+    "originalPrice": 65000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7523,7 +7543,6 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "LG Gram Pro 16 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.8K OLED 16inch phù hợp cho nhu cầu đồ họa. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140314.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140341.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140402.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140425.png",
@@ -7543,8 +7562,8 @@ export const importedLaptopProducts: Product[] = [
     "storage": "1TB",
     "display": "Đang cập nhật",
     "gpu": "Đang cập nhật",
-    "price": 600000008363,
-    "originalPrice": 520000008363,
+    "price": 52000000,
+    "originalPrice": 60000000,
     "stock": 2,
     "status": "active",
     "condition": "Mới",
@@ -7555,7 +7574,6 @@ export const importedLaptopProducts: Product[] = [
     "detailArticle": "LG Gram Pro 17 2025 Ultra 7-255H 32GB RAM 1TB SSD 2.5K IPS 17inch phù hợp cho nhu cầu mỏng nhẹ. DP Lab tổng hợp cấu hình, tình trạng, giá bán và tư vấn lựa chọn theo đúng nhu cầu sử dụng.\nMáy được đưa vào danh mục DP Lab để khách dễ so sánh theo cấu hình, ngân sách và mục đích sử dụng.\nNếu bạn cần kiểm tra tình trạng thực tế, nâng cấp RAM/SSD hoặc tư vấn dòng máy tương đương, hãy liên hệ DP Lab trước khi đặt hàng.",
     "detailImages": [
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140314.png",
-      "https://trieubom.com/wp-content/uploads/2024/12/4-2-1.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140341.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140402.png",
       "https://trieubom.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-140425.png",

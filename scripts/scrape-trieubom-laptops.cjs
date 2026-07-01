@@ -8,7 +8,13 @@ const categories = [
   ['Laptop khác', 'https://trieubom.com/laptop-khac/'],
 ]
 
-const money = value => Number(String(value).replace(/[^\d]/g, '')) || 0
+const money = value => {
+  const numbers = String(value).match(/[\d.,]+/g) || []
+  const candidates = numbers
+    .map(item => Number(item.replace(/[^\d]/g, '')))
+    .filter(value => value >= 1000000 && value <= 200000000)
+  return candidates[0] || 0
+}
 const clean = value => String(value || '').replace(/<[^>]+>/g, ' ').replace(/&quot;/g, '"').replace(/&#8211;/g, '-').replace(/&#8217;/g, "'").replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim()
 const slug = value => clean(value).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/đ/g, 'd').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
 
@@ -53,9 +59,12 @@ function productFromCard(group, html, index) {
   const name = clean(link[2])
   if (!href || !name || !/laptop|thinkbook|legion|yoga|zenbook|vivobook|proart|tuf|pavilion|macbook|surface|gram|loq|nitro|rog/i.test(name)) return null
   const image = (html.match(/data-src="([^"]+)"/) || html.match(/src="([^"]+)"/) || [])[1]
-  const prices = [...html.matchAll(/<span class="woocommerce-Price-amount amount"><bdi>(.*?)<\/bdi><\/span>/g)].map(match => money(match[1]))
-  const price = prices[0] || 0
-  const originalPrice = prices[1] && prices[1] !== price ? prices[1] : undefined
+  const priceStart = html.indexOf('price-wrapper')
+  const priceBox = priceStart >= 0 ? html.slice(priceStart, priceStart + 1800) : html
+  const prices = [...priceBox.matchAll(/<bdi>([\s\S]*?)(?:&#8363;|₫|woocommerce-Price-currencySymbol)/g)].map(match => money(match[1])).filter(Boolean)
+  const sortedPrices = [...new Set(prices)].sort((a, b) => a - b)
+  const price = sortedPrices[0] || 0
+  const originalPrice = sortedPrices.length > 1 ? sortedPrices[sortedPrices.length - 1] : undefined
   const brand = detectBrand(group, name)
   const line = detectLine(brand, name)
   const category = detectCategory(name)
@@ -105,6 +114,7 @@ async function scrape() {
     const images = [...html.matchAll(/(?:data-src|src)="(https:\/\/trieubom\.com\/wp-content\/uploads\/[^"]+\.(?:jpg|jpeg|png|webp))"/gi)]
       .map(match => match[1])
       .filter(src => !src.includes('-100x100') && !src.includes('-150x150'))
+      .filter(src => !/logo|favicon|cropped|icon|4-2-1/i.test(src.split('/').pop() || ''))
     product.detailImages = [...new Set([...(product.detailImages || []), ...images])].slice(0, 6)
     delete product.sourceUrl
   }

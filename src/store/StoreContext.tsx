@@ -3,7 +3,7 @@ import { seedOrders, seedProducts, seedSettings } from '../data/seed'
 import { api } from '../services/api'
 import type { CartItem, CustomerInfo, Order, OrderStatus, Product, ProductCategory, ProductCondition, StoreSettings } from '../types'
 
-const CATALOG_VERSION = 'trieubom-237-v2'
+const CATALOG_VERSION = 'trieubom-237-v4-price-images'
 
 const readStorage = <T,>(key: string, fallback: T): T => {
   try {
@@ -59,12 +59,14 @@ function inferLine(product: Product) {
 }
 
 function normalizeProduct(product: Product): Product {
+  const cleanImages = (product.detailImages ?? []).filter(src => !/logo|favicon|cropped|icon|4-2-1/i.test(src.split('/').pop() || ''))
   return {
     ...product,
     brand: product.brand === 'ASUS' ? 'Asus' : product.brand,
     category: categoryFixes[String(product.category)] ?? product.category,
     line: inferLine(product),
     condition: conditionFixes[String(product.condition)] ?? product.condition ?? 'Like new',
+    detailImages: cleanImages,
   }
 }
 

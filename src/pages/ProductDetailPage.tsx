@@ -20,6 +20,7 @@ function videoEmbed(url?: string) {
 export function ProductDetailPage({ product, navigate }: { product: Product; navigate: (path: string) => void }) {
   const { addToCart, settings } = useStore()
   const images = product.detailImages?.filter(Boolean) ?? []
+  const [selectedImage, setSelectedImage] = useState(images[0])
   const [zoomImage, setZoomImage] = useState<string | null>(null)
   const article = paragraphs(product.detailArticle)
   const summary = product.salesSummary || `${product.name} là lựa chọn đáng cân nhắc cho nhu cầu ${product.category.toLowerCase()}, cấu hình ${product.cpu}, ${product.ram}, ${product.storage}.`
@@ -40,8 +41,8 @@ export function ProductDetailPage({ product, navigate }: { product: Product; nav
       <button className="detail-back" onClick={() => navigate('/')}><ArrowLeft size={17} />Quay lại cửa hàng</button>
       <section className="detail-hero">
         <div className="detail-gallery">
-          <div className="detail-art"><ProductArt product={product} large /></div>
-          {images.length > 0 && <div className="detail-thumbs">{images.map((src, index) => <button key={`${src}-${index}`} onClick={() => setZoomImage(src)}><img src={src} alt={`${product.name} ảnh ${index + 1}`} /></button>)}</div>}
+          <button className="detail-art detail-art--clickable" onClick={() => selectedImage && setZoomImage(selectedImage)} aria-label="Phóng to ảnh sản phẩm"><ProductArt product={product} large imageSrc={selectedImage} /></button>
+          {images.length > 0 && <div className="detail-thumbs">{images.map((src, index) => <button className={src === selectedImage ? 'active' : ''} key={`${src}-${index}`} onClick={() => setSelectedImage(src)}><img src={src} alt={`${product.name} ảnh ${index + 1}`} /></button>)}</div>}
         </div>
         <div className="detail-summary">
           <p className="eyebrow">{[product.brand, product.line, product.category].filter(Boolean).join(' · ')}</p>
