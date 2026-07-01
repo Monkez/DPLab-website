@@ -57,3 +57,14 @@
 
 /* Center footer round logo precisely */
 .footer-brand-mark{place-items:center!important;padding:0!important}.footer-brand-mark img{width:76%!important;height:76%!important;object-fit:contain!important;object-position:center!important;transform:none!important;border-radius:0!important;margin:auto!important}
+
+/* Admin authentication and account management */
+.admin-login{min-height:100vh;background:radial-gradient(circle at 20% 10%,#d8f5d0 0,#f5f8f4 32%,#0b3328 100%);display:grid;place-items:center;padding:24px}
+.admin-login-card{width:min(430px,100%);background:#fff;border:1px solid #dbe6df;border-radius:26px;padding:30px;box-shadow:0 28px 80px rgba(8,43,34,.22);display:grid;gap:16px}
+.admin-login-back{justify-self:start;border:0;background:transparent;color:#0b6b4f;font-weight:800;cursor:pointer}
+.admin-login-brand{display:flex;align-items:center;gap:14px;margin:8px 0 10px}.admin-login-brand span{width:54px;height:54px;border-radius:18px;background:#0b3328;color:#c8f36a;display:grid;place-items:center;font-weight:900}.admin-login-brand strong{display:block;font:900 24px Manrope;color:#0f2d25}.admin-login-brand small{display:block;margin-top:4px;color:#708077}
+.admin-login-card label,.account-form label{display:grid;gap:7px;font-size:12px;font-weight:800;color:#24352d}.admin-login-card input,.account-form input{height:46px;border:1px solid #d8e4dd;border-radius:12px;padding:0 14px;font-size:14px;outline:0}.admin-login-card input:focus,.account-form input:focus{border-color:#0b6b4f;box-shadow:0 0 0 4px rgba(11,107,79,.1)}
+.admin-login-error{margin:0;background:#fff0ed;color:#b54432;border:1px solid #ffd3cc;border-radius:12px;padding:10px 12px;font-size:12px;font-weight:700}
+.admin-user--button{width:100%;border:0;text-align:left;cursor:pointer}.admin-user--button:hover{background:rgba(255,255,255,.06);border-radius:12px}
+.accounts-grid{display:grid;grid-template-columns:360px 1fr;gap:18px}.account-form{padding:24px;display:grid;gap:15px;align-self:start}.account-form h2{font:900 19px Manrope;margin:0;color:#12342a}.account-form p{margin:0;color:#0b6b4f;font-size:12px;font-weight:800}.accounts-list{overflow:hidden}
+@media(max-width:900px){.accounts-grid{grid-template-columns:1fr}}

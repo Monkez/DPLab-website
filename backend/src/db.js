@@ -1,4 +1,5 @@
 import pg from 'pg'
+import crypto from 'crypto'
 import { seedOrders, seedProducts, seedSettings } from './seed.js'
 
 const { Pool } = pg
@@ -36,6 +37,14 @@ export async function initDatabase() {
       updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
     );
   `)
+  await query(`
+    CREATE TABLE IF NOT EXISTS admin_users (
+      username TEXT PRIMARY KEY,
+      password_hash TEXT NOT NULL,
+      display_name TEXT NOT NULL,
+      created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+    );
+  `)
 
   const productCount = await query('SELECT COUNT(*)::int AS count FROM products')
   if (productCount.rows[0].count === 0) {
@@ -55,6 +64,70 @@ export async function initDatabase() {
   if (settingsCount.rows[0].count === 0) {
     await saveSettings(seedSettings)
   }
+
+  const adminCount = await query('SELECT COUNT(*)::int AS count FROM admin_users')
+  if (adminCount.rows[0].count === 0) {
+    await createAdminUser({
+      username: process.env.ADMIN_DEFAULT_USERNAME || 'delai',
+      password: process.env.ADMIN_DEFAULT_PASSWORD || '1711@pie',
+      displayName: process.env.ADMIN_DEFAULT_DISPLAY_NAME || 'Tiến Đệ',
+    })
+  }
+}
+
+function hashPassword(password, salt = crypto.randomBytes(16).toString('hex')) {
+  const hash = crypto.pbkdf2Sync(password, salt, 120000, 32, 'sha256').toString('hex')
+  return `${salt}:${hash}`
+}
+
+function verifyPassword(password, storedHash) {
+  const [salt, hash] = storedHash.split(':')
+  if (!salt || !hash) return false
+  const candidate = hashPassword(password, salt).split(':')[1]
+  return crypto.timingSafeEqual(Buffer.from(candidate, 'hex'), Buffer.from(hash, 'hex'))
+}
+
+const publicAdminUser = row => ({
+  username: row.username,
+  displayName: row.display_name,
+  createdAt: row.created_at,
+})
+
+export async function authenticateAdmin(username, password) {
+  const result = await query('SELECT * FROM admin_users WHERE username = $1', [username])
+  const user = result.rows[0]
+  if (!user || !verifyPassword(password, user.password_hash)) return null
+  return publicAdminUser(user)
+}
+
+export async function listAdminUsers() {
+  const result = await query('SELECT username, display_name, created_at FROM admin_users ORDER BY created_at ASC')
+  return result.rows.map(publicAdminUser)
+}
+
+export async function createAdminUser({ username, password, displayName }) {
+  const cleanUsername = String(username || '').trim().toLowerCase()
+  const cleanDisplayName = String(displayName || '').trim()
+  if (!cleanUsername || !password || !cleanDisplayName) throw new Error('Username, password and display name are required')
+  const user = {
+    username: cleanUsername,
+    passwordHash: hashPassword(String(password)),
+    displayName: cleanDisplayName,
+  }
+  const result = await query(
+    `INSERT INTO admin_users (username, password_hash, display_name)
+     VALUES ($1, $2, $3)
+     ON CONFLICT (username) DO UPDATE SET password_hash = EXCLUDED.password_hash, display_name = EXCLUDED.display_name
+     RETURNING username, display_name, created_at`,
+    [user.username, user.passwordHash, user.displayName],
+  )
+  return publicAdminUser(result.rows[0])
+}
+
+export async function deleteAdminUser(username) {
+  const count = await query('SELECT COUNT(*)::int AS count FROM admin_users')
+  if (count.rows[0].count <= 1) throw new Error('Cannot delete the last admin account')
+  await query('DELETE FROM admin_users WHERE username = $1', [username])
 }
 
 export async function listProducts() {

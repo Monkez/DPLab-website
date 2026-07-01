@@ -37,6 +37,12 @@ export interface Order {
   status: OrderStatus
 }
 
+export interface AdminUser {
+  username: string
+  displayName: string
+  createdAt?: string
+}
+
 export interface StoreSettings {
   storeName: string
   slogan: string
