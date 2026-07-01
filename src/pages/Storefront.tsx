@@ -12,7 +12,7 @@ function normalize(value?: string) {
 
 function belongsToBrand(productBrand: string, selectedBrand?: string) {
   if (!selectedBrand) return true
-  if (selectedBrand === 'Laptop khác') return !['lenovo', 'dell', 'asus', 'acer', 'hp'].includes(normalize(productBrand))
+  if (selectedBrand === 'Laptop kh�c') return !['lenovo', 'dell', 'asus', 'acer', 'hp'].includes(normalize(productBrand))
   return normalize(productBrand) === normalize(selectedBrand)
 }
 
