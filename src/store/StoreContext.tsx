@@ -4,6 +4,7 @@ import { api } from '../services/api'
 import type { CartItem, CustomerInfo, Order, OrderStatus, Product, ProductCategory, ProductCondition, StoreSettings } from '../types'
 
 const CATALOG_VERSION = 'trieubom-237-v6-dtpt-shop'
+const CART_VERSION = 'dtpt-shop-cart-v2'
 
 function migrateBrandSettings(settings: StoreSettings): StoreSettings {
   const content = Object.fromEntries(Object.entries(settings.content).map(([key, value]) => [
@@ -44,6 +45,15 @@ const readProducts = () => {
 const readSettings = (): StoreSettings => {
   const saved = readStorage<Partial<StoreSettings>>('dplab_settings', {})
   return migrateBrandSettings({ ...seedSettings, ...saved, content: { ...seedSettings.content, ...(saved.content ?? {}) } })
+}
+
+const readCart = (): CartItem[] => {
+  if (localStorage.getItem('dplab_cart_version') !== CART_VERSION) {
+    localStorage.removeItem('dplab_cart')
+    localStorage.setItem('dplab_cart_version', CART_VERSION)
+    return []
+  }
+  return readStorage<CartItem[]>('dplab_cart', [])
 }
 
 const categoryFixes: Record<string, ProductCategory> = {
@@ -115,7 +125,7 @@ const StoreContext = createContext<StoreContextValue | null>(null)
 export function StoreProvider({ children }: { children: ReactNode }) {
   const [products, setProducts] = useState<Product[]>(() => normalizeProducts(readProducts()))
   const [orders, setOrders] = useState<Order[]>(() => readStorage('dplab_orders', seedOrders))
-  const [cart, setCart] = useState<CartItem[]>(() => readStorage('dplab_cart', []))
+  const [cart, setCart] = useState<CartItem[]>(readCart)
   const [settings, setSettings] = useState<StoreSettings>(readSettings)
 
   useEffect(() => {
@@ -132,14 +142,17 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   useEffect(() => localStorage.setItem('dplab_products', JSON.stringify(products)), [products])
   useEffect(() => localStorage.setItem('dplab_catalog_version', CATALOG_VERSION), [])
   useEffect(() => localStorage.setItem('dplab_orders', JSON.stringify(orders)), [orders])
-  useEffect(() => localStorage.setItem('dplab_cart', JSON.stringify(cart)), [cart])
+  const validCart = useMemo(() => cart.filter(item => item.quantity > 0 && products.some(product => product.id === item.productId)), [cart, products])
+
+  useEffect(() => localStorage.setItem('dplab_cart', JSON.stringify(validCart)), [validCart])
+  useEffect(() => localStorage.setItem('dplab_cart_version', CART_VERSION), [])
   useEffect(() => localStorage.setItem('dplab_settings', JSON.stringify(settings)), [settings])
 
-  const cartCount = cart.reduce((sum, item) => sum + item.quantity, 0)
-  const cartTotal = cart.reduce((sum, item) => sum + (products.find(product => product.id === item.productId)?.price ?? 0) * item.quantity, 0)
+  const cartCount = validCart.reduce((sum, item) => sum + item.quantity, 0)
+  const cartTotal = validCart.reduce((sum, item) => sum + (products.find(product => product.id === item.productId)?.price ?? 0) * item.quantity, 0)
 
   const value = useMemo<StoreContextValue>(() => ({
-    products, orders, cart, settings, cartCount, cartTotal,
+    products, orders, cart: validCart, settings, cartCount, cartTotal,
     addToCart: productId => setCart(current => {
       const found = current.find(item => item.productId === productId)
       return found ? current.map(item => item.productId === productId ? { ...item, quantity: item.quantity + 1 } : item) : [...current, { productId, quantity: 1 }]
@@ -147,7 +160,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
     updateCartQuantity: (productId, quantity) => setCart(current => quantity <= 0 ? current.filter(item => item.productId !== productId) : current.map(item => item.productId === productId ? { ...item, quantity } : item)),
     clearCart: () => setCart([]),
     createOrder: customer => {
-      const order: Order = { id: `DTPT-${Date.now().toString().slice(-8)}`, createdAt: new Date().toISOString(), customer, items: cart, total: cartTotal, status: 'new' }
+      const order: Order = { id: `DTPT-${Date.now().toString().slice(-8)}`, createdAt: new Date().toISOString(), customer, items: validCart, total: cartTotal, status: 'new' }
       setOrders(current => [order, ...current])
       setCart([])
       if (api.enabled) api.createOrder(order).catch(error => console.warn('Không lưu được đơn hàng lên backend.', error))
@@ -182,7 +195,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
           .catch(error => console.warn('Không khôi phục được dữ liệu backend.', error))
       }
     },
-  }), [products, orders, cart, settings, cartCount, cartTotal])
+  }), [products, orders, validCart, settings, cartCount, cartTotal])
 
   return <StoreContext.Provider value={value}>{children}</StoreContext.Provider>
 }
