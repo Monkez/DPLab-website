@@ -51,6 +51,11 @@ export async function initDatabase() {
     for (const product of seedProducts) {
       await saveProduct(product)
     }
+  } else {
+    for (const product of seedProducts) {
+      const exists = await query('SELECT 1 FROM products WHERE id = $1', [product.id])
+      if (exists.rowCount === 0) await saveProduct(product)
+    }
   }
 
   const orderCount = await query('SELECT COUNT(*)::int AS count FROM orders')

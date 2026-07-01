@@ -1,6 +1,7 @@
 ﻿import type { Order, Product, StoreSettings } from '../types'
+import { importedLaptopProducts } from './importedLaptopProducts'
 
-export const seedProducts: Product[] = [
+const baseProducts: Product[] = [
   { id: 'DEV-037', name: 'Dell Vostro 3400', brand: 'Dell', line: 'Vostro', category: 'Văn phòng', cpu: 'Intel Core i5-1135G7', ram: '16GB DDR4', storage: 'SSD 256GB', display: '14" Full HD', gpu: 'Intel Iris Xe', price: 7990000, originalPrice: 8990000, stock: 5, status: 'active', badge: 'Bán chạy', accent: '#8fa9bc' },
   { id: 'DEV-003', name: 'Dell XPS 15 OLED', brand: 'Dell', line: 'XPS', category: 'Đồ họa', cpu: 'Intel Core i7-12700H', ram: '32GB DDR5', storage: 'SSD 1TB', display: '15.6" 4K OLED', gpu: 'RTX 3050 Ti', price: 24990000, originalPrice: 27990000, stock: 2, status: 'active', badge: 'Màn OLED', accent: '#7d8a93' },
   { id: 'DEV-004', name: 'MacBook Pro M2 Max', brand: 'Apple', line: 'Apple MacBook', category: 'Đồ họa', cpu: 'Apple M2 Max', ram: '32GB Unified', storage: 'SSD 1TB', display: '14.2" Liquid Retina XDR', gpu: 'GPU 30 lõi', price: 38990000, originalPrice: 42990000, stock: 2, status: 'active', badge: 'Cao cấp', accent: '#a9adb0' },
@@ -15,6 +16,8 @@ export const seedProducts: Product[] = [
   { id: 'DEV-042', name: 'Lenovo ThinkBook 14 G6', brand: 'Lenovo', line: 'ThinkBook', category: 'Văn phòng', cpu: 'Intel Core i5-1335U', ram: '16GB DDR5', storage: 'SSD 512GB', display: '14" WUXGA', gpu: 'Intel Iris Xe', price: 14990000, originalPrice: 16490000, stock: 5, status: 'active', condition: 'Like new', accent: '#6f8292' },
   { id: 'DEV-043', name: 'Acer Nitro V 15', brand: 'Acer', line: 'Nitro', category: 'Gaming', cpu: 'Intel Core i5-13420H', ram: '16GB DDR5', storage: 'SSD 512GB', display: '15.6" 144Hz', gpu: 'NVIDIA RTX 4050', price: 18990000, originalPrice: 20990000, stock: 4, status: 'active', badge: 'Gaming tốt', accent: '#536653' },
 ]
+
+export const seedProducts: Product[] = [...baseProducts, ...importedLaptopProducts]
 
 export const seedOrders: Order[] = [
   { id: 'DP-260701', createdAt: '2026-07-01T08:24:00.000Z', customer: { name: 'Nguyễn Minh Anh', phone: '0986 234 567', address: 'Hà Đông, Hà Nội', note: 'Gọi trước khi giao' }, items: [{ productId: 'DEV-037', quantity: 1 }], total: 7990000, status: 'new' },

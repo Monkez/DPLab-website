@@ -21,6 +21,13 @@ export interface Product {
   condition?: ProductCondition
   badge?: string
   accent: string
+  salesSummary?: string
+  detailTitle?: string
+  detailArticle?: string
+  detailImages?: string[]
+  videoUrl?: string
+  seoTitle?: string
+  seoDescription?: string
 }
 
 export interface CartItem { productId: string; quantity: number }

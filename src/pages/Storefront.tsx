@@ -22,7 +22,7 @@ function belongsToLine(product: { name: string; line?: string }, selectedLine?: 
   return normalize(product.line).includes(line) || normalize(product.name).includes(line)
 }
 
-export function Storefront({ search, openCart, selectedBrand, selectedLine, onClearCatalog }: { search: string; openCart: () => void; selectedBrand?: string; selectedLine?: string; onClearCatalog: () => void }) {
+export function Storefront({ search, openCart, selectedBrand, selectedLine, onClearCatalog, navigate }: { search: string; openCart: () => void; selectedBrand?: string; selectedLine?: string; onClearCatalog: () => void; navigate: (path: string) => void }) {
   const { products, settings, addToCart } = useStore()
   const content = settings.content
   const [category, setCategory] = useState<(typeof categories)[number]>('Tất cả')
@@ -48,7 +48,7 @@ export function Storefront({ search, openCart, selectedBrand, selectedLine, onCl
     <section className="products-section" id="products"><div className="container"><div className="section-heading"><div><p className="eyebrow">{content.productsEyebrow}</p><h2>{content.productsTitle}</h2></div><p>{content.productsDescription}</p></div>
       {hasCatalogFilter && <div className="catalog-filter-chip"><span>Đang xem: <strong>{selectedBrand}{selectedLine ? ` / ${selectedLine}` : ''}</strong></span><button onClick={onClearCatalog}><X size={14} />Xem tất cả</button></div>}
       <div className="category-tabs" role="tablist">{categories.map(item => <button key={item} className={category === item ? 'active' : ''} onClick={() => setCategory(item)}>{item}</button>)}</div>
-      {filtered.length > 0 ? <div className="product-grid">{filtered.map(product => <ProductCard product={product} key={product.id} />)}</div> : <div className="no-results"><Laptop size={36} /><h3>Chưa thấy chiếc máy phù hợp</h3><p>Thử từ khóa khác hoặc gọi {settings.phone} để DP Lab tìm máy giúp bạn.</p></div>}
+      {filtered.length > 0 ? <div className="product-grid">{filtered.map(product => <ProductCard product={product} navigate={navigate} key={product.id} />)}</div> : <div className="no-results"><Laptop size={36} /><h3>Chưa thấy chiếc máy phù hợp</h3><p>Thử từ khóa khác hoặc gọi {settings.phone} để DP Lab tìm máy giúp bạn.</p></div>}
     </div></section>
 
     <section className="why" id="why-us"><div className="container why__grid"><div className="why__aside"><p className="eyebrow">{content.whyEyebrow}</p><h2>{content.whyTitle}</h2><p>{content.whyDescription}</p><a href={`tel:${settings.phone.replace(/\s/g, '')}`}>Trao đổi với kỹ thuật viên <ArrowRight size={17} /></a></div><div className="why__cards"><article><span>01</span><h3>{content.why1Title}</h3><p>{content.why1Description}</p></article><article><span>02</span><h3>{content.why2Title}</h3><p>{content.why2Description}</p></article><article><span>03</span><h3>{content.why3Title}</h3><p>{content.why3Description}</p></article><article><span>04</span><h3>{content.why4Title}</h3><p>{content.why4Description}</p></article></div></div></section>
