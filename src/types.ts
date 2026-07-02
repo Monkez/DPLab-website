@@ -60,6 +60,20 @@ export interface AdminUser {
   createdAt?: string
 }
 
+export type AnalyticsDevice = 'desktop' | 'tablet' | 'mobile'
+
+export interface AnalyticsEvent {
+  eventId: string
+  visitorId: string
+  sessionId: string
+  eventType: 'page_view'
+  path: string
+  productId?: string
+  referrer?: string
+  device: AnalyticsDevice
+  createdAt: string
+}
+
 export interface StoreSettings {
   storeName: string
   slogan: string

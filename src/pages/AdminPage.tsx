@@ -28,8 +28,9 @@ import { ProductArt } from '../components/ProductArt'
 import { api, type AdminSession } from '../services/api'
 import { useStore } from '../store/StoreContext'
 import type { AdminUser, OrderStatus, Product, ProductCondition, ProductStatus, SiteContent, StoreSettings } from '../types'
+import { AnalyticsTab } from './admin/AnalyticsTab'
 
-type AdminTab = 'dashboard' | 'products' | 'orders' | 'accounts' | 'settings'
+type AdminTab = 'dashboard' | 'products' | 'orders' | 'accounts' | 'analytics' | 'settings'
 
 const money = (value: number) => `${new Intl.NumberFormat('vi-VN').format(value)}₫`
 const orderLabels: Record<OrderStatus, string> = {
@@ -79,7 +80,7 @@ export function AdminPage({ navigate }: { navigate: (path: string) => void }) {
         <button className={tab === 'products' ? 'active' : ''} onClick={() => go('products')}><Boxes />Sản phẩm</button>
         <button className={tab === 'orders' ? 'active' : ''} onClick={() => go('orders')}><ClipboardList />Đơn hàng{newOrders > 0 && <span>{newOrders}</span>}</button>
         <button className={tab === 'accounts' ? 'active' : ''} onClick={() => go('accounts')}><Users />Tài khoản</button>
-        <button><BarChart3 />Báo cáo<small>Sớm</small></button>
+        <button className={tab === 'analytics' ? 'active' : ''} onClick={() => go('analytics')}><BarChart3 />Báo cáo</button>
         <p>HỆ THỐNG</p>
         <button className={tab === 'settings' ? 'active' : ''} onClick={() => go('settings')}><Settings />Cài đặt</button>
       </nav>
@@ -107,6 +108,7 @@ export function AdminPage({ navigate }: { navigate: (path: string) => void }) {
         {tab === 'products' && <ProductsTab products={visibleProducts} total={products.length} query={query} setQuery={setQuery} onAdd={() => setEditing('new')} onEdit={setEditing} onDelete={deleteProduct} />}
         {tab === 'orders' && <OrdersTab orders={orders} newOrders={newOrders} updateOrderStatus={updateOrderStatus} />}
         {tab === 'accounts' && <AccountsTab currentUsername={session.user.username} />}
+        {tab === 'analytics' && <AnalyticsTab products={products} />}
         {tab === 'settings' && <SettingsTab settings={settings} updateSettings={updateSettings} resetDemo={resetDemo} />}
       </div>
     </div>

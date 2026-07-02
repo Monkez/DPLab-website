@@ -47,6 +47,21 @@ export async function initDatabase() {
       created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
     );
   `)
+  await query(`
+    CREATE TABLE IF NOT EXISTS analytics_events (
+      event_id TEXT PRIMARY KEY,
+      visitor_id TEXT NOT NULL,
+      session_id TEXT NOT NULL,
+      event_type TEXT NOT NULL,
+      path TEXT NOT NULL,
+      product_id TEXT,
+      referrer TEXT,
+      device TEXT NOT NULL DEFAULT 'desktop',
+      created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+    );
+    CREATE INDEX IF NOT EXISTS analytics_events_created_at_idx ON analytics_events (created_at DESC);
+    CREATE INDEX IF NOT EXISTS analytics_events_session_id_idx ON analytics_events (session_id);
+  `)
 
   await query(`DELETE FROM products WHERE id LIKE 'DEV-%'`)
 
@@ -232,4 +247,35 @@ export async function resetDemoData() {
   for (const order of seedOrders) await saveOrder(order)
   await saveSettings(seedSettings)
   return { products: seedProducts, orders: seedOrders, settings: seedSettings }
+}
+
+export async function recordAnalyticsEvent(event) {
+  await query(
+    `INSERT INTO analytics_events (event_id, visitor_id, session_id, event_type, path, product_id, referrer, device, created_at)
+     VALUES ($1, $2, $3, $4, $5, $6, $7, $8, COALESCE($9::timestamptz, NOW()))
+     ON CONFLICT (event_id) DO NOTHING`,
+    [event.eventId, event.visitorId, event.sessionId, event.eventType, event.path, event.productId || null, event.referrer || null, event.device || 'desktop', event.createdAt],
+  )
+}
+
+export async function listAnalyticsEvents(days = 30) {
+  const safeDays = Math.min(Math.max(Number(days) || 30, 1), 365)
+  const result = await query(
+    `SELECT event_id, visitor_id, session_id, event_type, path, product_id, referrer, device, created_at
+     FROM analytics_events
+     WHERE created_at >= NOW() - ($1 * INTERVAL '1 day')
+     ORDER BY created_at ASC`,
+    [safeDays * 2],
+  )
+  return result.rows.map(row => ({
+    eventId: row.event_id,
+    visitorId: row.visitor_id,
+    sessionId: row.session_id,
+    eventType: row.event_type,
+    path: row.path,
+    productId: row.product_id,
+    referrer: row.referrer,
+    device: row.device,
+    createdAt: row.created_at,
+  }))
 }

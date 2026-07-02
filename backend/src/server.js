@@ -10,12 +10,14 @@ import {
   getSettings,
   initDatabase,
   listAdminUsers,
+  listAnalyticsEvents,
   listOrders,
   listProducts,
   resetDemoData,
   saveOrder,
   saveProduct,
   saveSettings,
+  recordAnalyticsEvent,
   updateOrderStatus,
 } from './db.js'
 
@@ -86,6 +88,19 @@ app.post('/api/admin/login', asyncRoute(async (req, res) => {
 
 app.get('/api/admin/users', requireAdmin, asyncRoute(async (_req, res) => {
   res.json(await listAdminUsers())
+}))
+
+app.post('/api/analytics/events', asyncRoute(async (req, res) => {
+  const event = req.body
+  if (!event?.eventId || !event?.visitorId || !event?.sessionId || !event?.path) {
+    return res.status(400).json({ message: 'Invalid analytics event' })
+  }
+  await recordAnalyticsEvent({ ...event, eventType: 'page_view' })
+  res.status(204).end()
+}))
+
+app.get('/api/admin/analytics', requireAdmin, asyncRoute(async (req, res) => {
+  res.json(await listAnalyticsEvents(req.query.days))
 }))
 
 app.post('/api/admin/users', requireAdmin, asyncRoute(async (req, res) => {

@@ -8,6 +8,7 @@ import { AdminPage } from './pages/AdminPage'
 import { CatalogPage } from './pages/CatalogPage'
 import { ProductDetailPage } from './pages/ProductDetailPage'
 import { Storefront } from './pages/Storefront'
+import { api } from './services/api'
 import { useStore } from './store/StoreContext'
 import { productPath, productSeoDescription, productSeoTitle } from './utils/productSeo'
 
@@ -88,6 +89,11 @@ export function App() {
       address: settings.address,
     })
   }, [detailProduct, path, search, settings])
+
+  useEffect(() => {
+    if (path.startsWith('/admin')) return
+    api.trackPageView(route, detailProduct?.id).catch(() => undefined)
+  }, [detailProduct?.id, path, route])
 
   const navigate = (next: string) => {
     window.history.pushState({}, '', next)

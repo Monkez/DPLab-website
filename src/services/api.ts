@@ -1,9 +1,53 @@
-import type { AdminUser, Order, Product, StoreSettings } from '../types'
+import type { AdminUser, AnalyticsDevice, AnalyticsEvent, Order, Product, StoreSettings } from '../types'
 
 const rawApiUrl = import.meta.env.VITE_API_URL as string | undefined
 const API_URL = rawApiUrl?.replace(/\/$/, '')
 
 const ADMIN_SESSION_KEY = 'dplab_admin_session'
+const ANALYTICS_VISITOR_KEY = 'dtpt_analytics_visitor'
+const ANALYTICS_SESSION_KEY = 'dtpt_analytics_session'
+const ANALYTICS_LOCAL_KEY = 'dtpt_analytics_events'
+
+const createId = () => globalThis.crypto?.randomUUID?.() ?? `${Date.now()}-${Math.random().toString(36).slice(2)}`
+
+function getAnalyticsIdentity() {
+  let visitorId = localStorage.getItem(ANALYTICS_VISITOR_KEY)
+  if (!visitorId) {
+    visitorId = createId()
+    localStorage.setItem(ANALYTICS_VISITOR_KEY, visitorId)
+  }
+  let sessionId = sessionStorage.getItem(ANALYTICS_SESSION_KEY)
+  if (!sessionId) {
+    sessionId = createId()
+    sessionStorage.setItem(ANALYTICS_SESSION_KEY, sessionId)
+  }
+  return { visitorId, sessionId }
+}
+
+function detectDevice(): AnalyticsDevice {
+  if (window.innerWidth < 768) return 'mobile'
+  if (window.innerWidth < 1100) return 'tablet'
+  return 'desktop'
+}
+
+function saveLocalAnalyticsEvent(event: AnalyticsEvent) {
+  try {
+    const stored = JSON.parse(localStorage.getItem(ANALYTICS_LOCAL_KEY) || '[]') as AnalyticsEvent[]
+    localStorage.setItem(ANALYTICS_LOCAL_KEY, JSON.stringify([...stored.slice(-1999), event]))
+  } catch {
+    localStorage.setItem(ANALYTICS_LOCAL_KEY, JSON.stringify([event]))
+  }
+}
+
+function getLocalAnalyticsEvents(days: number) {
+  const threshold = Date.now() - days * 2 * 86400000
+  try {
+    return (JSON.parse(localStorage.getItem(ANALYTICS_LOCAL_KEY) || '[]') as AnalyticsEvent[])
+      .filter(event => new Date(event.createdAt).getTime() >= threshold)
+  } catch {
+    return []
+  }
+}
 
 export interface AdminSession {
   token: string
@@ -56,6 +100,24 @@ export const api = {
   listAdminUsers: () => request<AdminUser[]>('/api/admin/users', { admin: true }),
   createAdminUser: (user: { username: string; password: string; displayName: string }) => request<AdminUser>('/api/admin/users', { method: 'POST', admin: true, body: JSON.stringify(user) }),
   deleteAdminUser: (username: string) => request<void>(`/api/admin/users/${encodeURIComponent(username)}`, { method: 'DELETE', admin: true }),
+  trackPageView: async (path: string, productId?: string) => {
+    const identity = getAnalyticsIdentity()
+    const event: AnalyticsEvent = {
+      eventId: createId(),
+      ...identity,
+      eventType: 'page_view',
+      path,
+      productId,
+      referrer: document.referrer ? new URL(document.referrer).hostname : 'Trực tiếp',
+      device: detectDevice(),
+      createdAt: new Date().toISOString(),
+    }
+    saveLocalAnalyticsEvent(event)
+    if (API_URL) await request<void>('/api/analytics/events', { method: 'POST', body: JSON.stringify(event), keepalive: true })
+  },
+  getAnalyticsEvents: (days: number) => API_URL
+    ? request<AnalyticsEvent[]>(`/api/admin/analytics?days=${days}`, { admin: true })
+    : Promise.resolve(getLocalAnalyticsEvents(days)),
   bootstrap: () => request<{ products: Product[]; orders: Order[]; settings: StoreSettings }>('/api/bootstrap', { admin: true }),
   saveProduct: (product: Product) => request<Product>(`/api/products/${encodeURIComponent(product.id)}`, { method: 'PUT', admin: true, body: JSON.stringify(product) }),
   deleteProduct: (id: string) => request<void>(`/api/products/${encodeURIComponent(id)}`, { method: 'DELETE', admin: true }),
