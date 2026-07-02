@@ -19,10 +19,8 @@ export function Header({ onCart, onSearch, search, navigate, onCatalogSelect }: 
   const searchInput = useRef<HTMLInputElement>(null)
 
   const selectCatalog = (brand?: string, line?: string) => {
-    navigate('/')
     onCatalogSelect(brand, line)
     setOpen(false)
-    window.setTimeout(() => document.getElementById('products')?.scrollIntoView({ behavior: 'smooth' }), 20)
   }
 
   const openSearch = () => {

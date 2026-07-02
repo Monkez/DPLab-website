@@ -5,6 +5,7 @@ import { CheckoutModal } from './components/CheckoutModal'
 import { FloatingContact } from './components/FloatingContact'
 import { Header } from './components/Header'
 import { AdminPage } from './pages/AdminPage'
+import { CatalogPage } from './pages/CatalogPage'
 import { ProductDetailPage } from './pages/ProductDetailPage'
 import { Storefront } from './pages/Storefront'
 import { useStore } from './store/StoreContext'
@@ -31,25 +32,29 @@ function upsertJsonLd(data: object | null) {
 }
 
 export function App() {
-  const [path, setPath] = useState(window.location.pathname)
+  const [route, setRoute] = useState(() => `${window.location.pathname}${window.location.search}`)
   const [cartOpen, setCartOpen] = useState(false)
   const [checkoutOpen, setCheckoutOpen] = useState(false)
-  const [search, setSearch] = useState('')
-  const [selectedBrand, setSelectedBrand] = useState<string | undefined>()
-  const [selectedLine, setSelectedLine] = useState<string | undefined>()
+  const [search, setSearch] = useState(() => new URLSearchParams(window.location.search).get('q') || '')
   const { settings, products } = useStore()
+  const path = route.split('?')[0]
+  const searchParams = useMemo(() => new URLSearchParams(route.includes('?') ? route.slice(route.indexOf('?') + 1) : ''), [route])
 
   const detailProduct = useMemo(() => products.find(product => path === productPath(product)), [path, products])
 
   useEffect(() => {
-    const handler = () => setPath(window.location.pathname)
+    const handler = () => {
+      setRoute(`${window.location.pathname}${window.location.search}`)
+      setSearch(new URLSearchParams(window.location.search).get('q') || '')
+    }
     window.addEventListener('popstate', handler)
     return () => window.removeEventListener('popstate', handler)
   }, [])
 
   useEffect(() => {
-    const title = detailProduct ? productSeoTitle(detailProduct, settings) : `${settings.storeName} | Laptop giá tốt`
-    const description = detailProduct ? productSeoDescription(detailProduct) : `${settings.storeName} - ${settings.slogan}. Laptop được chọn kỹ, giá minh bạch, tư vấn tận tâm.`
+    const catalogTitle = search ? `Tìm kiếm “${search}” | ${settings.storeName}` : `Danh mục laptop | ${settings.storeName}`
+    const title = detailProduct ? productSeoTitle(detailProduct, settings) : path === '/laptop' ? catalogTitle : `${settings.storeName} | Laptop giá tốt`
+    const description = detailProduct ? productSeoDescription(detailProduct) : path === '/laptop' ? `Khám phá danh mục laptop tại ${settings.storeName}, lọc theo nhu cầu và sắp xếp theo giá.` : `${settings.storeName} - ${settings.slogan}. Laptop được chọn kỹ, giá minh bạch, tư vấn tận tâm.`
     document.title = title
     upsertMeta('description', description)
     upsertMeta('og:title', title)
@@ -82,32 +87,31 @@ export function App() {
       telephone: settings.phone,
       address: settings.address,
     })
-  }, [detailProduct, settings])
+  }, [detailProduct, path, search, settings])
 
   const navigate = (next: string) => {
     window.history.pushState({}, '', next)
-    setPath(next)
+    setRoute(`${window.location.pathname}${window.location.search}`)
+    setSearch(new URLSearchParams(window.location.search).get('q') || '')
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   const selectCatalog = (brand?: string, line?: string) => {
-    setSelectedBrand(brand)
-    setSelectedLine(line)
+    const params = new URLSearchParams()
+    if (brand) params.set('brand', brand)
+    if (line) params.set('line', line)
+    navigate(`/laptop${params.toString() ? `?${params}` : ''}`)
   }
 
   const handleSearch = (value: string) => {
     setSearch(value)
-    setSelectedBrand(undefined)
-    setSelectedLine(undefined)
-
-    if (path !== '/') {
-      window.history.pushState({}, '', '/')
-      setPath('/')
-    }
-
-    if (value.trim()) {
-      window.setTimeout(() => document.getElementById('products')?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 30)
-    }
+    const params = new URLSearchParams()
+    if (value.trim()) params.set('q', value.trim())
+    const next = `/laptop${params.toString() ? `?${params}` : ''}`
+    if (path === '/laptop') window.history.replaceState({}, '', next)
+    else window.history.pushState({}, '', next)
+    setRoute(next)
+    if (path !== '/laptop') window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   if (path.startsWith('/admin')) return <AdminPage navigate={navigate} />
@@ -116,7 +120,9 @@ export function App() {
     <Header onCart={() => setCartOpen(true)} onSearch={handleSearch} search={search} navigate={navigate} onCatalogSelect={selectCatalog} />
     {detailProduct
       ? <ProductDetailPage product={detailProduct} navigate={navigate} />
-      : <Storefront search={search} selectedBrand={selectedBrand} selectedLine={selectedLine} onClearCatalog={() => selectCatalog()} navigate={navigate} />}
+      : path === '/laptop'
+        ? <CatalogPage searchParams={searchParams} navigate={navigate} />
+        : <Storefront navigate={navigate} />}
     <Footer settings={settings} navigate={navigate} />
     <FloatingContact settings={settings} />
     <CartDrawer open={cartOpen} onClose={() => setCartOpen(false)} onCheckout={() => { setCartOpen(false); setCheckoutOpen(true) }} />
@@ -137,7 +143,7 @@ function Footer({ settings, navigate }: { settings: ReturnType<typeof useStore>[
         <p>{settings.content.footerDescription}</p>
         {settings.logoStyle === 'round' && <div className="operator-brand"><span>Đơn vị vận hành</span><img src={settings.logoWideSrc} alt="DTPT Techs" /></div>}
       </div>
-      <div><h3>Khám phá</h3><a href="#products">Laptop văn phòng</a><a href="#products">Laptop đồ họa</a><a href="#products">Laptop gaming</a><button onClick={() => navigate('/admin')}>Trang quản trị</button></div>
+      <div><h3>Khám phá</h3><button onClick={() => navigate('/laptop?section=office')}>Laptop văn phòng</button><button onClick={() => navigate('/laptop?category=Đồ họa')}>Laptop đồ họa</button><button onClick={() => navigate('/laptop?section=gaming')}>Laptop gaming</button><button onClick={() => navigate('/admin')}>Trang quản trị</button></div>
       <div><h3>Hỗ trợ</h3><a href="#why-us">Chính sách bảo hành</a><a href="#why-us">Giao nhận & kiểm máy</a><a href="#contact">Tư vấn chọn máy</a></div>
       <div><h3>Liên hệ</h3><a href={`tel:${settings.phone.replace(/\s/g, '')}`}><Phone />{settings.phone}</a><a href={`mailto:${settings.email}`}><Mail />{settings.email}</a><span><MapPin />{settings.address}</span><a href={`https://${settings.facebook}`}><MessageCircle />DTPT Shop</a></div>
     </div>

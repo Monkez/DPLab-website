@@ -1,42 +1,19 @@
-import { ArrowRight, ArrowUpDown, BadgeCheck, ChevronLeft, ChevronRight, Headphones, Laptop, PackageCheck, Phone, ShieldCheck, Sparkles, Truck, Wrench, X } from 'lucide-react'
+import { ArrowRight, BadgeCheck, ChevronLeft, ChevronRight, Headphones, PackageCheck, Phone, ShieldCheck, Sparkles, Truck, Wrench } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { ProductCard } from '../components/ProductCard'
 import { ProductArt } from '../components/ProductArt'
 import { useStore } from '../store/StoreContext'
 import { productPath } from '../utils/productSeo'
 
-const categories = ['Tất cả', 'Văn phòng', 'Mỏng nhẹ', 'Đồ họa', 'Gaming'] as const
-type SortOption = 'newest' | 'price-asc' | 'price-desc' | 'best-selling'
-
 function normalize(value?: string) {
-  return (value || '')
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/\p{Diacritic}/gu, '')
-    .replace(/đ/g, 'd')
-    .trim()
+  return (value || '').toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, '').replace(/đ/g, 'd').trim()
 }
 
-function belongsToBrand(productBrand: string, selectedBrand?: string) {
-  if (!selectedBrand) return true
-  if (selectedBrand === 'Laptop khác') return !['lenovo', 'dell', 'asus', 'acer', 'hp'].includes(normalize(productBrand))
-  return normalize(productBrand) === normalize(selectedBrand)
-}
-
-function belongsToLine(product: { name: string; line?: string }, selectedLine?: string) {
-  if (!selectedLine) return true
-  const line = normalize(selectedLine)
-  return normalize(product.line).includes(line) || normalize(product.name).includes(line)
-}
-
-export function Storefront({ search, selectedBrand, selectedLine, onClearCatalog, navigate }: { search: string; selectedBrand?: string; selectedLine?: string; onClearCatalog: () => void; navigate: (path: string) => void }) {
+export function Storefront({ navigate }: { navigate: (path: string) => void }) {
   const { products, orders, settings } = useStore()
   const content = settings.content
-  const [category, setCategory] = useState<(typeof categories)[number]>('Tất cả')
-  const [sortBy, setSortBy] = useState<SortOption>('newest')
   const [featuredIndex, setFeaturedIndex] = useState(0)
   const activeProducts = useMemo(() => products.filter(product => product.status === 'active'), [products])
-  const hasCatalogFilter = Boolean(selectedBrand || selectedLine)
 
   const salesByProduct = useMemo(() => {
     const sales = new Map<string, number>()
@@ -46,35 +23,27 @@ export function Storefront({ search, selectedBrand, selectedLine, onClearCatalog
     return sales
   }, [orders])
 
-  const featuredProducts = useMemo(() => activeProducts.map((product, index) => {
+  const bestSellingProducts = useMemo(() => activeProducts.map((product, index) => {
     const sales = salesByProduct.get(product.id) ?? 0
     const promoted = normalize(product.badge).includes('ban chay') ? 1 : 0
     const discount = product.originalPrice && product.originalPrice > product.price
       ? (product.originalPrice - product.price) / product.originalPrice
       : 0
     return { product, index, score: sales * 1000 + promoted * 100 + discount }
-  }).sort((a, b) => b.score - a.score || a.index - b.index).slice(0, 10).map(item => item.product), [activeProducts, salesByProduct])
+  }).sort((a, b) => b.score - a.score || a.index - b.index).map(item => item.product), [activeProducts, salesByProduct])
+
+  const featuredProducts = bestSellingProducts.slice(0, 10)
   const currentFeaturedIndex = featuredProducts.length ? featuredIndex % featuredProducts.length : 0
   const featured = featuredProducts[currentFeaturedIndex]
   const showPreviousFeatured = () => setFeaturedIndex(current => (current - 1 + featuredProducts.length) % featuredProducts.length)
   const showNextFeatured = () => setFeaturedIndex(current => (current + 1) % featuredProducts.length)
 
-  const filtered = useMemo(() => activeProducts.filter(product => {
-    const text = normalize([product.name, product.brand, product.line, product.cpu, product.ram, product.storage, product.display, product.gpu].filter(Boolean).join(' '))
-    const query = normalize(search)
-    return (category === 'Tất cả' || product.category === category)
-      && belongsToBrand(product.brand, selectedBrand)
-      && belongsToLine(product, selectedLine)
-      && text.includes(query)
-  }).map((product, index) => ({ product, index })).sort((a, b) => {
-    if (sortBy === 'price-asc') return a.product.price - b.product.price || a.index - b.index
-    if (sortBy === 'price-desc') return b.product.price - a.product.price || a.index - b.index
-    if (sortBy === 'best-selling') {
-      const score = (item: typeof a) => (salesByProduct.get(item.product.id) ?? 0) * 100 + (normalize(item.product.badge).includes('ban chay') ? 1 : 0)
-      return score(b) - score(a) || a.index - b.index
-    }
-    return a.index - b.index
-  }).map(item => item.product), [activeProducts, category, search, selectedBrand, selectedLine, sortBy, salesByProduct])
+  const homeGroups = [
+    { key: 'best-selling', eyebrow: 'ĐƯỢC QUAN TÂM NHIỀU', title: 'Sản phẩm bán chạy', description: 'Những cấu hình được khách hàng lựa chọn và quan tâm nhiều nhất.', products: bestSellingProducts.slice(0, 4) },
+    { key: 'newest', eyebrow: 'VỪA CẬP NHẬT', title: 'Sản phẩm mới về', description: 'Các mẫu laptop mới được bổ sung vào danh mục DTPT Shop.', products: activeProducts.slice(0, 4) },
+    { key: 'gaming', eyebrow: 'HIỆU NĂNG MẠNH', title: 'Laptop Gaming', description: 'Laptop hiệu năng cao dành cho chơi game, đồ họa và công việc nặng.', products: activeProducts.filter(product => product.category === 'Gaming').slice(0, 4) },
+    { key: 'office', eyebrow: 'GỌN NHẸ · BỀN BỈ', title: 'Laptop văn phòng', description: 'Các lựa chọn cân bằng cho học tập, làm việc và di chuyển hàng ngày.', products: activeProducts.filter(product => product.category === 'Văn phòng').slice(0, 4) },
+  ]
 
   return <main>
     <section className="hero"><div className="container hero__grid"><div className="hero__copy"><span className="hero__pill"><Sparkles size={15} /> {content.heroBadge}</span><h1>{content.heroTitle}<br /><em>{content.heroHighlight}</em></h1><p>{content.heroDescription}</p><div className="hero__actions"><button className="button button--primary button--large" onClick={() => document.getElementById('products')?.scrollIntoView({ behavior: 'smooth' })}>{content.heroPrimaryAction} <ArrowRight size={18} /></button><a className="button button--light button--large" href={`tel:${settings.phone.replace(/\s/g, '')}`}><Phone size={18} />{settings.phone}</a></div><div className="hero__trust"><span><BadgeCheck />{content.trustQuality}</span><span><ShieldCheck />{content.trustWarranty}</span><span><Truck />{content.trustDelivery}</span></div></div>
@@ -83,14 +52,11 @@ export function Storefront({ search, selectedBrand, selectedLine, onClearCatalog
 
     <section className="service-strip"><div className="container"><div><PackageCheck /><span><strong>{content.service1Title}</strong><small>{content.service1Description}</small></span></div><div><ShieldCheck /><span><strong>{content.service2Title}</strong><small>{content.service2Description}</small></span></div><div><Wrench /><span><strong>{content.service3Title}</strong><small>{content.service3Description}</small></span></div><div><Headphones /><span><strong>{content.service4Title}</strong><small>{content.service4Description}</small></span></div></div></section>
 
-    <section className="products-section" id="products"><div className="container"><div className="section-heading"><div><p className="eyebrow">{content.productsEyebrow}</p><h2>{content.productsTitle}</h2></div><p>{content.productsDescription}</p></div>
-      {hasCatalogFilter && <div className="catalog-filter-chip"><span>Đang xem: <strong>{selectedBrand}{selectedLine ? ` / ${selectedLine}` : ''}</strong></span><button onClick={onClearCatalog}><X size={14} />Xem tất cả</button></div>}
-      <div className="catalog-toolbar">
-        <div className="category-tabs" role="tablist">{categories.map(item => <button key={item} className={category === item ? 'active' : ''} onClick={() => setCategory(item)}>{item}</button>)}</div>
-        <label className="product-sort"><ArrowUpDown size={16} /><span>Sắp xếp</span><select value={sortBy} onChange={event => setSortBy(event.target.value as SortOption)} aria-label="Sắp xếp sản phẩm"><option value="newest">Mới nhất</option><option value="price-asc">Giá thấp đến cao</option><option value="price-desc">Giá cao đến thấp</option><option value="best-selling">Bán chạy nhất</option></select></label>
-      </div>
-      {search.trim() && <div className="search-result-note">Tìm thấy <strong>{filtered.length}</strong> sản phẩm cho “{search.trim()}”</div>}
-      {filtered.length > 0 ? <div className="product-grid">{filtered.map(product => <ProductCard product={product} navigate={navigate} key={product.id} />)}</div> : <div className="no-results"><Laptop size={36} /><h3>Chưa thấy chiếc máy phù hợp</h3><p>Thử từ khóa khác hoặc gọi {settings.phone} để DTPT Shop tìm máy giúp bạn.</p></div>}
+    <section className="home-products" id="products"><div className="container">
+      {homeGroups.map(group => group.products.length > 0 && <section className="home-product-section" key={group.key}>
+        <div className="home-section-heading"><div><p className="eyebrow">{group.eyebrow}</p><h2>{group.title}</h2><p>{group.description}</p></div><button className="home-see-more" onClick={() => navigate(`/laptop?section=${group.key}`)}>Xem thêm <ArrowRight /></button></div>
+        <div className="product-grid">{group.products.map(product => <ProductCard product={product} navigate={navigate} key={product.id} />)}</div>
+      </section>)}
     </div></section>
 
     <section className="why" id="why-us"><div className="container why__grid"><div className="why__aside"><p className="eyebrow">{content.whyEyebrow}</p><h2>{content.whyTitle}</h2><p>{content.whyDescription}</p><a href={`tel:${settings.phone.replace(/\s/g, '')}`}>Trao đổi với kỹ thuật viên <ArrowRight size={17} /></a></div><div className="why__cards"><article><span>01</span><h3>{content.why1Title}</h3><p>{content.why1Description}</p></article><article><span>02</span><h3>{content.why2Title}</h3><p>{content.why2Description}</p></article><article><span>03</span><h3>{content.why3Title}</h3><p>{content.why3Description}</p></article><article><span>04</span><h3>{content.why4Title}</h3><p>{content.why4Description}</p></article></div></div></section>
