@@ -57,13 +57,23 @@ export function AdminPage({ navigate }: { navigate: (path: string) => void }) {
   const [sidebar, setSidebar] = useState(false)
   const [query, setQuery] = useState('')
   const [editing, setEditing] = useState<Product | null | 'new'>(null)
+  const [authError, setAuthError] = useState('')
+
+  useEffect(() => {
+    const handleUnauthorized = () => {
+      setAuthError('Phiên đăng nhập đã hết hạn. Vui lòng đăng nhập lại.')
+      setSession(null)
+    }
+    window.addEventListener('dtpt-admin-unauthorized', handleUnauthorized)
+    return () => window.removeEventListener('dtpt-admin-unauthorized', handleUnauthorized)
+  }, [])
 
   const visibleProducts = products.filter(product => `${product.name} ${product.id} ${product.brand}`.toLowerCase().includes(query.toLowerCase()))
   const revenue = orders.filter(order => order.status !== 'cancelled').reduce((sum, order) => sum + order.total, 0)
   const newOrders = orders.filter(order => order.status === 'new').length
 
   if (!session) {
-    return <AdminLogin navigate={navigate} onLogin={nextSession => { setSession(nextSession); if (api.enabled) window.location.reload() }} />
+    return <AdminLogin navigate={navigate} initialError={authError} onLogin={nextSession => { setAuthError(''); setSession(nextSession); if (api.enabled) window.location.reload() }} />
   }
 
   const go = (next: AdminTab) => { setTab(next); setSidebar(false) }
@@ -117,9 +127,9 @@ export function AdminPage({ navigate }: { navigate: (path: string) => void }) {
   </div>
 }
 
-function AdminLogin({ navigate, onLogin }: { navigate: (path: string) => void; onLogin: (session: AdminSession) => void }) {
+function AdminLogin({ navigate, initialError, onLogin }: { navigate: (path: string) => void; initialError?: string; onLogin: (session: AdminSession) => void }) {
   const [loading, setLoading] = useState(false)
-  const [error, setError] = useState('')
+  const [error, setError] = useState(initialError || '')
 
   const submit = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault()

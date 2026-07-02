@@ -80,6 +80,11 @@ async function request<T>(path: string, options?: RequestInit & { admin?: boolea
     },
   })
   if (!response.ok) {
+    if (response.status === 401 && options?.admin) {
+      saveAdminSession(null)
+      window.dispatchEvent(new CustomEvent('dtpt-admin-unauthorized'))
+      throw new Error('Phiên đăng nhập đã hết hạn. Vui lòng đăng nhập lại.')
+    }
     const body = await response.json().catch(() => null) as { message?: string } | null
     throw new Error(body?.message || `API request failed: ${response.status}`)
   }
