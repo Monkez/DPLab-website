@@ -23,12 +23,20 @@ import {
 
 const app = express()
 const port = Number(process.env.PORT || 10000)
-const allowedOrigins = (process.env.FRONTEND_URL || '').split(',').map(value => value.trim()).filter(Boolean)
+const configuredOrigins = (process.env.FRONTEND_URL || '').split(',').map(value => value.trim().replace(/\/$/, '')).filter(Boolean)
+const allowedOrigins = new Set([
+  ...configuredOrigins,
+  'https://dtpt.shop',
+  'https://www.dtpt.shop',
+  'http://localhost:5173',
+  'http://127.0.0.1:5173',
+])
 const sessionSecret = process.env.ADMIN_SESSION_SECRET || process.env.DATABASE_URL || 'dplab-local-session-secret'
 
 app.use(cors({
   origin(origin, callback) {
-    if (!origin || allowedOrigins.length === 0 || allowedOrigins.includes(origin)) callback(null, true)
+    const normalizedOrigin = origin?.replace(/\/$/, '')
+    if (!normalizedOrigin || allowedOrigins.has(normalizedOrigin)) callback(null, true)
     else callback(new Error(`Origin ${origin} is not allowed by CORS`))
   },
 }))
