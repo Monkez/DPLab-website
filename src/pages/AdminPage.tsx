@@ -364,11 +364,19 @@ const readLogoFile = (file: File) => new Promise<string>((resolve, reject) => {
   reader.readAsDataURL(file)
 })
 
-function SettingsTab({ settings, updateSettings, resetDemo }: { settings: StoreSettings; updateSettings: (value: StoreSettings) => void; resetDemo: () => void }) {
+function SettingsTab({ settings, updateSettings, resetDemo }: { settings: StoreSettings; updateSettings: (value: StoreSettings) => Promise<void>; resetDemo: () => void }) {
   const [saved, setSaved] = useState(false)
+  const [saving, setSaving] = useState(false)
+  const [saveError, setSaveError] = useState('')
   const [previewLogo, setPreviewLogo] = useState(settings.logoStyle)
   const [logoRoundSrc, setLogoRoundSrc] = useState(settings.logoRoundSrc)
   const [logoWideSrc, setLogoWideSrc] = useState(settings.logoWideSrc)
+
+  useEffect(() => {
+    setPreviewLogo(settings.logoStyle)
+    setLogoRoundSrc(settings.logoRoundSrc)
+    setLogoWideSrc(settings.logoWideSrc)
+  }, [settings.logoRoundSrc, settings.logoStyle, settings.logoWideSrc])
 
   const uploadLogo = async (event: ChangeEvent<HTMLInputElement>, target: 'round' | 'wide') => {
     const file = event.target.files?.[0]
@@ -384,30 +392,50 @@ function SettingsTab({ settings, updateSettings, resetDemo }: { settings: StoreS
     else { setLogoWideSrc(src); setPreviewLogo('wide') }
   }
 
-  const submit = (event: FormEvent<HTMLFormElement>) => {
+  const submit = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault()
     const data = new FormData(event.currentTarget)
     const content = { ...settings.content }
     ;(Object.keys(content) as Array<keyof SiteContent>).forEach(key => { content[key] = String(data.get(key) ?? '') })
-    updateSettings({
-      storeName: String(data.get('storeName')),
-      slogan: String(data.get('slogan')),
-      logoStyle: String(data.get('logoStyle')) as StoreSettings['logoStyle'],
-      logoRoundSrc,
-      logoWideSrc,
-      phone: String(data.get('phone')),
-      address: String(data.get('address')),
-      email: String(data.get('email')),
-      facebook: String(data.get('facebook')),
-      content,
-    })
-    setSaved(true)
-    window.setTimeout(() => setSaved(false), 1800)
+    setSaving(true)
+    setSaved(false)
+    setSaveError('')
+    try {
+      await updateSettings({
+        storeName: String(data.get('storeName')),
+        slogan: String(data.get('slogan')),
+        logoStyle: String(data.get('logoStyle')) as StoreSettings['logoStyle'],
+        logoRoundSrc,
+        logoWideSrc,
+        phone: String(data.get('phone')),
+        address: String(data.get('address')),
+        email: String(data.get('email')),
+        facebook: String(data.get('facebook')),
+        content,
+      })
+      setSaved(true)
+      window.setTimeout(() => setSaved(false), 1800)
+    } catch (error) {
+      setSaveError(error instanceof Error ? error.message : 'Không lưu được cài đặt. Vui lòng đăng nhập lại và thử lại.')
+    } finally {
+      setSaving(false)
+    }
   }
+
+  const formKey = [
+    settings.storeName,
+    settings.slogan,
+    settings.logoStyle,
+    settings.phone,
+    settings.address,
+    settings.email,
+    settings.facebook,
+    ...Object.values(settings.content),
+  ].join('|')
 
   return <>
     <PageTitle eyebrow="GIAO DIỆN WEBSITE" title="Nội dung & nhận diện" subtitle="Chỉnh logo và toàn bộ nội dung chính đang hiển thị ngoài cửa hàng." />
-    <form className="settings-form settings-form--cms" onSubmit={submit}>
+    <form key={formKey} className="settings-form settings-form--cms" onSubmit={submit}>
       <section className="admin-panel settings-card">
         <div className="settings-card__heading"><span>01</span><div><h2>Logo và thương hiệu</h2><p>Chọn mẫu logo sử dụng xuyên suốt website và trang quản trị.</p></div></div>
         <div className="settings-card__body">
@@ -484,7 +512,10 @@ function SettingsTab({ settings, updateSettings, resetDemo }: { settings: StoreS
 
       <div className="settings-actions settings-actions--sticky">
         <button type="button" className="button button--light" onClick={() => window.confirm('Khôi phục toàn bộ dữ liệu demo ban đầu?') && resetDemo()}><RefreshCcw />Khôi phục mặc định</button>
-        <div><span>Mọi thay đổi sẽ áp dụng ngay ngoài website.</span><button className={`button button--primary ${saved ? 'button--success' : ''}`}>{saved ? 'Đã lưu thay đổi' : 'Lưu toàn bộ thay đổi'}</button></div>
+        <div>
+          <span>{saveError || (saved ? 'Đã lưu vào database. Website sẽ giữ thay đổi sau khi tải lại.' : 'Mọi thay đổi chỉ được xác nhận sau khi backend lưu thành công.')}</span>
+          <button disabled={saving} className={`button button--primary ${saved ? 'button--success' : ''}`}>{saving ? 'Đang lưu...' : saved ? 'Đã lưu thay đổi' : 'Lưu toàn bộ thay đổi'}</button>
+        </div>
       </div>
     </form>
   </>

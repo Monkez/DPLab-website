@@ -123,7 +123,7 @@ export const api = {
   getAnalyticsEvents: (days: number) => API_URL
     ? request<AnalyticsEvent[]>(`/api/admin/analytics?days=${days}`, { admin: true })
     : Promise.resolve(getLocalAnalyticsEvents(days)),
-  bootstrap: () => request<{ products: Product[]; orders: Order[]; settings: StoreSettings }>('/api/bootstrap', { admin: true }),
+  bootstrap: (options?: { admin?: boolean }) => request<{ products: Product[]; orders: Order[]; settings: StoreSettings }>('/api/bootstrap', options?.admin ? { admin: true } : undefined),
   saveProduct: (product: Product) => request<Product>(`/api/products/${encodeURIComponent(product.id)}`, { method: 'PUT', admin: true, body: JSON.stringify(product) }),
   deleteProduct: (id: string) => request<void>(`/api/products/${encodeURIComponent(id)}`, { method: 'DELETE', admin: true }),
   createOrder: (order: Order) => request<Order>('/api/orders', { method: 'POST', body: JSON.stringify(order) }),

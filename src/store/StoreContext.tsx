@@ -116,7 +116,7 @@ interface StoreContextValue {
   saveProduct: (product: Product) => void
   deleteProduct: (id: string) => void
   updateOrderStatus: (id: string, status: OrderStatus) => void
-  updateSettings: (settings: StoreSettings) => void
+  updateSettings: (settings: StoreSettings) => Promise<void>
   resetDemo: () => void
 }
 
@@ -130,13 +130,16 @@ export function StoreProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     if (!api.enabled) return
-    api.bootstrap()
+    const loadPublicData = (includeAdminData = Boolean(api.getAdminSession())) => api.bootstrap({ admin: includeAdminData })
       .then(data => {
         setProducts(preferImportedCatalog(data.products))
         setOrders(data.orders)
         setSettings(migrateBrandSettings({ ...seedSettings, ...data.settings, content: { ...seedSettings.content, ...data.settings.content } }))
       })
-      .catch(error => console.warn('Không tải được dữ liệu backend, dùng dữ liệu local.', error))
+    loadPublicData().catch(error => {
+      console.warn('Không tải được dữ liệu backend bằng phiên quản trị, thử tải dữ liệu công khai.', error)
+      loadPublicData(false).catch(publicError => console.warn('Không tải được dữ liệu backend, dùng dữ liệu local.', publicError))
+    })
   }, [])
 
   useEffect(() => localStorage.setItem('dplab_products', JSON.stringify(products)), [products])
@@ -179,9 +182,14 @@ export function StoreProvider({ children }: { children: ReactNode }) {
       setOrders(current => current.map(order => order.id === id ? { ...order, status } : order))
       if (api.enabled) api.updateOrderStatus(id, status).catch(error => console.warn('Không cập nhật được đơn hàng trên backend.', error))
     },
-    updateSettings: nextSettings => {
-      setSettings(nextSettings)
-      if (api.enabled) api.updateSettings(nextSettings).catch(error => console.warn('Không lưu được cài đặt lên backend.', error))
+    updateSettings: async nextSettings => {
+      const normalizedSettings = migrateBrandSettings({ ...seedSettings, ...nextSettings, content: { ...seedSettings.content, ...nextSettings.content } })
+      if (!api.enabled) {
+        setSettings(normalizedSettings)
+        return
+      }
+      const savedSettings = await api.updateSettings(normalizedSettings)
+      setSettings(migrateBrandSettings({ ...seedSettings, ...savedSettings, content: { ...seedSettings.content, ...savedSettings.content } }))
     },
     resetDemo: () => {
       setProducts(seedProducts)
