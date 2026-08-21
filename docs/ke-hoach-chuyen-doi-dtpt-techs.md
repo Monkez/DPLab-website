@@ -1,7 +1,7 @@
 # Kế hoạch chuyển đổi website DTPT Techs sang thiết bị công nghiệp
 
-> Trạng thái: Bản nháp 1 để tiếp tục thảo luận và chỉnh sửa  
-> Cập nhật: 21/08/2026  
+> Trạng thái: Bản nháp 1 để tiếp tục thảo luận và chỉnh sửa
+> Cập nhật: 21/08/2026
 > Phạm vi: Định vị thương hiệu, nội dung website, danh mục sản phẩm, khung giá và lộ trình triển khai
 
 ## 1. Các quyết định đã thống nhất
@@ -824,4 +824,3 @@ Danh sách ban đầu, chưa phải quyết định phân phối chính thức:
 - [RIGOL](https://www.rigol.com/zh_CN/products/oscilloscope.html)
 - [Siglent](https://www.siglent.eu/)
 - [Guide Sensmart](https://www.guideir.com/)
-

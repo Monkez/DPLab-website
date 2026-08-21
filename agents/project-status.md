@@ -55,4 +55,3 @@ Các rủi ro bảo mật cần xử lý trước khi website mới vận hành 
 - Khi có quyết định mới về thương hiệu, nội dung, taxonomy hoặc phạm vi, cập nhật ngay tài liệu trong `docs/` và file trạng thái này.
 - Tài liệu trong `docs/` viết cho người dùng và đội dự án.
 - Tài liệu trong `agents/` phải ngắn gọn, tập trung vào quyết định, trạng thái và ràng buộc cần nhớ.
-
