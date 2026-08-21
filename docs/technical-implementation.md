@@ -12,7 +12,11 @@ Sản phẩm không còn các trường đặc thù laptop. Mỗi thiết bị c
 
 Nhánh `Panel PC & HMI` nằm trong `Máy tính công nghiệp`. Với model có nhiều cấu hình, giá công khai phải gắn với cấu hình tiêu chuẩn và `priceNote` phải nêu rõ những trường cần xác nhận trong báo giá.
 
-Nhánh Advantech ADAM nằm trong `DAQ & Remote I/O`, tách theo RS-485 Remote I/O, Ethernet Remote I/O và hệ module nhiều khe. Với ADAM-5000/TCP, giá chassis/controller không bao gồm module I/O lắp trong khe và phải ghi rõ trên trang chi tiết. Backend seed hiện đồng bộ qua phiên bản catalogue `dtpt-industrial-v4-adam-remote-io`.
+Nhánh Advantech ADAM nằm trong `DAQ & Remote I/O`, tách theo RS-485 Remote I/O, Ethernet Remote I/O và hệ module nhiều khe. Với ADAM-5000/TCP, giá chassis/controller không bao gồm module I/O lắp trong khe và phải ghi rõ trên trang chi tiết. Backend seed hiện đồng bộ qua phiên bản catalogue `dtpt-industrial-v5-88-products`.
+
+Catalogue phiên bản v5 có 88 sản phẩm, phân bổ đồng đều 11 model cho mỗi ngành hàng cấp một. 18 sản phẩm lõi tiếp tục nằm trong `src/data/verifiedProducts.ts`; 70 sản phẩm mở rộng nằm trong `src/data/catalogExpansion.js` và được dùng chung trực tiếp bởi frontend lẫn backend để tránh sai lệch dữ liệu. File `src/data/catalogExpansion.d.ts` cung cấp kiểu dữ liệu cho bước kiểm tra TypeScript.
+
+Ảnh sản phẩm mở rộng được lưu cục bộ trong `public/products`. Các model cùng series có thể dùng ảnh đại diện chính thức của series khi hình dáng vỏ máy không khác biệt; nguồn ảnh luôn được giữ trong metadata nội bộ.
 
 Mega-menu desktop dùng một vùng hover nối giữa nút `Lĩnh vực` và bảng menu, đồng thời giữ trạng thái đóng trễ ngắn để người dùng có thể di chuột chéo xuống mục con. Trạng thái `focus-within` hỗ trợ điều hướng bằng bàn phím.
 

@@ -46,7 +46,24 @@ Hệ số hiện dùng là `1,3915`. Trong đó:
 
 ## Nguồn thông số và hình ảnh
 
-Mỗi bản ghi trong `src/data/verifiedProducts.ts` lưu trang hãng, datasheet, nguồn ảnh và nguồn giá nội bộ. Trang chi tiết chỉ hiển thị link hãng/datasheet và nguồn ảnh; không hiển thị giá mua hoặc công thức lợi nhuận. Backend giữ bản mirror để khi kết nối API không trả lại catalogue mẫu cũ.
+Mỗi bản ghi trong `src/data/verifiedProducts.ts` hoặc `src/data/catalogExpansion.js` lưu trang hãng, datasheet, nguồn ảnh và nguồn giá nội bộ. Trang chi tiết chỉ hiển thị link hãng/datasheet và nguồn ảnh; không hiển thị giá mua hoặc công thức lợi nhuận. Backend dùng chung dữ liệu mở rộng để khi kết nối API không trả lại catalogue mẫu cũ.
+
+## Catalogue v5 — 88 sản phẩm
+
+Ngày cập nhật: 21/08/2026.
+
+| Ngành hàng | Số model | Nhóm model mở rộng | Nguồn giá chính |
+|---|---:|---|---|
+| Máy tính công nghiệp | 11 | Seeed reComputer/reServer Industrial | Seeed Studio |
+| Machine Vision | 11 | Hikrobot MV-CS GigE/USB3, 1,3–12 MP | Hikrobot và tham chiếu cùng series |
+| Cảm biến & đo lường | 11 | Benewake, Livox, SLAMTEC, SICK, Autonics | Seeed, DJI/Livox, hãng và EMIN |
+| Giám sát tình trạng máy | 11 | HIKMICRO và Guide MobIR | EMIN Việt Nam |
+| DAQ & Remote I/O | 11 | Advantech ADAM-4000/6000 | Advantech eStore |
+| Industrial IoT & mạng | 11 | PUSR router, serial server, LoRa gateway | PUSR China Store |
+| Thiết bị đo điện tử | 11 | RIGOL và SIGLENT | EMIN Việt Nam |
+| Tự động hóa & điều khiển | 11 | Delta DVP, DOP và ASDA-B3 | Hợp Long Việt Nam |
+
+Giá công khai chưa VAT tại Việt Nam được cộng VAT trước khi hiển thị và làm tròn hợp lý. Sản phẩm chưa có giá công khai tại Việt Nam dùng giá hãng/nhà bán quốc tế, cộng tỷ giá, thuế và chi phí nhập khẩu, sau đó áp dụng biên lợi nhuận mục tiêu 10–20%. Riêng camera Hikrobot theo series dùng ngân sách so sánh dựa trên cảm biến, độ phân giải, tốc độ và giao tiếp; cần xác nhận lại báo giá nhà cung cấp trước khi gửi báo giá thương mại.
 
 Ảnh hiện được lưu cục bộ trong `public/products` từ trang hãng hoặc nhà phân phối để giao diện tải ổn định. Trước khi dùng cho quảng cáo trả phí, brochure in ấn hoặc sàn thương mại điện tử, cần xin media kit/quyền sử dụng trực tiếp.
 

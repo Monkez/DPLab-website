@@ -1,4 +1,5 @@
 import type { Product } from "../types";
+import { expandedProducts } from "./catalogExpansion.js";
 
 const updated = "21/08/2026";
 const priceNote =
@@ -18,7 +19,7 @@ const base = (product: ProductInput): Product => ({
   priceNote: product.priceNote ?? priceNote,
 });
 
-export const verifiedProducts: Product[] = [
+const coreProducts: Product[] = [
   base({
     id: "IPC-101",
     slug: "seeed-recomputer-industrial-j4012",
@@ -852,3 +853,5 @@ export const verifiedProducts: Product[] = [
     priceSourceValue: "1.699 USD",
   }),
 ];
+
+export const verifiedProducts: Product[] = [...coreProducts, ...expandedProducts];

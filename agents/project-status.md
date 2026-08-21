@@ -11,9 +11,10 @@
 
 ## Trạng thái triển khai
 
-- Đã thay taxonomy laptop bằng 8 ngành hàng công nghiệp. Catalogue công khai hiện có 18 model đã đối chiếu thay cho 36 sản phẩm mẫu; mỗi model có ảnh thật, thông số, link hãng/datasheet và nguồn giá.
+- Đã thay taxonomy laptop bằng 8 ngành hàng công nghiệp. Catalogue v5 hiện có 88 model, đúng 11 sản phẩm cho từng ngành hàng; mỗi model có ảnh thực tế/ảnh series, thông số và nguồn giá nội bộ.
 - Đã bổ sung nhánh `Panel PC & HMI` với QY-P8156, BE-PX09 và Axiomtek GOT315A-ELK-WCD ở ba mức cấu hình/độ bền.
-- Đã bổ sung Advantech ADAM-4017+, ADAM-5000/TCP và ADAM-6050; backend seed chuyển sang `dtpt-industrial-v4-adam-remote-io`.
+- Đã mở rộng Advantech ADAM-4000/6000, Seeed edge AI, Hikrobot machine vision, LiDAR Trung Quốc, camera nhiệt, PUSR, RIGOL/SIGLENT và Delta Automation; backend seed chuyển sang `dtpt-industrial-v5-88-products`.
+- 70 model mở rộng dùng chung dữ liệu frontend/backend tại `src/data/catalogExpansion.js`; tổng số ID và slug đã được kiểm tra duy nhất.
 - Mega-menu `Lĩnh vực` có vùng hover nối và thời gian đóng trễ để con trỏ đi từ nút xuống bảng menu không bị mất trạng thái.
 - Đã thay giao diện trang chủ, catalogue, chi tiết, RFQ và admin.
 - Backend dùng bảng `quotes`, sinh ID phía server, kiểm tra product ID/số lượng và không còn credential mặc định hard-code.

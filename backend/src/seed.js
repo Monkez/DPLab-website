@@ -1,3 +1,5 @@
+import { expandedProducts } from "../../src/data/catalogExpansion.js";
+
 const updated = "21/08/2026";
 const note =
   "Giá bán đã gồm VAT, áp dụng cho cấu hình tiêu chuẩn; báo giá chính thức sẽ xác nhận lại tình trạng hàng, phụ kiện và thời gian giao.";
@@ -18,7 +20,7 @@ const s = (model, brand, rows) => [
   ...rows,
 ];
 
-export const seedProducts = [
+const coreSeedProducts = [
   p({
     id: "IPC-101",
     slug: "seeed-recomputer-industrial-j4012",
@@ -553,6 +555,8 @@ export const seedProducts = [
     priceSourceValue: "1.699 USD",
   }),
 ];
+
+export const seedProducts = [...coreSeedProducts, ...expandedProducts];
 
 export const seedQuotes = [];
 export const seedSettings = {
