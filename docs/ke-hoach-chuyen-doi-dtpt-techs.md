@@ -394,6 +394,16 @@ Hướng mở rộng tiếp theo là các kích thước 10,1–12,1 inch cho t�
 | Remote Digital I/O | 3–15 triệu | 6 |
 | CAN/CAN-FD Interface | 7–40 triệu | 5 |
 
+#### Danh mục Advantech ADAM khởi đầu đã chọn
+
+| Nhóm | Model | Giá bán gồm VAT | Ứng dụng chính |
+|---|---|---:|---|
+| Analog Remote I/O RS-485 | ADAM-4017+-F | 12.600.000 ₫ | Thu 8 kênh mV/V/4–20 mA qua Modbus RTU |
+| Hệ Remote I/O module | ADAM-5000/TCP-CE | 18.000.000 ₫ | Chassis/controller 8 khe, tối đa 128 điểm qua Modbus TCP |
+| Digital Remote I/O Ethernet | ADAM-6050-D1 | 9.350.000 ₫ | 12 DI + 6 DO, Modbus TCP/MQTT cho giám sát máy |
+
+Các model mở rộng nên ưu tiên tiếp theo: ADAM-4015/4018+ cho RTD và thermocouple, ADAM-6017 cho analog input Ethernet, ADAM-6060/6066 cho relay output và các module ADAM-5000 theo loại tín hiệu.
+
 ### 6.6. Industrial IoT và mạng công nghiệp
 
 | Nhóm sản phẩm | Khoảng giá dự kiến | Số lượng trang giai đoạn đầu |

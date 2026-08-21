@@ -34,6 +34,9 @@ Hệ số hiện dùng là `1,3915`. Trong đó:
 | HIKMICRO B20S | 11.883.000 ₫ | Theo EMIN Việt Nam: 11.883.456 ₫ đã gồm VAT |
 | Smacq USB-3310 | 17.900.000 ₫ | Chưa thấy giá VN; tính từ giá hãng 485,44 USD |
 | Smacq USB-3313 | 34.300.000 ₫ | Chưa thấy giá VN; tính từ giá hãng 929,44 USD |
+| Advantech ADAM-4017+-F | 12.600.000 ₫ | Chưa thấy giá mới công khai tại VN; tính từ giá Mouser 340,20 USD |
+| Advantech ADAM-5000/TCP-CE | 18.000.000 ₫ | Chưa thấy giá đúng bản 8 khe tại VN; tính từ giá hãng 487 USD; chưa gồm module I/O lắp khe |
+| Advantech ADAM-6050-D1 | 9.350.000 ₫ | Giá thị trường VN 8.500.000 ₫ chưa VAT, cộng VAT dự phòng 10% |
 | PUSR USR-M300 | 6.000.000 ₫ | Có nhà phân phối VN nhưng giá liên hệ; tính từ PUSR China 1.099 CNY |
 | PUSR USR-G806w | 2.200.000 ₫ | Có nhà cung cấp VN nhưng không công khai giá; tính từ PUSR China 398 CNY |
 | 3onedata IES618-2F | 11.880.000 ₫ | Giá thị trường VN 10.800.000 ₫, cộng VAT dự phòng 10% |

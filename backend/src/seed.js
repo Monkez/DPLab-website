@@ -297,6 +297,108 @@ export const seedProducts = [
     }),
   ),
   p({
+    id: "DAQ-103",
+    slug: "advantech-adam-4017-plus-8ai-modbus",
+    name: "Module analog input Advantech ADAM-4017+",
+    model: "ADAM-4017+-F",
+    brand: "Advantech",
+    origin: "Đài Loan",
+    category: "DAQ & Remote I/O",
+    subcategory: "RS-485 Remote I/O",
+    price: 12600000,
+    badge: "8 AI · 16-bit",
+    summary:
+      "Module thu thập 8 kênh analog qua RS-485, hỗ trợ điện áp, dòng 4–20 mA và Modbus RTU cho cảm biến tại hiện trường.",
+    highlights: [
+      "8 kênh analog input, độ phân giải 16-bit",
+      "Dải đo mV, V, 0/4–20 mA",
+      "Cách ly 3.000 VDC, Modbus RTU",
+    ],
+    specifications: s("ADAM-4017+-F", "Advantech", [
+      { label: "Analog input", value: "8 kênh differential, 16-bit" },
+      { label: "Giao tiếp", value: "RS-485; Modbus RTU / ASCII" },
+      { label: "Nguồn", value: "10–30 VDC" },
+    ]),
+    images: ["/products/advantech-adam-4017-plus.jpg"],
+    manufacturerUrl:
+      "https://www.advantech.com/vi-vn/products/gf-5vtd/adam-4017/mod_10fd9e9c-8e8a-42f2-b749-a395f8426262",
+    datasheetUrl:
+      "https://advdownload.advantech.com/productfile/PIS/ADAM-4017+/file/ADAM-4017_4018_4019_DS(092223)20230928142137.pdf",
+    priceSourceLabel: "Mouser",
+    priceSourceUrl:
+      "https://www.mouser.vn/vi/ProductDetail/Advantech/ADAM-4017%2B-F?qs=MyNHzdoqoQLsdis6B%252BVk6g%3D%3D",
+    priceSourceValue: "340,20 USD",
+  }),
+  p({
+    id: "DAQ-104",
+    slug: "advantech-adam-5000-tcp-8-slot",
+    name: "Hệ Remote I/O 8 khe Advantech ADAM-5000/TCP",
+    model: "ADAM-5000/TCP-CE",
+    brand: "Advantech",
+    origin: "Đài Loan",
+    category: "DAQ & Remote I/O",
+    subcategory: "Modular Remote I/O",
+    price: 18000000,
+    badge: "8 khe I/O",
+    summary:
+      "Bộ điều khiển Remote I/O dạng module 8 khe, kết nối Ethernet Modbus TCP và mở rộng tới 128 điểm.",
+    highlights: [
+      "8 khe module I/O, tối đa 128 điểm",
+      "2 Ethernet 10/100, Modbus TCP",
+      "2 RS-485, 1 RS-232; nguồn 10–30 VDC",
+    ],
+    specifications: s("ADAM-5000/TCP-CE", "Advantech", [
+      { label: "Số khe I/O", value: "8 khe, tối đa 128 điểm" },
+      { label: "Ethernet", value: "2 × 10/100 Mbps" },
+      { label: "Nguồn", value: "10–30 VDC" },
+    ]),
+    images: ["/products/advantech-adam-5000-tcp.jpg"],
+    manufacturerUrl:
+      "https://www.advantech.com/vi-vn/products/38d14508-c3eb-43f8-ab8f-a0dd5f2f7708/adam-5000-tcp/mod_7d8ea69c-0ac7-4ff6-a27e-ed2af71ed7e6",
+    datasheetUrl:
+      "https://advdownload.advantech.com/productfile/PIS/ADAM-5000%5B2F%5DTCP/Product%20-%20Datasheet/DS_ADAM-5000TCP_EN20150716094042.pdf",
+    priceSourceLabel: "Advantech eStore",
+    priceSourceUrl:
+      "https://buy.advantech.com/I-O-Devices-Communication/Programmable-Controllers-PACS-ADAM-Controllers/model-ADAM-5000/TCP-CE.htm?country=United+States",
+    priceSourceValue: "487 USD",
+    priceNote:
+      "Giá bán đã gồm VAT cho bộ điều khiển/chassis 8 khe; các module I/O lắp trong từng khe được cấu hình và báo giá riêng.",
+  }),
+  p({
+    id: "DAQ-105",
+    slug: "advantech-adam-6050-ethernet-digital-io",
+    name: "Module Digital I/O Ethernet Advantech ADAM-6050",
+    model: "ADAM-6050-D1",
+    brand: "Advantech",
+    origin: "Đài Loan",
+    category: "DAQ & Remote I/O",
+    subcategory: "Ethernet Remote I/O",
+    price: 9350000,
+    featured: true,
+    badge: "12 DI · 6 DO",
+    summary:
+      "Module I/O số cách ly 18 kênh dùng Ethernet, hỗ trợ Modbus TCP, MQTT và điều khiển peer-to-peer.",
+    highlights: [
+      "12 digital input và 6 digital output",
+      "Modbus TCP, MQTT, SNMP và HTTP",
+      "Cách ly 2.000 VDC, -40 đến 70 °C",
+    ],
+    specifications: s("ADAM-6050-D1", "Advantech", [
+      { label: "Digital I/O", value: "12 DI + 6 DO sink" },
+      { label: "Giao thức", value: "Modbus TCP, MQTT, SNMP, HTTP" },
+      { label: "Nguồn", value: "10–30 VDC" },
+    ]),
+    images: ["/products/advantech-adam-6050.png"],
+    manufacturerUrl:
+      "https://www.advantech.com/vi-vn/products/a67f7853-013a-4b50-9b20-01798c56b090/adam-6050/mod_b009c4b4-4b7c-4736-b16f-241978245e6a",
+    datasheetUrl:
+      "https://advdownload.advantech.com/productfile/PIS/ADAM-6050/file/ADAM-60_62_63_DS(030926)20260310135433.pdf",
+    priceSourceLabel: "Thiên Trường PC Việt Nam",
+    priceSourceUrl:
+      "https://thientruongpc.vn/bo-chuyen-doi-tin-hieu-adam-6050-12di-6do-iot-modbus-snmp-mqtt-ethernet-remote-i-o-advantech-converter",
+    priceSourceValue: "8.500.000 ₫ chưa VAT",
+  }),
+  p({
     id: "IOT-101",
     slug: "pusr-usr-m300",
     name: "Gateway Edge IoT công nghiệp PUSR",

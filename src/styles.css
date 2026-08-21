@@ -107,8 +107,9 @@ a {
 }
 .mega-menu {
   position: absolute;
-  top: 35px;
+  top: calc(100% + 10px);
   left: -160px;
+  z-index: 20;
   width: 720px;
   padding: 14px;
   display: grid;
@@ -119,14 +120,25 @@ a {
   box-shadow: 0 20px 50px #0b315526;
   border-radius: 10px;
   opacity: 0;
-  pointer-events: none;
+  visibility: hidden;
   transform: translateY(8px);
-  transition: 0.2s;
+  transition:
+    opacity 0.16s ease 0.12s,
+    transform 0.16s ease 0.12s,
+    visibility 0s linear 0.28s;
 }
-.nav__dropdown:hover .mega-menu {
+.mega-menu::before {
+  content: "";
+  position: absolute;
+  inset: -12px 0 auto;
+  height: 12px;
+}
+.nav__dropdown:hover .mega-menu,
+.nav__dropdown:focus-within .mega-menu {
   opacity: 1;
-  pointer-events: auto;
+  visibility: visible;
   transform: none;
+  transition-delay: 0s;
 }
 .mega-menu button {
   text-align: left;

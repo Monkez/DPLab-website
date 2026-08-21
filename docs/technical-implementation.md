@@ -10,7 +10,11 @@
 
 Sản phẩm không còn các trường đặc thù laptop. Mỗi thiết bị có ngành hàng, phân nhóm, model, thương hiệu, xuất xứ, chế độ giá, thời gian cung cấp, bảo hành, highlights, ứng dụng và bảng thông số mở rộng. Catalogue xác minh còn lưu ảnh thực tế, trang hãng, datasheet, nguồn giá, giá gốc, ngày cập nhật và ghi chú cách hình thành ngân sách tham khảo. Quy ước nguồn dữ liệu nằm tại `docs/catalog-data-sources.md`.
 
-Nhánh `Panel PC & HMI` nằm trong `Máy tính công nghiệp`. Với model có nhiều cấu hình, giá công khai phải gắn với cấu hình tiêu chuẩn và `priceNote` phải nêu rõ những trường cần xác nhận trong báo giá. Backend seed được đồng bộ qua phiên bản catalogue `dtpt-industrial-v3-panel-pc`.
+Nhánh `Panel PC & HMI` nằm trong `Máy tính công nghiệp`. Với model có nhiều cấu hình, giá công khai phải gắn với cấu hình tiêu chuẩn và `priceNote` phải nêu rõ những trường cần xác nhận trong báo giá.
+
+Nhánh Advantech ADAM nằm trong `DAQ & Remote I/O`, tách theo RS-485 Remote I/O, Ethernet Remote I/O và hệ module nhiều khe. Với ADAM-5000/TCP, giá chassis/controller không bao gồm module I/O lắp trong khe và phải ghi rõ trên trang chi tiết. Backend seed hiện đồng bộ qua phiên bản catalogue `dtpt-industrial-v4-adam-remote-io`.
+
+Mega-menu desktop dùng một vùng hover nối giữa nút `Lĩnh vực` và bảng menu, đồng thời giữ trạng thái đóng trễ ngắn để người dùng có thể di chuột chéo xuống mục con. Trạng thái `focus-within` hỗ trợ điều hướng bằng bàn phím.
 
 ## An toàn dữ liệu RFQ
 
