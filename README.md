@@ -1,85 +1,28 @@
-# DTPT Shop Website
+# DTPT Techs Industrial Website
 
-Website bán laptop cho **DTPT Shop** với frontend Vite React và backend Express/PostgreSQL.
+Website catalogue B2B cho **DTPT Techs**, tập trung vào thiết bị công nghiệp, đo lường, machine vision, tự động hóa và thiết bị nghiên cứu. Frontend dùng Vite + React + TypeScript; backend dùng Express + PostgreSQL.
 
-## Chạy local
+## Chạy nhanh trên Windows
 
-Frontend:
+- `setup.bat`: cài dependency frontend và backend, tạo file môi trường mẫu nếu chưa có.
+- `run.bat`: chạy đồng thời frontend và backend trong một cửa sổ.
+- `build.bat`: lint, build frontend và kiểm tra cú pháp backend.
 
-```bash
-npm install
-npm run dev
-```
+Backend cần `DATABASE_URL`, `ADMIN_SESSION_SECRET`, `ADMIN_DEFAULT_USERNAME` và `ADMIN_DEFAULT_PASSWORD` trong `backend/.env`. Frontend vẫn chạy được với catalogue tích hợp sẵn nếu chưa cấu hình `VITE_API_URL`.
 
-Backend:
+## Luồng nghiệp vụ
 
-```bash
-cd backend
-npm install
-copy .env.example .env
-npm run dev
-```
-
-Cần điền `DATABASE_URL` trong `backend/.env`. Khi frontend có `VITE_API_URL`, app sẽ dùng backend; nếu không có, app tự fallback sang dữ liệu localStorage.
-
-## Deploy frontend
-
-### Vercel
-
-- Framework: `Vite`
-- Build Command: `npm run build`
-- Output Directory: `dist`
-- Environment Variable:
-  - `VITE_API_URL=https://<render-backend-url>`
-
-### Render Static Site
-
-- Root Directory: để trống
-- Build Command: `npm install && npm run build`
-- Publish Directory: `dist`
-- Environment Variable:
-  - `VITE_API_URL=https://<render-backend-url>`
-
-## Deploy backend trên Render
-
-Cách nhanh nhất:
-
-1. Vào Render → `New` → `Blueprint`
-2. Chọn repo `Monkez/DPLab-website`
-3. Render đọc file `render.yaml` và tạo:
-   - Web Service: `dplab-backend`
-   - PostgreSQL: `dplab-postgres`
-4. Sau khi frontend deploy xong, vào backend service → Environment → set:
-   - `FRONTEND_URL=https://<frontend-url>`
-5. Redeploy backend.
-
-Cách tạo thủ công:
-
-- New → PostgreSQL → tạo database.
-- New → Web Service → chọn repo.
-- Root Directory: `backend`
-- Build Command: `npm install`
-- Start Command: `npm start`
-- Environment Variables:
-  - `DATABASE_URL=<Render PostgreSQL internal connection string>`
-  - `FRONTEND_URL=https://<frontend-url>`
+Khách duyệt catalogue → thêm thiết bị vào danh sách → gửi yêu cầu kỹ thuật/báo giá. Backend tự sinh mã RFQ, kiểm tra sản phẩm và số lượng; quản trị viên theo dõi trạng thái tại `/admin`.
 
 ## API chính
 
-- `GET /api/health`
-- `GET /api/bootstrap`
-- `GET /api/products`
-- `POST /api/products`
-- `PUT /api/products/:id`
-- `DELETE /api/products/:id`
-- `GET /api/orders`
-- `POST /api/orders`
-- `PATCH /api/orders/:id/status`
-- `GET /api/settings`
-- `PUT /api/settings`
-- `POST /api/reset-demo`
+- `GET /api/health`, `GET /api/bootstrap`, `GET /api/products`
+- `POST /api/quotes`
+- Admin: quản lý sản phẩm, yêu cầu báo giá, cài đặt và người dùng
 
-## Lưu ý
+## Deploy
 
-- Backend hiện chưa có đăng nhập admin. Trước khi vận hành thật nên thêm auth/JWT hoặc ít nhất bảo vệ các API admin.
-- Logo upload đang lưu dạng data URL trong PostgreSQL, phù hợp logo nhỏ. Nếu sau này upload nhiều ảnh sản phẩm, nên chuyển sang Cloudinary/S3/Supabase Storage.
+- Frontend: Vercel, build `npm run build`, output `dist`, đặt `VITE_API_URL` tới backend.
+- Backend: Render Blueprint qua `render.yaml`; nhập username/password admin ở Environment trước lần khởi tạo đầu tiên.
+
+Chi tiết kiến trúc và quy trình nằm trong [docs/technical-implementation.md](docs/technical-implementation.md).

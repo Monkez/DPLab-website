@@ -1,48 +1,11 @@
-import { Check, Plus, ShoppingCart } from 'lucide-react'
-import { useState } from 'react'
-import { useStore } from '../store/StoreContext'
+import { ArrowUpRight, FilePlus2 } from 'lucide-react'
 import type { Product } from '../types'
-import { productPath } from '../utils/productSeo'
+import { formatPrice } from '../utils/productFormat'
 import { ProductArt } from './ProductArt'
 
-const money = (value: number) => `${new Intl.NumberFormat('vi-VN').format(value)}₫`
-
-export function ProductCard({ product, navigate }: { product: Product; navigate?: (path: string) => void }) {
-  const { addToCart } = useStore()
-  const [added, setAdded] = useState(false)
-  const specs = [product.cpu, product.ram, product.storage, product.display]
-  const meta = [product.brand, product.line, product.category].filter(Boolean).join(' · ')
-  const conditionClass = product.condition === 'Mới' ? 'new' : product.condition === 'Like new' ? 'like-new' : 'used'
-
-  const openDetail = () => navigate?.(productPath(product))
-  const handleAdd = () => {
-    addToCart(product.id)
-    setAdded(true)
-    window.setTimeout(() => setAdded(false), 1200)
-  }
-
-  return (
-    <article className="product-card">
-      <div className="product-card__badges">
-        {product.condition && <span className={`condition-badge condition-badge--${conditionClass}`}>{product.condition}</span>}
-        {product.badge && <span className="product-card__badge">{product.badge}</span>}
-      </div>
-      <button className="product-card__media" onClick={openDetail} aria-label={`Xem chi tiết ${product.name}`}><ProductArt product={product} /></button>
-      <div className="product-card__body">
-        <p className="eyebrow">{meta}</p>
-        <button className="product-card__title" onClick={openDetail}><h3>{product.name}</h3></button>
-        <ul className="spec-list">{specs.map((spec, index) => <li key={`${index}-${spec}`}><Check size={13} />{spec}</li>)}</ul>
-        <div className="price-row">
-          <div><strong>{money(product.price)}</strong>{product.originalPrice && <del>{money(product.originalPrice)}</del>}</div>
-          <span className={product.stock > 0 ? 'stock' : 'stock stock--empty'}>{product.stock > 0 ? `Còn ${product.stock}` : 'Hết hàng'}</span>
-        </div>
-        <div className="product-card__actions">
-          <a className="button button--ghost button--icon" href="tel:0906094313" aria-label="Liên hệ mua hàng"><ShoppingCart size={17} /></a>
-          <button className={`button button--primary button--grow ${added ? 'button--success' : ''}`} onClick={handleAdd} disabled={product.stock === 0}>
-            {added ? <><Check size={17} />Đã thêm</> : <><Plus size={17} />Thêm vào giỏ</>}
-          </button>
-        </div>
-      </div>
-    </article>
-  )
+export function ProductCard({ product, navigate, add }: { product: Product; navigate: (path: string) => void; add: (id: string) => void }) {
+  return <article className="product-card">
+    <button className="product-card__visual" onClick={() => navigate(`/san-pham/${product.slug}`)} aria-label={`Xem ${product.name}`}><ProductArt product={product} />{product.badge && <span className="badge">{product.badge}</span>}</button>
+    <div className="product-card__body"><div className="product-card__meta"><span>{product.category}</span><span>{product.origin}</span></div><button className="product-card__title" onClick={() => navigate(`/san-pham/${product.slug}`)}>{product.name}</button><p className="model">{product.model}</p><p>{product.summary}</p><div className="product-card__footer"><div><small>Giá tham khảo</small><strong>{formatPrice(product)}</strong></div><div className="card-actions"><button className="icon-button" onClick={() => navigate(`/san-pham/${product.slug}`)} aria-label="Xem chi tiết"><ArrowUpRight /></button><button className="primary-button primary-button--compact" onClick={() => add(product.id)}><FilePlus2 /> Thêm yêu cầu</button></div></div></div>
+  </article>
 }

@@ -1,10 +1,10 @@
 {
-  "name": "dplab-backend",
+  "name": "dtpt-techs-api",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "build": "node -e \"console.log('No build step required for DP Lab backend')\"",
+    "build": "node -e \"console.log('DTPT Techs API: no compile step required')\"",
     "start": "node src/server.js",
     "dev": "node --watch src/server.js"
   },

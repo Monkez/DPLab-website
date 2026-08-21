@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: dplab-backend
+    name: dtpt-techs-api
     runtime: node
     rootDir: backend
     buildCommand: npm install
@@ -8,11 +8,19 @@ services:
     envVars:
       - key: DATABASE_URL
         fromDatabase:
-          name: dplab-postgres
+          name: dtpt-techs-postgres
           property: connectionString
       - key: FRONTEND_URL
         sync: false
+      - key: ADMIN_SESSION_SECRET
+        generateValue: true
+      - key: ADMIN_DEFAULT_USERNAME
+        sync: false
+      - key: ADMIN_DEFAULT_PASSWORD
+        sync: false
+      - key: ADMIN_DEFAULT_DISPLAY_NAME
+        value: DTPT Admin
 
 databases:
-  - name: dplab-postgres
+  - name: dtpt-techs-postgres
     plan: free

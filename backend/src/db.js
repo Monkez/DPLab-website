@@ -1,6 +1,6 @@
 import pg from 'pg'
 import crypto from 'crypto'
-import { seedOrders, seedProducts, seedSettings } from './seed.js'
+import { seedProducts, seedQuotes, seedSettings } from './seed.js'
 
 const { Pool } = pg
 
@@ -14,8 +14,7 @@ export async function query(text, params) {
 }
 
 export async function initDatabase() {
-  const catalogVersion = 'trieubom-237-v6-dtpt-shop'
-  const brandVersion = 'dtpt-shop-v1'
+  const catalogVersion = 'dtpt-industrial-v1'
   await query(`
     CREATE TABLE IF NOT EXISTS products (
       id TEXT PRIMARY KEY,
@@ -25,7 +24,7 @@ export async function initDatabase() {
     );
   `)
   await query(`
-    CREATE TABLE IF NOT EXISTS orders (
+    CREATE TABLE IF NOT EXISTS quotes (
       id TEXT PRIMARY KEY,
       data JSONB NOT NULL,
       created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
@@ -63,7 +62,7 @@ export async function initDatabase() {
     CREATE INDEX IF NOT EXISTS analytics_events_session_id_idx ON analytics_events (session_id);
   `)
 
-  await query(`DELETE FROM products WHERE id LIKE 'DEV-%'`)
+  await query(`DELETE FROM products WHERE data->>'slug' IS NULL`)
 
   const importedCatalogVersion = await query('SELECT data FROM settings WHERE id = $1', ['catalog_version'])
   if (importedCatalogVersion.rows[0]?.data?.version !== catalogVersion) {
@@ -82,11 +81,9 @@ export async function initDatabase() {
     }
   }
 
-  const orderCount = await query('SELECT COUNT(*)::int AS count FROM orders')
-  if (orderCount.rows[0].count === 0) {
-    for (const order of seedOrders) {
-      await saveOrder(order)
-    }
+  const quoteCount = await query('SELECT COUNT(*)::int AS count FROM quotes')
+  if (quoteCount.rows[0].count === 0) {
+    for (const quote of seedQuotes) await saveQuote(quote)
   }
 
   const settingsCount = await query("SELECT COUNT(*)::int AS count FROM settings WHERE id = 'main'")
@@ -94,38 +91,19 @@ export async function initDatabase() {
     await saveSettings(seedSettings)
   }
 
-  const storedBrandVersion = await query('SELECT data FROM settings WHERE id = $1', ['brand_version'])
-  if (storedBrandVersion.rows[0]?.data?.version !== brandVersion) {
-    const storedSettings = await query('SELECT data FROM settings WHERE id = $1', ['main'])
-    await saveSettings(migrateBrandSettings(storedSettings.rows[0]?.data ?? seedSettings))
-    await query(
-      `INSERT INTO settings (id, data, updated_at) VALUES ($1, $2, NOW())
-       ON CONFLICT (id) DO UPDATE SET data = EXCLUDED.data, updated_at = NOW()`,
-      ['brand_version', { version: brandVersion }],
-    )
-  }
+  const currentSettings = await getSettings()
+  if (currentSettings.storeName !== 'DTPT Techs') await saveSettings(seedSettings)
 
   const adminCount = await query('SELECT COUNT(*)::int AS count FROM admin_users')
   if (adminCount.rows[0].count === 0) {
+    if (!process.env.ADMIN_DEFAULT_USERNAME || !process.env.ADMIN_DEFAULT_PASSWORD) {
+      throw new Error('ADMIN_DEFAULT_USERNAME and ADMIN_DEFAULT_PASSWORD are required for the first deployment')
+    }
     await createAdminUser({
-      username: process.env.ADMIN_DEFAULT_USERNAME || 'delai',
-      password: process.env.ADMIN_DEFAULT_PASSWORD || '1711@pie',
-      displayName: process.env.ADMIN_DEFAULT_DISPLAY_NAME || 'Tiến Đệ',
+      username: process.env.ADMIN_DEFAULT_USERNAME,
+      password: process.env.ADMIN_DEFAULT_PASSWORD,
+      displayName: process.env.ADMIN_DEFAULT_DISPLAY_NAME || 'DTPT Admin',
     })
-  }
-}
-
-function migrateBrandSettings(settings) {
-  const content = Object.fromEntries(Object.entries(settings.content ?? {}).map(([key, value]) => [
-    key,
-    typeof value === 'string' ? value.replaceAll('DP LAB', 'DTPT SHOP').replaceAll('DP Lab', 'DTPT Shop') : value,
-  ]))
-  return {
-    ...settings,
-    storeName: 'DTPT Shop',
-    email: settings.email === 'hello@dplab.vn' ? 'hello@dtpt.shop' : settings.email,
-    facebook: settings.facebook === 'facebook.com/dplab.vn' ? 'facebook.com/dtpt.shop' : settings.facebook,
-    content,
   }
 }
 
@@ -203,27 +181,27 @@ export async function deleteProduct(id) {
   await query('DELETE FROM products WHERE id = $1', [id])
 }
 
-export async function listOrders() {
-  const result = await query('SELECT data FROM orders ORDER BY created_at DESC')
+export async function listQuotes() {
+  const result = await query('SELECT data FROM quotes ORDER BY created_at DESC')
   return result.rows.map(row => row.data)
 }
 
-export async function saveOrder(order) {
+export async function saveQuote(quote) {
   await query(
-    `INSERT INTO orders (id, data, created_at, updated_at)
+    `INSERT INTO quotes (id, data, created_at, updated_at)
      VALUES ($1, $2, COALESCE($3::timestamptz, NOW()), NOW())
      ON CONFLICT (id) DO UPDATE SET data = EXCLUDED.data, updated_at = NOW()`,
-    [order.id, order, order.createdAt],
+    [quote.id, quote, quote.createdAt],
   )
-  return order
+  return quote
 }
 
-export async function updateOrderStatus(id, status) {
-  const existing = await query('SELECT data FROM orders WHERE id = $1', [id])
+export async function updateQuoteStatus(id, status) {
+  const existing = await query('SELECT data FROM quotes WHERE id = $1', [id])
   if (existing.rowCount === 0) return null
-  const order = { ...existing.rows[0].data, status }
-  await saveOrder(order)
-  return order
+  const quote = { ...existing.rows[0].data, status }
+  await saveQuote(quote)
+  return quote
 }
 
 export async function getSettings() {
@@ -242,11 +220,11 @@ export async function saveSettings(settings) {
 }
 
 export async function resetDemoData() {
-  await query('TRUNCATE products, orders, settings')
+  await query('TRUNCATE products, quotes, settings')
   for (const product of seedProducts) await saveProduct(product)
-  for (const order of seedOrders) await saveOrder(order)
+  for (const quote of seedQuotes) await saveQuote(quote)
   await saveSettings(seedSettings)
-  return { products: seedProducts, orders: seedOrders, settings: seedSettings }
+  return { products: seedProducts, quotes: seedQuotes, settings: seedSettings }
 }
 
 export async function recordAnalyticsEvent(event) {

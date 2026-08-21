@@ -11,14 +11,14 @@ import {
   initDatabase,
   listAdminUsers,
   listAnalyticsEvents,
-  listOrders,
+  listQuotes,
   listProducts,
   resetDemoData,
-  saveOrder,
+  saveQuote,
   saveProduct,
   saveSettings,
   recordAnalyticsEvent,
-  updateOrderStatus,
+  updateQuoteStatus,
 } from './db.js'
 
 const app = express()
@@ -26,12 +26,13 @@ const port = Number(process.env.PORT || 10000)
 const configuredOrigins = (process.env.FRONTEND_URL || '').split(',').map(value => value.trim().replace(/\/$/, '')).filter(Boolean)
 const allowedOrigins = new Set([
   ...configuredOrigins,
-  'https://dtpt.shop',
-  'https://www.dtpt.shop',
+  'https://dtpt.tech',
+  'https://www.dtpt.tech',
   'http://localhost:5173',
   'http://127.0.0.1:5173',
 ])
-const sessionSecret = process.env.ADMIN_SESSION_SECRET || process.env.DATABASE_URL || 'dplab-local-session-secret'
+const sessionSecret = process.env.ADMIN_SESSION_SECRET
+if (!sessionSecret) throw new Error('ADMIN_SESSION_SECRET is required')
 
 app.use(cors({
   origin(origin, callback) {
@@ -78,13 +79,13 @@ function requireAdmin(req, res, next) {
 }
 
 app.get('/api/health', (_req, res) => {
-  res.json({ ok: true, service: 'dplab-backend' })
+  res.json({ ok: true, service: 'dtpt-industrial-api' })
 })
 
 app.get('/api/bootstrap', asyncRoute(async (_req, res) => {
   const admin = getAdminFromRequest(_req)
-  const [products, orders, settings] = await Promise.all([listProducts(), listOrders(), getSettings()])
-  res.json({ products, orders: admin ? orders : [], settings })
+  const [products, quotes, settings] = await Promise.all([listProducts(), listQuotes(), getSettings()])
+  res.json({ products, quotes: admin ? quotes : [], settings })
 }))
 
 app.post('/api/admin/login', asyncRoute(async (req, res) => {
@@ -140,20 +141,27 @@ app.delete('/api/products/:id', requireAdmin, asyncRoute(async (req, res) => {
   res.status(204).end()
 }))
 
-app.get('/api/orders', requireAdmin, asyncRoute(async (_req, res) => {
-  res.json(await listOrders())
+app.get('/api/quotes', requireAdmin, asyncRoute(async (_req, res) => {
+  res.json(await listQuotes())
 }))
 
-app.post('/api/orders', asyncRoute(async (req, res) => {
-  const order = req.body
-  if (!order?.id) return res.status(400).json({ message: 'Order id is required' })
-  res.status(201).json(await saveOrder(order))
+app.post('/api/quotes', asyncRoute(async (req, res) => {
+  const customer = req.body?.customer
+  const items = Array.isArray(req.body?.items) ? req.body.items : []
+  if (!customer?.name?.trim() || !customer?.company?.trim() || !customer?.phone?.trim() || !customer?.email?.trim()) return res.status(400).json({ message: 'Vui lòng điền đủ thông tin liên hệ' })
+  if (!items.length || items.length > 50) return res.status(400).json({ message: 'Danh sách sản phẩm không hợp lệ' })
+  const products = await listProducts()
+  const validIds = new Set(products.filter(product => product.status === 'active').map(product => product.id))
+  if (items.some(item => !validIds.has(item.productId) || !Number.isInteger(item.quantity) || item.quantity < 1 || item.quantity > 999)) return res.status(400).json({ message: 'Sản phẩm hoặc số lượng không hợp lệ' })
+  const quote = { id: `RFQ-${new Date().toISOString().slice(2, 10).replaceAll('-', '')}-${crypto.randomInt(1000, 9999)}`, createdAt: new Date().toISOString(), customer: { name: customer.name.trim().slice(0, 100), company: customer.company.trim().slice(0, 160), phone: customer.phone.trim().slice(0, 30), email: customer.email.trim().slice(0, 160), note: String(customer.note || '').trim().slice(0, 4000) }, items: items.map(item => ({ productId: item.productId, quantity: item.quantity, requirement: String(item.requirement || '').slice(0, 1000) })), status: 'new' }
+  res.status(201).json(await saveQuote(quote))
 }))
 
-app.patch('/api/orders/:id/status', requireAdmin, asyncRoute(async (req, res) => {
-  const order = await updateOrderStatus(req.params.id, req.body.status)
-  if (!order) return res.status(404).json({ message: 'Order not found' })
-  res.json(order)
+app.patch('/api/quotes/:id/status', requireAdmin, asyncRoute(async (req, res) => {
+  if (!['new', 'reviewing', 'quoted', 'won', 'closed'].includes(req.body.status)) return res.status(400).json({ message: 'Invalid quote status' })
+  const quote = await updateQuoteStatus(req.params.id, req.body.status)
+  if (!quote) return res.status(404).json({ message: 'Quote not found' })
+  res.json(quote)
 }))
 
 app.get('/api/settings', asyncRoute(async (_req, res) => {
@@ -180,5 +188,5 @@ if (!process.env.DATABASE_URL) {
 
 await initDatabase()
 app.listen(port, () => {
-  console.log(`DTPT Shop backend is running on port ${port}`)
+  console.log(`DTPT Techs industrial API is running on port ${port}`)
 })

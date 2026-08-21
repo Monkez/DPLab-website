@@ -1,67 +1,58 @@
-export type ProductStatus = 'active' | 'draft' | 'out-of-stock'
-export type OrderStatus = 'new' | 'confirmed' | 'shipping' | 'completed' | 'cancelled'
-export type ProductCategory = 'Văn phòng' | 'Đồ họa' | 'Gaming' | 'Mỏng nhẹ'
-export type ProductCondition = 'Mới' | 'Like new' | 'Đã qua sử dụng'
+export type ProductStatus = 'active' | 'draft'
+export type QuoteStatus = 'new' | 'reviewing' | 'quoted' | 'won' | 'closed'
+export type PriceMode = 'fixed' | 'from' | 'range' | 'contact'
 
-export interface ProductSpecification {
-  label: string
-  value: string
-}
+export interface ProductSpecification { label: string; value: string }
 
 export interface Product {
   id: string
+  slug: string
   name: string
+  model: string
   brand: string
-  line?: string
-  category: ProductCategory
-  cpu: string
-  ram: string
-  storage: string
-  display: string
-  gpu: string
-  price: number
-  originalPrice?: number
-  stock: number
+  origin: string
+  category: string
+  subcategory: string
+  price?: number
+  priceMax?: number
+  priceMode: PriceMode
+  leadTime: string
+  warranty: string
   status: ProductStatus
-  condition?: ProductCondition
   badge?: string
+  featured?: boolean
   accent: string
-  salesSummary?: string
-  detailTitle?: string
-  detailArticle?: string
-  detailImages?: string[]
-  specifications?: ProductSpecification[]
+  summary: string
+  highlights: string[]
+  applications: string[]
+  specifications: ProductSpecification[]
+  images?: string[]
+  datasheetUrl?: string
   videoUrl?: string
   seoTitle?: string
   seoDescription?: string
 }
 
-export interface CartItem { productId: string; quantity: number }
+export interface QuoteItem { productId: string; quantity: number; requirement?: string }
 
 export interface CustomerInfo {
   name: string
+  company: string
   phone: string
-  address: string
+  email: string
   note: string
 }
 
-export interface Order {
+export interface QuoteRequest {
   id: string
   createdAt: string
   customer: CustomerInfo
-  items: CartItem[]
-  total: number
-  status: OrderStatus
+  items: QuoteItem[]
+  status: QuoteStatus
 }
 
-export interface AdminUser {
-  username: string
-  displayName: string
-  createdAt?: string
-}
-
+export interface AdminUser { username: string; displayName: string; createdAt?: string }
 export type AnalyticsDevice = 'desktop' | 'tablet' | 'mobile'
-
 export interface AnalyticsEvent {
   eventId: string
   visitorId: string
@@ -91,6 +82,7 @@ export interface SiteContent {
   announcementPrimary: string
   announcementSecondary: string
   navProducts: string
+  navSolutions: string
   navWhy: string
   navContact: string
   heroBadge: string
@@ -98,9 +90,10 @@ export interface SiteContent {
   heroHighlight: string
   heroDescription: string
   heroPrimaryAction: string
+  heroSecondaryAction: string
   trustQuality: string
-  trustWarranty: string
-  trustDelivery: string
+  trustPrice: string
+  trustSupport: string
   service1Title: string
   service1Description: string
   service2Title: string
