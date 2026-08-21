@@ -14,7 +14,9 @@
 - Đã thay taxonomy laptop bằng 8 ngành hàng công nghiệp và 36 sản phẩm mẫu.
 - Đã thay giao diện trang chủ, catalogue, chi tiết, RFQ và admin.
 - Backend dùng bảng `quotes`, sinh ID phía server, kiểm tra product ID/số lượng và không còn credential mặc định hard-code.
-- Frontend build và lint đã đạt ngày 21/08/2026; còn kiểm thử trình duyệt và deploy production.
+- Frontend build, lint và QA trình duyệt desktop/mobile đã đạt ngày 21/08/2026.
+- Production frontend: `https://dtpt-techs-industrial.vercel.app`.
+- Backend cần được provision PostgreSQL/biến môi trường trên Render và nối qua `VITE_API_URL` để RFQ lưu tập trung; khi chưa nối, frontend dùng catalogue và trạng thái local.
 
 ## File cần đọc
 
