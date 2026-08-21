@@ -324,6 +324,16 @@ Giải pháp
 | Panel PC 19–21,5 inch | 24–55 triệu | 5 |
 | Industrial Monitor | 10–35 triệu | 6 |
 
+#### Danh mục Panel PC khởi đầu đã chọn
+
+| Phân khúc | Model đại diện | Giá bán gồm VAT | Vai trò trong catalogue |
+|---|---|---:|---|
+| HMI phổ thông, cấu hình linh hoạt | QY-P8156 15,6 inch | 17.900.000 ₫ | J6412/Core i3/i5, nhiều LAN/COM, phù hợp SCADA và trạm vận hành |
+| Hiệu năng CPU cao | BE-PX09 15,6 inch | 19.950.000 ₫ | Core i5-1235U, 6 COM và Dual LAN tới 2.5GbE cho phần mềm giám sát nặng hơn |
+| Công nghiệp hóa cao | Axiomtek GOT315A-ELK-WCD | 48.500.000 ₫ | IP65 mặt trước, nguồn 9–36 VDC và tài liệu hãng đầy đủ |
+
+Hướng mở rộng tiếp theo là các kích thước 10,1–12,1 inch cho tủ máy nhỏ và 18,5–21,5 inch cho dashboard/MES. Ưu tiên model Trung Quốc có datasheet, chứng nhận và mã cấu hình rõ ràng; giữ một số lựa chọn Đài Loan, Mỹ hoặc châu Âu làm phân khúc tham chiếu cao hơn.
+
 ### 6.2. Machine Vision
 
 | Nhóm sản phẩm | Khoảng giá dự kiến | Số lượng trang giai đoạn đầu |

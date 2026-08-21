@@ -26,6 +26,9 @@ Hệ số hiện dùng là `1,3915`. Trong đó:
 | Model | Giá bán gồm VAT | Cơ sở |
 |---|---:|---|
 | Seeed reComputer Industrial J4012 | 71.500.000 ₫ | Chưa có đúng model industrial tại VN; tính landed cost từ DigiKey 1.933,75 USD |
+| QY-P8156 | 17.900.000 ₫ | Theo mặt bằng Panel PC 15 inch tại Việt Nam từ 17.500.000 ₫; giá cấu hình J6412 tiêu chuẩn |
+| BE-PX09 | 19.950.000 ₫ | Theo giá công khai của Optori Việt Nam cho cấu hình Core i5-1235U |
+| Axiomtek GOT315A-ELK-WCD | 48.500.000 ₫ | Chưa thấy giá công khai tại VN; tính từ nguồn Mỹ 1.315 USD theo hệ số landed cost 1,3915 |
 | Hikrobot MV-CS050-10GM | 17.800.000 ₫ | Có nhà cung cấp tại VN nhưng không công khai giá; tính từ nguồn 481,16 USD |
 | Daheng MER2-041-302GM-P | 12.900.000 ₫ | Chưa thấy giá VN; tính từ mức 350 USD |
 | HIKMICRO B20S | 11.883.000 ₫ | Theo EMIN Việt Nam: 11.883.456 ₫ đã gồm VAT |
@@ -42,7 +45,11 @@ Hệ số hiện dùng là `1,3915`. Trong đó:
 
 Mỗi bản ghi trong `src/data/verifiedProducts.ts` lưu trang hãng, datasheet, nguồn ảnh và nguồn giá nội bộ. Trang chi tiết chỉ hiển thị link hãng/datasheet và nguồn ảnh; không hiển thị giá mua hoặc công thức lợi nhuận. Backend giữ bản mirror để khi kết nối API không trả lại catalogue mẫu cũ.
 
-Ảnh hiện được nhúng từ website hãng hoặc nhà phân phối. Trước khi dùng cho quảng cáo trả phí, brochure in ấn hoặc sàn thương mại điện tử, cần xin media kit/quyền sử dụng trực tiếp. Nếu nguồn ảnh chặn hotlink, cần đưa ảnh đã được cấp quyền vào `public/products`.
+Ảnh hiện được lưu cục bộ trong `public/products` từ trang hãng hoặc nhà phân phối để giao diện tải ổn định. Trước khi dùng cho quảng cáo trả phí, brochure in ấn hoặc sàn thương mại điện tử, cần xin media kit/quyền sử dụng trực tiếp.
+
+### Lưu ý riêng cho QY-P8156
+
+Trang tham khảo của QY-P8156 mô tả nhiều tùy chọn CPU và cho biết dữ liệu kỹ thuật được tổng hợp theo dòng P8000/QY-P8150. Vì vậy website chỉ công bố các đặc điểm chung có thể đối chiếu; RAM, SSD, hệ điều hành và CPU cuối cùng phải được xác nhận theo mã cấu hình trong báo giá.
 
 ## Quy trình cập nhật
 

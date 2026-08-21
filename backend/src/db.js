@@ -14,7 +14,7 @@ export async function query(text, params) {
 }
 
 export async function initDatabase() {
-  const catalogVersion = 'dtpt-industrial-v2-verified'
+  const catalogVersion = 'dtpt-industrial-v3-panel-pc'
   await query(`
     CREATE TABLE IF NOT EXISTS products (
       id TEXT PRIMARY KEY,

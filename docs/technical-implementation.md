@@ -10,6 +10,8 @@
 
 Sản phẩm không còn các trường đặc thù laptop. Mỗi thiết bị có ngành hàng, phân nhóm, model, thương hiệu, xuất xứ, chế độ giá, thời gian cung cấp, bảo hành, highlights, ứng dụng và bảng thông số mở rộng. Catalogue xác minh còn lưu ảnh thực tế, trang hãng, datasheet, nguồn giá, giá gốc, ngày cập nhật và ghi chú cách hình thành ngân sách tham khảo. Quy ước nguồn dữ liệu nằm tại `docs/catalog-data-sources.md`.
 
+Nhánh `Panel PC & HMI` nằm trong `Máy tính công nghiệp`. Với model có nhiều cấu hình, giá công khai phải gắn với cấu hình tiêu chuẩn và `priceNote` phải nêu rõ những trường cần xác nhận trong báo giá. Backend seed được đồng bộ qua phiên bản catalogue `dtpt-industrial-v3-panel-pc`.
+
 ## An toàn dữ liệu RFQ
 
 - Client chỉ gửi thông tin liên hệ và danh sách `{productId, quantity, requirement}`.

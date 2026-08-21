@@ -11,7 +11,8 @@
 
 ## Trạng thái triển khai
 
-- Đã thay taxonomy laptop bằng 8 ngành hàng công nghiệp. Catalogue công khai hiện có 12 model đã đối chiếu thay cho 36 sản phẩm mẫu; mỗi model có ảnh thật, thông số, link hãng/datasheet và nguồn giá.
+- Đã thay taxonomy laptop bằng 8 ngành hàng công nghiệp. Catalogue công khai hiện có 15 model đã đối chiếu thay cho 36 sản phẩm mẫu; mỗi model có ảnh thật, thông số, link hãng/datasheet và nguồn giá.
+- Đã bổ sung nhánh `Panel PC & HMI` với QY-P8156, BE-PX09 và Axiomtek GOT315A-ELK-WCD ở ba mức cấu hình/độ bền; backend seed dùng phiên bản `dtpt-industrial-v3-panel-pc`.
 - Đã thay giao diện trang chủ, catalogue, chi tiết, RFQ và admin.
 - Backend dùng bảng `quotes`, sinh ID phía server, kiểm tra product ID/số lượng và không còn credential mặc định hard-code.
 - Frontend build, lint và QA trình duyệt desktop/mobile đã đạt ngày 21/08/2026.

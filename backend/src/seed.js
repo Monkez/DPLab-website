@@ -53,6 +53,112 @@ export const seedProducts = [
     priceSourceValue: "1.933,75 USD",
   }),
   p({
+    id: "IPC-102",
+    slug: "qy-p8156-panel-pc-hmi-15-6-inch",
+    name: "Panel PC HMI cảm ứng QY-P8156 15,6 inch",
+    model: "QY-P8156",
+    brand: "QY",
+    origin: "Trung Quốc",
+    category: "Máy tính công nghiệp",
+    subcategory: "Panel PC & HMI",
+    price: 17900000,
+    featured: true,
+    badge: "15,6 inch Full HD",
+    summary:
+      "Máy tính công nghiệp liền màn hình cảm ứng điện dung, thiết kế không quạt cho HMI, SCADA và trạm vận hành tại nhà máy.",
+    highlights: [
+      "Màn hình 15,6 inch Full HD, cảm ứng điện dung đa điểm",
+      "Tùy chọn Intel J6412 hoặc Core i3/i5, RAM DDR4 và SSD M.2",
+      "2 LAN, 4 USB, 2 cổng RS-232/485; nguồn 12–24 VDC",
+    ],
+    applications: ["Giao diện HMI và SCADA", "Trạm vận hành dây chuyền"],
+    specifications: s("QY-P8156", "QY", [
+      { label: "Màn hình", value: "15,6 inch, Full HD 1920 × 1080, PCAP" },
+      { label: "Bộ xử lý", value: "Tùy chọn Intel J6412 / Core i3 / Core i5" },
+      { label: "Kết nối", value: "2 × LAN, 4 × USB, 2 × RS-232/485" },
+      { label: "Nguồn", value: "12–24 VDC" },
+    ]),
+    images: ["/products/qy-p8156.png"],
+    manufacturerUrl:
+      "https://store.optori.com/product/may-tinh-cong-nghiep-man-hinh-cam-ung-touch-panel-hmi-qy-p8156-15-6-inch/",
+    priceSourceLabel: "Mặt bằng Panel PC tại Việt Nam",
+    priceSourceUrl:
+      "https://store.optori.com/gia-man-hinh-cam-ung-hmi-2026-bang-gia-tham-khao-moi/",
+    priceSourceValue: "Dòng 15 inch từ 17.500.000 ₫",
+    priceNote:
+      "Giá bán đã gồm VAT cho cấu hình tiêu chuẩn dùng Intel J6412; RAM, SSD và hệ điều hành được xác nhận trong báo giá.",
+  }),
+  p({
+    id: "IPC-103",
+    slug: "be-px09-panel-pc-i5-1235u-15-6-inch",
+    name: "Panel PC cảm ứng BE-PX09 Core i5 15,6 inch",
+    model: "BE-PX09",
+    brand: "BE",
+    origin: "Trung Quốc",
+    category: "Máy tính công nghiệp",
+    subcategory: "Panel PC & HMI",
+    price: 19950000,
+    featured: true,
+    badge: "Core i5-1235U",
+    summary:
+      "Panel PC không quạt hiệu năng cao với Intel Core i5 thế hệ 12, màn hình Full HD và nhiều cổng COM cho máy móc công nghiệp.",
+    highlights: [
+      "Intel Core i5-1235U, 10 nhân 12 luồng, tối đa 4,4 GHz",
+      "Màn hình 15,6 inch Full HD, cảm ứng đa điểm",
+      "6 cổng COM, Dual LAN tới 2.5GbE và SSD NVMe",
+    ],
+    applications: ["Điều khiển và giám sát máy", "MES/SCADA tại xưởng"],
+    specifications: s("BE-PX09", "BE", [
+      { label: "Màn hình", value: "15,6 inch, Full HD 1920 × 1080" },
+      { label: "Bộ xử lý", value: "Intel Core i5-1235U" },
+      { label: "Kết nối", value: "6 × COM, LAN 1GbE + 2.5GbE, USB 3.0" },
+      { label: "Thiết kế", value: "Vỏ nhôm không quạt" },
+    ]),
+    images: ["/products/be-px09.png"],
+    manufacturerUrl:
+      "https://store.optori.com/product/man-hinh-cam-ung-hmi-touch-panel-pc-be-px09-15-6-inch/",
+    priceSourceLabel: "Optori Việt Nam",
+    priceSourceUrl:
+      "https://store.optori.com/product/man-hinh-cam-ung-hmi-touch-panel-pc-be-px09-15-6-inch/",
+    priceSourceValue: "19.950.000 ₫",
+  }),
+  p({
+    id: "IPC-104",
+    slug: "axiomtek-got315a-elk-wcd-panel-pc",
+    name: "Panel PC công nghiệp IP65 Axiomtek GOT315A-ELK-WCD",
+    model: "GOT315A-ELK-WCD",
+    brand: "Axiomtek",
+    origin: "Đài Loan",
+    category: "Máy tính công nghiệp",
+    subcategory: "Panel PC & HMI",
+    price: 48500000,
+    featured: false,
+    badge: "IP65 mặt trước",
+    summary:
+      "Panel PC 15,6 inch dùng Intel J6412, mặt trước IP65 và nguồn dải rộng, phù hợp môi trường nhà máy cần độ bền và khả năng tích hợp cao.",
+    highlights: [
+      "Mặt trước chuẩn IP65, cảm ứng điện dung và độ sáng 400 nit",
+      "Intel Celeron J6412; hỗ trợ DDR4 tới 32 GB",
+      "Nguồn 9–36 VDC, 2.5GbE và nhiều cổng nối tiếp",
+    ],
+    applications: ["Tủ điều khiển công nghiệp", "HMI trong môi trường bụi ẩm"],
+    specifications: s("GOT315A-ELK-WCD", "Axiomtek", [
+      { label: "Màn hình", value: "15,6 inch WXGA, 400 nit, IP65 mặt trước" },
+      { label: "Bộ xử lý", value: "Intel Celeron J6412" },
+      { label: "Mạng", value: "1 × 2.5GbE và 1 × Gigabit Ethernet" },
+      { label: "Nguồn", value: "9–36 VDC" },
+    ]),
+    images: ["/products/axiomtek-got315a-elk-wcd.jpeg"],
+    manufacturerUrl:
+      "https://www.axiomtek.com/Default.aspx?MenuId=Products&FunctionId=ProductView&ItemId=27349",
+    datasheetUrl:
+      "https://www.axiomtek.com/download/spec/en-us/got315a-elk-wcd.pdf",
+    priceSourceLabel: "Industrial PC Pro",
+    priceSourceUrl:
+      "https://www.industrialpcpro.com/got315a-elk-wcd-156-rugged-fanless-touch-panel-pc",
+    priceSourceValue: "1.315 USD",
+  }),
+  p({
     id: "VIS-101",
     slug: "hikrobot-mv-cs050-10gm",
     name: "Camera công nghiệp GigE 5 MP Hikrobot",
