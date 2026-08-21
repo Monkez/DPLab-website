@@ -11,21 +11,23 @@
 
 ## Trạng thái triển khai
 
-- Đã thay taxonomy laptop bằng 8 ngành hàng công nghiệp và 36 sản phẩm mẫu.
+- Đã thay taxonomy laptop bằng 8 ngành hàng công nghiệp. Catalogue công khai hiện có 12 model đã đối chiếu thay cho 36 sản phẩm mẫu; mỗi model có ảnh thật, thông số, link hãng/datasheet và nguồn giá.
 - Đã thay giao diện trang chủ, catalogue, chi tiết, RFQ và admin.
 - Backend dùng bảng `quotes`, sinh ID phía server, kiểm tra product ID/số lượng và không còn credential mặc định hard-code.
 - Frontend build, lint và QA trình duyệt desktop/mobile đã đạt ngày 21/08/2026.
 - Production frontend: `https://dtpt-techs-industrial.vercel.app`.
+- Giá trên giao diện là giá bán tại Việt Nam đã gồm VAT; không hiển thị giá gốc hay công thức lợi nhuận. Giá nội bộ ưu tiên thị trường VN, nếu chưa có thì dùng landed cost + lợi nhuận 15% + VAT dự phòng. Chi tiết nằm tại `docs/catalog-data-sources.md`.
 - Backend cần được provision PostgreSQL/biến môi trường trên Render và nối qua `VITE_API_URL` để RFQ lưu tập trung; khi chưa nối, frontend dùng catalogue và trạng thái local.
 
 ## File cần đọc
 
 - `docs/ke-hoach-chuyen-doi-dtpt-techs.md`
 - `docs/technical-implementation.md`
+- `docs/catalog-data-sources.md`
 - `README.md`
 
 ## Việc nên làm tiếp
 
-- Thay minh họa category bằng ảnh sản phẩm chính hãng có quyền sử dụng.
-- Xác nhận giá, VAT, bảo hành và lead time trước khi coi catalogue là dữ liệu thương mại chính thức.
+- Xin media kit/quyền sử dụng ảnh trực tiếp từ hãng hoặc nhà phân phối trước khi chạy quảng cáo/brochure.
+- Xác nhận giá, VAT, bảo hành và lead time trong từng báo giá; giá website chỉ là ngân sách tham khảo.
 - Bổ sung email thông báo RFQ và CRM ở giai đoạn sau.

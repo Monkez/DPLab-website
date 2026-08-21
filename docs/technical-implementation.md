@@ -8,7 +8,7 @@
 
 ## Mô hình sản phẩm
 
-Sản phẩm không còn các trường đặc thù laptop. Mỗi thiết bị có ngành hàng, phân nhóm, model, thương hiệu, xuất xứ, chế độ giá, thời gian cung cấp, bảo hành, highlights, ứng dụng và bảng thông số mở rộng.
+Sản phẩm không còn các trường đặc thù laptop. Mỗi thiết bị có ngành hàng, phân nhóm, model, thương hiệu, xuất xứ, chế độ giá, thời gian cung cấp, bảo hành, highlights, ứng dụng và bảng thông số mở rộng. Catalogue xác minh còn lưu ảnh thực tế, trang hãng, datasheet, nguồn giá, giá gốc, ngày cập nhật và ghi chú cách hình thành ngân sách tham khảo. Quy ước nguồn dữ liệu nằm tại `docs/catalog-data-sources.md`.
 
 ## An toàn dữ liệu RFQ
 

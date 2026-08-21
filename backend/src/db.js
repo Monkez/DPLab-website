@@ -14,7 +14,7 @@ export async function query(text, params) {
 }
 
 export async function initDatabase() {
-  const catalogVersion = 'dtpt-industrial-v1'
+  const catalogVersion = 'dtpt-industrial-v2-verified'
   await query(`
     CREATE TABLE IF NOT EXISTS products (
       id TEXT PRIMARY KEY,
@@ -66,6 +66,7 @@ export async function initDatabase() {
 
   const importedCatalogVersion = await query('SELECT data FROM settings WHERE id = $1', ['catalog_version'])
   if (importedCatalogVersion.rows[0]?.data?.version !== catalogVersion) {
+    await query('DELETE FROM products')
     for (const product of seedProducts) {
       await saveProduct(product)
     }
