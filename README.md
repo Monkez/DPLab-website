@@ -2,7 +2,7 @@
 
 Website catalogue B2B cho **DTPT Techs**, tập trung vào thiết bị công nghiệp, đo lường, machine vision, tự động hóa và thiết bị nghiên cứu. Frontend dùng Vite + React + TypeScript; backend dùng Express + PostgreSQL.
 
-Production: [dtpt-techs-industrial.vercel.app](https://dtpt-techs-industrial.vercel.app)
+Production: [www.dtpt.shop](https://www.dtpt.shop) · Backend: [dplab-website.onrender.com](https://dplab-website.onrender.com/api/health)
 
 ## Chạy nhanh trên Windows
 

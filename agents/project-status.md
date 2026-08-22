@@ -21,10 +21,11 @@
 - Frontend build, lint và QA trình duyệt desktop/mobile đã đạt ngày 21/08/2026.
 - Production frontend: `https://dtpt-techs-industrial.vercel.app`.
 - Giá trên giao diện là giá bán tại Việt Nam đã gồm VAT; không hiển thị giá gốc hay công thức lợi nhuận. Giá nội bộ ưu tiên thị trường VN, nếu chưa có thì dùng landed cost + lợi nhuận 15% + VAT dự phòng. Chi tiết nằm tại `docs/catalog-data-sources.md`.
-- Backend cần được provision PostgreSQL/biến môi trường trên Render và nối qua `VITE_API_URL` để RFQ lưu tập trung; khi chưa nối, frontend dùng catalogue và trạng thái local.
+- Backend Render tại `https://dplab-website.onrender.com` đã hoạt động lại ngày 22/08/2026; `/api/bootstrap` trả đủ 88 sản phẩm, 8 ngành hàng và settings CMS mở rộng.
 - Admin đã được nâng thành CMS chuyên sâu: CRUD/ẩn hiện sản phẩm, tag, giá, thông số, ảnh, SEO; quản lý ngành hàng/phân nhóm; sửa logo, slogan, liên hệ và toàn bộ nội dung chính; chỉnh màu, kiểu thẻ và công tắc hiển thị từng khu vực.
 - Taxonomy storefront lấy từ `settings.categories`. Settings cũ được merge sâu với mặc định ở cả frontend và backend, không cần migration JSONB.
 - Backend đã thêm validation tối thiểu cho product/settings và allow-list CORS cho `dtpt.shop` / `www.dtpt.shop`.
+- CMS mới đã deploy production trên `https://www.dtpt.shop/admin` từ commit `2152993`; frontend và backend đều đã qua health/bootstrap check.
 
 ## File cần đọc
 
