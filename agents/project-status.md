@@ -26,6 +26,7 @@
 - Taxonomy storefront lấy từ `settings.categories`. Settings cũ được merge sâu với mặc định ở cả frontend và backend, không cần migration JSONB.
 - Backend đã thêm validation tối thiểu cho product/settings và allow-list CORS cho `dtpt.shop` / `www.dtpt.shop`.
 - CMS mới đã deploy production trên `https://www.dtpt.shop/admin` từ commit `2152993`; frontend và backend đều đã qua health/bootstrap check.
+- Tab `Thương hiệu` hỗ trợ chọn favicon riêng cho tab trình duyệt, độc lập với logo header/footer.
 
 ## File cần đọc
 

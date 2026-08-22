@@ -120,6 +120,7 @@ export interface StoreSettings {
   logoStyle: "round" | "wide";
   logoRoundSrc: string;
   logoWideSrc: string;
+  faviconSrc: string;
   phone: string;
   address: string;
   email: string;

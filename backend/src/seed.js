@@ -565,6 +565,7 @@ export const seedSettings = {
   logoStyle: "wide",
   logoRoundSrc: "/dp-lab-logo.png",
   logoWideSrc: "/dtpt-techs-logo.png",
+  faviconSrc: "/dp-lab-logo.png",
   phone: "0906 094 313",
   address: "Tầng 5, V11-B09, KĐT mới An Hưng, P. La Khê, Hà Đông, Hà Nội",
   email: "hello@dtpt.tech",

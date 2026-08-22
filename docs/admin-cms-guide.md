@@ -21,9 +21,10 @@ Sản phẩm ở trạng thái `draft` không xuất hiện trên website và kh
 
 ## Thương hiệu và nội dung
 
-- Tab `Thương hiệu` quản lý tên, slogan, logo ngang/tròn, điện thoại, email, Facebook và địa chỉ.
+- Tab `Thương hiệu` quản lý tên, slogan, logo ngang/tròn, icon tab trình duyệt (favicon), điện thoại, email, Facebook và địa chỉ.
 - Tab `Nội dung` quản lý thanh thông báo, menu, hero, sản phẩm nổi bật, năng lực, liên hệ và chân trang.
 - Logo production nên dùng file tối ưu trong thư mục `public`; URL ngoài chỉ nên dùng khi nguồn ảnh ổn định và cho phép hotlink.
+- Favicon nên là ảnh vuông PNG, SVG hoặc ICO; kích thước nguồn khuyến nghị từ 64 × 64 px trở lên.
 
 ## Giao diện và hiển thị
 
@@ -37,4 +38,3 @@ Sản phẩm ở trạng thái `draft` không xuất hiện trên website và kh
 2. Chọn `Xem website`, kiểm tra desktop và mobile.
 3. Với sản phẩm mới, nên để `draft` cho đến khi ảnh, giá và thông số đã được đối chiếu.
 4. Không xóa sản phẩm đã xuất hiện trong RFQ cũ nếu vẫn cần tra cứu lịch sử.
-
