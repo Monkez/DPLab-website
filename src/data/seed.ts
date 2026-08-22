@@ -1,4 +1,5 @@
 import type { QuoteRequest, StoreSettings } from "../types";
+import { industrialCategories } from "./industrialTaxonomy";
 export { verifiedProducts as seedProducts } from "./verifiedProducts";
 
 export const seedQuotes: QuoteRequest[] = [];
@@ -13,6 +14,17 @@ export const seedSettings: StoreSettings = {
   address: "Tầng 5, V11-B09, KĐT mới An Hưng, P. La Khê, Hà Đông, Hà Nội",
   email: "hello@dtpt.tech",
   facebook: "facebook.com/dtpt.techs",
+  categories: industrialCategories,
+  visibility: {
+    announcement: true, hero: true, categories: true, featuredProducts: true,
+    capabilities: true, contact: true, footer: true, floatingContact: true, search: true,
+  },
+  appearance: {
+    primaryColor: "#086ad8",
+    secondaryColor: "#00a7c7",
+    productsPerRow: 4,
+    cardStyle: "comfortable",
+  },
   content: {
     announcementPrimary:
       "Giải pháp thiết bị công nghiệp và đo lường chuyên sâu",

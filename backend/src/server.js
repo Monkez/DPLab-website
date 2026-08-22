@@ -28,6 +28,8 @@ const allowedOrigins = new Set([
   ...configuredOrigins,
   'https://dtpt.tech',
   'https://www.dtpt.tech',
+  'https://dtpt.shop',
+  'https://www.dtpt.shop',
   'http://localhost:5173',
   'http://127.0.0.1:5173',
 ])
@@ -76,6 +78,28 @@ function requireAdmin(req, res, next) {
   if (!admin) return res.status(401).json({ message: 'Admin login required' })
   req.admin = admin
   next()
+}
+
+function isValidProduct(product) {
+  return Boolean(
+    product?.id?.trim?.() && product?.slug?.trim?.() && product?.name?.trim?.() &&
+    product?.model?.trim?.() && product?.category?.trim?.() &&
+    ['active', 'draft'].includes(product.status) &&
+    ['fixed', 'from', 'range', 'contact'].includes(product.priceMode) &&
+    Array.isArray(product.highlights) && Array.isArray(product.applications) && Array.isArray(product.specifications)
+  )
+}
+
+function isValidSettings(settings) {
+  if (!settings?.storeName?.trim?.() || !settings?.content || !Array.isArray(settings.categories) || !settings.categories.length) return false
+  const categoryIds = new Set()
+  const categoryNames = new Set()
+  for (const category of settings.categories) {
+    if (!category?.id?.trim?.() || !category?.name?.trim?.() || !Array.isArray(category.subcategories)) return false
+    if (categoryIds.has(category.id) || categoryNames.has(category.name)) return false
+    categoryIds.add(category.id); categoryNames.add(category.name)
+  }
+  return settings.visibility && settings.appearance && [3, 4].includes(Number(settings.appearance.productsPerRow))
 }
 
 app.get('/api/health', (_req, res) => {
@@ -127,12 +151,13 @@ app.get('/api/products', asyncRoute(async (_req, res) => {
 
 app.post('/api/products', requireAdmin, asyncRoute(async (req, res) => {
   const product = req.body
-  if (!product?.id) return res.status(400).json({ message: 'Product id is required' })
+  if (!isValidProduct(product)) return res.status(400).json({ message: 'Sản phẩm thiếu ID, slug, tên, model hoặc ngành hàng' })
   res.status(201).json(await saveProduct(product))
 }))
 
 app.put('/api/products/:id', requireAdmin, asyncRoute(async (req, res) => {
   const product = { ...req.body, id: req.params.id }
+  if (!isValidProduct(product)) return res.status(400).json({ message: 'Sản phẩm thiếu ID, slug, tên, model hoặc ngành hàng' })
   res.json(await saveProduct(product))
 }))
 
@@ -169,6 +194,7 @@ app.get('/api/settings', asyncRoute(async (_req, res) => {
 }))
 
 app.put('/api/settings', requireAdmin, asyncRoute(async (req, res) => {
+  if (!isValidSettings(req.body)) return res.status(400).json({ message: 'Cấu hình website không hợp lệ hoặc ngành hàng bị trùng' })
   res.json(await saveSettings(req.body))
 }))
 

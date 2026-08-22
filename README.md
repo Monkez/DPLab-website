@@ -22,6 +22,8 @@ Khách duyệt catalogue → thêm thiết bị vào danh sách → gửi yêu c
 - `POST /api/quotes`
 - Admin: quản lý sản phẩm, yêu cầu báo giá, cài đặt và người dùng
 
+Admin CMS tại `/admin` còn hỗ trợ tag/phân loại, nội dung trang chủ, logo/slogan, màu sắc và công tắc ẩn/hiện từng khu vực. Xem [docs/admin-cms-guide.md](docs/admin-cms-guide.md).
+
 ## Deploy
 
 - Frontend: Vercel, build `npm run build`, output `dist`, đặt `VITE_API_URL` tới backend.

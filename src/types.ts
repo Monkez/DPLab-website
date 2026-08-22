@@ -24,6 +24,8 @@ export interface Product {
   status: ProductStatus;
   badge?: string;
   featured?: boolean;
+  tags?: string[];
+  sortOrder?: number;
   accent: string;
   summary: string;
   highlights: string[];
@@ -41,6 +43,35 @@ export interface Product {
   videoUrl?: string;
   seoTitle?: string;
   seoDescription?: string;
+}
+
+export interface IndustrialCategory {
+  id: string;
+  name: string;
+  shortName: string;
+  description: string;
+  subcategories: string[];
+  visible: boolean;
+  sortOrder: number;
+}
+
+export interface SiteVisibility {
+  announcement: boolean;
+  hero: boolean;
+  categories: boolean;
+  featuredProducts: boolean;
+  capabilities: boolean;
+  contact: boolean;
+  footer: boolean;
+  floatingContact: boolean;
+  search: boolean;
+}
+
+export interface SiteAppearance {
+  primaryColor: string;
+  secondaryColor: string;
+  productsPerRow: 3 | 4;
+  cardStyle: "comfortable" | "compact";
 }
 
 export interface QuoteItem {
@@ -93,6 +124,9 @@ export interface StoreSettings {
   address: string;
   email: string;
   facebook: string;
+  categories: IndustrialCategory[];
+  visibility: SiteVisibility;
+  appearance: SiteAppearance;
   content: SiteContent;
 }
 

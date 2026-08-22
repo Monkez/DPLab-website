@@ -207,17 +207,33 @@ export async function updateQuoteStatus(id, status) {
 
 export async function getSettings() {
   const result = await query('SELECT data FROM settings WHERE id = $1', ['main'])
-  return result.rows[0]?.data ?? seedSettings
+  const stored = result.rows[0]?.data ?? {}
+  return {
+    ...seedSettings,
+    ...stored,
+    categories: Array.isArray(stored.categories) && stored.categories.length ? stored.categories : seedSettings.categories,
+    visibility: { ...seedSettings.visibility, ...stored.visibility },
+    appearance: { ...seedSettings.appearance, ...stored.appearance },
+    content: { ...seedSettings.content, ...stored.content },
+  }
 }
 
 export async function saveSettings(settings) {
+  const normalized = {
+    ...seedSettings,
+    ...settings,
+    categories: Array.isArray(settings?.categories) && settings.categories.length ? settings.categories : seedSettings.categories,
+    visibility: { ...seedSettings.visibility, ...settings?.visibility },
+    appearance: { ...seedSettings.appearance, ...settings?.appearance },
+    content: { ...seedSettings.content, ...settings?.content },
+  }
   await query(
     `INSERT INTO settings (id, data, updated_at)
      VALUES ($1, $2, NOW())
      ON CONFLICT (id) DO UPDATE SET data = EXCLUDED.data, updated_at = NOW()`,
-    ['main', settings],
+    ['main', normalized],
   )
-  return settings
+  return normalized
 }
 
 export async function resetDemoData() {

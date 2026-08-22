@@ -2,6 +2,7 @@ import { createContext, useContext, useEffect, useMemo, useState, type ReactNode
 import { seedProducts, seedQuotes, seedSettings } from '../data/seed'
 import { api } from '../services/api'
 import type { CustomerInfo, Product, QuoteItem, QuoteRequest, QuoteStatus, StoreSettings } from '../types'
+import { normalizeSettings } from '../utils/settings'
 
 const StoreContext = createContext<StoreValue | null>(null)
 const read = <T,>(key: string, fallback: T): T => { try { const value = localStorage.getItem(key); return value ? JSON.parse(value) as T : fallback } catch { return fallback } }
@@ -19,7 +20,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   const [quoteItems, setQuoteItems] = useState<QuoteItem[]>(() => read('dtpt_quote_items', []))
   const [settings, setSettings] = useState<StoreSettings>(seedSettings)
 
-  useEffect(() => { if (api.enabled) api.bootstrap(Boolean(api.getAdminSession())).then(data => { setProducts(data.products.length ? data.products : seedProducts); setQuotes(data.quotes); setSettings({ ...seedSettings, ...data.settings, content: { ...seedSettings.content, ...data.settings.content } }) }).catch(console.warn) }, [])
+  useEffect(() => { if (api.enabled) api.bootstrap(Boolean(api.getAdminSession())).then(data => { setProducts(data.products.length ? data.products : seedProducts); setQuotes(data.quotes); setSettings(normalizeSettings(data.settings)) }).catch(console.warn) }, [])
   useEffect(() => localStorage.setItem('dtpt_quote_items', JSON.stringify(quoteItems)), [quoteItems])
   const quoteCount = quoteItems.reduce((sum, item) => sum + item.quantity, 0)
 
@@ -32,7 +33,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
     saveProduct: async product => { if (api.enabled) await api.saveProduct(product); setProducts(items => items.some(item => item.id === product.id) ? items.map(item => item.id === product.id ? product : item) : [product, ...items]) },
     deleteProduct: async id => { if (api.enabled) await api.deleteProduct(id); setProducts(items => items.filter(item => item.id !== id)) },
     updateQuoteStatus: async (id, status) => { if (api.enabled) await api.updateQuoteStatus(id, status); setQuotes(items => items.map(item => item.id === id ? { ...item, status } : item)) },
-    updateSettings: async next => { const saved = api.enabled ? await api.updateSettings(next) : next; setSettings(saved) },
+    updateSettings: async next => { const normalized = normalizeSettings(next); const saved = api.enabled ? await api.updateSettings(normalized) : normalized; setSettings(normalizeSettings(saved)) },
   }), [products, quotes, quoteItems, settings, quoteCount])
   return <StoreContext.Provider value={value}>{children}</StoreContext.Provider>
 }

@@ -20,6 +20,14 @@ Catalogue phiên bản v5 có 88 sản phẩm, phân bổ đồng đều 11 mode
 
 Mega-menu desktop dùng một vùng hover nối giữa nút `Lĩnh vực` và bảng menu, đồng thời giữ trạng thái đóng trễ ngắn để người dùng có thể di chuột chéo xuống mục con. Trạng thái `focus-within` hỗ trợ điều hướng bằng bàn phím.
 
+## Admin CMS
+
+Trang `/admin` quản lý đầy đủ sản phẩm, tag, ngành hàng, phân nhóm, nhận diện, nội dung và trạng thái hiển thị. Các trường CMS mở rộng vẫn nằm trong JSONB nên không cần migration schema khi nâng cấp từ dữ liệu cũ.
+
+`StoreSettings` có ba nhóm động: `categories`, `visibility` và `appearance`. Frontend và backend đều chuẩn hóa sâu với `seedSettings`, vì vậy bản ghi settings cũ tự nhận giá trị mặc định cho trường mới. Storefront lấy taxonomy từ settings thay vì hằng số tĩnh; trạng thái `draft` của sản phẩm và `visible` của ngành hàng được áp dụng trước khi render.
+
+Backend kiểm tra các trường bắt buộc, trạng thái và kiểu giá trước khi ghi sản phẩm. Khi đổi tên ngành hàng qua admin, frontend cập nhật tuần tự các sản phẩm liên quan rồi mới lưu settings để tránh catalogue bị lệch phân loại. Hướng dẫn sử dụng nằm tại `docs/admin-cms-guide.md`.
+
 ## An toàn dữ liệu RFQ
 
 - Client chỉ gửi thông tin liên hệ và danh sách `{productId, quantity, requirement}`.
