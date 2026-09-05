@@ -8,7 +8,7 @@
 
 Production gồm ba Railway service: `frontend` public tại `www.dtpt.shop`, `backend` public tại `api.dtpt.shop`, và `Postgres` chỉ nối nội bộ. Trình duyệt gọi backend qua HTTPS công khai; chỉ backend dùng private `DATABASE_URL` của Railway.
 
-Cả frontend và backend Railway service phải dùng repository root `/`. Backend seed nhập `src/data/catalogExpansion.js` dùng chung với frontend, vì vậy không được đặt Root Directory thành `/backend`. Backend dùng riêng lệnh `npm run build:backend` và `npm run start:backend` để cài/chạy package trong thư mục `backend`.
+Nguồn catalogue mở rộng dùng chung nằm tại `backend/src/catalogExpansion.js`; frontend import trực tiếp nguồn này khi build. Nhờ vậy backend Railway có thể dùng Root Directory `/backend` độc lập, còn frontend dùng repository root `/`.
 
 ## Mô hình sản phẩm
 
@@ -18,7 +18,7 @@ Nhánh `Panel PC & HMI` nằm trong `Máy tính công nghiệp`. Với model có
 
 Nhánh Advantech ADAM nằm trong `DAQ & Remote I/O`, tách theo RS-485 Remote I/O, Ethernet Remote I/O và hệ module nhiều khe. Với ADAM-5000/TCP, giá chassis/controller không bao gồm module I/O lắp trong khe và phải ghi rõ trên trang chi tiết. Backend seed hiện đồng bộ qua phiên bản catalogue `dtpt-industrial-v5-88-products`.
 
-Catalogue phiên bản v5 có 88 sản phẩm, phân bổ đồng đều 11 model cho mỗi ngành hàng cấp một. 18 sản phẩm lõi tiếp tục nằm trong `src/data/verifiedProducts.ts`; 70 sản phẩm mở rộng nằm trong `src/data/catalogExpansion.js` và được dùng chung trực tiếp bởi frontend lẫn backend để tránh sai lệch dữ liệu. File `src/data/catalogExpansion.d.ts` cung cấp kiểu dữ liệu cho bước kiểm tra TypeScript.
+Catalogue phiên bản v5 có 88 sản phẩm, phân bổ đồng đều 11 model cho mỗi ngành hàng cấp một. 18 sản phẩm lõi tiếp tục nằm trong `src/data/verifiedProducts.ts`; 70 sản phẩm mở rộng nằm trong `backend/src/catalogExpansion.js` và được dùng chung trực tiếp bởi frontend lẫn backend để tránh sai lệch dữ liệu. File `backend/src/catalogExpansion.d.ts` cung cấp kiểu dữ liệu cho bước kiểm tra TypeScript.
 
 Ảnh sản phẩm mở rộng được lưu cục bộ trong `public/products`. Các model cùng series có thể dùng ảnh đại diện chính thức của series khi hình dáng vỏ máy không khác biệt; nguồn ảnh luôn được giữ trong metadata nội bộ.
 

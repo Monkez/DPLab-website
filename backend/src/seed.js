@@ -1,4 +1,4 @@
-import { expandedProducts } from "../../src/data/catalogExpansion.js";
+import { expandedProducts } from "./catalogExpansion.js";
 
 const updated = "21/08/2026";
 const note =

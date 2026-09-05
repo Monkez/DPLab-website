@@ -29,7 +29,7 @@ Admin CMS tại `/admin` còn hỗ trợ tag/phân loại, nội dung trang ch�
 
 - Toàn bộ production chạy trong một Railway Project gồm `frontend`, `backend` và `Postgres`.
 - Frontend dùng root directory `/`, build `npm run build`, start `npm start`.
-- Backend dùng root directory `/` vì catalogue dùng chung nằm tại `src/data`; build `npm run build:backend`, start `npm run start:backend` và kết nối Postgres bằng Railway reference variable.
+- Backend hỗ trợ cả Root Directory `/backend` (lệnh `npm ci`, `npm start`) và repository root `/` (lệnh `npm run build:backend`, `npm run start:backend`).
 - Quy trình dựng service, chuyển dữ liệu, kiểm thử và đổi DNS: [docs/deploy-railway.md](docs/deploy-railway.md).
 
 Chi tiết kiến trúc và quy trình nằm trong [docs/technical-implementation.md](docs/technical-implementation.md).

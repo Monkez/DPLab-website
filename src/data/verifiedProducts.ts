@@ -1,5 +1,5 @@
 import type { Product } from "../types";
-import { expandedProducts } from "./catalogExpansion.js";
+import { expandedProducts } from "../../backend/src/catalogExpansion.js";
 
 const updated = "21/08/2026";
 const priceNote =

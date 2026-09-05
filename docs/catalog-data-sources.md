@@ -46,7 +46,7 @@ Hệ số hiện dùng là `1,3915`. Trong đó:
 
 ## Nguồn thông số và hình ảnh
 
-Mỗi bản ghi trong `src/data/verifiedProducts.ts` hoặc `src/data/catalogExpansion.js` lưu trang hãng, datasheet, nguồn ảnh và nguồn giá nội bộ. Trang chi tiết chỉ hiển thị link hãng/datasheet và nguồn ảnh; không hiển thị giá mua hoặc công thức lợi nhuận. Backend dùng chung dữ liệu mở rộng để khi kết nối API không trả lại catalogue mẫu cũ.
+Mỗi bản ghi trong `src/data/verifiedProducts.ts` hoặc `backend/src/catalogExpansion.js` lưu trang hãng, datasheet, nguồn ảnh và nguồn giá nội bộ. Trang chi tiết chỉ hiển thị link hãng/datasheet và nguồn ảnh; không hiển thị giá mua hoặc công thức lợi nhuận. Frontend và backend dùng chung dữ liệu mở rộng để khi kết nối API không trả lại catalogue mẫu cũ.
 
 ## Catalogue v5 — 88 sản phẩm
 
