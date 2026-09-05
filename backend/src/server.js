@@ -7,6 +7,7 @@ import {
   createAdminUser,
   deleteProduct,
   deleteAdminUser,
+  getAdminUser,
   getSettings,
   initDatabase,
   listAdminUsers,
@@ -19,7 +20,9 @@ import {
   saveSettings,
   recordAnalyticsEvent,
   updateQuoteStatus,
+  updateAdminUser,
 } from './db.js'
+import { hasPermission } from './permissions.js'
 
 const app = express()
 const port = Number(process.env.PORT || 10000)
@@ -73,12 +76,22 @@ function getAdminFromRequest(req) {
   return readToken(token)
 }
 
-function requireAdmin(req, res, next) {
-  const admin = getAdminFromRequest(req)
-  if (!admin) return res.status(401).json({ message: 'Admin login required' })
+async function resolveAdmin(req) {
+  const token = getAdminFromRequest(req)
+  if (!token) return null
+  const admin = await getAdminUser(token.username)
+  return admin?.active ? admin : null
+}
+
+const requirePermission = (...permissions) => asyncRoute(async (req, res, next) => {
+  const admin = await resolveAdmin(req)
+  if (!admin) return res.status(401).json({ message: 'Phiên đăng nhập đã hết hạn hoặc tài khoản đã bị khóa' })
+  if (permissions.length && !permissions.some(permission => hasPermission(admin, permission))) {
+    return res.status(403).json({ message: 'Tài khoản không có quyền thực hiện thao tác này' })
+  }
   req.admin = admin
   next()
-}
+})
 
 function isValidProduct(product) {
   return Boolean(
@@ -107,19 +120,23 @@ app.get('/api/health', (_req, res) => {
 })
 
 app.get('/api/bootstrap', asyncRoute(async (_req, res) => {
-  const admin = getAdminFromRequest(_req)
+  const admin = await resolveAdmin(_req)
   const [products, quotes, settings] = await Promise.all([listProducts(), listQuotes(), getSettings()])
-  res.json({ products, quotes: admin ? quotes : [], settings })
+  res.json({ products, quotes: admin && hasPermission(admin, 'quotes.view') ? quotes : [], settings })
 }))
 
 app.post('/api/admin/login', asyncRoute(async (req, res) => {
   const user = await authenticateAdmin(req.body?.username, req.body?.password)
   if (!user) return res.status(401).json({ message: 'Tên đăng nhập hoặc mật khẩu không đúng' })
-  const token = signToken({ username: user.username, displayName: user.displayName, exp: Date.now() + 1000 * 60 * 60 * 12 })
+  const token = signToken({ username: user.username, exp: Date.now() + 1000 * 60 * 60 * 12 })
   res.json({ token, user })
 }))
 
-app.get('/api/admin/users', requireAdmin, asyncRoute(async (_req, res) => {
+app.get('/api/admin/me', requirePermission(), asyncRoute(async (req, res) => {
+  res.json(req.admin)
+}))
+
+app.get('/api/admin/users', requirePermission('users.manage'), asyncRoute(async (_req, res) => {
   res.json(await listAdminUsers())
 }))
 
@@ -132,16 +149,25 @@ app.post('/api/analytics/events', asyncRoute(async (req, res) => {
   res.status(204).end()
 }))
 
-app.get('/api/admin/analytics', requireAdmin, asyncRoute(async (req, res) => {
+app.get('/api/admin/analytics', requirePermission('analytics.view'), asyncRoute(async (req, res) => {
   res.json(await listAnalyticsEvents(req.query.days))
 }))
 
-app.post('/api/admin/users', requireAdmin, asyncRoute(async (req, res) => {
+app.post('/api/admin/users', requirePermission('users.manage'), asyncRoute(async (req, res) => {
+  const protectedAccess = req.body?.role === 'owner' || (Array.isArray(req.body?.permissions) && req.body.permissions.some(permission => ['users.manage', 'system.reset'].includes(permission)))
+  if (protectedAccess && !req.admin.isRoot) return res.status(403).json({ message: 'Chỉ tài khoản gốc mới có thể cấp quyền Chủ sở hữu, quản lý tài khoản hoặc reset hệ thống' })
   res.status(201).json(await createAdminUser(req.body))
 }))
 
-app.delete('/api/admin/users/:username', requireAdmin, asyncRoute(async (req, res) => {
-  await deleteAdminUser(req.params.username)
+app.put('/api/admin/users/:username', requirePermission('users.manage'), asyncRoute(async (req, res) => {
+  const user = await updateAdminUser(req.params.username, req.body, req.admin)
+  if (!user) return res.status(404).json({ message: 'Không tìm thấy tài khoản' })
+  res.json(user)
+}))
+
+app.delete('/api/admin/users/:username', requirePermission('users.manage'), asyncRoute(async (req, res) => {
+  const deleted = await deleteAdminUser(req.params.username, req.admin)
+  if (!deleted) return res.status(404).json({ message: 'Không tìm thấy tài khoản' })
   res.status(204).end()
 }))
 
@@ -149,24 +175,24 @@ app.get('/api/products', asyncRoute(async (_req, res) => {
   res.json(await listProducts())
 }))
 
-app.post('/api/products', requireAdmin, asyncRoute(async (req, res) => {
+app.post('/api/products', requirePermission('products.manage'), asyncRoute(async (req, res) => {
   const product = req.body
   if (!isValidProduct(product)) return res.status(400).json({ message: 'Sản phẩm thiếu ID, slug, tên, model hoặc ngành hàng' })
   res.status(201).json(await saveProduct(product))
 }))
 
-app.put('/api/products/:id', requireAdmin, asyncRoute(async (req, res) => {
+app.put('/api/products/:id', requirePermission('products.manage'), asyncRoute(async (req, res) => {
   const product = { ...req.body, id: req.params.id }
   if (!isValidProduct(product)) return res.status(400).json({ message: 'Sản phẩm thiếu ID, slug, tên, model hoặc ngành hàng' })
   res.json(await saveProduct(product))
 }))
 
-app.delete('/api/products/:id', requireAdmin, asyncRoute(async (req, res) => {
+app.delete('/api/products/:id', requirePermission('products.manage'), asyncRoute(async (req, res) => {
   await deleteProduct(req.params.id)
   res.status(204).end()
 }))
 
-app.get('/api/quotes', requireAdmin, asyncRoute(async (_req, res) => {
+app.get('/api/quotes', requirePermission('quotes.view'), asyncRoute(async (_req, res) => {
   res.json(await listQuotes())
 }))
 
@@ -182,7 +208,7 @@ app.post('/api/quotes', asyncRoute(async (req, res) => {
   res.status(201).json(await saveQuote(quote))
 }))
 
-app.patch('/api/quotes/:id/status', requireAdmin, asyncRoute(async (req, res) => {
+app.patch('/api/quotes/:id/status', requirePermission('quotes.manage'), asyncRoute(async (req, res) => {
   if (!['new', 'reviewing', 'quoted', 'won', 'closed'].includes(req.body.status)) return res.status(400).json({ message: 'Invalid quote status' })
   const quote = await updateQuoteStatus(req.params.id, req.body.status)
   if (!quote) return res.status(404).json({ message: 'Quote not found' })
@@ -193,12 +219,30 @@ app.get('/api/settings', asyncRoute(async (_req, res) => {
   res.json(await getSettings())
 }))
 
-app.put('/api/settings', requireAdmin, asyncRoute(async (req, res) => {
+app.put('/api/settings', requirePermission('categories.manage', 'branding.manage', 'content.manage', 'display.manage'), asyncRoute(async (req, res) => {
   if (!isValidSettings(req.body)) return res.status(400).json({ message: 'Cấu hình website không hợp lệ hoặc ngành hàng bị trùng' })
+  const current = await getSettings()
+  const changedSections = [
+    ['categories.manage', current.categories, req.body.categories],
+    ['branding.manage', {
+      storeName: current.storeName, slogan: current.slogan, logoStyle: current.logoStyle, logoRoundSrc: current.logoRoundSrc,
+      logoWideSrc: current.logoWideSrc, faviconSrc: current.faviconSrc, phone: current.phone, address: current.address,
+      email: current.email, facebook: current.facebook,
+    }, {
+      storeName: req.body.storeName, slogan: req.body.slogan, logoStyle: req.body.logoStyle, logoRoundSrc: req.body.logoRoundSrc,
+      logoWideSrc: req.body.logoWideSrc, faviconSrc: req.body.faviconSrc, phone: req.body.phone, address: req.body.address,
+      email: req.body.email, facebook: req.body.facebook,
+    }],
+    ['content.manage', current.content, req.body.content],
+    ['display.manage', { visibility: current.visibility, appearance: current.appearance }, { visibility: req.body.visibility, appearance: req.body.appearance }],
+  ].filter(([, before, after]) => JSON.stringify(before) !== JSON.stringify(after))
+  if (changedSections.some(([permission]) => !hasPermission(req.admin, permission))) {
+    return res.status(403).json({ message: 'Tài khoản không có quyền sửa một hoặc nhiều nhóm cài đặt này' })
+  }
   res.json(await saveSettings(req.body))
 }))
 
-app.post('/api/reset-demo', requireAdmin, asyncRoute(async (_req, res) => {
+app.post('/api/reset-demo', requirePermission('system.reset'), asyncRoute(async (_req, res) => {
   res.json(await resetDemoData())
 }))
 

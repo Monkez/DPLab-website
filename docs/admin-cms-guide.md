@@ -2,6 +2,18 @@
 
 Trang quản trị tại `/admin` hiện hoạt động như một CMS gọn nhẹ. Dữ liệu được lưu qua backend PostgreSQL; khi frontend chưa nối `VITE_API_URL`, thay đổi chỉ tồn tại trong phiên chạy và không dùng cho production.
 
+## Tài khoản và phân quyền
+
+- Tài khoản gốc được xác định bởi `ADMIN_DEFAULT_USERNAME` trên Railway, luôn có vai trò **Chủ sở hữu** và không thể bị khóa, hạ quyền hoặc xóa trong CMS.
+- Tab `Tài khoản` cho phép tạo tài khoản, đặt lại mật khẩu, khóa/mở khóa, đổi vai trò và xóa tài khoản phụ.
+- Vai trò mẫu: Chủ sở hữu, Quản trị viên, Biên tập catalogue, Biên tập nội dung, Kinh doanh và Chỉ xem.
+- Chọn `Quyền tùy chỉnh` để bật riêng từng quyền: báo giá, sản phẩm, phân loại, thương hiệu, nội dung, giao diện, analytics, tài khoản hoặc reset hệ thống.
+- Quyền được kiểm tra tại backend cho từng API. Việc ẩn tab trên frontend chỉ giúp giao diện gọn hơn, không phải lớp bảo mật duy nhất.
+- Không thể tự khóa hoặc tự xóa tài khoản đang đăng nhập; hệ thống luôn giữ ít nhất một Chủ sở hữu đang hoạt động.
+- Mật khẩu tài khoản mới và mật khẩu thay thế phải có ít nhất 10 ký tự. Không dùng chung mật khẩu giữa nhân sự.
+
+Sau lần deploy đầu tiên có phân quyền, các phiên admin cũ sẽ tự đăng xuất một lần để nhận hồ sơ quyền mới.
+
 ## Sản phẩm
 
 - Tìm theo tên, model, thương hiệu, ngành hàng hoặc tag.

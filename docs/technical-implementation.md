@@ -32,6 +32,10 @@ Trang `/admin` quản lý đầy đủ sản phẩm, tag, ngành hàng, phân nh
 
 Backend kiểm tra các trường bắt buộc, trạng thái và kiểu giá trước khi ghi sản phẩm. Khi đổi tên ngành hàng qua admin, frontend cập nhật tuần tự các sản phẩm liên quan rồi mới lưu settings để tránh catalogue bị lệch phân loại. Hướng dẫn sử dụng nằm tại `docs/admin-cms-guide.md`.
 
+RBAC được lưu trực tiếp trong `admin_users` qua `role`, `permissions` JSONB, `active` và `is_root`. `initDatabase()` dùng `ALTER TABLE ... ADD COLUMN IF NOT EXISTS`, vì vậy database Railway hiện hữu tự nâng cấp khi backend khởi động. Mỗi request quản trị tải lại user hiện tại từ database; khóa tài khoản hoặc đổi quyền có hiệu lực ngay với token đang tồn tại. Các route sản phẩm, báo giá, settings, analytics và tài khoản đều có permission middleware phía server. Với settings dùng chung một endpoint, backend còn so sánh từng nhóm dữ liệu để ngăn tài khoản sửa phần không được cấp quyền.
+
+Tài khoản trùng `ADMIN_DEFAULT_USERNAME` được bảo đảm là root/owner sau mỗi lần khởi động nhưng mật khẩu không bị reset lại từ environment. Nếu bảng chưa có tài khoản này và Railway có đủ username/password, backend sẽ tạo tài khoản gốc.
+
 ## An toàn dữ liệu RFQ
 
 - Client chỉ gửi thông tin liên hệ và danh sách `{productId, quantity, requirement}`.

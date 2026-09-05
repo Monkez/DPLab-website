@@ -23,7 +23,7 @@ Khách duyệt catalogue → thêm thiết bị vào danh sách → gửi yêu c
 - `POST /api/quotes`
 - Admin: quản lý sản phẩm, yêu cầu báo giá, cài đặt và người dùng
 
-Admin CMS tại `/admin` còn hỗ trợ tag/phân loại, nội dung trang chủ, logo/slogan, màu sắc và công tắc ẩn/hiện từng khu vực. Xem [docs/admin-cms-guide.md](docs/admin-cms-guide.md).
+Admin CMS tại `/admin` còn hỗ trợ tag/phân loại, nội dung trang chủ, logo/slogan, màu sắc, công tắc ẩn/hiện và quản lý tài khoản theo vai trò/quyền chi tiết. Xem [docs/admin-cms-guide.md](docs/admin-cms-guide.md).
 
 ## Deploy
 

@@ -99,8 +99,17 @@ export interface QuoteRequest {
 export interface AdminUser {
   username: string;
   displayName: string;
+  role: AdminRole;
+  permissions: AdminPermission[];
+  active: boolean;
+  isRoot: boolean;
   createdAt?: string;
 }
+export type AdminRole = "owner" | "administrator" | "catalog_editor" | "content_editor" | "sales" | "viewer" | "custom";
+export type AdminPermission =
+  | "quotes.view" | "quotes.manage" | "products.manage" | "categories.manage"
+  | "branding.manage" | "content.manage" | "display.manage" | "analytics.view"
+  | "users.manage" | "system.reset";
 export type AnalyticsDevice = "desktop" | "tablet" | "mobile";
 export interface AnalyticsEvent {
   eventId: string;

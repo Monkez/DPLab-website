@@ -1,6 +1,7 @@
 import pg from 'pg'
 import crypto from 'crypto'
 import { seedProducts, seedQuotes, seedSettings } from './seed.js'
+import { ADMIN_PERMISSIONS, normalizeAdminAccess } from './permissions.js'
 
 const { Pool } = pg
 
@@ -49,8 +50,18 @@ export async function initDatabase() {
       username TEXT PRIMARY KEY,
       password_hash TEXT NOT NULL,
       display_name TEXT NOT NULL,
+      role TEXT NOT NULL DEFAULT 'viewer',
+      permissions JSONB NOT NULL DEFAULT '[]'::jsonb,
+      active BOOLEAN NOT NULL DEFAULT TRUE,
+      is_root BOOLEAN NOT NULL DEFAULT FALSE,
       created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
     );
+  `)
+  await query(`
+    ALTER TABLE admin_users ADD COLUMN IF NOT EXISTS role TEXT NOT NULL DEFAULT 'viewer';
+    ALTER TABLE admin_users ADD COLUMN IF NOT EXISTS permissions JSONB NOT NULL DEFAULT '[]'::jsonb;
+    ALTER TABLE admin_users ADD COLUMN IF NOT EXISTS active BOOLEAN NOT NULL DEFAULT TRUE;
+    ALTER TABLE admin_users ADD COLUMN IF NOT EXISTS is_root BOOLEAN NOT NULL DEFAULT FALSE;
   `)
   await query(`
     CREATE TABLE IF NOT EXISTS analytics_events (
@@ -101,16 +112,36 @@ export async function initDatabase() {
   const currentSettings = await getSettings()
   if (currentSettings.storeName !== 'DTPT Techs') await saveSettings(seedSettings)
 
+  const rootUsername = String(process.env.ADMIN_DEFAULT_USERNAME || '').trim().toLowerCase()
+  const rootPassword = process.env.ADMIN_DEFAULT_PASSWORD
   const adminCount = await query('SELECT COUNT(*)::int AS count FROM admin_users')
   if (adminCount.rows[0].count === 0) {
-    if (!process.env.ADMIN_DEFAULT_USERNAME || !process.env.ADMIN_DEFAULT_PASSWORD) {
+    if (!rootUsername || !rootPassword) {
       throw new Error('ADMIN_DEFAULT_USERNAME and ADMIN_DEFAULT_PASSWORD are required for the first deployment')
     }
     await createAdminUser({
-      username: process.env.ADMIN_DEFAULT_USERNAME,
-      password: process.env.ADMIN_DEFAULT_PASSWORD,
+      username: rootUsername,
+      password: rootPassword,
       displayName: process.env.ADMIN_DEFAULT_DISPLAY_NAME || 'DTPT Admin',
-    })
+      role: 'owner',
+    }, { isRoot: true })
+  }
+
+  if (rootUsername) {
+    const promoted = await query(
+      `UPDATE admin_users
+       SET role = 'owner', permissions = $2, active = TRUE, is_root = TRUE
+       WHERE username = $1`,
+      [rootUsername, JSON.stringify(ADMIN_PERMISSIONS)],
+    )
+    if (promoted.rowCount === 0 && rootPassword) {
+      await createAdminUser({
+        username: rootUsername,
+        password: rootPassword,
+        displayName: process.env.ADMIN_DEFAULT_DISPLAY_NAME || 'DTPT Admin',
+        role: 'owner',
+      }, { isRoot: true })
+    }
   }
 }
 
@@ -129,44 +160,100 @@ function verifyPassword(password, storedHash) {
 const publicAdminUser = row => ({
   username: row.username,
   displayName: row.display_name,
+  role: row.role || 'viewer',
+  permissions: Array.isArray(row.permissions) ? row.permissions : [],
+  active: row.active !== false,
+  isRoot: Boolean(row.is_root),
   createdAt: row.created_at,
 })
 
 export async function authenticateAdmin(username, password) {
-  const result = await query('SELECT * FROM admin_users WHERE username = $1', [username])
+  const result = await query('SELECT * FROM admin_users WHERE username = $1', [String(username || '').trim().toLowerCase()])
   const user = result.rows[0]
-  if (!user || !verifyPassword(password, user.password_hash)) return null
+  if (!user || user.active === false || !verifyPassword(password, user.password_hash)) return null
   return publicAdminUser(user)
 }
 
+export async function getAdminUser(username) {
+  const result = await query('SELECT * FROM admin_users WHERE username = $1', [String(username || '').trim().toLowerCase()])
+  return result.rows[0] ? publicAdminUser(result.rows[0]) : null
+}
+
 export async function listAdminUsers() {
-  const result = await query('SELECT username, display_name, created_at FROM admin_users ORDER BY created_at ASC')
+  const result = await query('SELECT username, display_name, role, permissions, active, is_root, created_at FROM admin_users ORDER BY is_root DESC, created_at ASC')
   return result.rows.map(publicAdminUser)
 }
 
-export async function createAdminUser({ username, password, displayName }) {
+export async function createAdminUser({ username, password, displayName, role = 'viewer', permissions = [] }, { isRoot = false } = {}) {
   const cleanUsername = String(username || '').trim().toLowerCase()
   const cleanDisplayName = String(displayName || '').trim()
-  if (!cleanUsername || !password || !cleanDisplayName) throw new Error('Username, password and display name are required')
+  if (!/^[a-z0-9._-]{3,40}$/.test(cleanUsername)) throw new Error('Tên đăng nhập cần 3–40 ký tự: chữ thường, số, dấu chấm, gạch ngang hoặc gạch dưới')
+  if (String(password || '').length < 10) throw new Error('Mật khẩu phải có ít nhất 10 ký tự')
+  if (cleanDisplayName.length < 2 || cleanDisplayName.length > 80) throw new Error('Tên hiển thị cần từ 2 đến 80 ký tự')
+  if (await getAdminUser(cleanUsername)) throw new Error('Tên đăng nhập đã tồn tại')
+  const access = isRoot ? { role: 'owner', permissions: ADMIN_PERMISSIONS } : normalizeAdminAccess(role, permissions)
   const user = {
     username: cleanUsername,
     passwordHash: hashPassword(String(password)),
     displayName: cleanDisplayName,
   }
   const result = await query(
-    `INSERT INTO admin_users (username, password_hash, display_name)
-     VALUES ($1, $2, $3)
-     ON CONFLICT (username) DO UPDATE SET password_hash = EXCLUDED.password_hash, display_name = EXCLUDED.display_name
-     RETURNING username, display_name, created_at`,
-    [user.username, user.passwordHash, user.displayName],
+    `INSERT INTO admin_users (username, password_hash, display_name, role, permissions, active, is_root)
+     VALUES ($1, $2, $3, $4, $5, TRUE, $6)
+     RETURNING username, display_name, role, permissions, active, is_root, created_at`,
+    [user.username, user.passwordHash, user.displayName, access.role, JSON.stringify(access.permissions), isRoot],
   )
   return publicAdminUser(result.rows[0])
 }
 
-export async function deleteAdminUser(username) {
-  const count = await query('SELECT COUNT(*)::int AS count FROM admin_users')
-  if (count.rows[0].count <= 1) throw new Error('Cannot delete the last admin account')
-  await query('DELETE FROM admin_users WHERE username = $1', [username])
+export async function updateAdminUser(username, { displayName, password, role, permissions, active }, actor) {
+  const target = await getAdminUser(username)
+  if (!target) return null
+  if (target.isRoot && actor.username !== target.username) throw new Error('Không thể chỉnh sửa tài khoản gốc')
+  if (target.isRoot && (role !== undefined || active === false)) throw new Error('Không thể hạ quyền hoặc khóa tài khoản gốc')
+  if (role === 'owner' && !actor.isRoot) throw new Error('Chỉ tài khoản gốc mới có thể cấp vai trò Chủ sở hữu')
+
+  const cleanDisplayName = displayName === undefined ? target.displayName : String(displayName).trim()
+  if (cleanDisplayName.length < 2 || cleanDisplayName.length > 80) throw new Error('Tên hiển thị cần từ 2 đến 80 ký tự')
+  if (password !== undefined && password !== '' && String(password).length < 10) throw new Error('Mật khẩu mới phải có ít nhất 10 ký tự')
+  const access = target.isRoot ? { role: 'owner', permissions: ADMIN_PERMISSIONS } : normalizeAdminAccess(role ?? target.role, permissions ?? target.permissions)
+  const nextActive = target.isRoot ? true : active ?? target.active
+  const changesOwnAccess = actor.username === target.username && (
+    access.role !== target.role || nextActive !== target.active ||
+    JSON.stringify([...access.permissions].sort()) !== JSON.stringify([...target.permissions].sort())
+  )
+  if (changesOwnAccess) throw new Error('Không thể tự thay đổi vai trò, quyền hoặc trạng thái tài khoản đang đăng nhập')
+  if (!actor.isRoot && (access.role === 'owner' || access.permissions.some(permission => ['users.manage', 'system.reset'].includes(permission)))) {
+    throw new Error('Chỉ tài khoản gốc mới có thể cấp quyền quản lý tài khoản hoặc reset hệ thống')
+  }
+
+  if (target.role === 'owner' && (access.role !== 'owner' || !nextActive)) {
+    const owners = await query("SELECT COUNT(*)::int AS count FROM admin_users WHERE role = 'owner' AND active = TRUE")
+    if (owners.rows[0].count <= 1) throw new Error('Phải giữ lại ít nhất một Chủ sở hữu đang hoạt động')
+  }
+
+  const passwordHash = password ? hashPassword(String(password)) : null
+  const result = await query(
+    `UPDATE admin_users SET display_name = $2, role = $3, permissions = $4, active = $5,
+       password_hash = COALESCE($6, password_hash)
+     WHERE username = $1
+     RETURNING username, display_name, role, permissions, active, is_root, created_at`,
+    [target.username, cleanDisplayName, access.role, JSON.stringify(access.permissions), nextActive, passwordHash],
+  )
+  return publicAdminUser(result.rows[0])
+}
+
+export async function deleteAdminUser(username, actor) {
+  const target = await getAdminUser(username)
+  if (!target) return false
+  if (target.isRoot) throw new Error('Không thể xóa tài khoản gốc')
+  if (target.username === actor.username) throw new Error('Không thể tự xóa tài khoản đang đăng nhập')
+  if (target.role === 'owner' && target.active) {
+    const owners = await query("SELECT COUNT(*)::int AS count FROM admin_users WHERE role = 'owner' AND active = TRUE")
+    if (owners.rows[0].count <= 1) throw new Error('Phải giữ lại ít nhất một Chủ sở hữu đang hoạt động')
+  }
+  await query('DELETE FROM admin_users WHERE username = $1', [target.username])
+  return true
 }
 
 export async function listProducts() {
