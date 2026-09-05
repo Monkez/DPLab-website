@@ -68,7 +68,8 @@ a {
   height: 78px;
   display: flex;
   align-items: center;
-  gap: 34px;
+  gap: 24px;
+  width: min(1600px, calc(100% - 40px));
 }
 .brand {
   border: 0;
@@ -84,7 +85,7 @@ a {
 .nav {
   display: flex;
   align-items: center;
-  gap: 27px;
+  gap: 22px;
   margin-right: auto;
 }
 .nav button {
@@ -92,6 +93,7 @@ a {
   background: none;
   color: #273a52;
   font-weight: 700;
+  white-space: nowrap;
 }
 .nav button:hover {
   color: var(--blue);
@@ -201,6 +203,7 @@ a {
 }
 .quote-button {
   position: relative;
+  white-space: nowrap;
 }
 .quote-button b {
   position: absolute;
@@ -1432,7 +1435,7 @@ body[data-card-style="compact"] .product-card__body { padding-bottom: 15px; }
 .article-admin-list > article { display: grid; grid-template-columns: 82px minmax(300px, 1fr) 135px 130px; gap: 16px; align-items: center; background: #fff; border: 1px solid #dfe6ed; border-radius: 8px; padding: 11px; }
 .article-admin-list > article > div:nth-child(2) { display: grid; gap: 4px; }
 .article-admin-list span, .article-admin-list small { color: var(--muted); font-size: 12px; }
-@media (max-width: 1000px) {
+@media (max-width: 1240px) {
   .nav {
     display: none;
   }
