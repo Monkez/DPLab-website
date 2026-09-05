@@ -24,6 +24,16 @@ Sau lần deploy đầu tiên có phân quyền, các phiên admin cũ sẽ tự
 
 Sản phẩm ở trạng thái `draft` không xuất hiện trên website và không thể được khách gửi trong RFQ.
 
+## Tin tức
+
+- Tab `Tin tức` cho phép tạo, sửa, chuyển nháp/xuất bản và xóa bài viết.
+- Mỗi bài có tiêu đề, slug, mô tả ngắn, nội dung, cover, chuyên mục, tag, tác giả, ngày xuất bản và metadata SEO riêng.
+- Nội dung hỗ trợ Markdown đơn giản với heading `##`, `###` và danh sách bắt đầu bằng `-`.
+- Bài nháp không xuất hiện công khai và không được đưa vào sitemap.
+- Vai trò Biên tập nội dung và Quản trị viên có quyền quản lý tin tức mặc định; tài khoản tùy chỉnh cần quyền `articles.manage`.
+
+Hướng dẫn SEO và quy trình gửi sitemap nằm tại `docs/seo-and-news-guide.md`.
+
 ## Ngành hàng và phân loại
 
 - Có thể thêm ngành hàng, sửa tên, mô tả, tên ngắn, phân nhóm và thứ tự.

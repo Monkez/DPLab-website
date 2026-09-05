@@ -11,6 +11,12 @@ test('administrator cannot manage accounts or reset the system', () => {
   assert.equal(access.permissions.includes('users.manage'), false)
   assert.equal(access.permissions.includes('system.reset'), false)
   assert.equal(access.permissions.includes('products.manage'), true)
+  assert.equal(access.permissions.includes('articles.manage'), true)
+})
+
+test('content editor can manage news articles', () => {
+  const access = normalizeAdminAccess('content_editor', [])
+  assert.equal(access.permissions.includes('articles.manage'), true)
 })
 
 test('custom permissions discard unknown and duplicate values', () => {

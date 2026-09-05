@@ -1,6 +1,7 @@
 import pg from 'pg'
 import crypto from 'crypto'
 import { seedProducts, seedQuotes, seedSettings } from './seed.js'
+import { seedArticles } from './articleSeed.js'
 import { ADMIN_PERMISSIONS, normalizeAdminAccess } from './permissions.js'
 
 const { Pool } = pg
@@ -37,6 +38,15 @@ export async function initDatabase() {
       created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
       updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
     );
+  `)
+  await query(`
+    CREATE TABLE IF NOT EXISTS articles (
+      id TEXT PRIMARY KEY,
+      data JSONB NOT NULL,
+      created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+      updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+    );
+    CREATE UNIQUE INDEX IF NOT EXISTS articles_slug_idx ON articles ((data->>'slug'));
   `)
   await query(`
     CREATE TABLE IF NOT EXISTS settings (
@@ -104,6 +114,11 @@ export async function initDatabase() {
     for (const quote of seedQuotes) await saveQuote(quote)
   }
 
+  const articleCount = await query('SELECT COUNT(*)::int AS count FROM articles')
+  if (articleCount.rows[0].count === 0) {
+    for (const article of seedArticles) await saveArticle(article)
+  }
+
   const settingsCount = await query("SELECT COUNT(*)::int AS count FROM settings WHERE id = 'main'")
   if (settingsCount.rows[0].count === 0) {
     await saveSettings(seedSettings)
@@ -161,7 +176,7 @@ const publicAdminUser = row => ({
   username: row.username,
   displayName: row.display_name,
   role: row.role || 'viewer',
-  permissions: Array.isArray(row.permissions) ? row.permissions : [],
+  permissions: normalizeAdminAccess(row.role, row.permissions).permissions,
   active: row.active !== false,
   isRoot: Boolean(row.is_root),
   createdAt: row.created_at,
@@ -275,6 +290,25 @@ export async function deleteProduct(id) {
   await query('DELETE FROM products WHERE id = $1', [id])
 }
 
+export async function listArticles() {
+  const result = await query(`SELECT data FROM articles ORDER BY COALESCE(NULLIF(data->>'publishedAt', '')::timestamptz, created_at) DESC`)
+  return result.rows.map(row => row.data)
+}
+
+export async function saveArticle(article) {
+  await query(
+    `INSERT INTO articles (id, data, updated_at)
+     VALUES ($1, $2, NOW())
+     ON CONFLICT (id) DO UPDATE SET data = EXCLUDED.data, updated_at = NOW()`,
+    [article.id, article],
+  )
+  return article
+}
+
+export async function deleteArticle(id) {
+  await query('DELETE FROM articles WHERE id = $1', [id])
+}
+
 export async function listQuotes() {
   const result = await query('SELECT data FROM quotes ORDER BY created_at DESC')
   return result.rows.map(row => row.data)
@@ -330,11 +364,12 @@ export async function saveSettings(settings) {
 }
 
 export async function resetDemoData() {
-  await query('TRUNCATE products, quotes, settings')
+  await query('TRUNCATE products, quotes, articles, settings')
   for (const product of seedProducts) await saveProduct(product)
   for (const quote of seedQuotes) await saveQuote(quote)
+  for (const article of seedArticles) await saveArticle(article)
   await saveSettings(seedSettings)
-  return { products: seedProducts, quotes: seedQuotes, settings: seedSettings }
+  return { products: seedProducts, quotes: seedQuotes, articles: seedArticles, settings: seedSettings }
 }
 
 export async function recordAnalyticsEvent(event) {

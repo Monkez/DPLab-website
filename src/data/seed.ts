@@ -1,5 +1,6 @@
 import type { QuoteRequest, StoreSettings } from "../types";
 import { industrialCategories } from "./industrialTaxonomy";
+export { seedArticles } from "../../backend/src/articleSeed.js";
 export { verifiedProducts as seedProducts } from "./verifiedProducts";
 
 export const seedQuotes: QuoteRequest[] = [];

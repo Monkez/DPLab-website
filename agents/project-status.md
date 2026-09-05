@@ -32,6 +32,9 @@
 - Admin đã có RBAC phía backend và tab `Tài khoản`: root lấy từ Railway, role preset/quyền tùy chỉnh, tạo/sửa/đặt lại mật khẩu/khóa/xóa tài khoản phụ. Schema `admin_users` tự migration, quyền được kiểm tra lại từ database ở mỗi request.
 - Login admin không reload document; frontend refresh bootstrap trực tiếp sau khi lưu token để tránh quay lại form đăng nhập do race condition session.
 - Đã sửa async route wrapper chuyển tiếp Express `next`, tránh lỗi 500 trên `/api/admin/me` và `/api/admin/users` khi RBAC middleware cho phép request.
+- Đã bổ sung CMS Tin tức: bảng `articles`, 3 bài seed, danh sách/chi tiết public, bài nổi bật ở trang chủ, CRUD admin và quyền `articles.manage`.
+- SEO kỹ thuật có canonical, Open Graph/Twitter, JSON-LD Organization/Product/Article và sitemap động từ PostgreSQL. Frontend server chèn metadata vào HTML trước khi trả crawler; hướng dẫn Search Console tại `docs/seo-and-news-guide.md`.
+- Có `check-seo.bat [frontend-url]` để kiểm tra HTTP, title, description, canonical, JSON-LD, robots và sitemap sau deploy.
 
 ## File cần đọc
 
@@ -39,6 +42,7 @@
 - `docs/technical-implementation.md`
 - `docs/catalog-data-sources.md`
 - `docs/deploy-railway.md`
+- `docs/seo-and-news-guide.md`
 - `README.md`
 
 ## Việc nên làm tiếp

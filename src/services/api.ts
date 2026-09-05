@@ -1,4 +1,4 @@
-import type { AdminPermission, AdminRole, AdminUser, AnalyticsDevice, AnalyticsEvent, Product, QuoteRequest, StoreSettings } from '../types'
+import type { AdminPermission, AdminRole, AdminUser, AnalyticsDevice, AnalyticsEvent, Article, Product, QuoteRequest, StoreSettings } from '../types'
 
 const API_URL = (import.meta.env.VITE_API_URL as string | undefined)?.replace(/\/$/, '')
 const ADMIN_SESSION_KEY = 'dtpt_industrial_admin_session'
@@ -38,10 +38,12 @@ export const api = {
   createAdminUser: (payload: { username: string; password: string; displayName: string; role: AdminRole; permissions: AdminPermission[] }) => request<AdminUser>('/api/admin/users', { method: 'POST', admin: true, body: JSON.stringify(payload) }),
   updateAdminUser: (username: string, payload: { password?: string; displayName?: string; role?: AdminRole; permissions?: AdminPermission[]; active?: boolean }) => request<AdminUser>(`/api/admin/users/${encodeURIComponent(username)}`, { method: 'PUT', admin: true, body: JSON.stringify(payload) }),
   deleteAdminUser: (username: string) => request<void>(`/api/admin/users/${encodeURIComponent(username)}`, { method: 'DELETE', admin: true }),
-  bootstrap: (admin = false) => request<{ products: Product[]; quotes: QuoteRequest[]; settings: StoreSettings }>('/api/bootstrap', admin ? { admin: true } : undefined),
+  bootstrap: (admin = false) => request<{ products: Product[]; quotes: QuoteRequest[]; articles: Article[]; settings: StoreSettings }>('/api/bootstrap', admin ? { admin: true } : undefined),
   createQuote: (payload: Pick<QuoteRequest, 'customer' | 'items'>) => request<QuoteRequest>('/api/quotes', { method: 'POST', body: JSON.stringify(payload) }),
   saveProduct: (product: Product) => request<Product>(`/api/products/${encodeURIComponent(product.id)}`, { method: 'PUT', admin: true, body: JSON.stringify(product) }),
   deleteProduct: (id: string) => request<void>(`/api/products/${encodeURIComponent(id)}`, { method: 'DELETE', admin: true }),
+  saveArticle: (article: Article, isNew = false) => request<Article>(isNew ? '/api/articles' : `/api/articles/${encodeURIComponent(article.id)}`, { method: isNew ? 'POST' : 'PUT', admin: true, body: JSON.stringify(article) }),
+  deleteArticle: (id: string) => request<void>(`/api/articles/${encodeURIComponent(id)}`, { method: 'DELETE', admin: true }),
   updateQuoteStatus: (id: string, status: QuoteRequest['status']) => request<QuoteRequest>(`/api/quotes/${encodeURIComponent(id)}/status`, { method: 'PATCH', admin: true, body: JSON.stringify({ status }) }),
   updateSettings: (settings: StoreSettings) => request<StoreSettings>('/api/settings', { method: 'PUT', admin: true, body: JSON.stringify(settings) }),
   trackPageView: async (path: string, productId?: string) => {

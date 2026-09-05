@@ -6,6 +6,7 @@ import {
   authenticateAdmin,
   createAdminUser,
   deleteProduct,
+  deleteArticle,
   deleteAdminUser,
   getAdminUser,
   getSettings,
@@ -14,9 +15,11 @@ import {
   listAnalyticsEvents,
   listQuotes,
   listProducts,
+  listArticles,
   resetDemoData,
   saveQuote,
   saveProduct,
+  saveArticle,
   saveSettings,
   recordAnalyticsEvent,
   updateQuoteStatus,
@@ -115,14 +118,23 @@ function isValidSettings(settings) {
   return settings.visibility && settings.appearance && [3, 4].includes(Number(settings.appearance.productsPerRow))
 }
 
+function isValidArticle(article) {
+  return Boolean(
+    article?.id?.trim?.() && article?.slug?.trim?.() && article?.title?.trim?.() &&
+    article?.excerpt?.trim?.() && article?.content?.trim?.() && article?.author?.trim?.() &&
+    ['published', 'draft'].includes(article.status) && Array.isArray(article.tags) &&
+    /^[-a-z0-9]+$/.test(article.slug)
+  )
+}
+
 app.get('/api/health', (_req, res) => {
   res.json({ ok: true, service: 'dtpt-industrial-api' })
 })
 
 app.get('/api/bootstrap', asyncRoute(async (_req, res) => {
   const admin = await resolveAdmin(_req)
-  const [products, quotes, settings] = await Promise.all([listProducts(), listQuotes(), getSettings()])
-  res.json({ products, quotes: admin && hasPermission(admin, 'quotes.view') ? quotes : [], settings })
+  const [products, quotes, articles, settings] = await Promise.all([listProducts(), listQuotes(), listArticles(), getSettings()])
+  res.json({ products, quotes: admin && hasPermission(admin, 'quotes.view') ? quotes : [], articles: admin && hasPermission(admin, 'articles.manage') ? articles : articles.filter(article => article.status === 'published'), settings })
 }))
 
 app.post('/api/admin/login', asyncRoute(async (req, res) => {
@@ -190,6 +202,47 @@ app.put('/api/products/:id', requirePermission('products.manage'), asyncRoute(as
 app.delete('/api/products/:id', requirePermission('products.manage'), asyncRoute(async (req, res) => {
   await deleteProduct(req.params.id)
   res.status(204).end()
+}))
+
+app.get('/api/articles', asyncRoute(async (req, res) => {
+  const admin = await resolveAdmin(req)
+  const articles = await listArticles()
+  res.json(admin && hasPermission(admin, 'articles.manage') ? articles : articles.filter(article => article.status === 'published'))
+}))
+
+app.post('/api/articles', requirePermission('articles.manage'), asyncRoute(async (req, res) => {
+  const article = req.body
+  if (!isValidArticle(article)) return res.status(400).json({ message: 'Bài viết thiếu tiêu đề, slug, mô tả, nội dung hoặc tác giả' })
+  const articles = await listArticles()
+  if (articles.some(item => item.id !== article.id && item.slug === article.slug)) return res.status(409).json({ message: 'Slug bài viết đã tồn tại' })
+  res.status(201).json(await saveArticle(article))
+}))
+
+app.put('/api/articles/:id', requirePermission('articles.manage'), asyncRoute(async (req, res) => {
+  const article = { ...req.body, id: req.params.id }
+  if (!isValidArticle(article)) return res.status(400).json({ message: 'Bài viết thiếu tiêu đề, slug, mô tả, nội dung hoặc tác giả' })
+  const articles = await listArticles()
+  if (articles.some(item => item.id !== article.id && item.slug === article.slug)) return res.status(409).json({ message: 'Slug bài viết đã tồn tại' })
+  res.json(await saveArticle(article))
+}))
+
+app.delete('/api/articles/:id', requirePermission('articles.manage'), asyncRoute(async (req, res) => {
+  await deleteArticle(req.params.id)
+  res.status(204).end()
+}))
+
+app.get('/api/sitemap.xml', asyncRoute(async (_req, res) => {
+  const baseUrl = 'https://www.dtpt.shop'
+  const [products, articles] = await Promise.all([listProducts(), listArticles()])
+  const urls = [
+    { loc: `${baseUrl}/`, priority: '1.0' },
+    { loc: `${baseUrl}/san-pham`, priority: '0.9' },
+    { loc: `${baseUrl}/tin-tuc`, priority: '0.8' },
+    ...products.filter(item => item.status === 'active').map(item => ({ loc: `${baseUrl}/san-pham/${encodeURIComponent(item.slug)}`, priority: '0.7', lastmod: item.priceUpdatedAt })),
+    ...articles.filter(item => item.status === 'published').map(item => ({ loc: `${baseUrl}/tin-tuc/${encodeURIComponent(item.slug)}`, priority: '0.7', lastmod: item.updatedAt || item.publishedAt })),
+  ]
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(item => `  <url>\n    <loc>${item.loc}</loc>${item.lastmod ? `\n    <lastmod>${String(item.lastmod).slice(0, 10)}</lastmod>` : ''}\n    <priority>${item.priority}</priority>\n  </url>`).join('\n')}\n</urlset>`
+  res.type('application/xml').send(xml)
 }))
 
 app.get('/api/quotes', requirePermission('quotes.view'), asyncRoute(async (_req, res) => {

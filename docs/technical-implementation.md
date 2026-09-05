@@ -4,7 +4,7 @@
 
 - Frontend SPA: Vite, React, TypeScript; build tĩnh và phục vụ bằng Node/`serve-handler` trên Railway, có fallback History API cho route trực tiếp.
 - Backend: Express chạy trên Railway, PostgreSQL cùng Railway Project, CORS allow-list, phiên admin ký HMAC.
-- Dữ liệu cốt lõi: `products`, `quotes`, `settings`, `admin_users`, `analytics_events`.
+- Dữ liệu cốt lõi: `products`, `articles`, `quotes`, `settings`, `admin_users`, `analytics_events`.
 
 Production gồm ba Railway service: `frontend` public tại `www.dtpt.shop`, `backend` public tại `api.dtpt.shop`, và `Postgres` chỉ nối nội bộ. Trình duyệt gọi backend qua HTTPS công khai; chỉ backend dùng private `DATABASE_URL` của Railway.
 
@@ -37,6 +37,10 @@ RBAC được lưu trực tiếp trong `admin_users` qua `role`, `permissions` J
 Tài khoản trùng `ADMIN_DEFAULT_USERNAME` được bảo đảm là root/owner sau mỗi lần khởi động nhưng mật khẩu không bị reset lại từ environment. Nếu bảng chưa có tài khoản này và Railway có đủ username/password, backend sẽ tạo tài khoản gốc.
 
 Sau khi login, frontend giữ nguyên trang và gọi lại bootstrap bằng token vừa nhận thay vì reload toàn bộ document. Cách này tránh race condition giữa khôi phục session, bootstrap và `/api/admin/me`, đồng thời nạp ngay dữ liệu theo quyền của tài khoản.
+
+Bài viết được lưu riêng trong bảng `articles` dưới dạng JSONB, có unique index theo slug. Public bootstrap chỉ trả bài `published`; tài khoản có `articles.manage` nhận cả bản nháp. Frontend có trang `/tin-tuc`, route chi tiết `/tin-tuc/:slug` và trình biên tập Markdown đơn giản trong admin.
+
+Frontend server chèn metadata SEO vào HTML trước khi gửi response. Sitemap `/sitemap.xml` được frontend proxy từ `/api/sitemap.xml`, vì vậy sản phẩm/bài viết mới xuất bản được đưa vào sitemap mà không cần build lại frontend. Cache dữ liệu SEO là 5 phút.
 
 `asyncRoute` phải chuyển tiếp đủ `(req, res, next)` cho permission middleware. Nếu bỏ `next`, mọi route RBAC sẽ lỗi `TypeError: next is not a function` dù token và database hợp lệ.
 

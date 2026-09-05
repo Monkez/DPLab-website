@@ -1,6 +1,25 @@
 export type ProductStatus = "active" | "draft";
 export type QuoteStatus = "new" | "reviewing" | "quoted" | "won" | "closed";
 export type PriceMode = "fixed" | "from" | "range" | "contact";
+export type ArticleStatus = "published" | "draft";
+
+export interface Article {
+  id: string;
+  slug: string;
+  title: string;
+  excerpt: string;
+  content: string;
+  coverImage: string;
+  category: string;
+  tags: string[];
+  author: string;
+  status: ArticleStatus;
+  featured: boolean;
+  publishedAt: string;
+  updatedAt: string;
+  seoTitle?: string;
+  seoDescription?: string;
+}
 
 export interface ProductSpecification {
   label: string;
@@ -108,7 +127,7 @@ export interface AdminUser {
 export type AdminRole = "owner" | "administrator" | "catalog_editor" | "content_editor" | "sales" | "viewer" | "custom";
 export type AdminPermission =
   | "quotes.view" | "quotes.manage" | "products.manage" | "categories.manage"
-  | "branding.manage" | "content.manage" | "display.manage" | "analytics.view"
+  | "branding.manage" | "content.manage" | "articles.manage" | "display.manage" | "analytics.view"
   | "users.manage" | "system.reset";
 export type AnalyticsDevice = "desktop" | "tablet" | "mobile";
 export interface AnalyticsEvent {
