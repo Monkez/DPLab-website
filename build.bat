@@ -14,6 +14,8 @@ node --check backend\src\server.js
 if errorlevel 1 goto :error
 node --check backend\src\db.js
 if errorlevel 1 goto :error
+node --input-type=module -e "import('./backend/src/seed.js').then(m => { if(!Array.isArray(m.seedProducts) || m.seedProducts.length === 0) process.exit(1) })"
+if errorlevel 1 goto :error
 echo.
 echo Build verification passed.
 exit /b 0

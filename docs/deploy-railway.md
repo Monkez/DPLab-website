@@ -7,7 +7,7 @@ Tài liệu này chuyển production từ Vercel + Render sang một Railway Pro
 | Railway service | Source / Root Directory | Public URL | Vai trò |
 |---|---|---|---|
 | `frontend` | GitHub repo, `/` | `https://www.dtpt.shop` | React/Vite storefront và `/admin` |
-| `backend` | Cùng GitHub repo, `/backend` | `https://api.dtpt.shop` | Express API |
+| `backend` | Cùng GitHub repo, `/` | `https://api.dtpt.shop` | Express API; đọc catalogue dùng chung từ root |
 | `Postgres` | Railway PostgreSQL | Không public khi vận hành | Sản phẩm, CMS, admin, RFQ, analytics |
 
 Frontend không thể gọi hostname `.railway.internal` vì JavaScript chạy trong trình duyệt. Chỉ backend kết nối Postgres qua private network.
@@ -25,11 +25,13 @@ Nếu cần giữ tài khoản admin, nội dung CMS và RFQ hiện tại, hãy 
 
 1. Chọn **Create → GitHub Repo**, kết nối repo `Monkez/DPLab-website`.
 2. Đổi tên service thành `backend`.
-3. Trong **Settings → Source**, đặt **Root Directory** là `/backend`.
-4. Railway/Railpack sẽ đọc `backend/package.json`. Xác nhận:
-   - Build Command: `npm ci`
-   - Start Command: `npm start`
+3. Trong **Settings → Source**, đặt **Root Directory** là `/`.
+4. Xác nhận:
+   - Build Command: `npm run build:backend`
+   - Start Command: `npm run start:backend`
    - Healthcheck Path: `/api/health`
+
+Không đặt Root Directory là `/backend`. File seed backend nhập catalogue dùng chung tại `src/data/catalogExpansion.js`; nếu chỉ đóng gói thư mục backend, container sẽ lỗi `ERR_MODULE_NOT_FOUND`.
 5. Trong **Variables**, dùng Raw Editor và nhập các dòng sau. Thay các giá trị trong dấu `<...>`:
 
 ```dotenv

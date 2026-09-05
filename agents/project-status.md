@@ -21,6 +21,7 @@
 - Frontend build, lint và QA trình duyệt desktop/mobile đã đạt ngày 21/08/2026.
 - Kiến trúc production mục tiêu đã chuyển hoàn toàn sang Railway: service `frontend`, service `backend` và service `Postgres`; không dùng Vercel/Render sau khi cutover hoàn tất.
 - Domain mục tiêu: `https://www.dtpt.shop` cho frontend và `https://api.dtpt.shop` cho backend. Frontend cần build-time variable `VITE_API_URL=https://api.dtpt.shop`.
+- Cả hai Railway service dùng Root Directory `/`. Backend không được dùng `/backend` vì `backend/src/seed.js` nhập catalogue chung từ root `src/data`; lệnh riêng là `npm run build:backend` và `npm run start:backend`.
 - Giá trên giao diện là giá bán tại Việt Nam đã gồm VAT; không hiển thị giá gốc hay công thức lợi nhuận. Giá nội bộ ưu tiên thị trường VN, nếu chưa có thì dùng landed cost + lợi nhuận 15% + VAT dự phòng. Chi tiết nằm tại `docs/catalog-data-sources.md`.
 - Dịch vụ Vercel/Render cũ phải được giữ nguyên đến khi dữ liệu PostgreSQL đã chuyển, Railway checks đạt và DNS ổn định; sau đó mới tắt để có đường rollback.
 - Admin đã được nâng thành CMS chuyên sâu: CRUD/ẩn hiện sản phẩm, tag, giá, thông số, ảnh, SEO; quản lý ngành hàng/phân nhóm; sửa logo, slogan, liên hệ và toàn bộ nội dung chính; chỉnh màu, kiểu thẻ và công tắc hiển thị từng khu vực.

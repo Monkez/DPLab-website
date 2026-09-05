@@ -6,9 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "build:backend": "npm ci --prefix backend && npm run build --prefix backend",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "node scripts/serve-frontend.mjs"
+    "start": "node scripts/serve-frontend.mjs",
+    "start:backend": "npm start --prefix backend"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",

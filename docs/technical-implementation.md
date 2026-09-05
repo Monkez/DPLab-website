@@ -8,6 +8,8 @@
 
 Production gồm ba Railway service: `frontend` public tại `www.dtpt.shop`, `backend` public tại `api.dtpt.shop`, và `Postgres` chỉ nối nội bộ. Trình duyệt gọi backend qua HTTPS công khai; chỉ backend dùng private `DATABASE_URL` của Railway.
 
+Cả frontend và backend Railway service phải dùng repository root `/`. Backend seed nhập `src/data/catalogExpansion.js` dùng chung với frontend, vì vậy không được đặt Root Directory thành `/backend`. Backend dùng riêng lệnh `npm run build:backend` và `npm run start:backend` để cài/chạy package trong thư mục `backend`.
+
 ## Mô hình sản phẩm
 
 Sản phẩm không còn các trường đặc thù laptop. Mỗi thiết bị có ngành hàng, phân nhóm, model, thương hiệu, xuất xứ, chế độ giá, thời gian cung cấp, bảo hành, highlights, ứng dụng và bảng thông số mở rộng. Catalogue xác minh còn lưu ảnh thực tế, trang hãng, datasheet, nguồn giá, giá gốc, ngày cập nhật và ghi chú cách hình thành ngân sách tham khảo. Quy ước nguồn dữ liệu nằm tại `docs/catalog-data-sources.md`.
