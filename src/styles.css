@@ -68,8 +68,7 @@ a {
   height: 78px;
   display: flex;
   align-items: center;
-  gap: 24px;
-  width: min(1600px, calc(100% - 40px));
+  gap: 16px;
 }
 .brand {
   border: 0;
@@ -77,7 +76,7 @@ a {
   padding: 0;
 }
 .brand img {
-  width: 178px;
+  width: 150px;
   height: 48px;
   object-fit: contain;
 }
@@ -85,7 +84,7 @@ a {
 .nav {
   display: flex;
   align-items: center;
-  gap: 22px;
+  gap: 14px;
   margin-right: auto;
 }
 .nav button {
@@ -93,6 +92,7 @@ a {
   background: none;
   color: #273a52;
   font-weight: 700;
+  font-size: 14px;
   white-space: nowrap;
 }
 .nav button:hover {
@@ -161,10 +161,10 @@ a {
 .header__actions {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
 }
 .search {
-  width: 230px;
+  width: 190px;
   height: 42px;
   border: 1px solid var(--line);
   border-radius: 6px;
@@ -197,6 +197,11 @@ a {
   justify-content: center;
   gap: 8px;
 }
+.header .quote-button {
+  padding-inline: 14px;
+  font-size: 14px;
+}
+.header .quote-button svg { width: 16px; }
 .quote-button svg,
 .primary-button svg {
   width: 18px;
@@ -1435,7 +1440,7 @@ body[data-card-style="compact"] .product-card__body { padding-bottom: 15px; }
 .article-admin-list > article { display: grid; grid-template-columns: 82px minmax(300px, 1fr) 135px 130px; gap: 16px; align-items: center; background: #fff; border: 1px solid #dfe6ed; border-radius: 8px; padding: 11px; }
 .article-admin-list > article > div:nth-child(2) { display: grid; gap: 4px; }
 .article-admin-list span, .article-admin-list small { color: var(--muted); font-size: 12px; }
-@media (max-width: 1240px) {
+@media (max-width: 1120px) {
   .nav {
     display: none;
   }

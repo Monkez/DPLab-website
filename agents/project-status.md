@@ -34,7 +34,7 @@
 - Đã sửa async route wrapper chuyển tiếp Express `next`, tránh lỗi 500 trên `/api/admin/me` và `/api/admin/users` khi RBAC middleware cho phép request.
 - Đã bổ sung CMS Tin tức: bảng `articles`, 3 bài seed, danh sách/chi tiết public, bài nổi bật ở trang chủ, CRUD admin và quyền `articles.manage`.
 - Hero trang chủ có CTA `Tin tức` riêng; header và khối bài viết cuối trang cũng đều dẫn tới `/tin-tuc` trên desktop/mobile.
-- Header desktop dùng vùng chứa rộng tối đa 1600px và khóa nhãn menu một dòng; dưới 1240px tự chuyển sang menu mobile để không còn chữ/nút bị tách thành hai hàng.
+- Header desktop giữ cùng lưới 1180px với body, dùng logo/menu/tìm kiếm/CTA dạng gọn và khóa nhãn một dòng; dưới 1120px tự chuyển sang menu mobile.
 - SEO kỹ thuật có canonical, Open Graph/Twitter, JSON-LD Organization/Product/Article và sitemap động từ PostgreSQL. Frontend server chèn metadata vào HTML trước khi trả crawler; hướng dẫn Search Console tại `docs/seo-and-news-guide.md`.
 - Có `check-seo.bat [frontend-url]` để kiểm tra HTTP, title, description, canonical, JSON-LD, robots và sitemap sau deploy.
 
