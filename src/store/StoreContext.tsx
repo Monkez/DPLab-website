@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from 'react'
+import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react'
 import { seedProducts, seedQuotes, seedSettings } from '../data/seed'
 import { api } from '../services/api'
 import type { CustomerInfo, Product, QuoteItem, QuoteRequest, QuoteStatus, StoreSettings } from '../types'
@@ -12,6 +12,7 @@ interface StoreValue {
   addToQuote: (id: string) => void; updateQuoteItem: (id: string, quantity: number, requirement?: string) => void; clearQuote: () => void
   submitQuote: (customer: CustomerInfo) => Promise<QuoteRequest>; saveProduct: (product: Product) => Promise<void>; deleteProduct: (id: string) => Promise<void>
   updateQuoteStatus: (id: string, status: QuoteStatus) => Promise<void>; updateSettings: (settings: StoreSettings) => Promise<void>
+  refreshData: (admin?: boolean) => Promise<void>
 }
 
 export function StoreProvider({ children }: { children: ReactNode }) {
@@ -20,12 +21,25 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   const [quoteItems, setQuoteItems] = useState<QuoteItem[]>(() => read('dtpt_quote_items', []))
   const [settings, setSettings] = useState<StoreSettings>(seedSettings)
 
-  useEffect(() => { if (api.enabled) api.bootstrap(Boolean(api.getAdminSession())).then(data => { setProducts(data.products.length ? data.products : seedProducts); setQuotes(data.quotes); setSettings(normalizeSettings(data.settings)) }).catch(console.warn) }, [])
+  const refreshData = useCallback(async (admin = Boolean(api.getAdminSession())) => {
+    if (!api.enabled) return
+    const data = await api.bootstrap(admin)
+    setProducts(data.products.length ? data.products : seedProducts)
+    setQuotes(data.quotes)
+    setSettings(normalizeSettings(data.settings))
+  }, [])
+  useEffect(() => {
+    if (api.enabled) void api.bootstrap(Boolean(api.getAdminSession())).then(data => {
+      setProducts(data.products.length ? data.products : seedProducts)
+      setQuotes(data.quotes)
+      setSettings(normalizeSettings(data.settings))
+    }).catch(console.warn)
+  }, [])
   useEffect(() => localStorage.setItem('dtpt_quote_items', JSON.stringify(quoteItems)), [quoteItems])
   const quoteCount = quoteItems.reduce((sum, item) => sum + item.quantity, 0)
 
   const value = useMemo<StoreValue>(() => ({
-    products, quotes, quoteItems, settings, quoteCount,
+    products, quotes, quoteItems, settings, quoteCount, refreshData,
     addToQuote: id => setQuoteItems(items => items.some(item => item.productId === id) ? items.map(item => item.productId === id ? { ...item, quantity: item.quantity + 1 } : item) : [...items, { productId: id, quantity: 1 }]),
     updateQuoteItem: (id, quantity, requirement) => setQuoteItems(items => quantity <= 0 ? items.filter(item => item.productId !== id) : items.map(item => item.productId === id ? { ...item, quantity, requirement } : item)),
     clearQuote: () => setQuoteItems([]),
@@ -34,7 +48,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
     deleteProduct: async id => { if (api.enabled) await api.deleteProduct(id); setProducts(items => items.filter(item => item.id !== id)) },
     updateQuoteStatus: async (id, status) => { if (api.enabled) await api.updateQuoteStatus(id, status); setQuotes(items => items.map(item => item.id === id ? { ...item, status } : item)) },
     updateSettings: async next => { const normalized = normalizeSettings(next); const saved = api.enabled ? await api.updateSettings(normalized) : normalized; setSettings(normalizeSettings(saved)) },
-  }), [products, quotes, quoteItems, settings, quoteCount])
+  }), [products, quotes, quoteItems, settings, quoteCount, refreshData])
   return <StoreContext.Provider value={value}>{children}</StoreContext.Provider>
 }
 
