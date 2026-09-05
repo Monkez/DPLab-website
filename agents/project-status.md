@@ -31,6 +31,7 @@
 - Tab `Thương hiệu` hỗ trợ chọn favicon riêng cho tab trình duyệt, độc lập với logo header/footer.
 - Admin đã có RBAC phía backend và tab `Tài khoản`: root lấy từ Railway, role preset/quyền tùy chỉnh, tạo/sửa/đặt lại mật khẩu/khóa/xóa tài khoản phụ. Schema `admin_users` tự migration, quyền được kiểm tra lại từ database ở mỗi request.
 - Login admin không reload document; frontend refresh bootstrap trực tiếp sau khi lưu token để tránh quay lại form đăng nhập do race condition session.
+- Đã sửa async route wrapper chuyển tiếp Express `next`, tránh lỗi 500 trên `/api/admin/me` và `/api/admin/users` khi RBAC middleware cho phép request.
 
 ## File cần đọc
 

@@ -38,6 +38,8 @@ Tài khoản trùng `ADMIN_DEFAULT_USERNAME` được bảo đảm là root/owne
 
 Sau khi login, frontend giữ nguyên trang và gọi lại bootstrap bằng token vừa nhận thay vì reload toàn bộ document. Cách này tránh race condition giữa khôi phục session, bootstrap và `/api/admin/me`, đồng thời nạp ngay dữ liệu theo quyền của tài khoản.
 
+`asyncRoute` phải chuyển tiếp đủ `(req, res, next)` cho permission middleware. Nếu bỏ `next`, mọi route RBAC sẽ lỗi `TypeError: next is not a function` dù token và database hợp lệ.
+
 ## An toàn dữ liệu RFQ
 
 - Client chỉ gửi thông tin liên hệ và danh sách `{productId, quantity, requirement}`.

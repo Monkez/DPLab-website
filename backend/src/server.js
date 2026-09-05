@@ -49,7 +49,7 @@ app.use(cors({
 app.use(express.json({ limit: '8mb' }))
 
 const asyncRoute = handler => async (req, res, next) => {
-  try { await handler(req, res) }
+  try { await handler(req, res, next) }
   catch (error) { next(error) }
 }
 
