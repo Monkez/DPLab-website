@@ -4,9 +4,15 @@ import { seedProducts, seedQuotes, seedSettings } from './seed.js'
 
 const { Pool } = pg
 
+const databaseUrl = process.env.DATABASE_URL || ''
+const configuredSsl = process.env.DATABASE_SSL?.trim().toLowerCase()
+const useDatabaseSsl = configuredSsl
+  ? ['1', 'true', 'require', 'required'].includes(configuredSsl)
+  : Boolean(databaseUrl) && !['localhost', '127.0.0.1', '.railway.internal'].some(host => databaseUrl.includes(host))
+
 export const pool = new Pool({
-  connectionString: process.env.DATABASE_URL,
-  ssl: process.env.DATABASE_URL?.includes('localhost') ? false : { rejectUnauthorized: false },
+  connectionString: databaseUrl,
+  ssl: useDatabaseSsl ? { rejectUnauthorized: false } : false,
 })
 
 export async function query(text, params) {

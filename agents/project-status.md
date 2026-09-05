@@ -1,6 +1,6 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 22/08/2026
+> Cập nhật: 05/09/2026
 
 ## Quyết định cố định
 
@@ -19,9 +19,10 @@
 - Đã thay giao diện trang chủ, catalogue, chi tiết, RFQ và admin.
 - Backend dùng bảng `quotes`, sinh ID phía server, kiểm tra product ID/số lượng và không còn credential mặc định hard-code.
 - Frontend build, lint và QA trình duyệt desktop/mobile đã đạt ngày 21/08/2026.
-- Production frontend: `https://dtpt-techs-industrial.vercel.app`.
+- Kiến trúc production mục tiêu đã chuyển hoàn toàn sang Railway: service `frontend`, service `backend` và service `Postgres`; không dùng Vercel/Render sau khi cutover hoàn tất.
+- Domain mục tiêu: `https://www.dtpt.shop` cho frontend và `https://api.dtpt.shop` cho backend. Frontend cần build-time variable `VITE_API_URL=https://api.dtpt.shop`.
 - Giá trên giao diện là giá bán tại Việt Nam đã gồm VAT; không hiển thị giá gốc hay công thức lợi nhuận. Giá nội bộ ưu tiên thị trường VN, nếu chưa có thì dùng landed cost + lợi nhuận 15% + VAT dự phòng. Chi tiết nằm tại `docs/catalog-data-sources.md`.
-- Backend Render tại `https://dplab-website.onrender.com` đã hoạt động lại ngày 22/08/2026; `/api/bootstrap` trả đủ 88 sản phẩm, 8 ngành hàng và settings CMS mở rộng.
+- Dịch vụ Vercel/Render cũ phải được giữ nguyên đến khi dữ liệu PostgreSQL đã chuyển, Railway checks đạt và DNS ổn định; sau đó mới tắt để có đường rollback.
 - Admin đã được nâng thành CMS chuyên sâu: CRUD/ẩn hiện sản phẩm, tag, giá, thông số, ảnh, SEO; quản lý ngành hàng/phân nhóm; sửa logo, slogan, liên hệ và toàn bộ nội dung chính; chỉnh màu, kiểu thẻ và công tắc hiển thị từng khu vực.
 - Taxonomy storefront lấy từ `settings.categories`. Settings cũ được merge sâu với mặc định ở cả frontend và backend, không cần migration JSONB.
 - Backend đã thêm validation tối thiểu cho product/settings và allow-list CORS cho `dtpt.shop` / `www.dtpt.shop`.
@@ -33,6 +34,7 @@
 - `docs/ke-hoach-chuyen-doi-dtpt-techs.md`
 - `docs/technical-implementation.md`
 - `docs/catalog-data-sources.md`
+- `docs/deploy-railway.md`
 - `README.md`
 
 ## Việc nên làm tiếp
@@ -40,3 +42,4 @@
 - Xin media kit/quyền sử dụng ảnh trực tiếp từ hãng hoặc nhà phân phối trước khi chạy quảng cáo/brochure.
 - Xác nhận giá, VAT, bảo hành và lead time trong từng báo giá; giá website chỉ là ngân sách tham khảo.
 - Bổ sung email thông báo RFQ và CRM ở giai đoạn sau.
+- Thực hiện checklist cutover Railway trong `docs/deploy-railway.md`; chưa được ghi nhận là production cho tới khi người dùng hoàn tất tạo service, secrets và DNS trên tài khoản Railway.

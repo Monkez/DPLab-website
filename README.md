@@ -2,13 +2,14 @@
 
 Website catalogue B2B cho **DTPT Techs**, tập trung vào thiết bị công nghiệp, đo lường, machine vision, tự động hóa và thiết bị nghiên cứu. Frontend dùng Vite + React + TypeScript; backend dùng Express + PostgreSQL.
 
-Production: [www.dtpt.shop](https://www.dtpt.shop) · Backend: [dplab-website.onrender.com](https://dplab-website.onrender.com/api/health)
+Production: [www.dtpt.shop](https://www.dtpt.shop) · API dự kiến: [api.dtpt.shop](https://api.dtpt.shop/api/health)
 
 ## Chạy nhanh trên Windows
 
 - `setup.bat`: cài dependency frontend và backend, tạo file môi trường mẫu nếu chưa có.
 - `run.bat`: chạy đồng thời frontend và backend trong một cửa sổ.
 - `build.bat`: lint, build frontend và kiểm tra cú pháp backend.
+- `check-production.bat`: kiểm tra frontend, API health và catalogue sau khi chuyển DNS.
 
 Backend cần `DATABASE_URL`, `ADMIN_SESSION_SECRET`, `ADMIN_DEFAULT_USERNAME` và `ADMIN_DEFAULT_PASSWORD` trong `backend/.env`. Frontend vẫn chạy được với catalogue tích hợp sẵn nếu chưa cấu hình `VITE_API_URL`.
 
@@ -26,7 +27,9 @@ Admin CMS tại `/admin` còn hỗ trợ tag/phân loại, nội dung trang ch�
 
 ## Deploy
 
-- Frontend: Vercel, build `npm run build`, output `dist`, đặt `VITE_API_URL` tới backend.
-- Backend: Render Blueprint qua `render.yaml`; nhập username/password admin ở Environment trước lần khởi tạo đầu tiên.
+- Toàn bộ production chạy trong một Railway Project gồm `frontend`, `backend` và `Postgres`.
+- Frontend dùng root directory `/`, build `npm run build`, start `npm start`.
+- Backend dùng root directory `/backend`, kết nối Postgres bằng Railway reference variable.
+- Quy trình dựng service, chuyển dữ liệu, kiểm thử và đổi DNS: [docs/deploy-railway.md](docs/deploy-railway.md).
 
 Chi tiết kiến trúc và quy trình nằm trong [docs/technical-implementation.md](docs/technical-implementation.md).

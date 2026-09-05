@@ -7,7 +7,9 @@ if errorlevel 1 goto :error
 echo [2/3] Building frontend...
 call npm run build
 if errorlevel 1 goto :error
-echo [3/3] Checking backend syntax...
+echo [3/3] Checking Railway production commands and backend syntax...
+node -e "const p=require('./package.json'); if(!p.scripts || !p.scripts.start) process.exit(1)"
+if errorlevel 1 goto :error
 node --check backend\src\server.js
 if errorlevel 1 goto :error
 node --check backend\src\db.js

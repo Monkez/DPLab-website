@@ -2,9 +2,11 @@
 
 ## Kiến trúc
 
-- Frontend SPA: Vite, React, TypeScript; routing nhẹ bằng History API.
-- Backend: Express, PostgreSQL, CORS allow-list, phiên admin ký HMAC.
+- Frontend SPA: Vite, React, TypeScript; build tĩnh và phục vụ bằng Node/`serve-handler` trên Railway, có fallback History API cho route trực tiếp.
+- Backend: Express chạy trên Railway, PostgreSQL cùng Railway Project, CORS allow-list, phiên admin ký HMAC.
 - Dữ liệu cốt lõi: `products`, `quotes`, `settings`, `admin_users`, `analytics_events`.
+
+Production gồm ba Railway service: `frontend` public tại `www.dtpt.shop`, `backend` public tại `api.dtpt.shop`, và `Postgres` chỉ nối nội bộ. Trình duyệt gọi backend qua HTTPS công khai; chỉ backend dùng private `DATABASE_URL` của Railway.
 
 ## Mô hình sản phẩm
 
@@ -37,10 +39,12 @@ Backend kiểm tra các trường bắt buộc, trạng thái và kiểu giá tr
 
 ## Môi trường
 
-Frontend: `VITE_API_URL`. Backend: `DATABASE_URL`, `FRONTEND_URL`, `ADMIN_SESSION_SECRET`, `ADMIN_DEFAULT_USERNAME`, `ADMIN_DEFAULT_PASSWORD`, `ADMIN_DEFAULT_DISPLAY_NAME`.
+Frontend: `VITE_API_URL`. Backend: `DATABASE_URL`, `DATABASE_SSL`, `FRONTEND_URL`, `ADMIN_SESSION_SECRET`, `ADMIN_DEFAULT_USERNAME`, `ADMIN_DEFAULT_PASSWORD`, `ADMIN_DEFAULT_DISPLAY_NAME`.
+
+`DATABASE_SSL` mặc định được suy ra từ hostname: tắt cho local/private Railway, bật cho kết nối database ngoài. Có thể đặt rõ `true` hoặc `false` khi nhà cung cấp yêu cầu.
 
 Không lưu credential thật vào Git. Lần khởi tạo database mới sẽ dừng nếu chưa có username/password quản trị trong môi trường.
 
 ## Kiểm tra trước deploy
 
-Chạy `build.bat`, kiểm tra desktop/mobile trên trình duyệt, thử catalogue → chi tiết → thêm RFQ → gửi form, sau đó kiểm tra `/api/health` và deployment production.
+Chạy `build.bat`, kiểm tra desktop/mobile trên trình duyệt, thử catalogue → chi tiết → thêm RFQ → gửi form, sau đó chạy `check-production.bat` và kiểm tra deployment logs trên Railway. Quy trình production đầy đủ nằm tại `docs/deploy-railway.md`.
