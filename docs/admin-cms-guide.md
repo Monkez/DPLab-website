@@ -54,6 +54,17 @@ Hướng dẫn SEO và quy trình gửi sitemap nằm tại `docs/seo-and-news-g
 - Bật/tắt độc lập thanh thông báo, hero, ngành hàng, sản phẩm nổi bật, năng lực, liên hệ, footer, nút liên hệ nổi và ô tìm kiếm.
 - Công tắc chỉ ẩn giao diện, không xóa dữ liệu. Có thể bật lại bất kỳ lúc nào.
 
+## Báo cáo lưu lượng
+
+- Tab `Lưu lượng` tổng hợp theo 7, 30, 90 hoặc 365 ngày và so sánh với kỳ liền trước có cùng độ dài.
+- Chỉ số tổng quan gồm lượt xem, người truy cập, phiên truy cập, số trang mỗi phiên, tỷ lệ thoát và thời gian phiên trung bình.
+- Các bảng phân tích cho biết trang/sản phẩm được quan tâm, nguồn truy cập, chiến dịch UTM, thiết bị, trình duyệt, hệ điều hành và khung giờ truy cập.
+- Nguồn chiến dịch nhận các tham số `utm_source`, `utm_medium`, `utm_campaign`. Nếu không có UTM, hệ thống dùng website giới thiệu hoặc xếp vào `Trực tiếp`.
+- Hệ thống dùng mã ngẫu nhiên trong trình duyệt để phân biệt người truy cập và phiên; một phiên mới bắt đầu sau 30 phút không hoạt động. Hệ thống không lưu địa chỉ IP hay thông tin định danh cá nhân. Lượt xem khu vực `/admin` không được ghi nhận.
+- Thời gian phiên là ước tính từ lượt xem đầu đến lượt xem cuối trong cùng tab; phiên chỉ có một lượt xem có thời gian bằng 0 và được tính vào tỷ lệ thoát.
+
+Ngày tháng trên storefront và admin được hiển thị thống nhất theo `ngày/tháng/năm`; thời điểm có thêm giờ và phút theo múi giờ Việt Nam.
+
 ## Quy trình an toàn
 
 1. Sửa một nhóm nội dung và lưu.

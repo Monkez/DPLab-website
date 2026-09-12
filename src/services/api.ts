@@ -1,8 +1,11 @@
-import type { AdminPermission, AdminRole, AdminUser, AnalyticsDevice, AnalyticsEvent, Article, Product, QuoteRequest, StoreSettings } from '../types'
+import type { AdminPermission, AdminRole, AdminUser, AnalyticsDevice, AnalyticsEvent, AnalyticsReport, Article, Product, QuoteRequest, StoreSettings } from '../types'
 
 const API_URL = (import.meta.env.VITE_API_URL as string | undefined)?.replace(/\/$/, '')
 const ADMIN_SESSION_KEY = 'dtpt_industrial_admin_session'
 const createId = () => globalThis.crypto?.randomUUID?.() ?? `${Date.now()}-${Math.random().toString(36).slice(2)}`
+let lastTrackedPath = ''
+let lastTrackedAt = 0
+const ANALYTICS_SESSION_TIMEOUT = 30 * 60 * 1000
 
 export interface AdminSession { token: string; user: AdminUser }
 function getAdminSession(): AdminSession | null {
@@ -29,6 +32,20 @@ async function request<T>(path: string, options?: RequestInit & { admin?: boolea
   return response.json() as Promise<T>
 }
 function device(): AnalyticsDevice { return innerWidth < 768 ? 'mobile' : innerWidth < 1100 ? 'tablet' : 'desktop' }
+function browserName() { const ua = navigator.userAgent; return /Edg\//.test(ua) ? 'Edge' : /OPR\//.test(ua) ? 'Opera' : /Chrome\/|CriOS\//.test(ua) ? 'Chrome' : /Firefox\/|FxiOS\//.test(ua) ? 'Firefox' : /Safari\//.test(ua) ? 'Safari' : 'Khác' }
+function operatingSystem() { const ua = navigator.userAgent; return /Windows/.test(ua) ? 'Windows' : /Android/.test(ua) ? 'Android' : /iPhone|iPad/.test(ua) ? 'iOS/iPadOS' : /Mac OS/.test(ua) ? 'macOS' : /Linux/.test(ua) ? 'Linux' : 'Khác' }
+function analyticsSession() {
+  const now = Date.now(); const previousActivity = Number(sessionStorage.getItem('dtpt_session_last') || 0)
+  let id = sessionStorage.getItem('dtpt_session')
+  if (!id || now - previousActivity > ANALYTICS_SESSION_TIMEOUT) { id = createId(); sessionStorage.setItem('dtpt_session', id) }
+  sessionStorage.setItem('dtpt_session_last', String(now)); return id
+}
+function campaign() {
+  const params = new URLSearchParams(location.search)
+  const current = { utmSource: params.get('utm_source') || '', utmMedium: params.get('utm_medium') || '', utmCampaign: params.get('utm_campaign') || '' }
+  if (current.utmSource || current.utmMedium || current.utmCampaign) sessionStorage.setItem('dtpt_campaign', JSON.stringify(current))
+  try { return JSON.parse(sessionStorage.getItem('dtpt_campaign') || '{}') as Pick<AnalyticsEvent, 'utmSource' | 'utmMedium' | 'utmCampaign'> } catch { return {} }
+}
 
 export const api = {
   enabled: Boolean(API_URL), getAdminSession, saveAdminSession, logoutAdmin: () => saveAdminSession(null),
@@ -46,11 +63,13 @@ export const api = {
   deleteArticle: (id: string) => request<void>(`/api/articles/${encodeURIComponent(id)}`, { method: 'DELETE', admin: true }),
   updateQuoteStatus: (id: string, status: QuoteRequest['status']) => request<QuoteRequest>(`/api/quotes/${encodeURIComponent(id)}/status`, { method: 'PATCH', admin: true, body: JSON.stringify({ status }) }),
   updateSettings: (settings: StoreSettings) => request<StoreSettings>('/api/settings', { method: 'PUT', admin: true, body: JSON.stringify(settings) }),
+  getAnalyticsReport: (days: number) => request<AnalyticsReport>(`/api/admin/analytics?days=${days}`, { admin: true }),
   trackPageView: async (path: string, productId?: string) => {
-    if (!API_URL) return
+    if (!API_URL || path.startsWith('/admin')) return
+    const trackedAt = Date.now(); if (path === lastTrackedPath && trackedAt - lastTrackedAt < 1000) return; lastTrackedPath = path; lastTrackedAt = trackedAt
     const visitorId = localStorage.getItem('dtpt_visitor') || createId(); localStorage.setItem('dtpt_visitor', visitorId)
-    const sessionId = sessionStorage.getItem('dtpt_session') || createId(); sessionStorage.setItem('dtpt_session', sessionId)
-    const event: AnalyticsEvent = { eventId: createId(), visitorId, sessionId, eventType: 'page_view', path, productId, referrer: document.referrer || 'Trực tiếp', device: device(), createdAt: new Date().toISOString() }
+    const sessionId = analyticsSession()
+    const event: AnalyticsEvent = { eventId: createId(), visitorId, sessionId, eventType: 'page_view', path, productId, referrer: document.referrer || 'Trực tiếp', device: device(), browser: browserName(), operatingSystem: operatingSystem(), ...campaign(), createdAt: new Date().toISOString() }
     await request<void>('/api/analytics/events', { method: 'POST', body: JSON.stringify(event), keepalive: true })
   },
 }

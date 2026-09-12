@@ -83,10 +83,22 @@ export async function initDatabase() {
       product_id TEXT,
       referrer TEXT,
       device TEXT NOT NULL DEFAULT 'desktop',
+      browser TEXT,
+      operating_system TEXT,
+      utm_source TEXT,
+      utm_medium TEXT,
+      utm_campaign TEXT,
       created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
     );
     CREATE INDEX IF NOT EXISTS analytics_events_created_at_idx ON analytics_events (created_at DESC);
     CREATE INDEX IF NOT EXISTS analytics_events_session_id_idx ON analytics_events (session_id);
+  `)
+  await query(`
+    ALTER TABLE analytics_events ADD COLUMN IF NOT EXISTS browser TEXT;
+    ALTER TABLE analytics_events ADD COLUMN IF NOT EXISTS operating_system TEXT;
+    ALTER TABLE analytics_events ADD COLUMN IF NOT EXISTS utm_source TEXT;
+    ALTER TABLE analytics_events ADD COLUMN IF NOT EXISTS utm_medium TEXT;
+    ALTER TABLE analytics_events ADD COLUMN IF NOT EXISTS utm_campaign TEXT;
   `)
 
   await query(`DELETE FROM products WHERE data->>'slug' IS NULL`)
@@ -374,21 +386,21 @@ export async function resetDemoData() {
 
 export async function recordAnalyticsEvent(event) {
   await query(
-    `INSERT INTO analytics_events (event_id, visitor_id, session_id, event_type, path, product_id, referrer, device, created_at)
-     VALUES ($1, $2, $3, $4, $5, $6, $7, $8, COALESCE($9::timestamptz, NOW()))
+    `INSERT INTO analytics_events (event_id, visitor_id, session_id, event_type, path, product_id, referrer, device, browser, operating_system, utm_source, utm_medium, utm_campaign, created_at)
+     VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, COALESCE($14::timestamptz, NOW()))
      ON CONFLICT (event_id) DO NOTHING`,
-    [event.eventId, event.visitorId, event.sessionId, event.eventType, event.path, event.productId || null, event.referrer || null, event.device || 'desktop', event.createdAt],
+    [event.eventId, event.visitorId, event.sessionId, event.eventType, event.path, event.productId || null, event.referrer || null, event.device || 'desktop', event.browser || null, event.operatingSystem || null, event.utmSource || null, event.utmMedium || null, event.utmCampaign || null, event.createdAt],
   )
 }
 
 export async function listAnalyticsEvents(days = 30) {
   const safeDays = Math.min(Math.max(Number(days) || 30, 1), 365)
   const result = await query(
-    `SELECT event_id, visitor_id, session_id, event_type, path, product_id, referrer, device, created_at
+    `SELECT event_id, visitor_id, session_id, event_type, path, product_id, referrer, device, browser, operating_system, utm_source, utm_medium, utm_campaign, created_at
      FROM analytics_events
      WHERE created_at >= NOW() - ($1 * INTERVAL '1 day')
      ORDER BY created_at ASC`,
-    [safeDays * 2],
+    [safeDays * 2 + 1],
   )
   return result.rows.map(row => ({
     eventId: row.event_id,
@@ -399,6 +411,11 @@ export async function listAnalyticsEvents(days = 30) {
     productId: row.product_id,
     referrer: row.referrer,
     device: row.device,
+    browser: row.browser,
+    operatingSystem: row.operating_system,
+    utmSource: row.utm_source,
+    utmMedium: row.utm_medium,
+    utmCampaign: row.utm_campaign,
     createdAt: row.created_at,
   }))
 }

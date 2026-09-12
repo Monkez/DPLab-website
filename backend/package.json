@@ -7,7 +7,7 @@
     "build": "node -e \"console.log('DTPT Techs API: no compile step required')\"",
     "start": "node src/server.js",
     "dev": "node --watch src/server.js",
-    "test": "node --test src/permissions.test.js"
+    "test": "node --test src/*.test.js"
   },
   "dependencies": {
     "cors": "^2.8.5",

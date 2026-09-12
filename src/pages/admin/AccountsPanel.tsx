@@ -3,6 +3,7 @@ import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import { api } from '../../services/api'
 import type { AdminPermission, AdminRole, AdminUser } from '../../types'
 import { Field } from './AdminField'
+import { formatDate } from '../../utils/dateFormat'
 
 const permissions: Array<[AdminPermission, string, string]> = [
   ['quotes.view', 'Xem báo giá', 'Xem danh sách và chi tiết yêu cầu báo giá.'],
@@ -89,7 +90,7 @@ export function AccountsPanel({ currentUser }: { currentUser: AdminUser }) {
     {message && !editing && <p className="form-error">{message}</p>}
     <div className="account-list">{users.map(user => <article key={user.username} className={!user.active ? 'account-card account-card--disabled' : 'account-card'}>
       <div className="account-avatar">{user.active ? <UserCheck /> : <UserX />}</div>
-      <div><div className="account-name"><strong>{user.displayName}</strong>{user.isRoot && <span><ShieldCheck />Gốc</span>}</div><p>@{user.username}</p><small>Tạo {user.createdAt ? new Date(user.createdAt).toLocaleDateString('vi-VN') : '—'}</small></div>
+      <div><div className="account-name"><strong>{user.displayName}</strong>{user.isRoot && <span><ShieldCheck />Gốc</span>}</div><p>@{user.username}</p><small>Tạo {formatDate(user.createdAt)}</small></div>
       <div className="account-access"><b>{roleLabels[user.role]}</b><span>{user.permissions.length} quyền · {user.active ? 'Đang hoạt động' : 'Đã khóa'}</span></div>
       <div className="admin-row-actions">{(!user.isRoot || user.username === currentUser.username) && <button title="Sửa tài khoản" onClick={() => openEdit(user)}><Pencil /></button>}{!user.isRoot && <button className="danger" title="Xóa tài khoản" disabled={busy || user.username === currentUser.username} onClick={() => remove(user)}><Trash2 /></button>}</div>
     </article>)}</div>

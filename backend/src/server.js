@@ -26,6 +26,7 @@ import {
   updateAdminUser,
 } from './db.js'
 import { hasPermission } from './permissions.js'
+import { buildAnalyticsReport } from './analyticsReport.js'
 
 const app = express()
 const port = Number(process.env.PORT || 10000)
@@ -154,15 +155,19 @@ app.get('/api/admin/users', requirePermission('users.manage'), asyncRoute(async 
 
 app.post('/api/analytics/events', asyncRoute(async (req, res) => {
   const event = req.body
-  if (!event?.eventId || !event?.visitorId || !event?.sessionId || !event?.path) {
+  const clean = value => String(value || '').trim().slice(0, 300) || undefined
+  const eventId = clean(event?.eventId); const visitorId = clean(event?.visitorId); const sessionId = clean(event?.sessionId); const path = clean(event?.path)
+  if (!eventId || !visitorId || !sessionId || !path || path.startsWith('/admin')) {
     return res.status(400).json({ message: 'Invalid analytics event' })
   }
-  await recordAnalyticsEvent({ ...event, eventType: 'page_view' })
+  const device = ['desktop', 'tablet', 'mobile'].includes(event.device) ? event.device : 'desktop'
+  await recordAnalyticsEvent({ eventId, visitorId, sessionId, eventType: 'page_view', path, productId: clean(event.productId), referrer: clean(event.referrer), device, browser: clean(event.browser), operatingSystem: clean(event.operatingSystem), utmSource: clean(event.utmSource), utmMedium: clean(event.utmMedium), utmCampaign: clean(event.utmCampaign), createdAt: new Date().toISOString() })
   res.status(204).end()
 }))
 
 app.get('/api/admin/analytics', requirePermission('analytics.view'), asyncRoute(async (req, res) => {
-  res.json(await listAnalyticsEvents(req.query.days))
+  const days = Math.min(Math.max(Number(req.query.days) || 30, 1), 365)
+  res.json(buildAnalyticsReport(await listAnalyticsEvents(days), days))
 }))
 
 app.post('/api/admin/users', requirePermission('users.manage'), asyncRoute(async (req, res) => {

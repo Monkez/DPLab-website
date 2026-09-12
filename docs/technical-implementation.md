@@ -40,6 +40,10 @@ Sau khi login, frontend giữ nguyên trang và gọi lại bootstrap bằng tok
 
 Bài viết được lưu riêng trong bảng `articles` dưới dạng JSONB, có unique index theo slug. Public bootstrap chỉ trả bài `published`; tài khoản có `articles.manage` nhận cả bản nháp. Frontend có trang `/tin-tuc`, route chi tiết `/tin-tuc/:slug` và trình biên tập Markdown đơn giản trong admin.
 
+Frontend ghi một sự kiện `page_view` sau mỗi lần chuyển route công khai, kèm visitor/session ID ẩn danh, referrer, loại thiết bị, trình duyệt, hệ điều hành và thông tin UTM. Session hết hạn sau 30 phút không hoạt động. Sự kiện `/admin` bị loại tại cả client lẫn backend. Endpoint quản trị `/api/admin/analytics` dựng báo cáo cho kỳ được chọn và kỳ so sánh liền trước từ `analytics_events`; dữ liệu chi tiết trả về không chứa visitor ID. Các cột analytics mới được thêm bằng migration idempotent khi backend khởi động.
+
+Mọi ngày hiển thị cho người dùng đi qua `src/utils/dateFormat.ts`, dùng định dạng hai chữ số `dd/mm/yyyy` và múi giờ `Asia/Ho_Chi_Minh`. Giá trị `date` dùng trong form/API vẫn giữ chuẩn ISO `yyyy-mm-dd` để trình duyệt và PostgreSQL xử lý ổn định.
+
 Frontend server chèn metadata SEO vào HTML trước khi gửi response. Sitemap `/sitemap.xml` được frontend proxy từ `/api/sitemap.xml`, vì vậy sản phẩm/bài viết mới xuất bản được đưa vào sitemap mà không cần build lại frontend. Cache dữ liệu SEO là 5 phút.
 
 `asyncRoute` phải chuyển tiếp đủ `(req, res, next)` cho permission middleware. Nếu bỏ `next`, mọi route RBAC sẽ lỗi `TypeError: next is not a function` dù token và database hợp lệ.

@@ -139,7 +139,40 @@ export interface AnalyticsEvent {
   productId?: string;
   referrer?: string;
   device: AnalyticsDevice;
+  browser?: string;
+  operatingSystem?: string;
+  utmSource?: string;
+  utmMedium?: string;
+  utmCampaign?: string;
   createdAt: string;
+}
+
+export interface AnalyticsMetric {
+  value: number;
+  change: number | null;
+}
+
+export interface AnalyticsBreakdown { label: string; value: number; }
+export interface AnalyticsDailyPoint { date: string; views: number; visitors: number; sessions: number; }
+export interface AnalyticsRecentVisit { path: string; source: string; device: AnalyticsDevice; browser: string; createdAt: string; }
+export interface AnalyticsReport {
+  days: number;
+  generatedAt: string;
+  summary: {
+    views: AnalyticsMetric; visitors: AnalyticsMetric; sessions: AnalyticsMetric;
+    pagesPerSession: AnalyticsMetric; bounceRate: AnalyticsMetric; averageSessionSeconds: AnalyticsMetric;
+    newVisitors: number; returningVisitors: number;
+  };
+  daily: AnalyticsDailyPoint[];
+  topPages: AnalyticsBreakdown[];
+  topProducts: AnalyticsBreakdown[];
+  sources: AnalyticsBreakdown[];
+  campaigns: AnalyticsBreakdown[];
+  devices: AnalyticsBreakdown[];
+  browsers: AnalyticsBreakdown[];
+  operatingSystems: AnalyticsBreakdown[];
+  hourly: AnalyticsBreakdown[];
+  recentVisits: AnalyticsRecentVisit[];
 }
 
 export interface StoreSettings {

@@ -10,6 +10,7 @@ import { ProductArt } from "../components/ProductArt";
 import { useStore } from "../store/StoreContext";
 import type { Product } from "../types";
 import { formatPrice } from "../utils/productFormat";
+import { formatDate } from "../utils/dateFormat";
 
 export function ProductDetailPage({
   product,
@@ -65,7 +66,7 @@ export function ProductDetailPage({
                     "Giá cuối cùng phụ thuộc cấu hình, số lượng và thời điểm đặt hàng."}
                 </span>
                 {product.priceUpdatedAt && (
-                  <span>Cập nhật: {product.priceUpdatedAt}</span>
+                  <span>Cập nhật: {formatDate(product.priceUpdatedAt)}</span>
                 )}
               </div>
               <ul>
