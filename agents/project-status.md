@@ -38,7 +38,7 @@
 - SEO kỹ thuật có canonical, Open Graph/Twitter, JSON-LD Organization/Product/Article và sitemap động từ PostgreSQL. Frontend server chèn metadata vào HTML trước khi trả crawler; hướng dẫn Search Console tại `docs/seo-and-news-guide.md`.
 - Có `check-seo.bat [frontend-url]` để kiểm tra HTTP, title, description, canonical, JSON-LD, robots và sitemap sau deploy.
 - Ngày hiển thị trên storefront/admin được chuẩn hóa `dd/mm/yyyy` theo múi giờ Việt Nam; giá trị ngày trong form và API vẫn dùng ISO.
-- Admin có dashboard `Lưu lượng` chuyên sâu: so sánh kỳ trước, lượt xem/người/phiên, tỷ lệ thoát, thời gian phiên, xu hướng ngày, trang/sản phẩm, nguồn, UTM, thiết bị, trình duyệt, hệ điều hành, khung giờ và lượt xem gần đây. Tracking không lưu IP và loại trừ `/admin`.
+- Admin có dashboard `Lưu lượng` chuyên sâu: so sánh kỳ trước, lượt xem/người/phiên, tỷ lệ thoát, thời gian phiên, xu hướng ngày, trang/sản phẩm, nguồn, UTM, thiết bị, trình duyệt, hệ điều hành, khung giờ và lượt xem gần đây. Tracking không lưu IP và loại trừ `/admin`; root/owner có nút xác nhận để xóa toàn bộ dữ liệu lưu lượng.
 
 ## File cần đọc
 
