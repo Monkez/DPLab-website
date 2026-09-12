@@ -31,3 +31,28 @@ Bài xuất bản xuất hiện tại `/tin-tuc`, trang chủ và sitemap. Bản
 6. Theo dõi Core Web Vitals, Pages indexed và lỗi structured data sau mỗi đợt deploy lớn.
 
 Google không bảo đảm thứ hạng chỉ nhờ SEO kỹ thuật. Nội dung cần nguyên bản, giải quyết đúng nhu cầu tìm kiếm B2B, có thông số đáng tin cậy, liên kết nội bộ tới sản phẩm liên quan và được cập nhật định kỳ.
+
+## Lịch biên tập định kỳ
+
+Mục tiêu 3 bài/tuần, 10:00 thứ Hai/Tư/Sáu giờ Việt Nam, bắt đầu từ lịch kế tiếp sau 12/09/2026. Mỗi lần tối đa một bài mới khoảng 400–700 từ. Ưu tiên chất lượng; bỏ qua khi không có chủ đề đủ giá trị. Lịch được quản lý trong Codex với tên **Biên tập tin tức hai website DTPT**, không phải tác vụ chạy trong backend. Khung 09:00 của lịch chung dành cho dptech.shop; khung 10:00 dành riêng cho website này.
+
+Khoảng 40% tin công nghệ công nghiệp có phân tích ứng dụng, 40% hướng dẫn kỹ thuật/chọn thiết bị và 20% so sánh hoặc checklist đầu tư. Chủ đề: industrial PC, Panel PC/HMI, Edge AI, machine vision, cảm biến, đo lường, kết nối và tự động hóa. Thủ thuật máy tính/Windows chỉ khi phục vụ máy trạm kỹ thuật hoặc hệ thống công nghiệp. Giữ định vị catalogue + yêu cầu báo giá; không mô tả dịch vụ order/nhập hộ hoặc đưa nội dung thuê laptop từ dptech.shop sang đây.
+
+### Tiêu chuẩn trước đăng
+
+- Đọc catalogue và bài hiện có, tránh trùng câu hỏi, không đăng lại hoặc chỉ đổi vài từ từ website khác của DTPT.
+- Kiểm chứng ngày công bố, model, phiên bản, thông số và phạm vi áp dụng bằng tài liệu hãng. Phân biệt thông tin hãng, nhận định biên tập và kiểm thử thực tế; không bịa benchmark, giá, tồn kho, lead time hoặc dự án khách hàng.
+- Mỗi bài giải quyết một nhu cầu: ứng dụng cụ thể, cách chọn, giới hạn, sai lầm thường gặp hoặc các bước có kết quả kiểm chứng. Không dịch lại thông cáo dài hoặc nhồi từ khóa để lấp lịch.
+- Ưu tiên ảnh sản phẩm thực/ảnh hãng đã có trong catalogue hoặc ảnh phù hợp quyền sử dụng. Ghi nguồn và đúng model; ảnh series phải ghi rõ. Không dùng ảnh AI làm ảnh thiết bị thật, bằng chứng đo lường hoặc ảnh hướng dẫn. Ảnh minh họa AI chỉ dùng khi cần và có nhãn.
+- Dẫn nguồn có thể kiểm tra; renderer hiện hỗ trợ Markdown đơn giản, cần xem trước để bảo đảm liên kết/ảnh thể hiện đúng, không để cú pháp Markdown không hỗ trợ hiện nguyên văn. Tối ưu title/description, heading, alt, tag và liên kết nội bộ có ích. Không hứa thứ hạng Google.
+- Thủ thuật hệ thống phải đúng phiên bản, có cách kiểm tra/hoàn tác khi phù hợp; không khuyên vô hiệu hóa bảo vệ, can thiệp dây chuyền đang chạy hoặc thay tham số điều khiển thiếu điều kiện an toàn.
+
+### Cách xuất bản của automation
+
+Đọc hướng dẫn người dùng, AGENTS.md nếu có, `agents/project-status.md` và tài liệu này. Kiểm tra Git tại đúng dự án Xuat-nhap-khau-website. Dùng CMS `/admin` hoặc API đã xác thực có quyền `articles.manage`: tạo nháp, kiểm tra ảnh/nội dung rồi xuất bản. Không lưu token, mật khẩu hay session trong Git.
+
+`backend/src/articleSeed.js` chỉ seed khi bảng articles rỗng; thêm bài vào seed rồi push **không** tự xuất bản lên PostgreSQL hiện có. Không reset/truncate DB để nhập bài. Nếu chưa có phiên biên tập hoặc quyền xuất bản, chuẩn bị bài và nguồn/ảnh đã kiểm tra trong `docs/editorial/`, báo rõ phần còn cần quyền; không báo đã đăng và không tạo các bản nháp trùng mỗi lần chạy. Khi thêm tài nguyên/mã nguồn cần build/lint/test phù hợp, review diff rồi commit/push an toàn.
+
+Sau đăng, kiểm tra API public, trang chi tiết, ảnh, metadata và sitemap trên tên miền đang hoạt động. Kiểm tra ngày 12/09/2026: `https://dtpt.shop/` trả 200; bundle production dùng backend `https://dtpt-shop-production.up.railway.app`, `/api/bootstrap` trả 88 sản phẩm và 3 bài công khai. `www.dtpt.shop` và `api.dtpt.shop` chưa truy cập được trong lần kiểm tra này; không mặc định hai alias đã hoạt động. Kiểm tra lại cấu hình công khai khi chạy. Metadata frontend có cache 5 phút; chờ hết cache khi kiểm tra thay đổi. Chỉ thông báo khi hoàn thành, lỗi hoặc cần người dùng xử lý; giữ im lặng khi không có thay đổi đáng kể.
+
+Chủ đề gợi ý: xác định cổng COM trước khi chọn industrial PC; chọn nguồn và nhiệt độ cho máy tính không quạt; kiểm tra tương thích SDK camera với Windows; phân biệt thông số AI lý thuyết và hiệu năng ứng dụng thực tế. Mỗi chủ đề phải được kiểm chứng lại khi viết.
