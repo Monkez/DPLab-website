@@ -64,6 +64,7 @@ export const api = {
   updateQuoteStatus: (id: string, status: QuoteRequest['status']) => request<QuoteRequest>(`/api/quotes/${encodeURIComponent(id)}/status`, { method: 'PATCH', admin: true, body: JSON.stringify({ status }) }),
   updateSettings: (settings: StoreSettings) => request<StoreSettings>('/api/settings', { method: 'PUT', admin: true, body: JSON.stringify(settings) }),
   getAnalyticsReport: (days: number) => request<AnalyticsReport>(`/api/admin/analytics?days=${days}`, { admin: true }),
+  clearAnalytics: () => request<{ deleted: number }>('/api/admin/analytics', { method: 'DELETE', admin: true }),
   trackPageView: async (path: string, productId?: string) => {
     if (!API_URL || path.startsWith('/admin')) return
     const trackedAt = Date.now(); if (path === lastTrackedPath && trackedAt - lastTrackedAt < 1000) return; lastTrackedPath = path; lastTrackedAt = trackedAt

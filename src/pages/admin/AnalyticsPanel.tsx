@@ -1,4 +1,4 @@
-import { BarChart3, Clock3, Eye, MousePointerClick, RefreshCw, TrendingDown, TrendingUp, UserRound, UsersRound } from 'lucide-react'
+import { BarChart3, Clock3, Eye, MousePointerClick, RefreshCw, Trash2, TrendingDown, TrendingUp, UserRound, UsersRound } from 'lucide-react'
 import { useEffect, useMemo, useState } from 'react'
 import { api } from '../../services/api'
 import { useStore } from '../../store/StoreContext'
@@ -25,16 +25,22 @@ function Breakdown({ title, items, label }: { title: string; items: AnalyticsBre
 
 const deviceLabel = (value: string) => ({ desktop: 'Máy tính', tablet: 'Máy tính bảng', mobile: 'Điện thoại' }[value] || value)
 
-export function AnalyticsPanel() {
+export function AnalyticsPanel({ canClear }: { canClear: boolean }) {
   const { products } = useStore(); const [days, setDays] = useState(30); const [report, setReport] = useState<AnalyticsReport | null>(null); const [loading, setLoading] = useState(true); const [error, setError] = useState('')
+  const [clearing, setClearing] = useState(false)
   const productNames = useMemo(() => new Map(products.map(product => [product.id, `${product.name} · ${product.model}`])), [products])
   const load = async () => { setLoading(true); setError(''); try { setReport(await api.getAnalyticsReport(days)) } catch (reason) { setError(reason instanceof Error ? reason.message : 'Không tải được báo cáo') } finally { setLoading(false) } }
+  const clear = async () => {
+    if (!confirm('Xóa toàn bộ dữ liệu lưu lượng đã ghi nhận? Thao tác này không thể hoàn tác.')) return
+    setClearing(true); setError('')
+    try { await api.clearAnalytics(); await load() } catch (reason) { setError(reason instanceof Error ? reason.message : 'Không xóa được dữ liệu lưu lượng') } finally { setClearing(false) }
+  }
   useEffect(() => { void api.getAnalyticsReport(days).then(setReport).catch(reason => setError(reason instanceof Error ? reason.message : 'Không tải được báo cáo')).finally(() => setLoading(false)) }, [days])
   if (!report && loading) return <div className="analytics-loading"><RefreshCw /> Đang tổng hợp dữ liệu truy cập...</div>
   if (!report) return <div className="empty-results"><h2>Không tải được báo cáo</h2><p>{error}</p><button className="primary-button" onClick={load}>Thử lại</button></div>
   const maxViews = Math.max(...report.daily.map(point => point.views), 1)
   return <div className="analytics-panel">
-    <div className="admin-toolbar"><p>Báo cáo không thu thập IP hay thông tin định danh cá nhân. Lượt truy cập khu vực admin được loại trừ.</p><label className="analytics-period">Khoảng thời gian<select value={days} onChange={event => { setLoading(true); setDays(Number(event.target.value)) }}><option value="7">7 ngày</option><option value="30">30 ngày</option><option value="90">90 ngày</option><option value="365">365 ngày</option></select></label><button className="secondary-button" disabled={loading} onClick={load}><RefreshCw />Làm mới</button></div>
+    <div className="admin-toolbar"><p>Báo cáo không thu thập IP hay thông tin định danh cá nhân. Lượt truy cập khu vực admin được loại trừ.</p><label className="analytics-period">Khoảng thời gian<select value={days} onChange={event => { setLoading(true); setDays(Number(event.target.value)) }}><option value="7">7 ngày</option><option value="30">30 ngày</option><option value="90">90 ngày</option><option value="365">365 ngày</option></select></label><button className="secondary-button" disabled={loading || clearing} onClick={load}><RefreshCw />Làm mới</button>{canClear ? <button className="secondary-button danger-button" disabled={loading || clearing} onClick={clear}><Trash2 />{clearing ? 'Đang xóa...' : 'Xóa dữ liệu'}</button> : null}</div>
     {error ? <p className="form-error">{error}</p> : null}
     <div className="metric-grid"><MetricCard label="Lượt xem trang" metric={report.summary.views} icon={Eye} /><MetricCard label="Người truy cập" metric={report.summary.visitors} icon={UserRound} /><MetricCard label="Phiên truy cập" metric={report.summary.sessions} icon={UsersRound} /><MetricCard label="Trang / phiên" metric={report.summary.pagesPerSession} icon={MousePointerClick} /><MetricCard label="Tỷ lệ thoát" metric={report.summary.bounceRate} icon={BarChart3} format={value => `${number.format(value)}%`} /><MetricCard label="Thời gian phiên TB" metric={report.summary.averageSessionSeconds} icon={Clock3} format={duration} /></div>
     <section className="analytics-card analytics-trend"><div className="analytics-card__title"><div><h2>Lưu lượng theo ngày</h2><p>{formatDate(report.daily[0]?.date)} – {formatDate(report.generatedAt)}</p></div><div className="visitor-split"><span><b>{number.format(report.summary.newVisitors)}</b> mới trong kỳ</span><span><b>{number.format(report.summary.returningVisitors)}</b> có trong kỳ trước</span></div></div><div className="traffic-chart" aria-label="Biểu đồ lượt xem theo ngày">{report.daily.map((point, index) => <div key={point.date} className="traffic-column" title={`${formatDate(point.date)}: ${point.views} lượt xem, ${point.visitors} người`}><span style={{ height: `${Math.max(point.views / maxViews * 100, point.views ? 5 : 1)}%` }} /><small>{report.daily.length <= 7 || index % Math.ceil(report.daily.length / 7) === 0 ? formatDate(point.date).slice(0, 5) : ''}</small></div>)}</div></section>

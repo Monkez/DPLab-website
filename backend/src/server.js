@@ -24,6 +24,7 @@ import {
   recordAnalyticsEvent,
   updateQuoteStatus,
   updateAdminUser,
+  clearAnalyticsEvents,
 } from './db.js'
 import { hasPermission } from './permissions.js'
 import { buildAnalyticsReport } from './analyticsReport.js'
@@ -168,6 +169,11 @@ app.post('/api/analytics/events', asyncRoute(async (req, res) => {
 app.get('/api/admin/analytics', requirePermission('analytics.view'), asyncRoute(async (req, res) => {
   const days = Math.min(Math.max(Number(req.query.days) || 30, 1), 365)
   res.json(buildAnalyticsReport(await listAnalyticsEvents(days), days))
+}))
+
+app.delete('/api/admin/analytics', requirePermission('analytics.view'), asyncRoute(async (req, res) => {
+  if (!req.admin.isRoot && req.admin.role !== 'owner') return res.status(403).json({ message: 'Chỉ chủ sở hữu mới có thể xóa dữ liệu lưu lượng' })
+  res.json({ deleted: await clearAnalyticsEvents() })
 }))
 
 app.post('/api/admin/users', requirePermission('users.manage'), asyncRoute(async (req, res) => {

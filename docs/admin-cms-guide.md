@@ -62,6 +62,7 @@ Hướng dẫn SEO và quy trình gửi sitemap nằm tại `docs/seo-and-news-g
 - Nguồn chiến dịch nhận các tham số `utm_source`, `utm_medium`, `utm_campaign`. Nếu không có UTM, hệ thống dùng website giới thiệu hoặc xếp vào `Trực tiếp`.
 - Hệ thống dùng mã ngẫu nhiên trong trình duyệt để phân biệt người truy cập và phiên; một phiên mới bắt đầu sau 30 phút không hoạt động. Hệ thống không lưu địa chỉ IP hay thông tin định danh cá nhân. Lượt xem khu vực `/admin` không được ghi nhận.
 - Thời gian phiên là ước tính từ lượt xem đầu đến lượt xem cuối trong cùng tab; phiên chỉ có một lượt xem có thời gian bằng 0 và được tính vào tỷ lệ thoát.
+- Chủ sở hữu có nút `Xóa dữ liệu` để xóa toàn bộ sự kiện lưu lượng. Hệ thống luôn hỏi xác nhận trước khi xóa và thao tác không thể hoàn tác.
 
 Ngày tháng trên storefront và admin được hiển thị thống nhất theo `ngày/tháng/năm`; thời điểm có thêm giờ và phút theo múi giờ Việt Nam.
 

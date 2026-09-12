@@ -42,6 +42,8 @@ Bài viết được lưu riêng trong bảng `articles` dưới dạng JSONB, c
 
 Frontend ghi một sự kiện `page_view` sau mỗi lần chuyển route công khai, kèm visitor/session ID ẩn danh, referrer, loại thiết bị, trình duyệt, hệ điều hành và thông tin UTM. Session hết hạn sau 30 phút không hoạt động. Sự kiện `/admin` bị loại tại cả client lẫn backend. Endpoint quản trị `/api/admin/analytics` dựng báo cáo cho kỳ được chọn và kỳ so sánh liền trước từ `analytics_events`; dữ liệu chi tiết trả về không chứa visitor ID. Các cột analytics mới được thêm bằng migration idempotent khi backend khởi động.
 
+DELETE `/api/admin/analytics` xóa toàn bộ sự kiện và chỉ cho root/owner thực hiện, dù người dùng vẫn cần quyền `analytics.view` để thấy dashboard.
+
 Mọi ngày hiển thị cho người dùng đi qua `src/utils/dateFormat.ts`, dùng định dạng hai chữ số `dd/mm/yyyy` và múi giờ `Asia/Ho_Chi_Minh`. Giá trị `date` dùng trong form/API vẫn giữ chuẩn ISO `yyyy-mm-dd` để trình duyệt và PostgreSQL xử lý ổn định.
 
 Frontend server chèn metadata SEO vào HTML trước khi gửi response. Sitemap `/sitemap.xml` được frontend proxy từ `/api/sitemap.xml`, vì vậy sản phẩm/bài viết mới xuất bản được đưa vào sitemap mà không cần build lại frontend. Cache dữ liệu SEO là 5 phút.

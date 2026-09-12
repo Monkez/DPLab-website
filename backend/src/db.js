@@ -419,3 +419,8 @@ export async function listAnalyticsEvents(days = 30) {
     createdAt: row.created_at,
   }))
 }
+
+export async function clearAnalyticsEvents() {
+  const result = await query('DELETE FROM analytics_events')
+  return result.rowCount || 0
+}

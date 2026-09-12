@@ -1458,6 +1458,7 @@ body[data-card-style="compact"] .product-card__body { padding-bottom: 15px; }
 .metric-change svg { width: 13px; height: 13px; }
 .metric-change--up { color: #087b57; }
 .metric-change--down { color: #c33d3d; }
+.danger-button { color: #c33d3d !important; border-color: #edcaca !important; }
 .analytics-card { min-width: 0; border: 1px solid #dfe6ed; border-radius: 8px; background: #fff; padding: 22px; }
 .analytics-card h2 { margin: 0; color: #18324d; font: 700 19px "Space Grotesk"; }
 .analytics-card__title { display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; }
