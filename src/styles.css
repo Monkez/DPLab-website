@@ -1724,3 +1724,24 @@ body[data-card-style="compact"] .product-card__body { padding-bottom: 15px; }
   .traffic-chart { gap: 2px; }
   .traffic-column small { font-size: 8px; }
 }
+
+/* Article images share the same layout in previews and published articles. */
+.article-content figure{margin:28px 0;max-width:100%}
+.article-content figure img{display:block;max-width:100%;height:auto;margin:auto;border-radius:8px}
+.article-content figcaption{margin-top:10px;text-align:center;font-size:14px;line-height:1.6;color:#64748b;overflow-wrap:anywhere}
+.article-content-editor{min-width:0;grid-column:1/-1}
+.article-content-editor>label{display:block;font-weight:600;margin-bottom:10px}
+.article-content-editor textarea{width:100%;resize:vertical;font:inherit;line-height:1.7;padding:14px;border:1px solid #cbd5e1;border-radius:8px}
+.article-image-actions{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0}
+.article-editor-hint,.article-image-editor small{font-size:13px;line-height:1.6;color:#64748b}
+.article-image-editor{min-width:0;border:1px solid #cbd5e1;border-radius:8px;padding:18px;margin:16px 0}
+.article-image-editor label{display:grid;gap:8px;margin:14px 0}
+.article-image-editor input{min-width:0;width:100%;padding:10px;border:1px solid #cbd5e1;border-radius:6px}
+.article-image-list>div{display:flex;align-items:center;flex-wrap:wrap;gap:12px;padding:12px 0;border-bottom:1px solid #e2e8f0}
+.article-image-list img{width:90px;height:64px;object-fit:contain}
+.article-image-list span{flex:1;min-width:100px;overflow-wrap:anywhere}
+.article-image-list small{display:block;color:#64748b}
+.article-image-list button{padding:8px;border:1px solid #cbd5e1;border-radius:6px;background:white;cursor:pointer}
+.article-editor-preview{border:1px solid #cbd5e1;padding:20px;border-radius:8px;margin-top:18px;overflow-wrap:anywhere}
+
+.article-admin-editor .admin-editor__footer{position:static}

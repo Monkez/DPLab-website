@@ -28,7 +28,12 @@ Sản phẩm ở trạng thái `draft` không xuất hiện trên website và kh
 
 - Tab `Tin tức` cho phép tạo, sửa, chuyển nháp/xuất bản và xóa bài viết.
 - Mỗi bài có tiêu đề, slug, mô tả ngắn, nội dung, cover, chuyên mục, tag, tác giả, ngày xuất bản và metadata SEO riêng.
-- Nội dung hỗ trợ Markdown đơn giản với heading `##`, `###` và danh sách bắt đầu bằng `-`.
+- Nội dung giữ Markdown đơn giản với heading `##`, `###`, danh sách `-` và ảnh trong bài.
+- Đặt con trỏ trong nội dung, chọn **+ Chèn ảnh trong bài**, chọn một/nhiều ảnh từ máy hoặc nhập URL HTTPS/đường dẫn `/products/...`. Nhập mô tả và chú thích rồi bấm **Áp dụng ảnh**. Khi chọn nhiều ảnh, mô tả/chú thích ban đầu áp dụng chung.
+- Mục **Ảnh trong bài** có nút sửa mô tả/chú thích, thay ảnh hoặc xóa riêng từng ảnh. **Xem trước nội dung** dùng cùng cách hiển thị với trang công khai. Ảnh cover vẫn độc lập.
+- Nhấn **Lưu bài viết** để lưu mọi thay đổi. Xóa ảnh khỏi bài không xóa tệp dùng chung. Ảnh tải lên có URL công khai; không dùng cho tài liệu riêng tư kể cả khi bài còn là nháp.
+- Ảnh tải lên phải là JPG/PNG/WebP tĩnh, tối đa 5 MB và 40 megapixel; backend xoay ảnh đúng hướng, thu nhỏ tối đa 1920px và chuyển WebP bỏ metadata. Cần backend đã cập nhật và quyền `articles.manage`.
+- Có thể viết ảnh trực tiếp trên một dòng riêng: `![Mô tả](</products/anh.jpg> "Chú thích")`. Chú thích là tùy chọn; hỗ trợ nhiều ảnh giữa các đoạn. Không nhúng HTML.
 - Bài nháp không xuất hiện công khai và không được đưa vào sitemap.
 - Vai trò Biên tập nội dung và Quản trị viên có quyền quản lý tin tức mặc định; tài khoản tùy chỉnh cần quyền `articles.manage`.
 

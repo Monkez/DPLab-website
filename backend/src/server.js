@@ -4,6 +4,8 @@ import crypto from 'crypto'
 import express from 'express'
 import {
   authenticateAdmin,
+  saveArticleMedia,
+  getArticleMedia,
   createAdminUser,
   deleteProduct,
   deleteArticle,
@@ -27,6 +29,7 @@ import {
   clearAnalyticsEvents,
 } from './db.js'
 import { hasPermission } from './permissions.js'
+import { normalizeArticleImage, MAX_IMAGE_BYTES } from './articleMedia.js'
 import { buildAnalyticsReport } from './analyticsReport.js'
 
 const app = express()
@@ -215,6 +218,21 @@ app.delete('/api/products/:id', requirePermission('products.manage'), asyncRoute
   res.status(204).end()
 }))
 
+app.post('/api/article-media', requirePermission('articles.manage'), express.raw({ type: ['image/jpeg', 'image/png', 'image/webp', 'application/octet-stream'], limit: MAX_IMAGE_BYTES }), asyncRoute(async (req, res) => {
+  let data
+  try { data = await normalizeArticleImage(req.body) }
+  catch { return res.status(400).json({ message: 'Ảnh không hợp lệ. Chọn ảnh tĩnh JPG, PNG hoặc WebP tối đa 5 MB, tối đa 40 megapixel.' }) }
+  const id = crypto.randomUUID()
+  await saveArticleMedia(id, data)
+  res.status(201).json({ path: `/api/article-media/${id}` })
+}))
+app.get('/api/article-media/:id', asyncRoute(async (req, res) => {
+  if (!/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(req.params.id)) return res.sendStatus(404)
+  const data = await getArticleMedia(req.params.id)
+  if (!data) return res.sendStatus(404)
+  res.set({ 'Content-Type': 'image/webp', 'X-Content-Type-Options': 'nosniff', 'Cache-Control': 'public, max-age=31536000, immutable' }).send(data)
+}))
+
 app.get('/api/articles', asyncRoute(async (req, res) => {
   const admin = await resolveAdmin(req)
   const articles = await listArticles()
@@ -311,6 +329,7 @@ app.post('/api/reset-demo', requirePermission('system.reset'), asyncRoute(async 
 }))
 
 app.use((error, _req, res, _next) => {
+  if (error.type === 'entity.too.large') return res.status(413).json({ message: 'Dữ liệu tải lên vượt dung lượng cho phép.' })
   console.error(error)
   res.status(500).json({ message: error.message || 'Internal server error' })
 })

@@ -2,6 +2,7 @@ import { Eye, EyeOff, FileText, Pencil, Plus, Search, Trash2, X } from 'lucide-r
 import { useMemo, useState, type FormEvent } from 'react'
 import { useStore } from '../../store/StoreContext'
 import type { Article } from '../../types'
+import { ArticleContentEditor } from './ArticleContentEditor'
 import { Field } from './AdminField'
 import { formatDate } from '../../utils/dateFormat'
 
@@ -18,16 +19,24 @@ export function ArticlesPanel() {
 
 function ArticleEditor({ article, isNew, busy, onClose, onSave }: { article: Article; isNew: boolean; busy: boolean; onClose: () => void; onSave: (article: Article) => Promise<void> }) {
   const [draft, setDraft] = useState(article)
+  const [imageEditing, setImageEditing] = useState(false)
+  const [error, setError] = useState('')
+  const locked = busy || imageEditing
+  const close = () => { if (!locked) onClose() }
   const change = <K extends keyof Article>(key: K, value: Article[K]) => setDraft(item => ({ ...item, [key]: value }))
-  const submit = (event: FormEvent) => { event.preventDefault(); void onSave({ ...draft, slug: slugify(draft.slug || draft.title), updatedAt: now(), publishedAt: draft.publishedAt || now() }) }
-  return <div className="admin-editor-backdrop" role="presentation" onMouseDown={event => { if (event.target === event.currentTarget) onClose() }}><form className="admin-editor" onSubmit={submit}>
-    <div className="admin-editor__head"><div><span className="eyebrow">{isNew ? 'BÀI VIẾT MỚI' : 'CHỈNH SỬA BÀI VIẾT'}</span><h2>{draft.title || 'Chưa đặt tiêu đề'}</h2></div><button type="button" onClick={onClose} aria-label="Đóng"><X /></button></div>
+  const submit = async (event: FormEvent) => {
+    event.preventDefault(); if (locked) return; setError('')
+    try { await onSave({ ...draft, slug: slugify(draft.slug || draft.title), updatedAt: now(), publishedAt: draft.publishedAt || now() }) }
+    catch (reason) { setError(reason instanceof Error ? reason.message : 'Không lưu được bài viết. Vui lòng thử lại.') }
+  }
+  return <div className="admin-editor-backdrop" role="presentation" onMouseDown={event => { if (event.target === event.currentTarget) close() }}><form className="admin-editor article-admin-editor" onSubmit={submit}>
+    <div className="admin-editor__head"><div><span className="eyebrow">{isNew ? 'BÀI VIẾT MỚI' : 'CHỈNH SỬA BÀI VIẾT'}</span><h2>{draft.title || 'Chưa đặt tiêu đề'}</h2></div><button type="button" onClick={close} disabled={locked} aria-label="Đóng"><X /></button></div>
     <div className="admin-editor__body">
       <Field label="Tiêu đề" wide><input required value={draft.title} onChange={event => change('title', event.target.value)} /></Field>
       <Field label="Slug URL"><input value={draft.slug} placeholder="Tự tạo từ tiêu đề" onChange={event => change('slug', event.target.value)} /></Field>
       <Field label="Chuyên mục"><input value={draft.category} onChange={event => change('category', event.target.value)} /></Field>
       <Field label="Mô tả ngắn" wide><textarea required rows={3} maxLength={320} value={draft.excerpt} onChange={event => change('excerpt', event.target.value)} /></Field>
-      <Field label="Nội dung (Markdown đơn giản)" wide><textarea required rows={18} value={draft.content} placeholder={'## Tiêu đề phần\n\nNội dung...\n\n- Danh sách'} onChange={event => change('content', event.target.value)} /></Field>
+      <ArticleContentEditor value={draft.content} onChange={value => change('content', value)} disabled={busy} onEditingChange={setImageEditing} />
       <Field label="Ảnh cover"><input value={draft.coverImage} placeholder="/products/anh.jpg hoặc URL HTTPS" onChange={event => change('coverImage', event.target.value)} /></Field>
       <Field label="Tác giả"><input required value={draft.author} onChange={event => change('author', event.target.value)} /></Field>
       <Field label="Tag (cách nhau bằng dấu phẩy)"><input value={draft.tags.join(', ')} onChange={event => change('tags', event.target.value.split(',').map(value => value.trim()).filter(Boolean))} /></Field>
@@ -37,6 +46,7 @@ function ArticleEditor({ article, isNew, busy, onClose, onSave }: { article: Art
       <Field label="SEO description" wide><textarea rows={3} maxLength={170} value={draft.seoDescription || ''} placeholder="Mặc định dùng mô tả ngắn" onChange={event => change('seoDescription', event.target.value)} /></Field>
       <label className="admin-check full"><input type="checkbox" checked={draft.featured} onChange={event => change('featured', event.target.checked)} />Bài viết nổi bật</label>
     </div>
-    <div className="admin-editor__footer"><button type="button" className="secondary-button" onClick={onClose}>Hủy</button><button className="primary-button" disabled={busy}>{busy ? 'Đang lưu...' : 'Lưu bài viết'}</button></div>
+    {error && <p className="form-error" role="alert">{error}</p>}
+    <div className="admin-editor__footer"><button type="button" className="secondary-button" onClick={close} disabled={locked}>Hủy</button><button className="primary-button" disabled={locked}>{busy ? 'Đang lưu...' : 'Lưu bài viết'}</button></div>
   </form></div>
 }

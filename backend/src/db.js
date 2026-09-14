@@ -22,6 +22,7 @@ export async function query(text, params) {
 }
 
 export async function initDatabase() {
+  await query(`CREATE TABLE IF NOT EXISTS article_media (id UUID PRIMARY KEY, data BYTEA NOT NULL, created_at TIMESTAMPTZ NOT NULL DEFAULT NOW())`)
   const catalogVersion = 'dtpt-industrial-v5-88-products'
   await query(`
     CREATE TABLE IF NOT EXISTS products (
@@ -423,4 +424,12 @@ export async function listAnalyticsEvents(days = 30) {
 export async function clearAnalyticsEvents() {
   const result = await query('DELETE FROM analytics_events')
   return result.rowCount || 0
+}
+
+export async function saveArticleMedia(id, data) {
+  await query('INSERT INTO article_media (id, data) VALUES ($1, $2)', [id, data])
+}
+export async function getArticleMedia(id) {
+  const result = await query('SELECT data FROM article_media WHERE id = $1', [id])
+  return result.rows[0]?.data
 }

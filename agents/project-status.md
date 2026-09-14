@@ -55,3 +55,9 @@
 - Xác nhận giá, VAT, bảo hành và lead time trong từng báo giá; giá website chỉ là ngân sách tham khảo.
 - Bổ sung email thông báo RFQ và CRM ở giai đoạn sau.
 - Thực hiện checklist cutover Railway trong `docs/deploy-railway.md`; chưa được ghi nhận là production cho tới khi người dùng hoàn tất tạo service, secrets và DNS trên tài khoản Railway.
+
+## 14/09/2026 — Ảnh trong bài
+
+- Bổ sung chèn nhiều ảnh tại con trỏ Markdown, sửa/thay/xóa riêng từng ảnh, alt/caption, preview chung renderer public; giữ cover và bài cũ.
+- `article_media` BYTEA lưu ảnh WebP bằng PostgreSQL, tự tạo bảng khi boot; POST cần articles.manage, GET công khai. Không xóa media khi xóa bài. Backend cần sharp và phải deploy trước frontend.
+- Build/lint/unit và tích hợp PostgreSQL local đã kiểm tra. Dữ liệu QA riêng, không dùng production. Chưa xác minh triển khai Railway lần này.

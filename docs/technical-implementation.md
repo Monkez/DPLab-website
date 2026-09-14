@@ -68,3 +68,13 @@ Không lưu credential thật vào Git. Lần khởi tạo database mới sẽ d
 ## Kiểm tra trước deploy
 
 Chạy `build.bat`, kiểm tra desktop/mobile trên trình duyệt, thử catalogue → chi tiết → thêm RFQ → gửi form, sau đó chạy `check-production.bat` và kiểm tra deployment logs trên Railway. Quy trình production đầy đủ nằm tại `docs/deploy-railway.md`.
+
+## Ảnh trong bài viết
+
+Frontend dùng `ArticleBody` chung cho xem trước và trang bài viết, parse Markdown ảnh thành React elements (không dùng HTML thô). Bài cũ giữ nguyên. URL ảnh giới hạn HTTPS hoặc đường dẫn cùng site, chặn scheme thực thi và protocol-relative.
+
+Backend thêm bảng `article_media` bằng `CREATE TABLE IF NOT EXISTS`, lưu WebP trong BYTEA. POST `/api/article-media` nhận binary tối đa 5 MB, kiểm tra quyền `articles.manage` trước giải mã bằng sharp. GET `/api/article-media/:id` trả WebP công khai với nosniff và immutable cache. ID ngẫu nhiên, ảnh không tự xóa khi bỏ khỏi bài. Sao lưu PostgreSQL bao gồm ảnh; không cần Volume filesystem mới. URL `/api/article-media/...` trong Markdown được frontend giải quyết theo `VITE_API_URL`, không ghi hostname môi trường vào bài.
+
+Triển khai backend trước frontend (backend Railway root `/backend`, chạy npm ci để cài sharp). Không reset dữ liệu. Bảng ảnh được tạo khi backend khởi động; nội dung cũ không cần migration.
+
+Kiểm tra: `npm run build`, `npm run lint`, `npm test`. Kiểm thử tích hợp: đặt `TEST_DATABASE_URL` tới PostgreSQL local riêng có tên database bắt đầu `dtpt_test_`, chạy `node scripts/check-article-media.mjs`. Script tạo dữ liệu test và kiểm tra quyền, file lỗi/quá lớn, draft/publish, persistence qua restart; không trỏ vào production.

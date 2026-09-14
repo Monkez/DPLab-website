@@ -60,6 +60,11 @@ export const api = {
   saveProduct: (product: Product) => request<Product>(`/api/products/${encodeURIComponent(product.id)}`, { method: 'PUT', admin: true, body: JSON.stringify(product) }),
   deleteProduct: (id: string) => request<void>(`/api/products/${encodeURIComponent(id)}`, { method: 'DELETE', admin: true }),
   saveArticle: (article: Article, isNew = false) => request<Article>(isNew ? '/api/articles' : `/api/articles/${encodeURIComponent(article.id)}`, { method: isNew ? 'POST' : 'PUT', admin: true, body: JSON.stringify(article) }),
+  articleImageUrl: (src: string) => src.startsWith('/api/article-media/') && API_URL ? `${API_URL}${src}` : src,
+  uploadArticleImage: async (file: File) => {
+    const result = await request<{ path: string }>('/api/article-media', { method: 'POST', admin: true, headers: { 'Content-Type': file.type || 'application/octet-stream' }, body: file })
+    return result.path
+  },
   deleteArticle: (id: string) => request<void>(`/api/articles/${encodeURIComponent(id)}`, { method: 'DELETE', admin: true }),
   updateQuoteStatus: (id: string, status: QuoteRequest['status']) => request<QuoteRequest>(`/api/quotes/${encodeURIComponent(id)}/status`, { method: 'PATCH', admin: true, body: JSON.stringify({ status }) }),
   updateSettings: (settings: StoreSettings) => request<StoreSettings>('/api/settings', { method: 'PUT', admin: true, body: JSON.stringify(settings) }),
