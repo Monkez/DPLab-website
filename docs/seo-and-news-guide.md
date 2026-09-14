@@ -4,7 +4,7 @@
 
 1. Đăng nhập `/admin`, chọn **Tin tức** rồi **Viết bài**.
 2. Nhập tiêu đề, mô tả ngắn, nội dung, ảnh cover, chuyên mục và tag.
-3. Nội dung hỗ trợ Markdown đơn giản: `##` cho tiêu đề cấp hai, `###` cho cấp ba và `-` cho danh sách.
+3. Nội dung hỗ trợ Markdown đơn giản: `##` cho tiêu đề cấp hai, `###` cho cấp ba và `-` cho danh sách; ảnh xen kẽ dùng cú pháp ở mục “Cú pháp ảnh cho dtpt.shop” bên dưới.
 4. Giữ trạng thái **Bản nháp** trong lúc biên tập; chọn **Xuất bản** khi nội dung đã được kiểm tra.
 5. SEO title nên khoảng 50–60 ký tự; SEO description nên khoảng 140–160 ký tự. Nếu để trống, website dùng tiêu đề và mô tả ngắn.
 
@@ -47,9 +47,35 @@ Khoảng 40% tin công nghệ công nghiệp có phân tích ứng dụng, 40% h
 - Dẫn nguồn có thể kiểm tra; renderer hiện hỗ trợ Markdown đơn giản, cần xem trước để bảo đảm liên kết/ảnh thể hiện đúng, không để cú pháp Markdown không hỗ trợ hiện nguyên văn. Tối ưu title/description, heading, alt, tag và liên kết nội bộ có ích. Không hứa thứ hạng Google.
 - Thủ thuật hệ thống phải đúng phiên bản, có cách kiểm tra/hoàn tác khi phù hợp; không khuyên vô hiệu hóa bảo vệ, can thiệp dây chuyền đang chạy hoặc thay tham số điều khiển thiếu điều kiện an toàn.
 
+### Bố trí nhiều ảnh trong bài tự động
+
+- Khi lập dàn ý, xác định phần nào cần ảnh để giải thích. Với bài 400–700 từ, ưu tiên 2–3 ảnh trong nội dung nếu có ảnh phù hợp, ngoài ảnh đại diện; đây là gợi ý, không phải chỉ tiêu bắt buộc. Không mặc định chỉ dùng ảnh đầu bài, không lặp lại cùng ảnh để đủ số lượng.
+- Đặt mỗi ảnh ngay sau đoạn/bước liên quan. Bài hướng dẫn ưu tiên ảnh giao diện đúng bước; bài so sánh ưu tiên ảnh đúng thiết bị/chi tiết đang so sánh. Không giả ảnh chụp màn hình bằng AI hoặc dùng ảnh thiết bị thay bằng chứng thao tác.
+- Mỗi ảnh có alt mô tả đúng nội dung, chú thích giải thích giá trị của ảnh và nguồn/chủ sở hữu có thể kiểm chứng. Ảnh series, ảnh minh họa hoặc AI phải ghi rõ. Khi thiếu ảnh hợp lệ, dùng ít ảnh hơn và ghi lý do trong ghi chú biên tập, không bịa hoặc chèn ảnh không liên quan.
+- Trước xuất bản, kiểm tra từng URL ảnh tải được, không chứa dữ liệu riêng tư; kiểm tra xem trước desktop/mobile, thứ tự ảnh, chú thích, không tràn ngang và không lộ cú pháp. Sau xuất bản, mở lại bài công khai kiểm tra đủ ảnh, alt và chú thích. Code đã push không đồng nghĩa production đã hỗ trợ: xác minh bản triển khai trước khi đăng.
+- Áp dụng cho bài mới và lần sửa bài được giao. Không tự xuất bản lại hoặc sửa hàng loạt bài cũ để thêm ảnh.
+
+### Cú pháp ảnh cho dtpt.shop (Markdown)
+
+`coverImage` là ảnh đại diện; ảnh xen kẽ nằm trong trường `content`. Mỗi ảnh trên một dòng riêng, ngăn với đoạn văn bằng dòng trống:
+
+```markdown
+Đoạn giải thích bước hoặc thiết bị.
+
+![Mô tả chính xác nội dung ảnh](</products/ten-anh.jpg> "Giải thích ảnh. Nguồn: tên chủ sở hữu.")
+
+Đoạn nội dung tiếp theo.
+```
+
+Ví dụ chỉ mô tả cú pháp; thay bằng ảnh đã xác minh. Hỗ trợ đường dẫn `/products/...`, URL HTTPS hoặc `/api/article-media/<uuid>` thực tế. Không chèn HTML figure/img vào Markdown. Escape dấu ngoặc vuông, dấu nháy kép và dấu gạch chéo ngược trong alt/chú thích bằng helper `imageMarkdown` tại `src/utils/articleMarkdown.ts` khi tạo nội dung bằng code.
+
+Đọc `docs/admin-cms-guide.md` khi thao tác CMS. Có thể chèn nhiều ảnh từ máy, sửa/thay/xóa riêng từng ảnh và xem trước. API POST `/api/article-media` nhận binary JPG/PNG/WebP tĩnh, cần Bearer token với quyền `articles.manage`; tối đa 5 MB/ảnh và 40 megapixel. Lấy `path` thực tế trong response để đưa vào Markdown, không tự tạo UUID. Ảnh được chuyển WebP và lưu PostgreSQL; frontend giải quyết `/api/article-media/...` theo `VITE_API_URL`. Không upload tài liệu riêng tư vì URL ảnh công khai kể cả bài nháp. Backend phải triển khai hỗ trợ upload trước frontend.
+
+Ghi nguồn gốc kiểm chứng được trong hồ sơ biên tập và chú thích. Renderer hiện không hỗ trợ đầy đủ Markdown liên kết: không mặc định `[nguồn](URL)` sẽ thành liên kết; kiểm tra thực tế, có thể ghi URL nguồn dưới dạng văn bản. Dùng `ArticleBody`/xem trước để kiểm tra ảnh, không chỉ kiểm tra chuỗi JSON. Khi thêm ảnh trong `public/products`, chờ frontend deploy và xác minh URL trước khi xuất bản bài qua CMS/API.
+
 ### Cách xuất bản của automation
 
-Đọc hướng dẫn người dùng, AGENTS.md nếu có, `agents/project-status.md` và tài liệu này. Kiểm tra Git tại đúng dự án Xuat-nhap-khau-website. Dùng CMS `/admin` hoặc API đã xác thực có quyền `articles.manage`: tạo nháp, kiểm tra ảnh/nội dung rồi xuất bản. Không lưu token, mật khẩu hay session trong Git.
+Đọc hướng dẫn người dùng, AGENTS.md nếu có, `agents/project-status.md` và tài liệu này. Kiểm tra Git tại đúng dự án Sell-Laptop-Website. Dùng CMS `/admin` hoặc API đã xác thực có quyền `articles.manage`: tạo nháp, kiểm tra ảnh/nội dung rồi xuất bản. Không lưu token, mật khẩu hay session trong Git.
 
 `backend/src/articleSeed.js` chỉ seed khi bảng articles rỗng; thêm bài vào seed rồi push **không** tự xuất bản lên PostgreSQL hiện có. Không reset/truncate DB để nhập bài. Nếu chưa có phiên biên tập hoặc quyền xuất bản, chuẩn bị bài và nguồn/ảnh đã kiểm tra trong `docs/editorial/`, báo rõ phần còn cần quyền; không báo đã đăng và không tạo các bản nháp trùng mỗi lần chạy. Khi thêm tài nguyên/mã nguồn cần build/lint/test phù hợp, review diff rồi commit/push an toàn.
 
