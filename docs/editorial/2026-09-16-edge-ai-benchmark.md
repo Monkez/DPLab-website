@@ -1,13 +1,15 @@
-# Bản nháp: Chọn máy tính Edge AI: kiểm tra gì ngoài TOPS?
+# Bài đã xuất bản: Chọn máy tính Edge AI: kiểm tra gì ngoài TOPS?
 
-- Trạng thái: sẵn sàng nhập CMS, chưa xuất bản. Ngày kiểm chứng: 16/09/2026.
+- Trạng thái: đã xuất bản qua CMS ngày 16/09/2026 sau lưu nháp và xem trước.
+- CMS ID: `NEWS-1789529275344`.
+- URL: https://dtpt.shop/tin-tuc/chon-may-tinh-edge-ai-kiem-tra-gi-ngoai-tops
 - Slug: `chon-may-tinh-edge-ai-kiem-tra-gi-ngoai-tops`
 - Chuyên mục: Kiến thức kỹ thuật
 - Tóm tắt/SEO description: Chọn máy tính Edge AI cho camera: kiểm tra độ trễ, FPS, độ chính xác, phần mềm và tản nhiệt bằng tác vụ thực tế trước khi yêu cầu báo giá.
 - Tag: Edge AI, Jetson, máy tính công nghiệp, machine vision
 - Ảnh đại diện: `/products/seeed-j4012.webp`
 - Alt ảnh: Máy tính reComputer Industrial J4012 của Seeed Studio với vỏ kim loại và các cổng kết nối.
-- Sản phẩm liên quan: reComputer Industrial J4012; chọn bản ghi thật trong CMS, không tự đoán ID/URL.
+- Sản phẩm được nhắc tới: reComputer Industrial J4012. Form CMS hiện không có trường gắn sản phẩm liên quan.
 
 ## Nội dung nhập CMS
 
@@ -65,6 +67,7 @@ https://wiki.seeedstudio.com/reComputer_Industrial_Getting_Started/
 - Nguồn NVIDIA dùng cho khái niệm latency/throughput và công cụ trtexec. Không sao chép hướng dẫn GPU desktop sang Jetson.
 - Đã xem trực tiếp ảnh catalogue: thiết bị màu đen, đúng loại reComputer Industrial. Dùng một ảnh trong bài vì chưa có ảnh phép thử thực tế; không lặp nhiều góc ảnh không cần thiết hoặc tạo ảnh benchmark bằng AI.
 - Nguồn ghi URL thuần vì renderer hiện chưa hỗ trợ Markdown liên kết thông thường.
-- Trước đăng: chọn sản phẩm liên quan thật trong CMS, lưu nháp, xem trước desktop/mobile và kiểm tra ảnh/chú thích. Sau đăng: xác minh API public, trang bài, metadata và sitemap. Không coi bản nháp Git là bài đã đăng.
-- Chặn hiện tại: https://dtpt.shop/admin hiển thị form đăng nhập trong trình duyệt hiện có. Không có phiên CMS được xác thực. Không sửa seed hoặc reset DB để vượt qua bước này.
-- Khi tiếp tục, tìm slug trên API/CMS trước để không tạo bài trùng. Cập nhật hồ sơ này bằng CMS ID và URL sau khi xuất bản thành công.
+- Đã lưu nháp, xem trước desktop/mobile và kiểm tra ảnh/chú thích trước khi xuất bản. CMS không có trường alt riêng cho cover; ảnh cover dùng tiêu đề bài làm alt, ảnh trong bài dùng mô tả chi tiết.
+- Đã xác nhận API public có đúng ID/slug/status published; sitemap có slug và HTML server trả đúng title. Ảnh cover và ảnh trong bài tải thành công, alt/chú thích hiển thị đúng.
+- Xem trước CMS ở 390px và 1280px không tràn; trang công khai 390px phát hiện URL nguồn dài tràn ngang. Sửa `.article-content` với `overflow-wrap: anywhere` để giữ nguyên URL và ngắt dòng khi cần.
+- Không tạo lại bài khi automation chạy tiếp. Bài lưu PostgreSQL qua CMS, không thêm seed.
