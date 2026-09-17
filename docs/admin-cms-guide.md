@@ -77,3 +77,11 @@ Ngày tháng trên storefront và admin được hiển thị thống nhất the
 2. Chọn `Xem website`, kiểm tra desktop và mobile.
 3. Với sản phẩm mới, nên để `draft` cho đến khi ảnh, giá và thông số đã được đối chiếu.
 4. Không xóa sản phẩm đã xuất hiện trong RFQ cũ nếu vẫn cần tra cứu lịch sử.
+
+## Tải ảnh sản phẩm từ máy tính
+
+Trong **Sản phẩm → Thêm sản phẩm** (hoặc **Sửa**), tìm mục **Ảnh sản phẩm**, bấm **Chọn ảnh từ máy tính** rồi chọn một hoặc nhiều ảnh JPG/PNG/WebP, tối đa 5 MB mỗi ảnh. Không cần nhập URL. Xem ảnh đã tải, dùng **Đặt làm ảnh đại diện** hoặc nút bỏ ảnh nếu cần, sau đó bấm **Lưu sản phẩm**. Nút lưu tạm khóa khi ảnh đang tải; lỗi lưu không đóng form.
+
+Backend cung cấp `POST /api/product-media` với quyền `products.manage`, dùng bộ xử lý ảnh hiện có và bảng media PostgreSQL để lưu bền vững; ảnh được trả công khai tại `GET /api/product-media/:id`. Không cần quyền `articles.manage`. Cần deploy cả frontend/backend và cấu hình `VITE_API_URL`. Bản xem trước không có API sẽ báo rõ chưa thể tải ảnh.
+
+Kiểm tra: HTTP upload/đọc ảnh WebP, từ chối thiếu quyền/sai định dạng/quá dung lượng; QA trình duyệt chọn ảnh → lưu → tải lại với máy chủ kiểm thử dùng bộ nhớ. Chưa kiểm tra lưu với PostgreSQL thật trong môi trường local.

@@ -31,6 +31,7 @@ import {
 } from './db.js'
 import { hasPermission } from './permissions.js'
 import { normalizeArticleImage, MAX_IMAGE_BYTES } from './articleMedia.js'
+import { createProductMediaRouter } from './productMedia.js'
 import { buildAnalyticsReport } from './analyticsReport.js'
 
 const app = express()
@@ -218,6 +219,9 @@ app.delete('/api/products/:id', requirePermission('products.manage'), asyncRoute
   await deleteProduct(req.params.id)
   res.status(204).end()
 }))
+
+// Reuse the durable media table; product upload permissions remain independent of articles.
+app.use('/api/product-media', createProductMediaRouter({ requirePermission, saveImage: saveArticleMedia, getImage: getArticleMedia }))
 
 app.post('/api/article-media', requirePermission('articles.manage'), express.raw({ type: ['image/jpeg', 'image/png', 'image/webp', 'application/octet-stream'], limit: MAX_IMAGE_BYTES }), asyncRoute(async (req, res) => {
   let data

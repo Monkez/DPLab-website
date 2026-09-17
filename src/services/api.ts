@@ -65,6 +65,10 @@ export const api = {
     const result = await request<{ path: string }>('/api/article-media', { method: 'POST', admin: true, headers: { 'Content-Type': file.type || 'application/octet-stream' }, body: file })
     return result.path
   },
+  uploadProductImage: async (file: File) => {
+    const result = await request<{ path: string }>('/api/product-media', { method: 'POST', admin: true, headers: { 'Content-Type': file.type || 'application/octet-stream' }, body: file })
+    return `${API_URL}${result.path}`
+  },
   deleteArticle: (id: string) => request<void>(`/api/articles/${encodeURIComponent(id)}`, { method: 'DELETE', admin: true }),
   updateQuoteStatus: (id: string, status: QuoteRequest['status']) => request<QuoteRequest>(`/api/quotes/${encodeURIComponent(id)}/status`, { method: 'PATCH', admin: true, body: JSON.stringify({ status }) }),
   updateSettings: (settings: StoreSettings) => request<StoreSettings>('/api/settings', { method: 'PUT', admin: true, body: JSON.stringify(settings) }),

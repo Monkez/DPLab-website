@@ -1924,3 +1924,22 @@ body[data-card-style="compact"] .product-card__body { padding-bottom: 15px; }
   .admin-title { flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }
   .admin-title h1 { margin-bottom: 0; }
 }
+
+.product-image-editor { min-width: 0; }
+.product-image-editor h3 { margin: 0 0 12px; font-size: 15px; }
+.product-image-upload { display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 24px 16px; border: 1px dashed #9ab8d8; border-radius: 10px; background: #f3f8fe; color: #175d9f; text-align: center; }
+.product-image-upload span { font-size: 12px; color: #607089; }
+.product-image-upload input { width: 100%; max-width: 340px; font-size: 13px; }
+.product-image-upload input::file-selector-button { border: 0; padding: 10px 14px; border-radius: 6px; margin-right: 10px; background: #086ad8; color: white; cursor: pointer; }
+.product-image-upload:focus-within { outline: 2px solid var(--blue); outline-offset: 3px; }
+.product-image-previews { display: grid; grid-template-columns: repeat(auto-fill, minmax(145px, 1fr)); gap: 12px; }
+.product-image-previews article { padding: 10px; border: 1px solid var(--line); border-radius: 8px; min-width: 0; }
+.product-image-previews img { width: 100%; height: 120px; object-fit: contain; background: #f8fafc; border-radius: 5px; }
+.product-image-previews article > div { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 8px; font-size: 12px; font-weight: 700; }
+.product-image-previews button { min-height: 36px; border: 1px solid var(--line); border-radius: 5px; background: white; padding: 6px 8px; font-size: 12px; color: #175d9f; }
+.product-image-previews article > button { width: 100%; margin-top: 8px; }
+.product-image-message { color: #175d9f; font-size: 13px; line-height: 1.6; }
+.product-image-upload { position: relative; cursor: pointer; }
+.product-image-upload input { position: absolute; inset: 0; opacity: 0; width: 100%; height: 100%; max-width: none; cursor: pointer; }
+.product-image-upload:has(input:disabled) { opacity: .65; cursor: not-allowed; }
+.product-image-upload input:disabled { cursor: not-allowed; }
