@@ -1,4 +1,5 @@
 import { expandedProducts } from "./catalogExpansion.js";
+import { entryProducts, curateSeedProducts } from "./entryProducts.js";
 
 const updated = "21/08/2026";
 const note =
@@ -556,7 +557,7 @@ const coreSeedProducts = [
   }),
 ];
 
-export const seedProducts = [...coreSeedProducts, ...expandedProducts];
+export const seedProducts = curateSeedProducts([...coreSeedProducts, ...expandedProducts, ...entryProducts]);
 
 export const seedQuotes = [];
 export const seedSettings = {
@@ -566,9 +567,9 @@ export const seedSettings = {
   logoRoundSrc: "/dp-lab-logo.png",
   logoWideSrc: "/dtpt-techs-logo.png",
   faviconSrc: "/dp-lab-logo.png",
-  phone: "0906 094 313",
-  address: "Tầng 5, V11-B09, KĐT mới An Hưng, P. La Khê, Hà Đông, Hà Nội",
-  email: "hello@dtpt.tech",
+  phone: "0903 463 185",
+  address: "Tầng 4, số 146 Trần Vỹ, Phường Phú Diễn, TP Hà Nội",
+  email: "dtpttechs@gmail.com",
   facebook: "facebook.com/dtpt.techs",
   categories: [
     { id: "industrial-pc", name: "Máy tính công nghiệp", shortName: "Industrial PC", description: "Nền tảng tính toán bền bỉ cho tủ điện, dây chuyền và môi trường khắc nghiệt.", subcategories: ["Box PC không quạt", "Panel PC & HMI", "Rackmount IPC", "Edge AI Computer", "Màn hình công nghiệp"], visible: true, sortOrder: 1 },
@@ -609,10 +610,10 @@ export const seedSettings = {
     service3Description: "Tư vấn theo yêu cầu kỹ thuật thực tế",
     service4Title: "Đồng hành dài hạn",
     service4Description: "Hỗ trợ trước và sau bán hàng",
-    productsEyebrow: "SẢN PHẨM ĐÃ ĐỐI CHIẾU",
-    productsTitle: "Công nghệ cho nhà máy và phòng nghiên cứu",
+    productsEyebrow: "THIẾT BỊ GỢI Ý ĐỂ BẮT ĐẦU",
+    productsTitle: "Từ đo kiểm đến kết nối nhà máy",
     productsDescription:
-      "Model thực tế, thông số theo tài liệu hãng và giá bán tại Việt Nam đã gồm VAT.",
+      "Lựa chọn cho đo lường, điều khiển và thu thập dữ liệu. Xem model, thông số và điều kiện cung cấp trước khi yêu cầu báo giá.",
     whyEyebrow: "NĂNG LỰC DTPT TECHS",
     whyTitle: "Một đối tác kỹ thuật đáng tin cậy.",
     whyDescription:

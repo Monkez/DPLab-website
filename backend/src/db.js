@@ -140,6 +140,25 @@ export async function initDatabase() {
   const currentSettings = await getSettings()
   if (currentSettings.storeName !== 'DTPT Techs') await saveSettings(seedSettings)
 
+  // Apply owner-confirmed contact details and catalogue introduction once.
+  // Keep the existing catalogue version: bumping it would delete admin products.
+  await query(`WITH migration AS (
+    INSERT INTO settings (id, data) VALUES ('business_contact_20260917', '{"version":1}'::jsonb)
+    ON CONFLICT (id) DO NOTHING RETURNING id
+  ) UPDATE settings SET data = data || $1::jsonb || jsonb_build_object('content', COALESCE(data->'content', '{}'::jsonb) || $2::jsonb), updated_at = NOW()
+    WHERE id = 'main' AND EXISTS (SELECT 1 FROM migration)`,
+  [JSON.stringify({ phone: seedSettings.phone, email: seedSettings.email, address: seedSettings.address }), JSON.stringify({ productsEyebrow: seedSettings.content.productsEyebrow, productsTitle: seedSettings.content.productsTitle, productsDescription: seedSettings.content.productsDescription })])
+
+  // One-time merchandising update touches only display flags of known seed models.
+  // Later CMS choices and custom product records stay authoritative.
+  await query(`WITH migration AS (
+    INSERT INTO settings (id, data) VALUES ('entry_assortment_20260917', '{"version":1}'::jsonb)
+    ON CONFLICT (id) DO NOTHING RETURNING id
+  ), assortment AS (SELECT * FROM jsonb_to_recordset($1::jsonb) AS x(id text, featured boolean, "sortOrder" integer))
+  UPDATE products p SET data = p.data || jsonb_strip_nulls(jsonb_build_object('featured', a.featured, 'sortOrder', a."sortOrder")), updated_at = NOW()
+  FROM assortment a WHERE p.id = a.id AND EXISTS (SELECT 1 FROM migration)`,
+  [JSON.stringify(seedProducts.map(({ id, featured, sortOrder }) => ({ id, featured, sortOrder })))])
+
   const rootUsername = String(process.env.ADMIN_DEFAULT_USERNAME || '').trim().toLowerCase()
   const rootPassword = process.env.ADMIN_DEFAULT_PASSWORD
   const adminCount = await query('SELECT COUNT(*)::int AS count FROM admin_users')
@@ -216,7 +235,7 @@ export async function createAdminUser({ username, password, displayName, role = 
   const cleanUsername = String(username || '').trim().toLowerCase()
   const cleanDisplayName = String(displayName || '').trim()
   if (!/^[a-z0-9._-]{3,40}$/.test(cleanUsername)) throw new Error('Tên đăng nhập cần 3–40 ký tự: chữ thường, số, dấu chấm, gạch ngang hoặc gạch dưới')
-  if (String(password || '').length < 10) throw new Error('Mật khẩu phải có ít nhất 10 ký tự')
+  if (typeof password !== 'string' || !password.length) throw new Error('Vui lòng nhập mật khẩu')
   if (cleanDisplayName.length < 2 || cleanDisplayName.length > 80) throw new Error('Tên hiển thị cần từ 2 đến 80 ký tự')
   if (await getAdminUser(cleanUsername)) throw new Error('Tên đăng nhập đã tồn tại')
   const access = isRoot ? { role: 'owner', permissions: ADMIN_PERMISSIONS } : normalizeAdminAccess(role, permissions)
@@ -243,7 +262,7 @@ export async function updateAdminUser(username, { displayName, password, role, p
 
   const cleanDisplayName = displayName === undefined ? target.displayName : String(displayName).trim()
   if (cleanDisplayName.length < 2 || cleanDisplayName.length > 80) throw new Error('Tên hiển thị cần từ 2 đến 80 ký tự')
-  if (password !== undefined && password !== '' && String(password).length < 10) throw new Error('Mật khẩu mới phải có ít nhất 10 ký tự')
+  if (password !== undefined && typeof password !== 'string') throw new Error('Mật khẩu không hợp lệ')
   const access = target.isRoot ? { role: 'owner', permissions: ADMIN_PERMISSIONS } : normalizeAdminAccess(role ?? target.role, permissions ?? target.permissions)
   const nextActive = target.isRoot ? true : active ?? target.active
   const changesOwnAccess = actor.username === target.username && (

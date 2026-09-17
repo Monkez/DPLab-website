@@ -1,6 +1,6 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 12/09/2026
+> Cập nhật: 17/09/2026
 
 ## Quyết định cố định
 
@@ -8,6 +8,15 @@
 - Slogan hiện tại: **Công nghệ tiên tiến. Giá trị bền vững.**
 - Không mô tả DTPT Techs như dịch vụ order/nhập hộ. Nội dung công khai nhấn mạnh công nghệ, chất lượng, giá trị đầu tư, uy tín và hỗ trợ kỹ thuật.
 - Mô hình B2B là catalogue + yêu cầu báo giá, không phải giỏ hàng/checkout bán lẻ.
+
+## Cải tiến hành trình khách hàng 17/09/2026
+
+- Danh mục seed 89 model, thêm MEAN WELL HDR-60-24 giá liên hệ; 8 model nổi bật được chọn lại theo nhóm ứng dụng, vẫn sửa được qua CMS.
+- Pháp nhân và liên hệ do chủ website xác nhận: CÔNG TY TNHH DTPT-TECHS, 0110774870; 0903463185; dtpttechs@gmail.com; ĐKKD tại tầng 4, 146 Trần Vỹ, Phú Diễn, Hà Nội.
+- Có trang `/huong-dan-mua-hang`, tìm kiếm không dấu/mobile, lọc thương hiệu/ngân sách, form tư vấn không cần chọn sản phẩm; họ tên/điện thoại bắt buộc, email/đơn vị tùy chọn. Offline chỉ soạn email và giữ danh sách.
+- Mật khẩu tạo/đổi tài khoản không còn tối thiểu 10 ký tự; không rỗng khi tạo, để trống khi sửa để giữ mật khẩu cũ.
+- Hai migration một lần cập nhật liên hệ/nội dung danh mục và thứ tự/nổi bật. Giữ version catalogue v5 để tránh cơ chế reset dữ liệu cũ.
+- Xem `docs/vietnam-market-and-customer-audit.md` cho cơ sở thị trường, kiểm thử và giới hạn.
 
 ## Trạng thái triển khai
 

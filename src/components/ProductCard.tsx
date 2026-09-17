@@ -1,4 +1,5 @@
 import { ArrowUpRight, FilePlus2 } from "lucide-react";
+import { useStore } from '../store/StoreContext';
 import type { Product } from "../types";
 import { formatPrice } from "../utils/productFormat";
 import { ProductArt } from "./ProductArt";
@@ -12,32 +13,37 @@ export function ProductCard({
   navigate: (path: string) => void;
   add: (id: string) => void;
 }) {
+  const { quoteItems } = useStore();
+  const added = quoteItems.some(item => item.productId === product.id);
   return (
     <article className="product-card">
-      <button
+      <a
+        href={`/san-pham/${product.slug}`}
         className="product-card__visual"
-        onClick={() => navigate(`/san-pham/${product.slug}`)}
+        onClick={event => { if (!event.ctrlKey && !event.metaKey && !event.shiftKey) { event.preventDefault(); navigate(`/san-pham/${product.slug}`) } }}
         aria-label={`Xem ${product.name}`}
       >
         <ProductArt product={product} />
         {product.badge && <span className="badge">{product.badge}</span>}
-      </button>
+      </a>
       <div className="product-card__body">
         <div className="product-card__meta">
           <span>{product.category}</span>
           <span>{product.origin}</span>
         </div>
-        <button
+        <a
+          href={`/san-pham/${product.slug}`}
           className="product-card__title"
-          onClick={() => navigate(`/san-pham/${product.slug}`)}
+          onClick={event => { if (!event.ctrlKey && !event.metaKey && !event.shiftKey) { event.preventDefault(); navigate(`/san-pham/${product.slug}`) } }}
         >
           {product.name}
-        </button>
+        </a>
+        {added && <small role="status">Đã thêm vào danh sách báo giá ở đầu trang.</small>}
         <p className="model">{product.model}</p>
         <p>{product.summary}</p>
         <div className="product-card__footer">
           <div>
-            <small>Giá bán · đã gồm VAT</small>
+            <small>{product.priceMode === "contact" ? "Báo giá theo yêu cầu" : "Giá bán · đã gồm VAT"}</small>
             <strong>{formatPrice(product)}</strong>
           </div>
           <div className="card-actions">
@@ -52,7 +58,7 @@ export function ProductCard({
               className="primary-button primary-button--compact"
               onClick={() => add(product.id)}
             >
-              <FilePlus2 /> Thêm yêu cầu
+              <FilePlus2 /> {added ? "Đã thêm · Thêm nữa" : "Thêm báo giá"}
             </button>
           </div>
         </div>

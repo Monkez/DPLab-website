@@ -15,11 +15,13 @@ import { formatDate } from "../utils/dateFormat";
 export function ProductDetailPage({
   product,
   navigate,
+  onQuote,
 }: {
   product: Product;
   navigate: (path: string) => void;
+  onQuote: () => void;
 }) {
-  const { addToQuote } = useStore();
+  const { addToQuote, settings } = useStore();
 
   return (
     <main>
@@ -45,7 +47,7 @@ export function ProductDetailPage({
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Ảnh sản phẩm từ hãng/nhà phân phối <ExternalLink />
+                  Ảnh minh họa model/dòng sản phẩm · Xem nguồn <ExternalLink />
                 </a>
               )}
             </div>
@@ -59,7 +61,7 @@ export function ProductDetailPage({
               </p>
               <p className="detail-summary">{product.summary}</p>
               <div className="detail-price">
-                <small>Giá bán tại Việt Nam · đã gồm VAT</small>
+                <small>{product.priceMode === "contact" ? "Báo giá theo yêu cầu" : "Giá bán tại Việt Nam · đã gồm VAT"}</small>
                 <strong>{formatPrice(product)}</strong>
                 <span>
                   {product.priceNote ??
@@ -79,10 +81,13 @@ export function ProductDetailPage({
               </ul>
               <button
                 className="primary-button"
-                onClick={() => addToQuote(product.id)}
+                onClick={() => { addToQuote(product.id); onQuote() }}
               >
-                <FilePlus2 /> Thêm vào yêu cầu báo giá
+                <FilePlus2 /> Yêu cầu báo giá thiết bị này
               </button>
+              <div className="contact-actions"><a className="secondary-button" href={`tel:${settings.phone.replace(/\D/g, "")}`}>Gọi {settings.phone}</a><a className="secondary-button" href={`https://zalo.me/${settings.phone.replace(/\D/g, "")}`} target="_blank" rel="noreferrer">Chat Zalo</a></div>
+              <p className="catalog-note">Thời gian cung cấp: {product.leadTime}. Vui lòng xác nhận tình trạng hàng trước khi đặt.</p>
+              <a className="text-button" href="/huong-dan-mua-hang">Giao nhận, bảo hành & hướng dẫn đặt hàng</a>
               <div className="detail-trust">
                 <span>
                   <ShieldCheck /> Bảo hành {product.warranty}

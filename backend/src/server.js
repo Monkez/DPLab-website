@@ -2,6 +2,7 @@ import 'dotenv/config'
 import cors from 'cors'
 import crypto from 'crypto'
 import express from 'express'
+import { validateQuoteRequest } from './quoteValidation.js'
 import {
   authenticateAdmin,
   saveArticleMedia,
@@ -267,6 +268,7 @@ app.get('/api/sitemap.xml', asyncRoute(async (_req, res) => {
     { loc: `${baseUrl}/`, priority: '1.0' },
     { loc: `${baseUrl}/san-pham`, priority: '0.9' },
     { loc: `${baseUrl}/tin-tuc`, priority: '0.8' },
+    { loc: `${baseUrl}/huong-dan-mua-hang`, priority: '0.6' },
     ...products.filter(item => item.status === 'active').map(item => ({ loc: `${baseUrl}/san-pham/${encodeURIComponent(item.slug)}`, priority: '0.7', lastmod: item.priceUpdatedAt })),
     ...articles.filter(item => item.status === 'published').map(item => ({ loc: `${baseUrl}/tin-tuc/${encodeURIComponent(item.slug)}`, priority: '0.7', lastmod: item.updatedAt || item.publishedAt })),
   ]
@@ -279,10 +281,9 @@ app.get('/api/quotes', requirePermission('quotes.view'), asyncRoute(async (_req,
 }))
 
 app.post('/api/quotes', asyncRoute(async (req, res) => {
-  const customer = req.body?.customer
-  const items = Array.isArray(req.body?.items) ? req.body.items : []
-  if (!customer?.name?.trim() || !customer?.company?.trim() || !customer?.phone?.trim() || !customer?.email?.trim()) return res.status(400).json({ message: 'Vui lòng điền đủ thông tin liên hệ' })
-  if (!items.length || items.length > 50) return res.status(400).json({ message: 'Danh sách sản phẩm không hợp lệ' })
+  const result = validateQuoteRequest(req.body)
+  if (result.error) return res.status(400).json({ message: result.error })
+  const { customer, items } = result
   const products = await listProducts()
   const validIds = new Set(products.filter(product => product.status === 'active').map(product => product.id))
   if (items.some(item => !validIds.has(item.productId) || !Number.isInteger(item.quantity) || item.quantity < 1 || item.quantity > 999)) return res.status(400).json({ message: 'Sản phẩm hoặc số lượng không hợp lệ' })

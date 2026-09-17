@@ -1,0 +1,18 @@
+import { ArrowRight, Mail, Phone } from 'lucide-react'
+import { useStore } from '../store/StoreContext'
+
+const needs = [
+  ['Kết nối máy móc & thu thập dữ liệu', 'Remote I/O, RS-485, Modbus và gateway cho PLC/SCADA.', 'DAQ & Remote I/O'],
+  ['Đo kiểm & phát triển điện tử', 'Máy hiện sóng, nguồn bàn và thiết bị cho phòng R&D.', 'Thiết bị đo điện tử'],
+  ['Bảo trì & kiểm tra nhiệt', 'Camera nhiệt hỗ trợ kiểm tra tủ điện và thiết bị.', 'Giám sát tình trạng máy'],
+  ['Điều khiển & tủ điện', 'PLC, HMI, servo và nguồn DIN rail theo cấu hình.', 'Tự động hóa & điều khiển'],
+]
+export function NeedFinder({ navigate }: { navigate: (path: string) => void }) {
+  const { settings } = useStore()
+  return <section className="section need-finder"><div className="container"><div className="section-heading"><div><span className="eyebrow">BẮT ĐẦU TỪ NHU CẦU</span><h2>Bạn đang cần giải quyết việc gì?</h2></div><p>Chọn ứng dụng để thu hẹp danh mục, sau đó đối chiếu thông số và gửi yêu cầu.</p></div><div className="need-grid">{needs.filter(([, , category]) => settings.categories.some(item => item.visible && item.name === category)).map(([title, description, category], index) => <a key={category} href={`/san-pham?category=${encodeURIComponent(category)}`} onClick={event => { if (!event.ctrlKey && !event.metaKey && !event.shiftKey) { event.preventDefault(); navigate(event.currentTarget.getAttribute('href')!) } }}><small>0{index + 1}</small><h3>{title}</h3><p>{description}</p><span>Xem thiết bị <ArrowRight size={17} /></span></a>)}</div></div></section>
+}
+export function BuyerSupport({ onQuote }: { onQuote: () => void }) {
+  const { settings } = useStore()
+  const phone = settings.phone.replace(/\D/g, '')
+  return <section className="section section--tint"><div className="container buyer-support"><div><span className="eyebrow">MUA HÀNG CÙNG DTPT TECHS</span><h2>Biết rõ trước khi quyết định.</h2><p>Chúng tôi trao đổi cấu hình, tình trạng hàng và điều kiện cung cấp trước khi bạn xác nhận đặt hàng.</p><ol className="purchase-flow"><li><b>01</b><span>Gửi model hoặc nhu cầu ứng dụng</span></li><li><b>02</b><span>Nhận phương án và báo giá chi tiết</span></li><li><b>03</b><span>Xác nhận đơn, giao nhận và bảo hành</span></li></ol><a className="text-button" href="/huong-dan-mua-hang">Xem thông tin doanh nghiệp & hướng dẫn mua hàng <ArrowRight size={16} /></a></div><div className="buyer-faq"><h3>Câu hỏi trước khi mua</h3><details><summary>Giá trên website đã là giá cuối cùng chưa?</summary><p>Giá công khai áp dụng theo cấu hình và ghi chú trên từng trang. Giá, VAT, vận chuyển, phụ kiện và thời hạn hiệu lực được xác nhận trong báo giá chính thức.</p></details><details><summary>Có sẵn hàng và giao trong bao lâu?</summary><p>Tình trạng hàng thay đổi theo model và số lượng. Thời gian hiển thị là dự kiến; vui lòng xác nhận trước khi đặt hàng.</p></details><details><summary>Chưa biết model có được tư vấn không?</summary><p>Có. Bạn chỉ cần mô tả ứng dụng, tín hiệu/giao thức, số lượng và thời điểm cần hàng. Biểu mẫu cho phép gửi nhu cầu khi chưa chọn sản phẩm.</p></details><details><summary>Bảo hành và đổi trả như thế nào?</summary><p>Điều kiện phụ thuộc sản phẩm và cấu hình. Yêu cầu xác nhận phạm vi bảo hành, nơi tiếp nhận và điều kiện đổi trả trong báo giá trước khi thanh toán.</p></details><button className="primary-button" onClick={onQuote}>Gửi nhu cầu của bạn</button><div className="contact-actions"><a href={`tel:${phone}`}><Phone size={17} />{settings.phone}</a><a href={`https://zalo.me/${phone}`} target="_blank" rel="noreferrer">Chat Zalo</a><a href={`mailto:${settings.email}`}><Mail size={17} />Email</a></div></div></div></section>
+}

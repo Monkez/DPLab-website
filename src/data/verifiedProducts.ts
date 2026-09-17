@@ -1,5 +1,6 @@
 import type { Product } from "../types";
 import { expandedProducts } from "../../backend/src/catalogExpansion.js";
+import { entryProducts, curateSeedProducts } from "../../backend/src/entryProducts.js";
 
 const updated = "21/08/2026";
 const priceNote =
@@ -854,4 +855,4 @@ const coreProducts: Product[] = [
   }),
 ];
 
-export const verifiedProducts: Product[] = [...coreProducts, ...expandedProducts];
+export const verifiedProducts: Product[] = curateSeedProducts([...coreProducts, ...expandedProducts, ...entryProducts]);

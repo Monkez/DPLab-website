@@ -34,3 +34,7 @@ Admin CMS tại `/admin` còn hỗ trợ tag/phân loại, nội dung trang ch�
 - Hướng dẫn đăng tin và cấu hình Google Search Console: [docs/seo-and-news-guide.md](docs/seo-and-news-guide.md).
 
 Chi tiết kiến trúc và quy trình nằm trong [docs/technical-implementation.md](docs/technical-implementation.md).
+
+## Cải thiện trải nghiệm khách hàng
+
+Phân tích danh mục Việt Nam, hành trình báo giá và hướng triển khai: [Báo cáo thị trường & UX](docs/vietnam-market-and-customer-audit.md). Trang `/huong-dan-mua-hang` công bố thông tin doanh nghiệp và hướng dẫn liên hệ đặt hàng.

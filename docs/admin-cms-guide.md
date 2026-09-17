@@ -10,7 +10,7 @@ Trang quản trị tại `/admin` hiện hoạt động như một CMS gọn nh�
 - Chọn `Quyền tùy chỉnh` để bật riêng từng quyền: báo giá, sản phẩm, phân loại, thương hiệu, nội dung, giao diện, analytics, tài khoản hoặc reset hệ thống.
 - Quyền được kiểm tra tại backend cho từng API. Việc ẩn tab trên frontend chỉ giúp giao diện gọn hơn, không phải lớp bảo mật duy nhất.
 - Không thể tự khóa hoặc tự xóa tài khoản đang đăng nhập; hệ thống luôn giữ ít nhất một Chủ sở hữu đang hoạt động.
-- Mật khẩu tài khoản mới và mật khẩu thay thế phải có ít nhất 10 ký tự. Không dùng chung mật khẩu giữa nhân sự.
+- Mật khẩu tài khoản mới được đặt tự do, không giới hạn tối thiểu 10 ký tự; cần nhập mật khẩu không rỗng. Khi sửa tài khoản, để trống mật khẩu để giữ nguyên, hoặc nhập mật khẩu mới với độ dài tùy chọn.
 
 Sau lần deploy đầu tiên có phân quyền, các phiên admin cũ sẽ tự đăng xuất một lần để nhận hồ sơ quyền mới.
 
