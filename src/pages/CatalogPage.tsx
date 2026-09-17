@@ -25,7 +25,7 @@ export function CatalogPage({ params, navigate, onQuote }: { params: URLSearchPa
     navigate(`/san-pham${next.size ? `?${next}` : ''}`)
   }
   return <main>
-    <section className="page-hero"><div className="container"><span className="eyebrow">CATALOGUE DTPT TECHS</span><h1>{category || 'Tìm thiết bị cho công việc của bạn'}</h1><p>{category ? categories.find(item => item.name === category)?.description : 'Tìm theo model, ứng dụng hoặc thương hiệu. Chưa rõ cấu hình? Gửi nhu cầu để được tư vấn.'}</p></div></section>
+    <section className="page-hero"><div className="container"><span className="eyebrow">CATALOGUE DTPT TECHS</span><h1>{category || 'Sản phẩm'}</h1><p>{category ? categories.find(item => item.name === category)?.description : 'Tìm theo model, ứng dụng hoặc thương hiệu. Chưa rõ cấu hình? Gửi nhu cầu để được tư vấn.'}</p></div></section>
     <section className="section"><div className="container">
       <form className="catalog-search" onSubmit={event => { event.preventDefault(); update('q', String(new FormData(event.currentTarget).get('q') || '').trim()) }}>
         <Search aria-hidden="true" /><input key={query} name="q" defaultValue={query} aria-label="Tìm thiết bị" placeholder="Ví dụ: ADAM-6050, nguồn 24V, máy hiện sóng…" /><button className="primary-button" type="submit">Tìm kiếm</button>

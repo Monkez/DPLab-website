@@ -103,7 +103,7 @@ export function ProductDetailPage({
       <section className="section section--tint">
         <div className="container detail-info">
           <div>
-            <span className="eyebrow">THÔNG SỐ ĐỐI CHIẾU</span>
+            <span className="eyebrow">THÔNG SỐ KỸ THUẬT</span>
             <h2>Thông tin sản phẩm</h2>
             <dl>
               {product.specifications.map((spec) => (
@@ -136,7 +136,7 @@ export function ProductDetailPage({
           </div>
           <div>
             <span className="eyebrow">ỨNG DỤNG</span>
-            <h2>Phù hợp cho</h2>
+            <h2>Ứng dụng</h2>
             <div className="application-list">
               {product.applications.map((item) => (
                 <span key={item}>{item}</span>

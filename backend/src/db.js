@@ -2,6 +2,7 @@ import pg from 'pg'
 import crypto from 'crypto'
 import { seedProducts, seedQuotes, seedSettings } from './seed.js'
 import { seedArticles } from './articleSeed.js'
+import { refreshStorefrontCopy } from './storefrontCopy.js'
 import { ADMIN_PERMISSIONS, normalizeAdminAccess } from './permissions.js'
 
 const { Pool } = pg
@@ -158,6 +159,14 @@ export async function initDatabase() {
   UPDATE products p SET data = p.data || jsonb_strip_nulls(jsonb_build_object('featured', a.featured, 'sortOrder', a."sortOrder")), updated_at = NOW()
   FROM assortment a WHERE p.id = a.id AND EXISTS (SELECT 1 FROM migration)`,
   [JSON.stringify(seedProducts.map(({ id, featured, sortOrder }) => ({ id, featured, sortOrder })))])
+
+  const copySettings = await getSettings()
+  await query(`WITH migration AS (
+    INSERT INTO settings (id, data) VALUES ('storefront_copy_20260917', '{"version":1}'::jsonb)
+    ON CONFLICT (id) DO NOTHING RETURNING id
+  ) UPDATE settings SET data = $1::jsonb, updated_at = NOW()
+    WHERE id = 'main' AND EXISTS (SELECT 1 FROM migration)`,
+  [JSON.stringify(refreshStorefrontCopy(copySettings))])
 
   const rootUsername = String(process.env.ADMIN_DEFAULT_USERNAME || '').trim().toLowerCase()
   const rootPassword = process.env.ADMIN_DEFAULT_PASSWORD

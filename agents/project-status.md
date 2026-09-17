@@ -5,9 +5,14 @@
 ## Quyết định cố định
 
 - Thương hiệu: **DTPT Techs**.
-- Slogan hiện tại: **Công nghệ tiên tiến. Giá trị bền vững.**
+- Slogan hiện tại: **Thiết bị đo lường và tự động hóa**
 - Không mô tả DTPT Techs như dịch vụ order/nhập hộ. Nội dung công khai nhấn mạnh công nghệ, chất lượng, giá trị đầu tư, uy tín và hỗ trợ kỹ thuật.
 - Mô hình B2B là catalogue + yêu cầu báo giá, không phải giỏ hàng/checkout bán lẻ.
+
+## Quy ước nội dung
+
+- Viết trực tiếp về thiết bị, công việc và điều kiện cung cấp; tránh khẩu hiệu chung chung, câu đối ngắn và tự nhận uy tín/chất lượng khi thiếu bằng chứng.
+- Migration `storefront_copy_20260917` chỉ thay câu mẫu cũ khớp chính xác; giữ nội dung chủ website đã sửa khác và các cài đặt còn lại.
 
 ## Cải tiến hành trình khách hàng 17/09/2026
 
