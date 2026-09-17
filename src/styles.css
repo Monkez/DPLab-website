@@ -1892,3 +1892,11 @@ body[data-card-style="compact"] .product-card__body { padding-bottom: 15px; }
 }
 .product-card__visual { display: block; }
 .product-card__title { display: block; }
+
+.admin-session-actions { display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
+.admin-logout-button { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; padding: 10px 14px; border: 1px solid #ccd8e5; border-radius: 6px; background: white; color: #10243e; font-weight: 700; white-space: nowrap; }
+.admin-logout-button:hover { background: #e8eff7; }
+@media (max-width: 760px) {
+  .admin-title { flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }
+  .admin-title h1 { margin-bottom: 0; }
+}
