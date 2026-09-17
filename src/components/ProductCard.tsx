@@ -58,7 +58,7 @@ export function ProductCard({
               className="primary-button primary-button--compact"
               onClick={() => add(product.id)}
             >
-              <FilePlus2 /> {added ? "Đã thêm · Thêm nữa" : "Thêm báo giá"}
+              <FilePlus2 /> {added ? "Thêm nữa" : "Thêm báo giá"}
             </button>
           </div>
         </div>
