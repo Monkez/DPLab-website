@@ -24,3 +24,25 @@ test('entry assortment is active, distinct and includes the verified DIN rail su
   assert.equal(new Set(seedProducts.map(item => item.id)).size, seedProducts.length);
   assert.equal(new Set(seedProducts.map(item => item.slug)).size, seedProducts.length);
 });
+
+ test('embedded catalogue has exact configurations, local images and traceable market prices', async () => {
+  const { embeddedProducts } = await import('../backend/src/embeddedProducts.js');
+  assert.equal(embeddedProducts.length, 8);
+  for (const product of embeddedProducts) {
+    assert.ok(seedProducts.some(item => item.id === product.id));
+    assert.ok(matchesProduct(product, product.brand === 'Radxa' ? 'rockchip' : product.brand));
+    await readFile(new URL('../public' + product.images[0], import.meta.url));
+    assert.ok(product.manufacturerUrl.startsWith('https://'));
+    if (product.brand === 'Radxa') {
+      assert.equal(product.priceMode, 'contact');
+      assert.equal(product.price, undefined);
+    } else {
+      assert.ok(product.price > 0);
+      assert.equal(product.priceBasis, 'market-reference');
+      assert.ok(product.priceSourceUrl.startsWith('https://'));
+      assert.equal(product.priceUpdatedAt, '2026-09-18');
+    }
+  }
+  assert.ok(matchesProduct(embeddedProducts.at(-1), 'jsetson'));
+  assert.equal(embeddedProducts.find(p => p.slug === 'raspberry-pi-5-8gb').price, 5508000);
+});

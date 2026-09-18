@@ -1,3 +1,4 @@
+import { embeddedProducts } from "./embeddedProducts.js";
 import { expandedProducts } from "./catalogExpansion.js";
 import { entryProducts, curateSeedProducts } from "./entryProducts.js";
 
@@ -557,7 +558,7 @@ const coreSeedProducts = [
   }),
 ];
 
-export const seedProducts = curateSeedProducts([...coreSeedProducts, ...expandedProducts, ...entryProducts]);
+export const seedProducts = curateSeedProducts([...coreSeedProducts, ...expandedProducts, ...entryProducts, ...embeddedProducts]);
 
 export const seedQuotes = [];
 export const seedSettings = {

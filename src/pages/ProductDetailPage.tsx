@@ -61,7 +61,7 @@ export function ProductDetailPage({
               </p>
               <p className="detail-summary">{product.summary}</p>
               <div className="detail-price">
-                <small>{product.priceMode === "contact" ? "Báo giá theo yêu cầu" : "Giá bán tại Việt Nam · đã gồm VAT"}</small>
+                <small>{product.priceMode === "contact" ? "Báo giá theo yêu cầu" : product.priceBasis === "market-reference" ? "Giá tham khảo tại Việt Nam" : "Giá bán tại Việt Nam · đã gồm VAT"}</small>
                 <strong>{formatPrice(product)}</strong>
                 <span>
                   {product.priceNote ??

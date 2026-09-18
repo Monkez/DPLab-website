@@ -78,3 +78,21 @@ Trang tham khảo của QY-P8156 mô tả nhiều tùy chọn CPU và cho biết
 3. Nếu không có, ghi giá nguồn, tiền tệ, tỷ giá và áp công thức landed cost.
 4. So sánh kết quả với sản phẩm tương đương để tránh định giá bất thường.
 5. Cập nhật frontend, backend seed, phiên bản catalogue và bảng này.
+
+## Máy tính nhúng — bổ sung ngày 18/09/2026
+
+Thêm 8 cấu hình từ dữ liệu dùng chung `backend/src/embeddedProducts.js`, tổng catalogue 97 sản phẩm. Giữ nguyên catalog_version: initDatabase bổ sung ID mới, không ghi đè sản phẩm đang có. Phân nhóm Máy tính nhúng SBC / Edge AI Computer trong Máy tính công nghiệp; tìm được theo hãng, Rockchip, RK3588 và Jetson.
+
+| Cấu hình | Giá tham khảo VN (VND) | Nguồn |
+|---|---:|---|
+| Raspberry Pi 5 4GB | 3.618.000 | [Hshop](https://hshop.vn/may-tinh-raspberry-pi-5-made-in-uk), biến thể RAM 4GB |
+| Raspberry Pi 5 8GB | 5.508.000 | Hshop, biến thể RAM 8GB |
+| Raspberry Pi 5 16GB | 9.720.000 | Hshop, biến thể RAM 16GB |
+| Orange Pi 5 Plus 8GB | 6.600.000 | [Orange Pi Việt Nam](https://orangepi.vn/shop/orange-pi-5-plus-8gb-ram), giá bo mạch, không lấy tổng combo |
+| Orange Pi 5 Plus v1.5.1 16GB | 10.300.000 | [Orange Pi Việt Nam](https://orangepi.vn/shop/orange-pi-5-plus-v151-16gb-ram), đúng revision được niêm yết |
+| Radxa ROCK 5B 8GB / 16GB | Liên hệ báo giá | Chưa tìm thấy niêm yết VN đủ rõ cho đúng RAM và model; không dùng giá ROCK 5B+ |
+| Jetson Orin Nano Super Developer Kit 8GB | 15.228.000 | [Hshop](https://hshop.vn/may-tinh-nhung-ai-nvidia-jetson-orin-nano-super-developer-kit), không phải combo Pro Kit |
+
+Đối chiếu Jetson tại [Cytron Việt Nam](https://www.cytrontech.vn/p-nvidia-jetson-orin-nano-8gb-dev-kit): 19.980.000 VND đã gồm VAT, dữ liệu nguồn báo hết hàng khi kiểm tra. Không suy ra tồn kho DTPT từ nguồn khác. Giá mới mang `priceBasis: market-reference`, hiển thị “Giá tham khảo tại Việt Nam”; không mặc định VAT đã bao gồm, không phải báo giá cam kết của DTPT. Giá bán, VAT, phụ kiện, bảo hành và lịch giao xác nhận khi báo giá.
+
+Thông số: [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/), [Orange Pi](https://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5-plus.html), [Radxa](https://docs.radxa.com/en/rock5/rock5b/getting-started/introduction), [NVIDIA](https://www.nvidia.com/en-sg/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/). Ảnh lưu trong public/products, nguồn ở imageSourceUrl; ảnh Orange Pi minh họa dòng 5 Plus, xác nhận revision trước khi đặt. ROCK 5B giữ đúng LPDDR4X, không nhầm LPDDR5 của 5B+. Hiệu năng Jetson 67 TOPS cần phần mềm/chế độ nguồn phù hợp.

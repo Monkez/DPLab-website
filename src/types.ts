@@ -38,6 +38,7 @@ export interface Product {
   price?: number;
   priceMax?: number;
   priceMode: PriceMode;
+  priceBasis?: "market-reference";
   leadTime: string;
   warranty: string;
   status: ProductStatus;

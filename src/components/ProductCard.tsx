@@ -43,7 +43,7 @@ export function ProductCard({
         <p>{product.summary}</p>
         <div className="product-card__footer">
           <div>
-            <small>{product.priceMode === "contact" ? "Báo giá theo yêu cầu" : "Giá bán · đã gồm VAT"}</small>
+            <small>{product.priceMode === "contact" ? "Báo giá theo yêu cầu" : product.priceBasis === "market-reference" ? "Giá tham khảo tại Việt Nam" : "Giá bán · đã gồm VAT"}</small>
             <strong>{formatPrice(product)}</strong>
           </div>
           <div className="card-actions">

@@ -1,3 +1,4 @@
+import { embeddedProducts } from "../../backend/src/embeddedProducts.js";
 import type { Product } from "../types";
 import { expandedProducts } from "../../backend/src/catalogExpansion.js";
 import { entryProducts, curateSeedProducts } from "../../backend/src/entryProducts.js";
@@ -855,4 +856,4 @@ const coreProducts: Product[] = [
   }),
 ];
 
-export const verifiedProducts: Product[] = curateSeedProducts([...coreProducts, ...expandedProducts, ...entryProducts]);
+export const verifiedProducts: Product[] = curateSeedProducts([...coreProducts, ...expandedProducts, ...entryProducts, ...embeddedProducts]);
