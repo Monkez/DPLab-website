@@ -1,6 +1,8 @@
-# Bản nháp: Camera nhiệt kiểm tra tủ điện — 5 bước tránh đọc sai điểm nóng
+# Đã xuất bản: Camera nhiệt kiểm tra tủ điện — 5 bước tránh đọc sai điểm nóng
 
-- Trạng thái: đã nhập biểu mẫu CMS và kiểm tra bản xem trước desktop/mobile; chưa lưu hoặc xuất bản. Ngày kiểm chứng: 18/09/2026.
+- Trạng thái: đã xuất bản thủ công trên CMS và kiểm tra công khai ngày 18/09/2026.
+- CMS ID: `NEWS-1789700908743`
+- URL: https://dtpt.shop/tin-tuc/camera-nhiet-kiem-tra-tu-dien-tranh-doc-sai-diem-nong
 - Slug: `camera-nhiet-kiem-tra-tu-dien-tranh-doc-sai-diem-nong`
 - Chuyên mục: Kiến thức kỹ thuật
 - Tóm tắt/SEO description: Cách dùng camera nhiệt kiểm tra tủ điện có cơ sở: ghi tải, kiểm tra độ phát xạ, so sánh đúng đối tượng và lưu dữ liệu để theo dõi.
@@ -60,5 +62,6 @@ https://media.fluke.com/1f3c35e5-163b-4da8-be0a-b106006786aa_original%20file.pdf
 - Khuyến nghị tải tối thiểu 40% và nội dung độ phát xạ lấy từ application note Fluke; không trình bày như tiêu chuẩn bắt buộc cho mọi hệ thống.
 - Ảnh `/products/hikmicro-b20s.png` là ảnh đúng model đã có trong catalogue. Chỉ dùng một ảnh vì không có ảnh nhiệt hiện trường đã được xác minh; không lặp ảnh sản phẩm hoặc tạo ảnh nhiệt giả bằng AI.
 - Nguồn dùng URL thuần vì renderer hiện chưa hỗ trợ đầy đủ Markdown liên kết.
-- Đã kiểm tra không trùng slug trên CMS; bản xem trước render đúng heading, không lộ cú pháp Markdown và không tràn ngang ở viewport 390 px. Còn lưu nháp, xuất bản và kiểm tra API public, URL, ảnh, metadata, sitemap sau đăng.
+- Đã kiểm tra không trùng slug trên CMS; bản xem trước render đúng heading, không lộ cú pháp Markdown và không tràn ngang ở viewport 390 px.
+- Sau đăng, API public trả trạng thái `published`; trang chi tiết hiển thị đúng tiêu đề và nội dung; ảnh cover tải thành công; canonical, SEO title, description và Open Graph image đúng; sitemap có slug; giao diện không tràn ngang ở viewport 390 px.
 - Bài lưu PostgreSQL qua CMS; không thêm vào `articleSeed.js` và không reset database.
