@@ -26,7 +26,26 @@ export interface ProductSpecification {
   value: string;
 }
 
+export interface ProductVariant {
+  id: string;
+  options: Record<string, string>;
+  model?: string;
+  price?: number;
+  priceMode: 'fixed' | 'contact';
+  status: ProductStatus;
+  specifications?: ProductSpecification[];
+  highlights?: string[];
+  images?: string[];
+  summary?: string;
+  priceNote?: string;
+  priceBasis?: 'market-reference' | 'store-price';
+  leadTime?: string;
+}
+
 export interface Product {
+  variants?: ProductVariant[];
+  legacySlugs?: { slug: string; variantId: string }[];
+  redirectTo?: string;
   id: string;
   slug: string;
   name: string;
@@ -95,6 +114,9 @@ export interface SiteAppearance {
 }
 
 export interface QuoteItem {
+  variantId?: string;
+  variantLabel?: string;
+  variantModel?: string;
   productId: string;
   quantity: number;
   requirement?: string;

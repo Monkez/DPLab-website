@@ -5,7 +5,7 @@ import handler from 'serve-handler'
 
 const port = Number(process.env.PORT || 3000)
 const host = '0.0.0.0'
-const siteUrl = 'https://www.dtpt.shop'
+const siteUrl = 'https://dtpt.shop'
 const apiUrl = String(process.env.VITE_API_URL || '').replace(/\/$/, '')
 const indexPath = resolve('dist/index.html')
 let seoCache = { expiresAt: 0, data: null }
@@ -63,6 +63,13 @@ const server = http.createServer(async (request, response) => {
   if (isPage) {
     try {
       const [html, data] = await Promise.all([readFile(indexPath, 'utf8'), getSeoData()])
+      const oldSlug = pathname.startsWith('/san-pham/') ? decodeURIComponent(pathname.slice(10)) : ''
+      const parent = data?.products?.find(p => p.status === 'active' && p.legacySlugs?.some(alias => alias.slug === oldSlug))
+      if (parent && parent.slug !== oldSlug) {
+        const variantId = parent.legacySlugs.find(alias => alias.slug === oldSlug).variantId
+        response.writeHead(301, { Location: '/san-pham/' + encodeURIComponent(parent.slug) + '?variant=' + encodeURIComponent(variantId) })
+        response.end(); return
+      }
       const seo = pageSeo(pathname, data)
       response.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'public, max-age=0, must-revalidate', 'X-Content-Type-Options': 'nosniff' })
       response.end(injectSeo(html, seo, pathname.startsWith('/admin')))

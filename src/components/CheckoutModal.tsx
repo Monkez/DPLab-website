@@ -1,3 +1,4 @@
+import { quoteLineKey, quoteItemLabel } from '../../backend/src/productVariants.js'
 import { CheckCircle2, X } from 'lucide-react'
 import { useEffect, useRef, useState, type FormEvent } from 'react'
 import { validateQuoteRequest } from '../../backend/src/quoteValidation.js'
@@ -25,7 +26,7 @@ export function CheckoutModal({ open, onClose }: { open: boolean; onClose: () =>
     if (validation.error) { setError(validation.error); setBusy(false); return }
     try {
       if (!api.enabled) {
-        const lines = quoteItems.map(item => { const product = products.find(value => value.id === item.productId); return `- ${product?.name || item.productId} (${product?.model || item.productId}) x ${item.quantity}${item.requirement ? `: ${item.requirement}` : ''}` })
+        const lines = quoteItems.map(item => { const product = products.find(value => value.id === item.productId); return `- ${product?.name || item.productId} (${quoteItemLabel(products, item)}) x ${item.quantity}${item.requirement ? `: ${item.requirement}` : ''}` })
         const subject = encodeURIComponent(`Yêu cầu tư vấn / báo giá từ ${customer.company || customer.name}`)
         const body = encodeURIComponent(`Họ tên: ${customer.name}\nĐơn vị: ${customer.company}\nĐiện thoại: ${customer.phone}\nEmail: ${customer.email}\n\n${lines.join('\n')}\n\nNhu cầu:\n${customer.note}`)
         window.location.href = `mailto:${settings.email}?subject=${subject}&body=${body}`
@@ -38,7 +39,7 @@ export function CheckoutModal({ open, onClose }: { open: boolean; onClose: () =>
     <button className="modal__close icon-button" onClick={close} disabled={busy} aria-label="Đóng biểu mẫu"><X /></button>
     {sentId ? <div className="success"><CheckCircle2 /><h2 id="quote-title">{sentId === 'EMAIL' ? 'Vui lòng gửi trong ứng dụng email' : 'Đã nhận yêu cầu của bạn'}</h2>{sentId !== 'EMAIL' && <p>Mã yêu cầu: <strong>{sentId}</strong></p>}<p>{sentId === 'EMAIL' ? `Website chưa xác nhận đã gửi. Kiểm tra nội dung và bấm Gửi tới ${settings.email}. Danh sách thiết bị vẫn được giữ lại.` : 'DTPT Techs sẽ liên hệ theo thông tin bạn cung cấp để xác nhận nhu cầu.'}</p><button className="primary-button" onClick={sentId === 'EMAIL' ? () => setSentId('') : close}>{sentId === 'EMAIL' ? 'Quay lại biểu mẫu' : 'Hoàn tất'}</button></div> : <>
       <small className="eyebrow">TƯ VẤN & BÁO GIÁ</small><h2 id="quote-title">Yêu cầu tư vấn / báo giá</h2><p>Chỉ cần họ tên và số điện thoại. Gửi yêu cầu chưa phải là đặt hàng hoặc thanh toán.</p>
-      {quoteItems.length > 0 && <ul className="quote-summary" aria-label="Thiết bị cần báo giá">{quoteItems.map(item => <li key={item.productId}>{products.find(product => product.id === item.productId)?.model || item.productId}<strong> × {item.quantity}</strong></li>)}</ul>}
+      {quoteItems.length > 0 && <ul className="quote-summary" aria-label="Thiết bị cần báo giá">{quoteItems.map(item => <li key={quoteLineKey(item)}>{products.find(product => product.id === item.productId)?.model || item.productId} — {quoteItemLabel(products, item)}<strong> × {item.quantity}</strong></li>)}</ul>}
       <form ref={form} onSubmit={submit} className="quote-form">
         <label>Họ và tên *<input name="name" defaultValue={draft.name} autoComplete="name" required maxLength={100} /></label>
         <label>Số điện thoại / Zalo *<input name="phone" defaultValue={draft.phone} type="tel" autoComplete="tel" required maxLength={30} /></label>

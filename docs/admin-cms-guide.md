@@ -85,3 +85,11 @@ Trong **Sản phẩm → Thêm sản phẩm** (hoặc **Sửa**), tìm mục **�
 Backend cung cấp `POST /api/product-media` với quyền `products.manage`, dùng bộ xử lý ảnh hiện có và bảng media PostgreSQL để lưu bền vững; ảnh được trả công khai tại `GET /api/product-media/:id`. Không cần quyền `articles.manage`. Cần deploy cả frontend/backend và cấu hình `VITE_API_URL`. Bản xem trước không có API sẽ báo rõ chưa thể tải ảnh.
 
 Kiểm tra: HTTP upload/đọc ảnh WebP, từ chối thiếu quyền/sai định dạng/quá dung lượng; QA trình duyệt chọn ảnh → lưu → tải lại với máy chủ kiểm thử dùng bộ nhớ. Chưa kiểm tra lưu với PostgreSQL thật trong môi trường local.
+
+## Sản phẩm có nhiều tùy chọn
+
+Trong **Sản phẩm → Sửa → Tùy chọn sản phẩm**, bấm **Thêm cấu hình**. Nhập tên tùy chọn (RAM, Màu sắc, SSD…) và giá trị cho từng cấu hình. Tất cả cấu hình của một sản phẩm dùng cùng bộ tên tùy chọn; không tạo hai tổ hợp giống nhau. Có thể thêm tối đa 6 loại tùy chọn và 100 cấu hình.
+
+Mỗi cấu hình có mã hàng, giá hoặc Liên hệ báo giá, trạng thái, ảnh chọn từ bộ ảnh đã tải và thông số riêng. Để trống ảnh/thông số riêng để dùng nội dung chung. Giá trên danh mục tự lấy mức thấp nhất trong các cấu hình đang bán. Khách chọn đủ tùy chọn trên một trang sản phẩm rồi gửi yêu cầu; báo giá ghi riêng mã hàng và cấu hình đã chọn.
+
+Raspberry Pi 5 (2/4/8/16 GB), Orange Pi 5 Plus (8/16 GB) và ROCK 5B (8/16 GB) đã có trang chung. Link cũ chuyển đến trang chung với cấu hình tương ứng. Các bản ghi cũ được giữ ẩn để tra cứu báo giá; không cần xóa.

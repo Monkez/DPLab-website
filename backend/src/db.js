@@ -1,4 +1,6 @@
-import { embeddedProducts } from './embeddedProducts.js'
+import { migrateProductVariants } from './variantGroups.js'
+import { summarizeProduct } from './productVariants.js'
+import { embeddedConfigurations } from './embeddedProducts.js'
 import pg from 'pg'
 import crypto from 'crypto'
 import { seedProducts, seedQuotes, seedSettings } from './seed.js'
@@ -131,7 +133,9 @@ export async function initDatabase() {
   ), prices AS (SELECT * FROM jsonb_to_recordset($1::jsonb) AS x(id text, slug text, price numeric, "priceBasis" text, "priceNote" text, "priceUpdatedAt" text))
   UPDATE products p SET data = p.data || jsonb_build_object('price', x.price, 'priceMode', 'fixed', 'priceBasis', x."priceBasis", 'priceNote', x."priceNote", 'priceUpdatedAt', x."priceUpdatedAt"), updated_at = NOW()
   FROM prices x WHERE p.id = x.id AND p.data->>'slug' = x.slug AND EXISTS (SELECT 1 FROM migration)`,
-  [JSON.stringify(embeddedProducts.filter(p => p.price).map(({ id, slug, price, priceBasis, priceNote, priceUpdatedAt }) => ({ id, slug, price, priceBasis, priceNote, priceUpdatedAt })))])
+  [JSON.stringify(embeddedConfigurations.filter(p => p.price).map(({ id, slug, price, priceBasis, priceNote, priceUpdatedAt }) => ({ id, slug, price, priceBasis, priceNote, priceUpdatedAt })))])
+
+  await migrateProductVariants(pool)
 
   const quoteCount = await query('SELECT COUNT(*)::int AS count FROM quotes')
   if (quoteCount.rows[0].count === 0) {
@@ -328,6 +332,7 @@ export async function listProducts() {
 }
 
 export async function saveProduct(product) {
+  product = summarizeProduct(product)
   await query(
     `INSERT INTO products (id, data, updated_at)
      VALUES ($1, $2, NOW())

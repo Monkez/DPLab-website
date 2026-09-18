@@ -1,3 +1,5 @@
+import { useState } from 'react';
+import { variantProduct } from '../../backend/src/productVariants.js';
 import {
   ArrowLeft,
   Check,
@@ -13,16 +15,23 @@ import { formatPrice } from "../utils/productFormat";
 import { formatDate } from "../utils/dateFormat";
 
 export function ProductDetailPage({
-  product,
+  product: baseProduct,
+  initialVariantId,
   navigate,
   onQuote,
 }: {
   product: Product;
+  initialVariantId?: string;
   navigate: (path: string) => void;
   onQuote: () => void;
 }) {
   const { addToQuote, settings } = useStore();
 
+  const variants = baseProduct.variants?.filter(v => v.status === 'active') || [];
+  const [selection, setSelection] = useState<Record<string, string>>(() => variants.find(v => v.id === initialVariantId)?.options || {});
+  const optionNames = [...new Set(variants.flatMap(v => Object.keys(v.options)))];
+  const selected = variants.find(v => optionNames.every(name => selection[name] && v.options[name] === selection[name]));
+  const product = variantProduct(baseProduct, selected);
   return (
     <main>
       <section className="product-detail">
@@ -60,7 +69,15 @@ export function ProductDetailPage({
                 {product.brand} / {product.model}
               </p>
               <p className="detail-summary">{product.summary}</p>
-              <div className="detail-price">
+              {baseProduct.variants?.length ? <div className="product-options" aria-label="Chọn cấu hình sản phẩm">
+                <h2>Chọn cấu hình</h2>
+                {optionNames.map((name, index) => <label key={name}>{name}<select value={selection[name] || ''} onChange={event => setSelection(current => ({ ...Object.fromEntries(optionNames.slice(0, index).map(key => [key, current[key]])), [name]: event.target.value }))}>
+                  <option value="">Chọn {name.toLowerCase()}</option>
+                  {[...new Set(variants.filter(v => optionNames.slice(0, index).every(key => !selection[key] || v.options[key] === selection[key])).map(v => v.options[name]))].map(value => <option key={value} value={value}>{value}</option>)}
+                </select></label>)}
+                {!selected && <p role="status">Chọn đầy đủ tùy chọn để xem giá và yêu cầu báo giá đúng cấu hình.</p>}
+              </div> : null}
+              <div className="detail-price" aria-live="polite">
                 <small>{product.priceMode === "contact" ? "Báo giá theo yêu cầu" : product.priceBasis === "market-reference" ? "Giá tham khảo tại Việt Nam" : product.priceBasis === "store-price" ? "Giá niêm yết" : "Giá bán tại Việt Nam · đã gồm VAT"}</small>
                 <strong>{formatPrice(product)}</strong>
                 <span>
@@ -81,7 +98,8 @@ export function ProductDetailPage({
               </ul>
               <button
                 className="primary-button"
-                onClick={() => { addToQuote(product.id); onQuote() }}
+                disabled={Boolean(baseProduct.variants?.length && !selected)}
+                onClick={() => { addToQuote(baseProduct.id, selected?.id); onQuote() }}
               >
                 <FilePlus2 /> Yêu cầu báo giá thiết bị này
               </button>

@@ -1,3 +1,4 @@
+import { quoteLineKey, quoteItemLabel } from '../../backend/src/productVariants.js'
 import { BarChart3, FileText, FolderTree, LayoutDashboard, LogOut, Newspaper, Package, Palette, UserCog, Users } from 'lucide-react'
 import { useEffect, useState, type FormEvent } from 'react'
 import { api } from '../services/api'
@@ -42,7 +43,7 @@ export function AdminPage({ navigate }: { navigate: (path: string) => void }) {
 }
 
 function QuotesPanel({ canManage }: { canManage: boolean }) {
-  const { quotes, updateQuoteStatus } = useStore(); const statuses: QuoteStatus[] = ['new', 'reviewing', 'quoted', 'won', 'closed']
+  const { quotes, products, updateQuoteStatus } = useStore(); const statuses: QuoteStatus[] = ['new', 'reviewing', 'quoted', 'won', 'closed']
   if (!quotes.length) return <div className="empty-results"><h2>Chưa có yêu cầu mới</h2><p>Các RFQ gửi từ website sẽ xuất hiện tại đây.</p></div>
-  return <div className="admin-table">{quotes.map(quote => <article key={quote.id}><div><strong>{quote.customer.company}</strong><span>{quote.customer.name} · {quote.customer.phone}</span><small>{quote.id} · {formatDateTime(quote.createdAt)}</small></div><div><b>{quote.items.length} sản phẩm</b><p>{quote.customer.note}</p></div><select aria-label={`Trạng thái ${quote.id}`} value={quote.status} disabled={!canManage} onChange={event => updateQuoteStatus(quote.id, event.target.value as QuoteStatus)}>{statuses.map(status => <option key={status}>{status}</option>)}</select></article>)}</div>
+  return <div className="admin-table">{quotes.map(quote => <article key={quote.id}><div><strong>{quote.customer.company}</strong><span>{quote.customer.name} · {quote.customer.phone}</span><small>{quote.id} · {formatDateTime(quote.createdAt)}</small></div><div><b>{quote.items.length} cấu hình</b><ul>{quote.items.map((item, index) => <li key={quoteLineKey(item) + index}>{products.find(p => p.id === item.productId)?.name || item.productId} — {quoteItemLabel(products, item)} × {item.quantity}</li>)}</ul><p>{quote.customer.note}</p></div><select aria-label={`Trạng thái ${quote.id}`} value={quote.status} disabled={!canManage} onChange={event => updateQuoteStatus(quote.id, event.target.value as QuoteStatus)}>{statuses.map(status => <option key={status}>{status}</option>)}</select></article>)}</div>
 }

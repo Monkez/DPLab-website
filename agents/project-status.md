@@ -81,3 +81,10 @@
 - Railway project DTPT-XuatNhapKhau (141c25ae-8dd2-4ddf-8afa-241cbc3f0992), environment production. Frontend fontend-dtpt-shop phục vụ https://dtpt.shop; backend backend-dtpt-shop tại https://dtpt-shop-production.up.railway.app. Cả hai tự deploy qua GitHub. Đây là địa chỉ thực tế, khác các domain mục tiêu trong hướng dẫn cũ.
 - API health/bootstrap đã trả 200 với catalogue SBC mới. Không dùng api.dtpt.shop/www.dtpt.shop để kết luận site lỗi.
 - Catalogue 98 model, 9 cấu hình SBC; giá 7 cấu hình giảm 10% theo chủ website, 2 ROCK 5B giữ liên hệ. Migration embedded_prices_20260918_10pct chạy một lần, giữ trường nội dung khác và chỉnh sửa giá CMS về sau.
+
+## 18/09/2026 — Tùy chọn sản phẩm
+
+- Generic variants (tối đa 6 loại/100 cấu hình) trong JSON sản phẩm: options, giá, model, trạng thái, ảnh và thông số. Admin sửa trong trang sản phẩm; danh mục hiển thị giá thấp nhất, detail yêu cầu chọn đủ tùy chọn.
+- Seed 98 bản ghi/93 hiển thị: gom Pi 5, Orange Pi 5 Plus, ROCK 5B. Migration product_variants_20260918 trong transaction giữ dữ liệu CMS; 5 bản ghi cũ draft + redirectTo. Không bump catalogVersion vì sẽ reset catalogue.
+- RFQ dùng khóa productId + variantId, lưu nhãn/model snapshot từ server; tự ánh xạ ID cũ. Link slug cũ 301 đến trang chung + query variant, canonical trang chung.
+- QA local: lưu giá cấu hình qua admin/API, chọn RAM + màu sắc trên mobile không tràn, gửi RFQ hai cấu hình và đọc lại đúng hai dòng. Kiểm tra migration bằng mock transaction; production sẽ kiểm tra sau push.

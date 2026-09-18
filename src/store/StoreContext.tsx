@@ -1,3 +1,4 @@
+import { quoteLineKey, prepareQuoteItems, summarizeProduct } from '../../backend/src/productVariants.js'
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react'
 import { seedArticles, seedProducts, seedQuotes, seedSettings } from '../data/seed'
 import { api } from '../services/api'
@@ -9,7 +10,7 @@ const read = <T,>(key: string, fallback: T): T => { try { const value = localSto
 
 interface StoreValue {
   products: Product[]; articles: Article[]; quotes: QuoteRequest[]; quoteItems: QuoteItem[]; settings: StoreSettings; quoteCount: number
-  addToQuote: (id: string) => void; updateQuoteItem: (id: string, quantity: number, requirement?: string) => void; clearQuote: () => void
+  addToQuote: (id: string, variantId?: string) => void; updateQuoteItem: (id: string, quantity: number, requirement?: string) => void; clearQuote: () => void
   submitQuote: (customer: CustomerInfo) => Promise<QuoteRequest>; saveProduct: (product: Product) => Promise<void>; deleteProduct: (id: string) => Promise<void>
   saveArticle: (article: Article, isNew?: boolean) => Promise<void>; deleteArticle: (id: string) => Promise<void>
   updateQuoteStatus: (id: string, status: QuoteStatus) => Promise<void>; updateSettings: (settings: StoreSettings) => Promise<void>
@@ -44,11 +45,16 @@ export function StoreProvider({ children }: { children: ReactNode }) {
 
   const value = useMemo<StoreValue>(() => ({
     products, articles, quotes, quoteItems, settings, quoteCount, refreshData,
-    addToQuote: id => setQuoteItems(items => items.some(item => item.productId === id) ? items.map(item => item.productId === id ? { ...item, quantity: item.quantity + 1 } : item) : [...items, { productId: id, quantity: 1 }]),
-    updateQuoteItem: (id, quantity, requirement) => setQuoteItems(items => quantity <= 0 ? items.filter(item => item.productId !== id) : items.map(item => item.productId === id ? { ...item, quantity, requirement } : item)),
+    addToQuote: (id, variantId) => {
+      const product = products.find(p => p.id === id)
+      if (!product || (product.variants?.length && !product.variants.some(v => v.id === variantId && v.status === 'active'))) return
+      const selected = prepareQuoteItems(products, [{ productId: id, variantId, quantity: 1 }])[0]
+      setQuoteItems(items => items.some(item => quoteLineKey(item) === quoteLineKey(selected)) ? items.map(item => quoteLineKey(item) === quoteLineKey(selected) ? { ...item, quantity: Math.min(999, item.quantity + 1) } : item) : [...items, selected])
+    },
+    updateQuoteItem: (key, quantity, requirement) => setQuoteItems(items => quantity <= 0 ? items.filter(item => quoteLineKey(item) !== key) : items.map(item => quoteLineKey(item) === key ? { ...item, quantity, requirement: requirement ?? item.requirement } : item)),
     clearQuote: () => setQuoteItems([]),
-    submitQuote: async customer => { const fallback: QuoteRequest = { id: `RFQ-${Date.now().toString().slice(-8)}`, createdAt: new Date().toISOString(), customer, items: quoteItems, status: 'new' }; const created = api.enabled ? await api.createQuote({ customer, items: quoteItems }) : fallback; setQuotes(items => [created, ...items]); setQuoteItems([]); return created },
-    saveProduct: async product => { if (api.enabled) await api.saveProduct(product); setProducts(items => items.some(item => item.id === product.id) ? items.map(item => item.id === product.id ? product : item) : [product, ...items]) },
+    submitQuote: async customer => { const selectedItems = prepareQuoteItems(products, quoteItems); const fallback: QuoteRequest = { id: `RFQ-${Date.now().toString().slice(-8)}`, createdAt: new Date().toISOString(), customer, items: selectedItems, status: 'new' }; const created = api.enabled ? await api.createQuote({ customer, items: selectedItems }) : fallback; setQuotes(items => [created, ...items]); setQuoteItems([]); return created },
+    saveProduct: async product => { product = summarizeProduct(product); if (api.enabled) await api.saveProduct(product); setProducts(items => items.some(item => item.id === product.id) ? items.map(item => item.id === product.id ? product : item) : [product, ...items]) },
     deleteProduct: async id => { if (api.enabled) await api.deleteProduct(id); setProducts(items => items.filter(item => item.id !== id)) },
     saveArticle: async (article, isNew = false) => { if (api.enabled) await api.saveArticle(article, isNew); setArticles(items => items.some(item => item.id === article.id) ? items.map(item => item.id === article.id ? article : item) : [article, ...items]) },
     deleteArticle: async id => { if (api.enabled) await api.deleteArticle(id); setArticles(items => items.filter(item => item.id !== id)) },

@@ -1,3 +1,4 @@
+import { validateVariants, prepareQuoteItems } from './productVariants.js'
 import 'dotenv/config'
 import cors from 'cors'
 import crypto from 'crypto'
@@ -206,12 +207,16 @@ app.get('/api/products', asyncRoute(async (_req, res) => {
 app.post('/api/products', requirePermission('products.manage'), asyncRoute(async (req, res) => {
   const product = req.body
   if (!isValidProduct(product)) return res.status(400).json({ message: 'Sản phẩm thiếu ID, slug, tên, model hoặc ngành hàng' })
+  const variantError = validateVariants(product)
+  if (variantError) return res.status(400).json({ message: variantError })
   res.status(201).json(await saveProduct(product))
 }))
 
 app.put('/api/products/:id', requirePermission('products.manage'), asyncRoute(async (req, res) => {
   const product = { ...req.body, id: req.params.id }
   if (!isValidProduct(product)) return res.status(400).json({ message: 'Sản phẩm thiếu ID, slug, tên, model hoặc ngành hàng' })
+  const variantError = validateVariants(product)
+  if (variantError) return res.status(400).json({ message: variantError })
   res.json(await saveProduct(product))
 }))
 
@@ -266,7 +271,7 @@ app.delete('/api/articles/:id', requirePermission('articles.manage'), asyncRoute
 }))
 
 app.get('/api/sitemap.xml', asyncRoute(async (_req, res) => {
-  const baseUrl = 'https://www.dtpt.shop'
+  const baseUrl = 'https://dtpt.shop'
   const [products, articles] = await Promise.all([listProducts(), listArticles()])
   const urls = [
     { loc: `${baseUrl}/`, priority: '1.0' },
@@ -289,9 +294,9 @@ app.post('/api/quotes', asyncRoute(async (req, res) => {
   if (result.error) return res.status(400).json({ message: result.error })
   const { customer, items } = result
   const products = await listProducts()
-  const validIds = new Set(products.filter(product => product.status === 'active').map(product => product.id))
-  if (items.some(item => !validIds.has(item.productId) || !Number.isInteger(item.quantity) || item.quantity < 1 || item.quantity > 999)) return res.status(400).json({ message: 'Sản phẩm hoặc số lượng không hợp lệ' })
-  const quote = { id: `RFQ-${new Date().toISOString().slice(2, 10).replaceAll('-', '')}-${crypto.randomInt(1000, 9999)}`, createdAt: new Date().toISOString(), customer: { name: customer.name.trim().slice(0, 100), company: customer.company.trim().slice(0, 160), phone: customer.phone.trim().slice(0, 30), email: customer.email.trim().slice(0, 160), note: String(customer.note || '').trim().slice(0, 4000) }, items: items.map(item => ({ productId: item.productId, quantity: item.quantity, requirement: String(item.requirement || '').slice(0, 1000) })), status: 'new' }
+  let preparedItems
+  try { preparedItems = prepareQuoteItems(products, items) } catch (error) { return res.status(400).json({ message: error.message }) }
+  const quote = { id: `RFQ-${new Date().toISOString().slice(2, 10).replaceAll('-', '')}-${crypto.randomInt(1000, 9999)}`, createdAt: new Date().toISOString(), customer: { name: customer.name.trim().slice(0, 100), company: customer.company.trim().slice(0, 160), phone: customer.phone.trim().slice(0, 30), email: customer.email.trim().slice(0, 160), note: String(customer.note || '').trim().slice(0, 4000) }, items: preparedItems, status: 'new' }
   res.status(201).json(await saveQuote(quote))
 }))
 

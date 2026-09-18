@@ -1,5 +1,6 @@
+import { groupEmbeddedProducts } from './variantGroups.js';
 // Manufacturer specifications and VN source prices retained; DTPT prices reduced 10% on owner request, 18/09/2026.
-export const embeddedProducts = [
+export const embeddedConfigurations = [
   {
     "id": "SBC-101",
     "slug": "raspberry-pi-5-4gb",
@@ -640,3 +641,5 @@ export const embeddedProducts = [
     "seoTitle": "Raspberry Pi 5 2GB – thông số và báo giá | DTPT Techs"
   }
 ];
+
+export const embeddedProducts = groupEmbeddedProducts(embeddedConfigurations);

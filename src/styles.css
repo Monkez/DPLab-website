@@ -1946,3 +1946,18 @@ body[data-card-style="compact"] .product-card__body { padding-bottom: 15px; }
 .product-image-upload input { position: absolute; inset: 0; opacity: 0; width: 100%; height: 100%; max-width: none; cursor: pointer; }
 .product-image-upload:has(input:disabled) { opacity: .65; cursor: not-allowed; }
 .product-image-upload input:disabled { cursor: not-allowed; }
+
+.product-options { margin: 24px 0; padding: 20px; border: 1px solid var(--line); border-radius: 12px; background: #fff; }
+.product-options h2 { margin: 0 0 14px; font-size: 18px; }
+.product-options label { display: grid; gap: 8px; margin: 12px 0; font-weight: 700; }
+.product-options select { width: 100%; min-width: 0; min-height: 46px; padding: 10px; border: 1px solid #bbcddd; border-radius: 6px; background: #fff; color: var(--navy); }
+.product-options p { color: var(--muted); font-size: 13px; }
+.variant-editor { min-width: 0; }
+.variant-editor > p { color: var(--muted); font-size: 13px; }
+.variant-editor__item { min-width: 0; margin: 16px 0; padding: 16px; border: 1px solid var(--line); border-radius: 10px; }
+.variant-editor__options > div { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) auto; gap: 10px; align-items: end; margin: 12px 0; }
+.variant-editor__options label { display: grid; gap: 6px; font-size: 13px; }
+.variant-editor__options input { width: 100%; min-width: 0; }
+.variant-editor__fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 16px 0; }
+.variant-editor button { min-height: 36px; }
+@media (max-width: 600px) { .variant-editor__fields { grid-template-columns: minmax(0, 1fr); } .variant-editor__options > div { grid-template-columns: minmax(0, 1fr); } }

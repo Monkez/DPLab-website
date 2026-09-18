@@ -112,3 +112,7 @@ Giảm đúng 10% so với các giá nguồn ở bảng trên. Pi 5 2GB bổ sun
 | Jetson Orin Nano Super 8GB | 13.705.200 |
 
 ROCK 5B giữ giá liên hệ. priceSourceValue giữ giá thị trường gốc; priceBasis chuyển sang store-price để không gọi giá đã giảm là giá thị trường hay tự khẳng định VAT. Tổng seed 98 sản phẩm. Migration embedded_prices_20260918_10pct áp dụng một lần, chỉ cập nhật trường giá cho ID/slug khớp, giữ nội dung và ảnh; không thay catalog_version.
+
+## 18/09/2026 — Gom cấu hình cùng dòng
+
+Raspberry Pi 5, Orange Pi 5 Plus và Radxa ROCK 5B dùng mỗi dòng một trang, với tùy chọn RAM. Giá và thông tin từng cấu hình giữ từ dữ liệu hiện tại, không định giá lại. Orange Pi 16 GB ghi rõ phiên bản v1.5.1. Tổng seed vẫn 98 bản ghi: 93 sản phẩm hiển thị, 5 bản ghi chuyển hướng giữ ẩn cho lịch sử. Migration product_variants_20260918 chạy một lần trong transaction; lưu nguyên thông tin và giá CMS hiện có vào từng cấu hình, giữ link cũ và RFQ cũ.

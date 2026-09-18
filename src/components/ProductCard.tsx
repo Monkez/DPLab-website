@@ -56,9 +56,9 @@ export function ProductCard({
             </button>
             <button
               className="primary-button primary-button--compact"
-              onClick={() => add(product.id)}
+              onClick={() => product.variants?.length ? navigate(`/san-pham/${product.slug}`) : add(product.id)}
             >
-              <FilePlus2 /> {added ? "Thêm nữa" : "Thêm báo giá"}
+              <FilePlus2 /> {product.variants?.length ? "Chọn cấu hình" : added ? "Thêm nữa" : "Thêm báo giá"}
             </button>
           </div>
         </div>
