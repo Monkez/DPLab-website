@@ -96,3 +96,19 @@ Thêm 8 cấu hình từ dữ liệu dùng chung `backend/src/embeddedProducts.j
 Đối chiếu Jetson tại [Cytron Việt Nam](https://www.cytrontech.vn/p-nvidia-jetson-orin-nano-8gb-dev-kit): 19.980.000 VND đã gồm VAT, dữ liệu nguồn báo hết hàng khi kiểm tra. Không suy ra tồn kho DTPT từ nguồn khác. Giá mới mang `priceBasis: market-reference`, hiển thị “Giá tham khảo tại Việt Nam”; không mặc định VAT đã bao gồm, không phải báo giá cam kết của DTPT. Giá bán, VAT, phụ kiện, bảo hành và lịch giao xác nhận khi báo giá.
 
 Thông số: [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/), [Orange Pi](https://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5-plus.html), [Radxa](https://docs.radxa.com/en/rock5/rock5b/getting-started/introduction), [NVIDIA](https://www.nvidia.com/en-sg/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/). Ảnh lưu trong public/products, nguồn ở imageSourceUrl; ảnh Orange Pi minh họa dòng 5 Plus, xác nhận revision trước khi đặt. ROCK 5B giữ đúng LPDDR4X, không nhầm LPDDR5 của 5B+. Hiệu năng Jetson 67 TOPS cần phần mềm/chế độ nguồn phù hợp.
+
+### Giá DTPT theo yêu cầu chủ website — 18/09/2026
+
+Giảm đúng 10% so với các giá nguồn ở bảng trên. Pi 5 2GB bổ sung: nguồn Hshop niêm yết 2.430.000 VND, đang báo hết hàng tại thời điểm kiểm tra; DTPT không cam kết sẵn hàng.
+
+| Cấu hình | Giá niêm yết DTPT (VND) |
+|---|---:|
+| Pi 5 2GB | 2.187.000 |
+| Pi 5 4GB | 3.256.200 |
+| Pi 5 8GB | 4.957.200 |
+| Pi 5 16GB | 8.748.000 |
+| Orange Pi 5 Plus 8GB | 5.940.000 |
+| Orange Pi 5 Plus v1.5.1 16GB | 9.270.000 |
+| Jetson Orin Nano Super 8GB | 13.705.200 |
+
+ROCK 5B giữ giá liên hệ. priceSourceValue giữ giá thị trường gốc; priceBasis chuyển sang store-price để không gọi giá đã giảm là giá thị trường hay tự khẳng định VAT. Tổng seed 98 sản phẩm. Migration embedded_prices_20260918_10pct áp dụng một lần, chỉ cập nhật trường giá cho ID/slug khớp, giữ nội dung và ảnh; không thay catalog_version.

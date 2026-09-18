@@ -1,3 +1,4 @@
+import { embeddedProducts } from './embeddedProducts.js'
 import pg from 'pg'
 import crypto from 'crypto'
 import { seedProducts, seedQuotes, seedSettings } from './seed.js'
@@ -122,6 +123,15 @@ export async function initDatabase() {
       if (exists.rowCount === 0) await saveProduct(product)
     }
   }
+
+  // Apply owner-approved prices once; preserve descriptions, media and later CMS price edits.
+  await query(`WITH migration AS (
+    INSERT INTO settings (id, data) VALUES ('embedded_prices_20260918_10pct', '{"version":1}'::jsonb)
+    ON CONFLICT (id) DO NOTHING RETURNING id
+  ), prices AS (SELECT * FROM jsonb_to_recordset($1::jsonb) AS x(id text, slug text, price numeric, "priceBasis" text, "priceNote" text, "priceUpdatedAt" text))
+  UPDATE products p SET data = p.data || jsonb_build_object('price', x.price, 'priceMode', 'fixed', 'priceBasis', x."priceBasis", 'priceNote', x."priceNote", 'priceUpdatedAt', x."priceUpdatedAt"), updated_at = NOW()
+  FROM prices x WHERE p.id = x.id AND p.data->>'slug' = x.slug AND EXISTS (SELECT 1 FROM migration)`,
+  [JSON.stringify(embeddedProducts.filter(p => p.price).map(({ id, slug, price, priceBasis, priceNote, priceUpdatedAt }) => ({ id, slug, price, priceBasis, priceNote, priceUpdatedAt })))])
 
   const quoteCount = await query('SELECT COUNT(*)::int AS count FROM quotes')
   if (quoteCount.rows[0].count === 0) {

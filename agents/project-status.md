@@ -75,3 +75,9 @@
 - Bổ sung chèn nhiều ảnh tại con trỏ Markdown, sửa/thay/xóa riêng từng ảnh, alt/caption, preview chung renderer public; giữ cover và bài cũ.
 - `article_media` BYTEA lưu ảnh WebP bằng PostgreSQL, tự tạo bảng khi boot; POST cần articles.manage, GET công khai. Không xóa media khi xóa bài. Backend cần sharp và phải deploy trước frontend.
 - Build/lint/unit và tích hợp PostgreSQL local đã kiểm tra. Dữ liệu QA riêng, không dùng production. Chưa xác minh triển khai Railway lần này.
+
+## Production xác minh 18/09/2026
+
+- Railway project DTPT-XuatNhapKhau (141c25ae-8dd2-4ddf-8afa-241cbc3f0992), environment production. Frontend fontend-dtpt-shop phục vụ https://dtpt.shop; backend backend-dtpt-shop tại https://dtpt-shop-production.up.railway.app. Cả hai tự deploy qua GitHub. Đây là địa chỉ thực tế, khác các domain mục tiêu trong hướng dẫn cũ.
+- API health/bootstrap đã trả 200 với catalogue SBC mới. Không dùng api.dtpt.shop/www.dtpt.shop để kết luận site lỗi.
+- Catalogue 98 model, 9 cấu hình SBC; giá 7 cấu hình giảm 10% theo chủ website, 2 ROCK 5B giữ liên hệ. Migration embedded_prices_20260918_10pct chạy một lần, giữ trường nội dung khác và chỉnh sửa giá CMS về sau.

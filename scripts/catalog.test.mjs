@@ -27,7 +27,7 @@ test('entry assortment is active, distinct and includes the verified DIN rail su
 
  test('embedded catalogue has exact configurations, local images and traceable market prices', async () => {
   const { embeddedProducts } = await import('../backend/src/embeddedProducts.js');
-  assert.equal(embeddedProducts.length, 8);
+  assert.equal(embeddedProducts.length, 9);
   for (const product of embeddedProducts) {
     assert.ok(seedProducts.some(item => item.id === product.id));
     assert.ok(matchesProduct(product, product.brand === 'Radxa' ? 'rockchip' : product.brand));
@@ -38,11 +38,18 @@ test('entry assortment is active, distinct and includes the verified DIN rail su
       assert.equal(product.price, undefined);
     } else {
       assert.ok(product.price > 0);
-      assert.equal(product.priceBasis, 'market-reference');
+      assert.equal(product.priceBasis, 'store-price');
       assert.ok(product.priceSourceUrl.startsWith('https://'));
       assert.equal(product.priceUpdatedAt, '2026-09-18');
     }
   }
-  assert.ok(matchesProduct(embeddedProducts.at(-1), 'jsetson'));
-  assert.equal(embeddedProducts.find(p => p.slug === 'raspberry-pi-5-8gb').price, 5508000);
+  assert.ok(matchesProduct(embeddedProducts.find(p => p.brand === 'NVIDIA'), 'jsetson'));
+  assert.equal(embeddedProducts.find(p => p.slug === 'raspberry-pi-5-8gb').price, 4957200);
+});
+
+test('owner prices are exactly 10 percent below recorded market prices, including Pi 5 2GB', async () => {
+  const { embeddedProducts } = await import('../backend/src/embeddedProducts.js');
+  const expected = { 'SBC-101': 3256200, 'SBC-102': 4957200, 'SBC-103': 8748000, 'SBC-104': 5940000, 'SBC-105': 9270000, 'SBC-108': 13705200, 'SBC-109': 2187000 };
+  for (const [id, price] of Object.entries(expected)) assert.equal(embeddedProducts.find(p => p.id === id).price, price);
+  assert.ok(matchesProduct(embeddedProducts.find(p => p.id === 'SBC-109'), 'raspberry pi 5 2gb'));
 });

@@ -38,7 +38,7 @@ export interface Product {
   price?: number;
   priceMax?: number;
   priceMode: PriceMode;
-  priceBasis?: "market-reference";
+  priceBasis?: "market-reference" | "store-price";
   leadTime: string;
   warranty: string;
   status: ProductStatus;
