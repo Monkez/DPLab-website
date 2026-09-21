@@ -1,6 +1,7 @@
-# Bản nháp: Cổng COM trên Panel PC — 5 điểm cần chốt trước khi mua
+# Bài đã xuất bản: Cổng COM trên Panel PC — 5 điểm cần chốt trước khi mua
 
-- Trạng thái: đã nhập đầy đủ vào CMS và kiểm tra bản xem trước trên desktop 2048 px, mobile 390 px; ảnh tải đúng, không tràn ngang, Markdown hiển thị đúng. Biểu mẫu chưa được lưu hoặc xuất bản vì thao tác sửa nội dung công khai qua giao diện cần xác nhận ngay trước khi thực hiện.
+- Trạng thái: đã xuất bản ngày 21/09/2026. API public, sitemap, canonical, dữ liệu Article JSON-LD, ba ảnh và giao diện desktop/mobile đã được kiểm tra sau khi xuất bản.
+- URL công khai: https://dtpt.shop/tin-tuc/cong-com-panel-pc-rs232-rs485-can-chot-gi
 - Slug: `cong-com-panel-pc-rs232-rs485-can-chot-gi`
 - Chuyên mục: Kiến thức kỹ thuật
 - Tóm tắt/SEO description: Đếm số cổng COM chưa đủ. Hãy chốt chuẩn RS-232/422/485, pinout, 2/4 dây, giao thức, cách ly và phần mềm trước khi chọn Panel PC.
