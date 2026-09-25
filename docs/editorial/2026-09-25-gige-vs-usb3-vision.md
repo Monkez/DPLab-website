@@ -1,6 +1,8 @@
-# Bản thảo chờ xuất bản: GigE Vision 3.0 đã có — chọn GigE hay USB3 cho camera công nghiệp?
+# Bài đã xuất bản: GigE Vision 3.0 đã có — chọn GigE hay USB3 cho camera công nghiệp?
 
-- Trạng thái: nội dung và nguồn đã biên tập; chưa tạo bản ghi CMS vì phiên hiện tại chưa có API token `articles.manage` dùng được ngoài giao diện.
+- Trạng thái: đã xuất bản lúc 10:16 ngày 25/09/2026 (Asia/Ho_Chi_Minh).
+- CMS ID: `NEWS-1790305948369`
+- URL công khai: https://dtpt.shop/tin-tuc/gige-vision-hay-usb3-vision-camera-cong-nghiep
 - Slug: `gige-vision-hay-usb3-vision-camera-cong-nghiep`
 - Chuyên mục: Công nghệ công nghiệp
 - Tóm tắt: GigE Vision và USB3 Vision khác nhau ở băng thông, chiều dài cáp, cách cấp nguồn và khả năng mở rộng. Hãy tính luồng ảnh và thử toàn hệ thống trước khi chọn.
@@ -87,3 +89,4 @@ https://www.baslerweb.com/en/learning/interface-embedded/
 - Ảnh `/products/hikrobot-mv-cs050-10gm.webp` là ảnh model GigE đã có trong catalogue. Chỉ dùng một ảnh thật vì chưa có ảnh USB3 với nguồn sử dụng phù hợp; không lặp ảnh hoặc tạo ảnh cổng kết nối giả bằng AI.
 - Renderer dùng URL thuần cho nguồn và catalogue vì chưa hỗ trợ đầy đủ Markdown liên kết.
 - Không thêm bài vào `articleSeed.js`; production đã có dữ liệu PostgreSQL.
+- Kiểm tra sau xuất bản: API công khai và sitemap có đúng một bản ghi; URL và ảnh cover trả HTTP 200; canonical, SEO description, Open Graph và JSON-LD Article đúng; giao diện desktop/mobile không tràn ngang, ảnh tải thành công và trình duyệt không ghi nhận lỗi.

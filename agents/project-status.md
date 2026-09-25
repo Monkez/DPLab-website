@@ -92,4 +92,4 @@
 ## 25/09/2026 — Biên tập chuyên sâu
 
 - Chuẩn nội dung định kỳ tăng lên khoảng 700–1.000 từ, yêu cầu luận điểm, nguồn sơ cấp, phân tích tác động/đánh đổi và checklist thực hành; không kéo dài bằng nội dung lặp.
-- Đã chuẩn bị bài `docs/editorial/2026-09-25-gige-vs-usb3-vision.md` về GigE Vision 3.0 và cách chọn GigE/USB3. Bài chưa tạo trong CMS vì phiên automation chưa có API token `articles.manage` dùng qua CLI; không thêm vào seed hoặc tạo nháp trùng.
+- Đã xuất bản bài `docs/editorial/2026-09-25-gige-vs-usb3-vision.md` về GigE Vision 3.0 và cách chọn GigE/USB3 tại `/tin-tuc/gige-vision-hay-usb3-vision-camera-cong-nghiep` (CMS `NEWS-1790305948369`). Đã kiểm tra API công khai, URL, ảnh cover, canonical, sitemap, metadata, JSON-LD và giao diện desktop/mobile; không thêm vào seed production.
