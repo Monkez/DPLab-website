@@ -34,7 +34,7 @@ Google không bảo đảm thứ hạng chỉ nhờ SEO kỹ thuật. Nội dung
 
 ## Lịch biên tập định kỳ
 
-Mục tiêu 3 bài/tuần, 10:00 thứ Hai/Tư/Sáu giờ Việt Nam, bắt đầu từ lịch kế tiếp sau 12/09/2026. Mỗi lần tối đa một bài mới khoảng 400–700 từ. Ưu tiên chất lượng; bỏ qua khi không có chủ đề đủ giá trị. Lịch được quản lý trong Codex với tên **Biên tập tin tức hai website DTPT**, không phải tác vụ chạy trong backend. Khung 09:00 của lịch chung dành cho dptech.shop; khung 10:00 dành riêng cho website này.
+Mục tiêu 3 bài/tuần, 10:00 thứ Hai/Tư/Sáu giờ Việt Nam, bắt đầu từ lịch kế tiếp sau 12/09/2026. Mỗi lần tối đa một bài mới, thông thường 700–1.000 từ; chủ đề hẹp có thể 600–800 từ nếu đã đủ ý. Không kéo dài bằng nội dung lặp. Ưu tiên chất lượng; bỏ qua khi không có chủ đề đủ giá trị. Lịch được quản lý trong Codex với tên **Biên tập tin tức hai website DTPT**, không phải tác vụ chạy trong backend. Khung 09:00 của lịch chung dành cho dptech.shop; khung 10:00 dành riêng cho website này.
 
 Khoảng 40% tin công nghệ công nghiệp có phân tích ứng dụng, 40% hướng dẫn kỹ thuật/chọn thiết bị và 20% so sánh hoặc checklist đầu tư. Chủ đề: industrial PC, Panel PC/HMI, Edge AI, machine vision, cảm biến, đo lường, kết nối và tự động hóa. Thủ thuật máy tính/Windows chỉ khi phục vụ máy trạm kỹ thuật hoặc hệ thống công nghiệp. Giữ định vị catalogue + yêu cầu báo giá; không mô tả dịch vụ order/nhập hộ hoặc đưa nội dung thuê laptop từ dptech.shop sang đây.
 
@@ -43,13 +43,15 @@ Khoảng 40% tin công nghệ công nghiệp có phân tích ứng dụng, 40% h
 - Đọc catalogue và bài hiện có, tránh trùng câu hỏi, không đăng lại hoặc chỉ đổi vài từ từ website khác của DTPT.
 - Kiểm chứng ngày công bố, model, phiên bản, thông số và phạm vi áp dụng bằng tài liệu hãng. Phân biệt thông tin hãng, nhận định biên tập và kiểm thử thực tế; không bịa benchmark, giá, tồn kho, lead time hoặc dự án khách hàng.
 - Mỗi bài giải quyết một nhu cầu: ứng dụng cụ thể, cách chọn, giới hạn, sai lầm thường gặp hoặc các bước có kết quả kiểm chứng. Không dịch lại thông cáo dài hoặc nhồi từ khóa để lấp lịch.
+- Mỗi bài có một luận điểm trung tâm; trình bày bối cảnh, bằng chứng, tác động thực tế, nhóm người phù hợp, giới hạn/đánh đổi và checklist hành động. Bài hướng dẫn phải giải thích nguyên nhân, điều kiện áp dụng, cách kiểm tra kết quả và cách hoàn tác khi phù hợp.
+- Ưu tiên ít nhất hai nguồn sơ cấp độc lập cho tin tức khi có thể. Nếu chỉ có một nguồn hãng, nói rõ giới hạn và thu hẹp kết luận. Trước đăng, tự biên tập lại về tính đúng, logic, độ mạch lạc, chính tả và giá trị thực hành; mỗi đoạn phải đóng góp một ý mới.
 - Ưu tiên ảnh sản phẩm thực/ảnh hãng đã có trong catalogue hoặc ảnh phù hợp quyền sử dụng. Ghi nguồn và đúng model; ảnh series phải ghi rõ. Không dùng ảnh AI làm ảnh thiết bị thật, bằng chứng đo lường hoặc ảnh hướng dẫn. Ảnh minh họa AI chỉ dùng khi cần và có nhãn.
 - Dẫn nguồn có thể kiểm tra; renderer hiện hỗ trợ Markdown đơn giản, cần xem trước để bảo đảm liên kết/ảnh thể hiện đúng, không để cú pháp Markdown không hỗ trợ hiện nguyên văn. Tối ưu title/description, heading, alt, tag và liên kết nội bộ có ích. Không hứa thứ hạng Google.
 - Thủ thuật hệ thống phải đúng phiên bản, có cách kiểm tra/hoàn tác khi phù hợp; không khuyên vô hiệu hóa bảo vệ, can thiệp dây chuyền đang chạy hoặc thay tham số điều khiển thiếu điều kiện an toàn.
 
 ### Bố trí nhiều ảnh trong bài tự động
 
-- Khi lập dàn ý, xác định phần nào cần ảnh để giải thích. Với bài 400–700 từ, ưu tiên 2–3 ảnh trong nội dung nếu có ảnh phù hợp, ngoài ảnh đại diện; đây là gợi ý, không phải chỉ tiêu bắt buộc. Không mặc định chỉ dùng ảnh đầu bài, không lặp lại cùng ảnh để đủ số lượng.
+- Khi lập dàn ý, xác định phần nào cần ảnh để giải thích. Với bài 600–1.000 từ, chọn 1–3 ảnh thật sự bổ sung thông tin, ngoài ảnh đại diện nếu có nguồn phù hợp; đây là gợi ý, không phải chỉ tiêu bắt buộc. Không lặp lại cùng ảnh hoặc chèn ảnh trang trí để đủ số lượng.
 - Đặt mỗi ảnh ngay sau đoạn/bước liên quan. Bài hướng dẫn ưu tiên ảnh giao diện đúng bước; bài so sánh ưu tiên ảnh đúng thiết bị/chi tiết đang so sánh. Không giả ảnh chụp màn hình bằng AI hoặc dùng ảnh thiết bị thay bằng chứng thao tác.
 - Mỗi ảnh có alt mô tả đúng nội dung, chú thích giải thích giá trị của ảnh và nguồn/chủ sở hữu có thể kiểm chứng. Ảnh series, ảnh minh họa hoặc AI phải ghi rõ. Khi thiếu ảnh hợp lệ, dùng ít ảnh hơn và ghi lý do trong ghi chú biên tập, không bịa hoặc chèn ảnh không liên quan.
 - Trước xuất bản, kiểm tra từng URL ảnh tải được, không chứa dữ liệu riêng tư; kiểm tra xem trước desktop/mobile, thứ tự ảnh, chú thích, không tràn ngang và không lộ cú pháp. Sau xuất bản, mở lại bài công khai kiểm tra đủ ảnh, alt và chú thích. Code đã push không đồng nghĩa production đã hỗ trợ: xác minh bản triển khai trước khi đăng.

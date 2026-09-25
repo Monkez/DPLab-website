@@ -88,3 +88,8 @@
 - Seed 98 bản ghi/93 hiển thị: gom Pi 5, Orange Pi 5 Plus, ROCK 5B. Migration product_variants_20260918 trong transaction giữ dữ liệu CMS; 5 bản ghi cũ draft + redirectTo. Không bump catalogVersion vì sẽ reset catalogue.
 - RFQ dùng khóa productId + variantId, lưu nhãn/model snapshot từ server; tự ánh xạ ID cũ. Link slug cũ 301 đến trang chung + query variant, canonical trang chung.
 - QA local: lưu giá cấu hình qua admin/API, chọn RAM + màu sắc trên mobile không tràn, gửi RFQ hai cấu hình và đọc lại đúng hai dòng. 27 test, lint và build đạt. Production đã chạy migration thành công: API trả 3 dòng gộp và đủ 8 cấu hình với giá cũ; frontend chọn Pi 5 2 GB trả 2.187.000 ₫. Link Pi 5 8 GB chuyển 301 sang trang chung và chọn đúng SBC-102.
+
+## 25/09/2026 — Biên tập chuyên sâu
+
+- Chuẩn nội dung định kỳ tăng lên khoảng 700–1.000 từ, yêu cầu luận điểm, nguồn sơ cấp, phân tích tác động/đánh đổi và checklist thực hành; không kéo dài bằng nội dung lặp.
+- Đã chuẩn bị bài `docs/editorial/2026-09-25-gige-vs-usb3-vision.md` về GigE Vision 3.0 và cách chọn GigE/USB3. Bài chưa tạo trong CMS vì phiên automation chưa có API token `articles.manage` dùng qua CLI; không thêm vào seed hoặc tạo nháp trùng.
