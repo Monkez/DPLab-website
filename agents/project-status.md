@@ -93,3 +93,8 @@
 
 - Chuẩn nội dung định kỳ tăng lên khoảng 700–1.000 từ, yêu cầu luận điểm, nguồn sơ cấp, phân tích tác động/đánh đổi và checklist thực hành; không kéo dài bằng nội dung lặp.
 - Đã xuất bản bài `docs/editorial/2026-09-25-gige-vs-usb3-vision.md` về GigE Vision 3.0 và cách chọn GigE/USB3 tại `/tin-tuc/gige-vision-hay-usb3-vision-camera-cong-nghiep` (CMS `NEWS-1790305948369`). Đã kiểm tra API công khai, URL, ảnh cover, canonical, sitemap, metadata, JSON-LD và giao diện desktop/mobile; không thêm vào seed production.
+
+## 28/09/2026 — Hướng dẫn chọn nguồn 24VDC cho Panel PC
+
+- Đã xuất bản bài `docs/editorial/2026-09-28-panel-pc-24v-power-supply.md` tại `/tin-tuc/chon-nguon-24vdc-cho-panel-pc` (CMS `NEWS-1790564826425`). Bài dùng ví dụ thông số Axiomtek GOT315A-ELK-WCD và MEAN WELL HDR-60-24 để giải thích tải cực đại, dòng khởi động, suy giảm theo nhiệt, sụt áp và bảo vệ nhánh.
+- Đã kiểm tra API công khai, URL, ảnh cover, canonical, sitemap, metadata, robots, JSON-LD Article và giao diện desktop/mobile; không thêm vào seed production.
