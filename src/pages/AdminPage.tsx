@@ -1,6 +1,6 @@
 import { quoteLineKey, quoteItemLabel } from '../../backend/src/productVariants.js'
 import { BarChart3, FileText, FolderTree, LayoutDashboard, LogOut, Newspaper, Package, Palette, UserCog, Users } from 'lucide-react'
-import { useEffect, useState, type FormEvent } from 'react'
+import { useEffect, useRef, useState, type FormEvent, type KeyboardEvent } from 'react'
 import { api } from '../services/api'
 import { useStore } from '../store/StoreContext'
 import type { AdminPermission, QuoteStatus } from '../types'
@@ -18,6 +18,7 @@ const titles: Record<AdminTab, string> = {
 
 export function AdminPage({ navigate }: { navigate: (path: string) => void }) {
   const store = useStore(); const [session, setSession] = useState(api.getAdminSession()); const [tab, setTab] = useState<AdminTab>('analytics'); const [error, setError] = useState('')
+  const loginPending = useRef(false); const [loggingIn, setLoggingIn] = useState(false)
   const sessionToken = session?.token
   useEffect(() => {
     let cancelled = false
@@ -31,8 +32,13 @@ export function AdminPage({ navigate }: { navigate: (path: string) => void }) {
     return () => { cancelled = true }
   }, [sessionToken])
   const logout = () => { api.logoutAdmin(); setSession(null); setError('') }
-  const login = async (event: FormEvent<HTMLFormElement>) => { event.preventDefault(); setError(''); const data = new FormData(event.currentTarget); try { const next = await api.loginAdmin(String(data.get('username')), String(data.get('password'))); await store.refreshData(true); setSession(next) } catch (reason) { setError(reason instanceof Error ? reason.message : 'Đăng nhập thất bại') } }
-  if (!session) return <main className="admin-login"><form onSubmit={login}><img src={store.settings.logoWideSrc} alt={store.settings.storeName} /><h1>Quản trị hệ thống</h1><p>Đăng nhập để quản lý catalogue và toàn bộ nội dung website.</p><label>Tên đăng nhập<input name="username" autoComplete="username" required /></label><label>Mật khẩu<input name="password" type="password" autoComplete="current-password" required /></label>{error && <p className="form-error">{error}</p>}<button className="primary-button">Đăng nhập</button><button type="button" className="text-button" onClick={() => navigate('/')}>Về trang chủ</button></form></main>
+  const login = async (event: FormEvent<HTMLFormElement>) => { event.preventDefault(); if (loginPending.current) return; loginPending.current = true; setLoggingIn(true); setError(''); const data = new FormData(event.currentTarget); try { const next = await api.loginAdmin(String(data.get('username')), String(data.get('password'))); await store.refreshData(true); setSession(next) } catch (reason) { setError(reason instanceof Error ? reason.message : 'Đăng nhập thất bại') } finally { loginPending.current = false; setLoggingIn(false) } }
+  const submitOnEnter = (event: KeyboardEvent<HTMLInputElement>) => {
+    if (event.key !== 'Enter' || event.nativeEvent.isComposing || event.nativeEvent.keyCode === 229) return
+    event.preventDefault()
+    if (!event.repeat && !loginPending.current) event.currentTarget.form?.requestSubmit()
+  }
+  if (!session) return <main className="admin-login"><form onSubmit={login} aria-busy={loggingIn}><img src={store.settings.logoWideSrc} alt={store.settings.storeName} /><h1>Quản trị hệ thống</h1><p>Đăng nhập để quản lý catalogue và toàn bộ nội dung website.</p><label>Tên đăng nhập<input name="username" autoComplete="username" onKeyDown={submitOnEnter} enterKeyHint="go" required /></label><label>Mật khẩu<input name="password" type="password" autoComplete="current-password" onKeyDown={submitOnEnter} enterKeyHint="go" required /></label>{error && <p className="form-error">{error}</p>}<button type="submit" className="primary-button" disabled={loggingIn}>{loggingIn ? 'Đang đăng nhập…' : 'Đăng nhập'}</button><button type="button" className="text-button" onClick={() => navigate('/')}>Về trang chủ</button></form></main>
   const has = (permission: AdminPermission) => session.user.isRoot || session.user.role === 'owner' || session.user.permissions.includes(permission)
   const nav: Array<[AdminTab, typeof Users, string, AdminPermission]> = [
     ['analytics', BarChart3, 'Lưu lượng', 'analytics.view'], ['quotes', Users, 'Yêu cầu báo giá', 'quotes.view'], ['products', Package, 'Sản phẩm', 'products.manage'], ['articles', Newspaper, 'Tin tức', 'articles.manage'], ['categories', FolderTree, 'Phân loại', 'categories.manage'], ['branding', Palette, 'Thương hiệu', 'branding.manage'], ['content', FileText, 'Nội dung', 'content.manage'], ['display', LayoutDashboard, 'Giao diện', 'display.manage'], ['accounts', UserCog, 'Tài khoản', 'users.manage'],
