@@ -98,3 +98,8 @@
 
 - Đã xuất bản bài `docs/editorial/2026-09-28-panel-pc-24v-power-supply.md` tại `/tin-tuc/chon-nguon-24vdc-cho-panel-pc` (CMS `NEWS-1790564826425`). Bài dùng ví dụ thông số Axiomtek GOT315A-ELK-WCD và MEAN WELL HDR-60-24 để giải thích tải cực đại, dòng khởi động, suy giảm theo nhiệt, sụt áp và bảo vệ nhánh.
 - Đã kiểm tra API công khai, URL, ảnh cover, canonical, sitemap, metadata, robots, JSON-LD Article và giao diện desktop/mobile; không thêm vào seed production.
+
+## 30/09/2026 — Windows on Arm cho Panel PC
+
+- Đã xuất bản bài `docs/editorial/2026-09-30-arm-panel-pc-windows-ltsc.md` tại `/tin-tuc/panel-pc-arm-windows-11-ltsc-co-thay-duoc-x86` (CMS `NEWS-1790737511005`). Bài phân tích TPC-200W/QCS6490, tách ứng dụng x86/x64 được giả lập khỏi yêu cầu driver Arm64 và đưa checklist pilot trước khi thay Panel PC x86.
+- Cover dùng ảnh TPC-200W chính thức tải vào `article_media`. Frontend và SEO server đã sửa để phân giải đường dẫn `/api/article-media/...` qua backend; build, lint và 27 test đạt. Production đã kiểm tra API, URL, cover, canonical, sitemap, metadata, JSON-LD cùng giao diện desktop/mobile; không thêm vào seed production.

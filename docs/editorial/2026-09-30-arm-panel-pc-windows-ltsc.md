@@ -75,3 +75,4 @@ https://learn.microsoft.com/en-ca/windows/arm/apps-on-arm-x86-emulation
 - Chỉ dùng một ảnh vì ảnh chính thức đã giải thích đúng series và bài tập trung vào quyết định kiến trúc; không thêm ảnh trang trí hoặc ảnh AI giả thiết bị.
 - Renderer dùng URL thuần cho nguồn và catalogue vì chưa hỗ trợ đầy đủ Markdown liên kết.
 - Không thêm bài vào `articleSeed.js`; production đã có dữ liệu PostgreSQL.
+- Production đã được kiểm tra sau khi Railway triển khai commit `dd3ab01`: API công khai và sitemap có đúng một bài; URL, cover WebP, canonical, SEO description, Open Graph và JSON-LD Article đúng; giao diện desktop/mobile không tràn ngang, ảnh tải đủ 820 × 460 và không có lỗi trình duyệt.
