@@ -1,0 +1,53 @@
+{
+  "mode": "built-in image_gen",
+  "transparent_background": false,
+  "prompts": [
+    {
+      "output": "rigol-landscape-ai.png",
+      "inputs": [
+        "images/rigol-dho804-original.jpg"
+      ],
+      "prompt": "Use case: compositing. Asset type: Google Search image asset, a clean landscape studio product photograph at exactly 1200 x 628 pixels (1.91:1).\nInput image 1 is the actual RIGOL DHO804 product photograph and is the immutable product source. Reframe this exact photographed object on a clean very light neutral studio surface, keeping the complete product prominent and centered within the middle 80% safe area. Preserve the exact case, all four front BNC input connectors, knobs, buttons, screen content, printed manufacturer marks and DHO804 label. Do not invent or remove components, do not redraw a different model. Soft natural product shadow only; the product should occupy most of the usable width, with comfortable margins around every edge.\nNo added text, no brand-logo overlay, no graphic overlay, no collage, no people, no extra equipment, no border, no watermark. Crisp, realistic, high-quality B2B catalog photography. White and neutral-gray backdrop. All hardware geometry must match the reference."
+    },
+    {
+      "output": "adam-landscape-ai.png",
+      "inputs": [
+        "images/adam-6050-original.png"
+      ],
+      "prompt": "Use case: compositing. Asset type: clean Google Search product image, landscape 1.91:1, approximately 1200 x 628 pixels.\nInput image 1 is an actual Advantech ADAM-6050 product photograph. Use this exact photographed object, not a redesign. Keep its turquoise blue case, grey round faceplate, two visible screws, green terminal strips at top and bottom, side connector, ADAM-6050 mark, printed label details, proportions and viewing angle. Replace only the transparent surroundings with a very light neutral studio background and subtle real contact shadow. Do not invent cables, accessories, extra ports, screens or other hardware.\nSingle large centered product, complete and uncropped, occupying 78 percent of the height, inside the center 80 percent safe area. Frame it close enough to remain recognizable in a small ad.\nNo added words, no logo overlay, no graphic overlay, no collage, no border, no watermark. Crisp product catalog photography. Preserve the product pixels and visible marks as faithfully as possible."
+    },
+    {
+      "output": "banner-landscape-ai.png",
+      "inputs": [
+        "images/rigol-dho804-original.jpg",
+        "images/adam-6050-original.png",
+        "images/dtpt-techs-logo-original.png"
+      ],
+      "prompt": "Use case: ads-marketing, compositing.\nAsset type: finished Vietnamese B2B advertising banner, landscape 1.91:1, high resolution.\nInput image 1 is the actual RIGOL DHO804 photograph. Input image 2 is the actual Advantech ADAM-6050 photograph. Input image 3 is the DTPT Techs brand logo. Keep both pictured products recognizable and faithful to their real geometry, port count, proportions and manufacturer marks. Use the supplied DTPT logo faithfully; do not redesign or recolor it.\nAudience: Vietnamese engineering buyers, factories and R&D departments. Style: polished, restrained technical equipment advertising, very crisp photography and excellent Vietnamese typography. White and pale neutral background, charcoal text, accents in the brand's red and blue, some turquoise from the ADAM module. Avoid dark navy backgrounds, gradients, ornamental blobs and stock factory imagery.\nComposition: strong DTPT logo near upper left; large clear headline at left, product pair arranged in a clean studio area at right, with every product fully visible. The oscilloscope is the larger anchor and the smaller blue ADAM module sits next to it without hiding the screen or controls. Bottom area contains the supporting sentence, a modest red CTA and the website URL. Nothing overlaps. Generous edge margins but no excessive empty space. Professional balanced grid and readable text even at reduced size.\nExact text, verbatim, including all Vietnamese accents:\nHeadline, two or three lines: \"Thiết bị đo lường\" and \"& tự động hóa\".\nSupporting line: \"Tư vấn cấu hình, báo giá theo yêu cầu\"\nCTA: \"Nhận báo giá\"\nWebsite: \"dtpt.shop\"\nNo other slogans, no added prices, no discounts, no availability claims, no delivery or warranty promises, no certification claims, no watermark. This is a branded banner concept, not a Search image extension."
+    },
+    {
+      "output": "banner-landscape-ai.png (targeted correction)",
+      "inputs": [
+        "previous landscape banner output"
+      ],
+      "prompt": "Edit target: the supplied DTPT Techs landscape advertisement.\nMake exactly one targeted change: delete the entire row of three blue icons, both thin vertical separators, and ALL three extra captions beneath the supporting sentence (\"Đo lường chính xác\", \"Tích hợp linh hoạt\", \"Phù hợp cho nhà máy & R&D\"). Fill that removed region naturally with the existing clean light background.\nPreserve everything else: exact DTPT Techs logo, headline \"Thiết bị đo lường & tự động hóa\", supporting sentence \"Tư vấn cấu hình, báo giá theo yêu cầu\", red \"Nhận báo giá\" CTA, \"dtpt.shop\", red and blue corner accents, both photographed product subjects, lighting, relative positions, proportions, landscape 1.91:1 format. Do not add any new words, icons, claims or objects. Keep all Vietnamese accents correct."
+    },
+    {
+      "output": "banner-square-ai.png",
+      "inputs": [
+        "images/rigol-dho804-original.jpg",
+        "images/adam-6050-original.png",
+        "images/dtpt-techs-logo-original.png",
+        "images/banner-landscape-ai.png"
+      ],
+      "prompt": "Use case: ads-marketing, compositing. Create a square 1:1 version of the DTPT Techs Vietnamese B2B banner, high resolution around 1200 x 1200 pixels.\nInput 1: actual RIGOL DHO804 product photograph; input 2: actual Advantech ADAM-6050 product photograph; input 3: actual DTPT Techs logo; input 4: the approved landscape layout reference, for design style only.\nKeep the DTPT logo faithful. Keep both products faithful to their original photos, completely visible, correct proportions and connector counts; do not replace them with another model.\nStacked composition: clear brand logo at top, bold headline immediately below, products in the central-lower studio area, short supporting line and red CTA with website near bottom. The oscilloscope is prominent; the smaller blue ADAM module sits to its right without covering its screen or controls. White and pale neutral background, charcoal text, restrained red and blue brand accents at an outer corner. Clear comfortable margins; all text fits, all Vietnamese accents are correct.\nThe ONLY text permitted, verbatim:\n\"Thiết bị đo lường\"\n\"& tự động hóa\"\n\"Tư vấn cấu hình, báo giá theo yêu cầu\"\n\"Nhận báo giá\"\n\"dtpt.shop\"\nThe supplied logo has its own lettering. Manufacturer markings already on the products may remain.\nDo not add any other words, icons, feature captions, prices, discounts, product availability, warranty, certification, official dealership claims, contact phone, watermark, collage borders, gradients, or decorative blobs. Professionally balanced real product advertising, not a Search image extension."
+    },
+    {
+      "output": "rigol-square-ai.png",
+      "inputs": [
+        "images/rigol-dho804-original.jpg"
+      ],
+      "prompt": "Use case: compositing. Asset type: clean Google Search product image, square 1:1 around 1200 x 1200 pixels.\nUse the input RIGOL DHO804 product photograph as an immutable product source, preserving the existing exact object, all four BNC input ports, all knobs, front face, manufacturer's marks and label, screen content and viewing angle. Reframe onto a clean light neutral studio background with a subtle contact shadow, product fully visible and centered. Product width should occupy about 82% of image width, with enough top and bottom margin. Do not redraw any details, do not add or remove ports, do not hallucinate labels.\nNo added words, no logo overlay, no graphic overlays, no collage, no borders, no other objects, no watermark. This is a single authentic-looking product photo, not an advertisement poster. Crisp and legible real hardware photography; exactly square format."
+    }
+  ]
+}

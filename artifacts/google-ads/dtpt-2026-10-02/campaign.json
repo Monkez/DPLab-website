@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "prepared_date": "2026-10-02",
+  "status": "LOCAL_REVIEW_DRAFT",
+  "campaign": {
+    "name": "DTPT Techs Search Viet Nam 30000",
+    "customer_id": null,
+    "type": "SEARCH",
+    "budget_daily": 30000,
+    "currency": "VND",
+    "location": "Toàn Việt Nam",
+    "language": "Tiếng Việt",
+    "website_url": "https://dtpt.shop/",
+    "goal": "Yêu cầu tư vấn và báo giá",
+    "initial_status": "PAUSED",
+    "bidding_strategy": null,
+    "monthly_budget_reference": 912000,
+    "existing_campaign_daily_budget": 25000
+  },
+  "business": {
+    "name": "DTPT Techs",
+    "legal_name": "CÔNG TY TNHH DTPT-TECHS",
+    "phone": "0903463185",
+    "phone_display": "0903 463 185",
+    "email": "dtpttechs@gmail.com",
+    "website": "https://dtpt.shop/",
+    "logo": "images/dtpt-techs-logo-original.png",
+    "description": "Cung cấp thiết bị đo lường, tự động hóa và máy tính công nghiệp. Tư vấn cấu hình và báo giá theo yêu cầu."
+  },
+  "ad_groups": [
+    {
+      "id": "measurement",
+      "name": "Thiết bị đo điện tử",
+      "product": "RIGOL DHO804",
+      "final_url": "https://dtpt.shop/san-pham/rigol-dho804",
+      "display_paths": ["do-dien-tu", "bao-gia"],
+      "preview_headlines": [2, 3, 7],
+      "preview_descriptions": [1, 3],
+      "preview_image": "images/rigol-dho804-original.jpg",
+      "headlines": [
+        "DTPT Techs",
+        "Thiết Bị Đo Điện Tử",
+        "Máy Hiện Sóng RIGOL",
+        "RIGOL DHO804 12-bit",
+        "Máy Hiện Sóng 4 Kênh",
+        "DHO804 Băng Thông 70 MHz",
+        "Thiết Bị Cho Phòng R&D",
+        "Báo Giá Theo Yêu Cầu",
+        "Tư Vấn Chọn Thiết Bị",
+        "Kiểm Tra Cấu Hình",
+        "Xem Thông Số DHO804",
+        "Gửi Model Cần Tìm",
+        "Trao Đổi Trước Đặt Hàng",
+        "Hỗ Trợ Kỹ Thuật",
+        "Liên Hệ DTPT Techs"
+      ],
+      "descriptions": [
+        "Máy hiện sóng RIGOL cho đo kiểm và R&D. Liên hệ DTPT Techs để nhận báo giá.",
+        "RIGOL DHO804: 4 kênh, 70 MHz, ADC 12-bit. Xem thông số và tư vấn cấu hình.",
+        "Gửi model, số lượng và nhu cầu đo kiểm. DTPT Techs sẽ trao đổi để chọn thiết bị.",
+        "Báo giá theo cấu hình và phụ kiện. Xác nhận tình trạng hàng trước khi đặt."
+      ],
+      "keyword_seeds": [
+        "mua máy hiện sóng",
+        "báo giá máy hiện sóng",
+        "máy hiện sóng rigol",
+        "rigol dho804",
+        "báo giá rigol dho804",
+        "máy hiện sóng 4 kênh"
+      ]
+    },
+    {
+      "id": "remote-io",
+      "name": "Remote I/O Advantech",
+      "product": "Advantech ADAM-6050",
+      "final_url": "https://dtpt.shop/san-pham/advantech-adam-6050-ethernet-digital-io",
+      "display_paths": ["remote-io", "bao-gia"],
+      "preview_headlines": [2, 3, 7],
+      "preview_descriptions": [0, 2],
+      "preview_image": "images/adam-6050-original.png",
+      "headlines": [
+        "DTPT Techs",
+        "Remote I/O Advantech",
+        "Advantech ADAM-6050",
+        "Module I/O Ethernet",
+        "12 DI Và 6 DO",
+        "Kết Nối Modbus TCP",
+        "ADAM-6050 Hỗ Trợ MQTT",
+        "Báo Giá Theo Yêu Cầu",
+        "Tư Vấn Chọn Module I/O",
+        "Thu Thập Dữ Liệu Máy",
+        "Xem Thông Số ADAM-6050",
+        "Kiểm Tra Nguồn Và Giao Tiếp",
+        "Gửi Model Cần Tìm",
+        "Hỗ Trợ Kỹ Thuật",
+        "Liên Hệ DTPT Techs"
+      ],
+      "descriptions": [
+        "Advantech ADAM-6050: 12 DI, 6 DO qua Ethernet. Liên hệ để nhận báo giá.",
+        "Hỗ trợ Modbus TCP và MQTT. Trao đổi nguồn cấp, giao tiếp trước khi chọn module.",
+        "Gửi model và số lượng cần mua. DTPT Techs tư vấn cấu hình theo yêu cầu.",
+        "Module I/O cho giám sát máy và kết nối hệ thống. Xem thông số ADAM-6050."
+      ],
+      "keyword_seeds": [
+        "advantech adam 6050",
+        "mua adam 6050",
+        "báo giá adam 6050",
+        "module io ethernet",
+        "remote io advantech",
+        "module io modbus tcp"
+      ]
+    }
+  ],
+  "sitelinks": [
+    {
+      "text": "Máy Hiện Sóng RIGOL",
+      "description1": "DHO804, 4 kênh, 70 MHz",
+      "description2": "Xem thông số và hỏi báo giá",
+      "url": "https://dtpt.shop/san-pham/rigol-dho804"
+    },
+    {
+      "text": "Remote I/O Advantech",
+      "description1": "ADAM-6050, 12 DI và 6 DO",
+      "description2": "Trao đổi cấu hình và giao tiếp",
+      "url": "https://dtpt.shop/san-pham/advantech-adam-6050-ethernet-digital-io"
+    },
+    {
+      "text": "Danh Mục Thiết Bị",
+      "description1": "Tìm model theo nhóm sản phẩm",
+      "description2": "Xem cấu hình và thông số",
+      "url": "https://dtpt.shop/san-pham"
+    },
+    {
+      "text": "Hướng Dẫn Mua Hàng",
+      "description1": "Quy trình tư vấn và đặt hàng",
+      "description2": "Giao nhận và điều kiện bảo hành",
+      "url": "https://dtpt.shop/huong-dan-mua-hang"
+    }
+  ],
+  "callouts": ["Tư vấn cấu hình", "Báo giá theo yêu cầu", "Hỗ trợ kỹ thuật", "Thông số theo tài liệu"],
+  "structured_snippets": {
+    "header": "Types",
+    "values": ["Máy hiện sóng", "Remote I/O", "Máy tính công nghiệp", "Camera công nghiệp"]
+  },
+  "negative_keyword_candidates": ["tuyển dụng", "việc làm", "đồ án", "miễn phí", "crack", "sửa chữa"],
+  "keyword_status": "SEEDS_ONLY_NOT_RESEARCHED",
+  "text_limits": {"headline": 30, "description": 80, "display_path": 15, "sitelink": 25, "sitelink_description": 35, "callout": 25},
+  "review_notes": [
+    "Mẫu Search chỉ mô phỏng cách ghép nội dung; Google quyết định định dạng thực tế.",
+    "Các từ khóa là đề xuất ban đầu, chưa có dữ liệu Keyword Planner, CPC hoặc lượng tìm kiếm.",
+    "Ảnh dựng AI có thể làm thay đổi chữ nhỏ và chi tiết phần cứng; chỉ dùng để duyệt ý tưởng. Ưu tiên ảnh gốc khi tải quảng cáo.",
+    "Banner có chữ và logo để duyệt sáng tạo, không dùng làm image asset của Google Search.",
+    "Hạn mức Adspirer đã hết. Chưa tạo, tải lên hoặc khởi chạy chiến dịch.",
+    "Ngân sách 30.000 ₫/ngày dành cho chiến dịch mới; chiến dịch cũ có ngân sách 25.000 ₫/ngày."
+  ],
+  "pending_before_creation": [
+    "Khôi phục hạn mức Adspirer",
+    "Nghiên cứu và chốt từ khóa",
+    "Xác nhận đo lường yêu cầu báo giá, cuộc gọi và chiến lược đấu thầu",
+    "Giải quyết địa lý và ngôn ngữ trong Google Ads",
+    "Kiểm tra quyền sử dụng ảnh catalogue cho quảng cáo",
+    "Duyệt nội dung; tạo PAUSED và chỉ bật sau khi người dùng xác nhận"
+  ],
+  "sources": [
+    {"title": "Website DTPT Techs", "url": "https://dtpt.shop/"},
+    {"title": "Trang RIGOL DHO804", "url": "https://dtpt.shop/san-pham/rigol-dho804"},
+    {"title": "Trang Advantech ADAM-6050", "url": "https://dtpt.shop/san-pham/advantech-adam-6050-ethernet-digital-io"},
+    {"title": "Thông số RSA", "url": "https://support.google.com/google-ads/answer/7684791?hl=en"},
+    {"title": "Thông số ảnh Search", "url": "https://support.google.com/google-ads/answer/9566341?hl=en"},
+    {"title": "Chính sách ảnh Search", "url": "https://support.google.com/adspolicy/answer/10347108?hl=en"}
+  ]
+}
