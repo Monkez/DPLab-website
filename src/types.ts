@@ -114,6 +114,8 @@ export interface SiteAppearance {
 }
 
 export interface QuoteItem {
+  productName?: string;
+  unitPrice?: number;
   variantId?: string;
   variantLabel?: string;
   variantModel?: string;
@@ -123,6 +125,7 @@ export interface QuoteItem {
 }
 
 export interface CustomerInfo {
+  address?: string;
   name: string;
   company: string;
   phone: string;
@@ -131,6 +134,8 @@ export interface CustomerInfo {
 }
 
 export interface QuoteRequest {
+  requestType?: 'quote' | 'order';
+  shippingIncluded?: false;
   id: string;
   createdAt: string;
   customer: CustomerInfo;

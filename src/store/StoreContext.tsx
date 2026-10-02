@@ -4,6 +4,7 @@ import { seedArticles, seedProducts, seedQuotes, seedSettings } from '../data/se
 import { api } from '../services/api'
 import type { Article, CustomerInfo, Product, QuoteItem, QuoteRequest, QuoteStatus, StoreSettings } from '../types'
 import { normalizeSettings } from '../utils/settings'
+import { validateOrderRequest } from '../../backend/src/orderValidation.js'
 
 const StoreContext = createContext<StoreValue | null>(null)
 const read = <T,>(key: string, fallback: T): T => { try { const value = localStorage.getItem(key); return value ? JSON.parse(value) as T : fallback } catch { return fallback } }
@@ -12,6 +13,7 @@ interface StoreValue {
   products: Product[]; articles: Article[]; quotes: QuoteRequest[]; quoteItems: QuoteItem[]; settings: StoreSettings; quoteCount: number
   addToQuote: (id: string, variantId?: string) => void; updateQuoteItem: (id: string, quantity: number, requirement?: string) => void; clearQuote: () => void
   submitQuote: (customer: CustomerInfo) => Promise<QuoteRequest>; saveProduct: (product: Product) => Promise<void>; deleteProduct: (id: string) => Promise<void>
+  submitOrder: (customer: CustomerInfo) => Promise<QuoteRequest>
   saveArticle: (article: Article, isNew?: boolean) => Promise<void>; deleteArticle: (id: string) => Promise<void>
   updateQuoteStatus: (id: string, status: QuoteStatus) => Promise<void>; updateSettings: (settings: StoreSettings) => Promise<void>
   refreshData: (admin?: boolean) => Promise<void>
@@ -40,7 +42,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
       setSettings(normalizeSettings(data.settings))
     }).catch(console.warn)
   }, [])
-  useEffect(() => localStorage.setItem('dtpt_quote_items', JSON.stringify(quoteItems)), [quoteItems])
+  useEffect(() => { try { localStorage.setItem('dtpt_quote_items', JSON.stringify(quoteItems)) } catch { /* Keep the current cart usable if storage is unavailable. */ } }, [quoteItems])
   const quoteCount = quoteItems.reduce((sum, item) => sum + item.quantity, 0)
 
   const value = useMemo<StoreValue>(() => ({
@@ -53,7 +55,16 @@ export function StoreProvider({ children }: { children: ReactNode }) {
     },
     updateQuoteItem: (key, quantity, requirement) => setQuoteItems(items => quantity <= 0 ? items.filter(item => quoteLineKey(item) !== key) : items.map(item => quoteLineKey(item) === key ? { ...item, quantity, requirement: requirement ?? item.requirement } : item)),
     clearQuote: () => setQuoteItems([]),
-    submitQuote: async customer => { const selectedItems = prepareQuoteItems(products, quoteItems); const fallback: QuoteRequest = { id: `RFQ-${Date.now().toString().slice(-8)}`, createdAt: new Date().toISOString(), customer, items: selectedItems, status: 'new' }; const created = api.enabled ? await api.createQuote({ customer, items: selectedItems }) : fallback; setQuotes(items => [created, ...items]); setQuoteItems([]); return created },
+    submitQuote: async customer => { const selectedItems = prepareQuoteItems(products, quoteItems); const created = await api.createQuote({ customer, items: selectedItems }); setQuotes(items => [created, ...items]); setQuoteItems([]); return created },
+    submitOrder: async customer => {
+      if (!api.enabled) throw new Error('Hệ thống đặt đơn đang tạm ngưng. Vui lòng liên hệ DTPT-Techs qua điện thoại hoặc Zalo.')
+      const validation = validateOrderRequest({ customer, items: quoteItems })
+      if (validation.error !== undefined) throw new Error(validation.error)
+      const selectedItems = prepareQuoteItems(products, quoteItems)
+      const created = await api.createOrder({ customer: validation.customer, items: selectedItems })
+      setQuotes(items => [created, ...items]); setQuoteItems([])
+      return created
+    },
     saveProduct: async product => { product = summarizeProduct(product); if (api.enabled) await api.saveProduct(product); setProducts(items => items.some(item => item.id === product.id) ? items.map(item => item.id === product.id ? product : item) : [product, ...items]) },
     deleteProduct: async id => { if (api.enabled) await api.deleteProduct(id); setProducts(items => items.filter(item => item.id !== id)) },
     saveArticle: async (article, isNew = false) => { if (api.enabled) await api.saveArticle(article, isNew); setArticles(items => items.some(item => item.id === article.id) ? items.map(item => item.id === article.id ? article : item) : [article, ...items]) },

@@ -1877,6 +1877,28 @@ body[data-card-style="compact"] .product-card__body { padding-bottom: 15px; }
 .catalog-note { font-size: 13px; line-height: 1.7; color: var(--muted); }
 .quote-dialog { width: min(720px, calc(100% - 24px)); max-height: calc(100dvh - 32px); padding: 38px; border: 0; border-radius: 14px; color: #10243e; box-shadow: 0 25px 80px #0004; }
 .quote-dialog::backdrop { background: #06182eaa; backdrop-filter: blur(3px); }
+.cart-dialog { width: min(480px, 100%); height: 100dvh; max-width: 100%; max-height: 100dvh; margin: 0 0 0 auto; padding: 0; border: 0; color: #10243e; }
+.cart-dialog::backdrop { background: #06182eaa; backdrop-filter: blur(3px); }
+.cart-dialog .drawer { position: static; width: 100%; transform: none; }
+.cart-dialog .drawer__head, .cart-dialog .drawer__foot { flex-shrink: 0; }
+.cart-dialog .drawer__body { min-height: 0; }
+.cart-line-price { margin-top: 8px; font-size: 13px; color: var(--blue); }
+.cart-total { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 12px; }
+.cart-total strong { color: var(--blue); white-space: nowrap; }
+.cart-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.cart-actions button { justify-content: center; padding-inline: 10px; }
+.checkout-total { padding: 18px; margin-top: 20px; border: 1px solid var(--line); border-radius: 8px; background: #f3f7fc; }
+.checkout-total p { margin-bottom: 0; font-size: 13px; line-height: 1.7; color: var(--muted); }
+.checkout-fields { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; min-width: 0; margin: 0; padding: 0; border: 0; }
+.checkout-fields label { min-width: 0; }
+.checkout-fields input, .checkout-fields textarea { width: 100%; min-width: 0; }
+.quote-dialog { position: fixed; }
+.quote-dialog .modal__close { position: absolute; }
+@media (max-width: 520px) {
+  .checkout-fields { grid-template-columns: 1fr; }
+  .cart-dialog .quote-line { gap: 8px; }
+  .cart-dialog .quote-line > div:first-child { min-width: 0; overflow-wrap: anywhere; }
+}
 .quote-dialog h2 { font-size: 27px; line-height: 1.4; margin-right: 20px; }
 .quote-dialog > p { color: var(--muted); line-height: 1.7; }
 .quote-direct { display: flex; flex-wrap: wrap; gap: 12px 18px; padding-top: 22px; margin-top: 20px; border-top: 1px solid var(--line); font-size: 14px; }

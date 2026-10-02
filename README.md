@@ -15,12 +15,12 @@ Backend cần `DATABASE_URL`, `ADMIN_SESSION_SECRET`, `ADMIN_DEFAULT_USERNAME` v
 
 ## Luồng nghiệp vụ
 
-Khách duyệt catalogue → thêm thiết bị vào danh sách → gửi yêu cầu kỹ thuật/báo giá. Backend tự sinh mã RFQ, kiểm tra sản phẩm và số lượng; quản trị viên theo dõi trạng thái tại `/admin`.
+Khách duyệt catalogue → thêm thiết bị/cấu hình vào giỏ hàng → chọn **Yêu cầu báo giá** hoặc **Đặt đơn**. Đặt đơn yêu cầu họ tên, số điện thoại và địa chỉ giao hàng; giá chưa bao gồm phí ship. Sau khi lưu đơn, nhân viên DTPT-Techs liên hệ xác nhận giá, tình trạng hàng, phí ship và lịch giao. Backend tự sinh mã RFQ/ORD, kiểm tra sản phẩm và số lượng; quản trị viên theo dõi tại mục **Báo giá & đơn hàng** trong `/admin`.
 
 ## API chính
 
 - `GET /api/health`, `GET /api/bootstrap`, `GET /api/products`
-- `POST /api/quotes`
+- `POST /api/quotes`, `POST /api/orders`
 - Admin: quản lý sản phẩm, yêu cầu báo giá, cài đặt và người dùng
 
 Admin CMS tại `/admin` còn hỗ trợ tag/phân loại, nội dung trang chủ, logo/slogan, màu sắc, công tắc ẩn/hiện và quản lý tài khoản theo vai trò/quyền chi tiết. Xem [docs/admin-cms-guide.md](docs/admin-cms-guide.md).

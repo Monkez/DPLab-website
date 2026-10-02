@@ -1,4 +1,4 @@
-import { ArrowUpRight, FilePlus2 } from "lucide-react";
+import { ArrowUpRight, ShoppingCart } from "lucide-react";
 import { useStore } from '../store/StoreContext';
 import type { Product } from "../types";
 import { formatPrice } from "../utils/productFormat";
@@ -38,7 +38,7 @@ export function ProductCard({
         >
           {product.name}
         </a>
-        {added && <small role="status">Đã thêm vào danh sách báo giá ở đầu trang.</small>}
+        {added && <small role="status">Đã thêm vào giỏ hàng ở đầu trang.</small>}
         <p className="model">{product.model}</p>
         <p>{product.summary}</p>
         <div className="product-card__footer">
@@ -58,7 +58,7 @@ export function ProductCard({
               className="primary-button primary-button--compact"
               onClick={() => product.variants?.length ? navigate(`/san-pham/${product.slug}`) : add(product.id)}
             >
-              <FilePlus2 /> {product.variants?.length ? "Chọn cấu hình" : added ? "Thêm nữa" : "Thêm báo giá"}
+              <ShoppingCart /> {product.variants?.length ? "Chọn cấu hình" : "Thêm vào giỏ"}
             </button>
           </div>
         </div>

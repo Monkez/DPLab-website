@@ -4,7 +4,7 @@ import {
   ArrowLeft,
   Check,
   ExternalLink,
-  FilePlus2,
+  ShoppingCart,
   Headphones,
   ShieldCheck,
 } from "lucide-react";
@@ -18,12 +18,12 @@ export function ProductDetailPage({
   product: baseProduct,
   initialVariantId,
   navigate,
-  onQuote,
+  onCart,
 }: {
   product: Product;
   initialVariantId?: string;
   navigate: (path: string) => void;
-  onQuote: () => void;
+  onCart: () => void;
 }) {
   const { addToQuote, settings } = useStore();
 
@@ -75,7 +75,7 @@ export function ProductDetailPage({
                   <option value="">Chọn {name.toLowerCase()}</option>
                   {[...new Set(variants.filter(v => optionNames.slice(0, index).every(key => !selection[key] || v.options[key] === selection[key])).map(v => v.options[name]))].map(value => <option key={value} value={value}>{value}</option>)}
                 </select></label>)}
-                {!selected && <p role="status">Chọn đầy đủ tùy chọn để xem giá và yêu cầu báo giá đúng cấu hình.</p>}
+                {!selected && <p role="status">Chọn đầy đủ tùy chọn để xem giá và thêm đúng cấu hình vào giỏ.</p>}
               </div> : null}
               <div className="detail-price" aria-live="polite">
                 <small>{product.priceMode === "contact" ? "Báo giá theo yêu cầu" : product.priceBasis === "market-reference" ? "Giá tham khảo tại Việt Nam" : product.priceBasis === "store-price" ? "Giá niêm yết" : "Giá bán tại Việt Nam · đã gồm VAT"}</small>
@@ -99,9 +99,9 @@ export function ProductDetailPage({
               <button
                 className="primary-button"
                 disabled={Boolean(baseProduct.variants?.length && !selected)}
-                onClick={() => { addToQuote(baseProduct.id, selected?.id); onQuote() }}
+                onClick={() => { addToQuote(baseProduct.id, selected?.id); onCart() }}
               >
-                <FilePlus2 /> Yêu cầu báo giá thiết bị này
+                <ShoppingCart /> Thêm vào giỏ
               </button>
               <div className="contact-actions"><a className="secondary-button" href={`tel:${settings.phone.replace(/\D/g, "")}`}>Gọi {settings.phone}</a><a className="secondary-button" href={`https://zalo.me/${settings.phone.replace(/\D/g, "")}`} target="_blank" rel="noreferrer">Chat Zalo</a></div>
               <p className="catalog-note">Thời gian cung cấp: {product.leadTime}. Vui lòng xác nhận tình trạng hàng trước khi đặt.</p>

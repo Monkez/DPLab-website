@@ -1,9 +1,9 @@
-import { validateVariants, prepareQuoteItems } from './productVariants.js'
+import { validateVariants } from './productVariants.js'
 import 'dotenv/config'
 import cors from 'cors'
 import crypto from 'crypto'
 import express from 'express'
-import { validateQuoteRequest } from './quoteValidation.js'
+import { createRequestSubmissionRouter } from './requestSubmission.js'
 import {
   authenticateAdmin,
   saveArticleMedia,
@@ -289,16 +289,7 @@ app.get('/api/quotes', requirePermission('quotes.view'), asyncRoute(async (_req,
   res.json(await listQuotes())
 }))
 
-app.post('/api/quotes', asyncRoute(async (req, res) => {
-  const result = validateQuoteRequest(req.body)
-  if (result.error) return res.status(400).json({ message: result.error })
-  const { customer, items } = result
-  const products = await listProducts()
-  let preparedItems
-  try { preparedItems = prepareQuoteItems(products, items) } catch (error) { return res.status(400).json({ message: error.message }) }
-  const quote = { id: `RFQ-${new Date().toISOString().slice(2, 10).replaceAll('-', '')}-${crypto.randomInt(1000, 9999)}`, createdAt: new Date().toISOString(), customer: { name: customer.name.trim().slice(0, 100), company: customer.company.trim().slice(0, 160), phone: customer.phone.trim().slice(0, 30), email: customer.email.trim().slice(0, 160), note: String(customer.note || '').trim().slice(0, 4000) }, items: preparedItems, status: 'new' }
-  res.status(201).json(await saveQuote(quote))
-}))
+app.use('/api', createRequestSubmissionRouter({ listProducts, saveQuote }))
 
 app.patch('/api/quotes/:id/status', requirePermission('quotes.manage'), asyncRoute(async (req, res) => {
   if (!['new', 'reviewing', 'quoted', 'won', 'closed'].includes(req.body.status)) return res.status(400).json({ message: 'Invalid quote status' })

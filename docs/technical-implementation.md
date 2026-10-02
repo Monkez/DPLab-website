@@ -50,12 +50,15 @@ Frontend server chèn metadata SEO vào HTML trước khi gửi response. Sitema
 
 `asyncRoute` phải chuyển tiếp đủ `(req, res, next)` cho permission middleware. Nếu bỏ `next`, mọi route RBAC sẽ lỗi `TypeError: next is not a function` dù token và database hợp lệ.
 
-## An toàn dữ liệu RFQ
+## Giỏ hàng, báo giá và đơn hàng
 
-- Client chỉ gửi thông tin liên hệ và danh sách `{productId, quantity, requirement}`.
-- Server tự sinh mã RFQ và thời gian tạo.
-- Server đối chiếu product ID đang hoạt động, giới hạn số dòng và số lượng.
-- Trạng thái RFQ chỉ được cập nhật qua API quản trị có xác thực.
+- Giỏ hàng giữ khóa `dtpt_quote_items` để bảo toàn thiết bị đã chọn trước khi nâng cấp. Mỗi cấu hình được lưu riêng; khách đổi số lượng, xóa dòng và chọn báo giá hoặc đặt đơn.
+- `POST /api/quotes` giữ luồng tư vấn không cần thiết bị (mô tả nhu cầu ít nhất 10 ký tự). `POST /api/orders` yêu cầu giỏ không rỗng, họ tên, số điện thoại hợp lệ và địa chỉ giao hàng tối đa 500 ký tự; email, đơn vị và ghi chú không bắt buộc.
+- Client gửi thông tin liên hệ và danh sách `{productId, variantId?, quantity, requirement?}`. Server đối chiếu sản phẩm/cấu hình đang bán, giới hạn 50 dòng và số lượng 1–999, tự sinh mã RFQ/ORD cùng thời gian tạo. Giá và tên thiết bị của đơn được chụp từ catalogue phía server, không tin giá do client gửi.
+- Cả hai loại dùng bảng `quotes` JSONB hiện có, phân biệt bằng `requestType: quote | order`; bản ghi cũ thiếu trường này được coi là báo giá. Đơn có `customer.address`, `shippingIncluded: false` và snapshot `productName`, `variantModel`, `unitPrice?` trên từng dòng. Không cần migration hay reset database.
+- Giá là tạm tính, chưa gồm phí ship. Dòng giá liên hệ không cộng vào tạm tính; nếu toàn giỏ chưa có giá thì hiển thị “Chờ báo giá”. Nhân viên liên hệ xác nhận giá, hàng, phí ship và lịch giao trước khi thực hiện đơn.
+- `/admin` hiển thị cả báo giá và đơn hàng, thông tin liên hệ, địa chỉ giao hàng và cấu hình; giữ quyền `quotes.view`/`quotes.manage` cùng các trạng thái hiện tại. Dữ liệu này không trả về bootstrap công khai.
+- Chỉ xác nhận thành công và xóa giỏ sau khi API lưu xong. Lỗi gửi giữ lại giỏ và form. Khi chưa cấu hình API, báo giá vẫn hỗ trợ soạn email; đặt đơn thông báo tạm ngưng và hướng dẫn liên hệ trực tiếp, không tạo mã đơn giả.
 
 ## Môi trường
 
@@ -67,7 +70,7 @@ Không lưu credential thật vào Git. Lần khởi tạo database mới sẽ d
 
 ## Kiểm tra trước deploy
 
-Chạy `build.bat`, kiểm tra desktop/mobile trên trình duyệt, thử catalogue → chi tiết → thêm RFQ → gửi form, sau đó chạy `check-production.bat` và kiểm tra deployment logs trên Railway. Quy trình production đầy đủ nằm tại `docs/deploy-railway.md`.
+Chạy `npm test` và `build.bat`, kiểm tra desktop/mobile trên trình duyệt, thử catalogue → chi tiết/chọn cấu hình → giỏ → báo giá/đặt đơn → xác nhận → `/admin`. Kiểm tra giỏ sau tải lại, thông tin bắt buộc, thiết bị ngừng bán và lỗi API. Backend tests dùng HTTP thật với kho lưu thử nghiệm được inject; kiểm tra PostgreSQL/triển khai thực cần môi trường database riêng. Sau đó chạy `check-production.bat` và kiểm tra deployment logs trên Railway. Quy trình production đầy đủ nằm tại `docs/deploy-railway.md`.
 
 ## Ảnh trong bài viết
 

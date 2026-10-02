@@ -57,6 +57,7 @@ export const api = {
   deleteAdminUser: (username: string) => request<void>(`/api/admin/users/${encodeURIComponent(username)}`, { method: 'DELETE', admin: true }),
   bootstrap: (admin = false) => request<{ products: Product[]; quotes: QuoteRequest[]; articles: Article[]; settings: StoreSettings }>('/api/bootstrap', admin ? { admin: true } : undefined),
   createQuote: (payload: Pick<QuoteRequest, 'customer' | 'items'>) => request<QuoteRequest>('/api/quotes', { method: 'POST', body: JSON.stringify(payload) }),
+  createOrder: (payload: Pick<QuoteRequest, 'customer' | 'items'>) => request<QuoteRequest>('/api/orders', { method: 'POST', body: JSON.stringify(payload) }),
   saveProduct: (product: Product) => request<Product>(`/api/products/${encodeURIComponent(product.id)}`, { method: 'PUT', admin: true, body: JSON.stringify(product) }),
   deleteProduct: (id: string) => request<void>(`/api/products/${encodeURIComponent(id)}`, { method: 'DELETE', admin: true }),
   saveArticle: (article: Article, isNew = false) => request<Article>(isNew ? '/api/articles' : `/api/articles/${encodeURIComponent(article.id)}`, { method: isNew ? 'POST' : 'PUT', admin: true, body: JSON.stringify(article) }),

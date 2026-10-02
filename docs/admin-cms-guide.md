@@ -14,6 +14,13 @@ Trang quản trị tại `/admin` hiện hoạt động như một CMS gọn nh�
 
 Sau lần deploy đầu tiên có phân quyền, các phiên admin cũ sẽ tự đăng xuất một lần để nhận hồ sơ quyền mới.
 
+## Báo giá & đơn hàng
+
+- Khách dùng giỏ hàng để gửi báo giá hoặc đặt đơn. Mã `RFQ-...` là báo giá; `ORD-...` là đơn hàng chờ nhân viên xác nhận.
+- Tab **Báo giá & đơn hàng** hiển thị loại yêu cầu, họ tên, sđt, email/đơn vị nếu có, địa chỉ giao hàng của đơn và cấu hình/số lượng đã chọn.
+- Giá trên từng dòng đơn là snapshot lúc gửi; thiết bị chưa có giá ghi **Cần xác nhận giá**. Giá chưa gồm phí ship, cần liên hệ khách xác nhận giá, phí giao hàng và lịch giao trước khi thực hiện đơn.
+- Tài khoản có quyền `quotes.view` được xem; `quotes.manage` được đổi trạng thái. Các báo giá cũ tiếp tục hiển thị như trước.
+
 ## Sản phẩm
 
 - Tìm theo tên, model, thương hiệu, ngành hàng hoặc tag.

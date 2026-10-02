@@ -1,13 +1,20 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 17/09/2026
+> Cập nhật: 02/10/2026
 
 ## Quyết định cố định
 
 - Thương hiệu: **DTPT Techs**.
 - Slogan hiện tại: **Thiết bị đo lường và tự động hóa**
 - Không mô tả DTPT Techs như dịch vụ order/nhập hộ. Nội dung công khai nhấn mạnh công nghệ, chất lượng, giá trị đầu tư, uy tín và hỗ trợ kỹ thuật.
-- Mô hình B2B là catalogue + yêu cầu báo giá, không phải giỏ hàng/checkout bán lẻ.
+- Catalogue có giỏ hàng với hai lựa chọn báo giá/đặt đơn. Đặt đơn nhận thông tin giao hàng; nhân viên xác nhận giá, phí ship và lịch giao trước khi thực hiện.
+
+## Giỏ hàng và đặt đơn 02/10/2026
+
+- Nút sản phẩm là “Thêm vào giỏ”; giữ giỏ/cấu hình qua reload bằng khóa localStorage cũ `dtpt_quote_items`.
+- API mới `POST /api/orders` kiểm tra giỏ không rỗng, họ tên, sđt và địa chỉ. Lưu trong bảng `quotes` JSONB cùng báo giá, phân biệt `requestType`, mã ORD và snapshot giá/cấu hình từ server; không cần migration/reset.
+- Admin “Báo giá & đơn hàng” hiển thị địa chỉ, email, cấu hình và giá lúc gửi; giữ quyền `quotes.view`/`quotes.manage`.
+- Tạm tính chưa gồm phí ship; giá liên hệ hiện “Chờ báo giá”. Chỉ báo đã thêm đơn sau khi lưu API; lỗi giữ form/giỏ. Không có API thì đặt đơn tạm ngưng, báo giá vẫn soạn email.
 
 ## Quy ước nội dung
 
