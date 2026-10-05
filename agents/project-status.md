@@ -110,3 +110,10 @@
 
 - Đã xuất bản bài `docs/editorial/2026-09-30-arm-panel-pc-windows-ltsc.md` tại `/tin-tuc/panel-pc-arm-windows-11-ltsc-co-thay-duoc-x86` (CMS `NEWS-1790737511005`). Bài phân tích TPC-200W/QCS6490, tách ứng dụng x86/x64 được giả lập khỏi yêu cầu driver Arm64 và đưa checklist pilot trước khi thay Panel PC x86.
 - Cover dùng ảnh TPC-200W chính thức tải vào `article_media`. Frontend và SEO server đã sửa để phân giải đường dẫn `/api/article-media/...` qua backend; build, lint và 27 test đạt. Production đã kiểm tra API, URL, cover, canonical, sitemap, metadata, JSON-LD cùng giao diện desktop/mobile; không thêm vào seed production.
+
+## 05/10/2026 — Chọn máy hiện sóng theo phép đo
+
+- Đã xuất bản docs/editorial/2026-10-05-oscilloscope-selection.md — https://dtpt.shop/tin-tuc/chon-may-hien-song-bang-thong-lay-mau-bo-nho (CMS NEWS-1791169835830).
+- Nguồn sơ cấp Keysight/Tektronix; ảnh RIGOL DHO804 từ catalogue có alt/chú thích, không dùng như kết quả thử nghiệm.
+- Lưu nháp, kiểm tra renderer desktop/mobile rồi xuất bản qua API có quyền `articles.manage`; API public trả đúng một bản ghi.
+- Đã kiểm tra URL/ảnh HTTP 200, canonical, sitemap, metadata server sau cache và JSON-LD Article; kiểm thử renderer ảnh đạt. Không thêm seed hoặc thay đổi dữ liệu CMS khác.
