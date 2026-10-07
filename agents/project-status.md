@@ -1,6 +1,6 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 02/10/2026
+> Cập nhật: 07/10/2026
 
 ## Quyết định cố định
 
@@ -117,3 +117,9 @@
 - Nguồn sơ cấp Keysight/Tektronix; ảnh RIGOL DHO804 từ catalogue có alt/chú thích, không dùng như kết quả thử nghiệm.
 - Lưu nháp, kiểm tra renderer desktop/mobile rồi xuất bản qua API có quyền `articles.manage`; API public trả đúng một bản ghi.
 - Đã kiểm tra URL/ảnh HTTP 200, canonical, sitemap, metadata server sau cache và JSON-LD Article; kiểm thử renderer ảnh đạt. Không thêm seed hoặc thay đổi dữ liệu CMS khác.
+
+## 07/10/2026 — Chọn ống kính machine vision
+
+- Đã xuất bản `docs/editorial/2026-10-07-machine-vision-lens-selection.md` tại https://dtpt.shop/tin-tuc/chon-ong-kinh-machine-vision-fov-tieu-cu-khoang-cach (CMS `NEWS-1791342692911`).
+- Bài 1.000 từ, nguồn Edmund Optics/Basler; ví dụ FOV/tiêu cự và mật độ pixel là phép tính giả định, không gán cho model trong ảnh. Tái sử dụng ảnh Hikrobot và VA Imaging trong catalogue, có nguồn/chú thích; không tạo benchmark hoặc xác nhận cấu hình từ ảnh.
+- Đã kiểm tra nháp CMS desktop/mobile, renderer ảnh, API public đúng một bản ghi, URL/hai ảnh HTTP 200, title/description server, Article schema/ngày, canonical hiện hành `https://dtpt.shop` và sitemap. Giữ nguyên 12 bài CMS khác; không thêm seed, reset DB hay lưu thông tin đăng nhập.
