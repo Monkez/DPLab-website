@@ -1,6 +1,6 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 09/10/2026
+> Cập nhật: 12/10/2026
 
 ## Quyết định cố định
 
@@ -129,3 +129,9 @@
 - Đã xuất bản `docs/editorial/2026-10-09-mqtt-data-reliability.md` tại https://dtpt.shop/tin-tuc/mqtt-qos-1-chong-mat-du-lieu-nha-may (CMS `NEWS-1791531139817`), lúc 14:35 giờ Việt Nam cho lượt 10:00 bị trễ; lượt 09:00 đã được kiểm tra riêng.
 - Bài 997 từ, đối chiếu OASIS/AWS/Eclipse Mosquitto; phân biệt PUBACK với lưu ứng dụng, bộ đệm gateway với phiên broker, xử lý trùng và nghiệm thu phục hồi. Ví dụ 3 MB chỉ tính payload giả định, không gán cho model trong ảnh. Dùng ảnh USR-M300/USR-G806W sẵn có, ghi nguồn và giới hạn minh họa.
 - Nháp và bài công khai đã kiểm tra desktop/mobile, ảnh/chú thích, API, URL, metadata server, canonical hiện hành, Article schema và sitemap; ba test renderer đạt. Giữ nguyên 13 bài khác, không thêm seed/reset DB hay lưu credential.
+
+## 12/10/2026 — Chọn USB DAQ theo phép đo nhiều kênh
+
+- Đã xuất bản `docs/editorial/2026-10-12-usb-daq-selection.md` tại https://dtpt.shop/tin-tuc/chon-usb-daq-toc-do-tung-kenh-do-chinh-xac (CMS `NEWS-1791774664193`), lúc 10:13 giờ Việt Nam.
+- Bài 995 từ, đối chiếu tài liệu NI; phân biệt tốc độ tổng/từng kênh, độ phân giải/sai số, đầu vào và ghi liên tục. Ví dụ tính toán có điều kiện, không gán cho model trong ảnh SMACQ USB-3300 series; giữ giới hạn xác minh trong hồ sơ biên tập.
+- Nháp và bài công khai đã kiểm tra desktop/mobile, ảnh/chú thích, API, URL, metadata server sau cache, canonical hiện hành, Article schema và sitemap; ba test renderer đạt. Giữ nguyên 14 bài khác, không thêm seed/reset DB hay lưu credential.
