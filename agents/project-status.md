@@ -1,6 +1,6 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 12/10/2026
+> Cập nhật: 14/10/2026
 
 ## Quyết định cố định
 
@@ -135,3 +135,9 @@
 - Đã xuất bản `docs/editorial/2026-10-12-usb-daq-selection.md` tại https://dtpt.shop/tin-tuc/chon-usb-daq-toc-do-tung-kenh-do-chinh-xac (CMS `NEWS-1791774664193`), lúc 10:13 giờ Việt Nam.
 - Bài 995 từ, đối chiếu tài liệu NI; phân biệt tốc độ tổng/từng kênh, độ phân giải/sai số, đầu vào và ghi liên tục. Ví dụ tính toán có điều kiện, không gán cho model trong ảnh SMACQ USB-3300 series; giữ giới hạn xác minh trong hồ sơ biên tập.
 - Nháp và bài công khai đã kiểm tra desktop/mobile, ảnh/chú thích, API, URL, metadata server sau cache, canonical hiện hành, Article schema và sitemap; ba test renderer đạt. Giữ nguyên 14 bài khác, không thêm seed/reset DB hay lưu credential.
+
+## 14/10/2026 — Hợp tác OPC UA FX và TSN
+
+- Đã xuất bản `docs/editorial/2026-10-14-opc-ua-fx-tsn.md` tại https://dtpt.shop/tin-tuc/opc-ua-fx-tsn-hop-tac-moi-mang-nha-may (CMS `NEWS-1791947069055`), lúc 10:08 giờ Việt Nam.
+- Bài 998 từ, đối chiếu thông cáo OPC Foundation/Avnu và tài liệu IEEE; tách mục tiêu hợp tác khỏi chứng nhận thiết bị, phân tích yêu cầu đầu cuối và checklist pilot. Hai ảnh catalogue có nguồn/giới hạn minh họa, không khẳng định hỗ trợ TSN/FX từ ảnh.
+- API, URL, ảnh, metadata server, canonical, Article schema, sitemap và DOM/AX desktop/mobile đã kiểm tra; ba test renderer đạt. Công cụ screenshot lỗi, giới hạn rà giao diện bằng ảnh chụp được ghi trong hồ sơ. Giữ nguyên 15 bài khác; không thêm seed/reset DB hoặc lưu credential.
