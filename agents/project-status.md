@@ -1,6 +1,6 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 14/10/2026
+> Cập nhật: 16/10/2026
 
 ## Quyết định cố định
 
@@ -141,3 +141,9 @@
 - Đã xuất bản `docs/editorial/2026-10-14-opc-ua-fx-tsn.md` tại https://dtpt.shop/tin-tuc/opc-ua-fx-tsn-hop-tac-moi-mang-nha-may (CMS `NEWS-1791947069055`), lúc 10:08 giờ Việt Nam.
 - Bài 998 từ, đối chiếu thông cáo OPC Foundation/Avnu và tài liệu IEEE; tách mục tiêu hợp tác khỏi chứng nhận thiết bị, phân tích yêu cầu đầu cuối và checklist pilot. Hai ảnh catalogue có nguồn/giới hạn minh họa, không khẳng định hỗ trợ TSN/FX từ ảnh.
 - API, URL, ảnh, metadata server, canonical, Article schema, sitemap và DOM/AX desktop/mobile đã kiểm tra; ba test renderer đạt. Công cụ screenshot lỗi, giới hạn rà giao diện bằng ảnh chụp được ghi trong hồ sơ. Giữ nguyên 15 bài khác; không thêm seed/reset DB hoặc lưu credential.
+
+## 16/10/2026 — Đọc thông số tầm đo LiDAR
+
+- Đã xuất bản `docs/editorial/2026-10-16-lidar-range.md` tại https://dtpt.shop/tin-tuc/chon-lidar-tam-do-do-phan-xa-muc-tieu (CMS `NEWS-1792120282677`), lúc 10:12 giờ Việt Nam; rút gọn tiêu đề lúc 10:14, giữ ngày xuất bản.
+- Bài 992 từ, nguồn Livox/Benewake; phân biệt tầm cắt và tầm theo phản xạ, điều kiện đo sai số, FOV/thời gian tích lũy, vùng gần và nghiệm thu. Hai ảnh hãng mới lưu qua `article_media`; ảnh TF03 ghi rõ series. Không dùng ảnh catalogue mang nhãn MID-360 để minh họa đúng model Mid-360S.
+- Nháp/bài công khai desktop/mobile đã rà bằng screenshot và DOM; ba test renderer, API, URL, ảnh, metadata sau cache, canonical, Article schema và sitemap đạt. Giữ nguyên 16 bài khác; không thêm seed/reset DB hoặc lưu credential.
