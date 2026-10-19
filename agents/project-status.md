@@ -1,6 +1,6 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 16/10/2026
+> Cập nhật: 19/10/2026
 
 ## Quyết định cố định
 
@@ -147,3 +147,9 @@
 - Đã xuất bản `docs/editorial/2026-10-16-lidar-range.md` tại https://dtpt.shop/tin-tuc/chon-lidar-tam-do-do-phan-xa-muc-tieu (CMS `NEWS-1792120282677`), lúc 10:12 giờ Việt Nam; rút gọn tiêu đề lúc 10:14, giữ ngày xuất bản.
 - Bài 992 từ, nguồn Livox/Benewake; phân biệt tầm cắt và tầm theo phản xạ, điều kiện đo sai số, FOV/thời gian tích lũy, vùng gần và nghiệm thu. Hai ảnh hãng mới lưu qua `article_media`; ảnh TF03 ghi rõ series. Không dùng ảnh catalogue mang nhãn MID-360 để minh họa đúng model Mid-360S.
 - Nháp/bài công khai desktop/mobile đã rà bằng screenshot và DOM; ba test renderer, API, URL, ảnh, metadata sau cache, canonical, Article schema và sitemap đạt. Giữ nguyên 16 bài khác; không thêm seed/reset DB hoặc lưu credential.
+
+## 19/10/2026 — Raspberry Pi Smart Display Module
+
+- Đã xuất bản `docs/editorial/2026-10-19-raspberry-pi-sdm.md` tại https://dtpt.shop/tin-tuc/raspberry-pi-smart-display-module-man-hinh-nha-may (CMS `NEWS-1792378847730`), lúc 10:01 giờ Việt Nam.
+- Bài 997 từ, tin mở bán 29/09 kết hợp phân tích lựa chọn SDM/máy rời, tương thích khe/tín hiệu, phần mềm, pilot và vòng đời. Nguồn Raspberry Pi/Intel; một ảnh từ tài liệu Raspberry Pi CC BY-SA 4.0 lưu qua `article_media`, ghi nguồn/giấy phép. Không khẳng định tồn kho hoặc thử nghiệm DTPT.
+- Nháp/bài công khai desktop/mobile đã rà bằng screenshot và DOM; ba test renderer, API, URL, ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt. Giữ nguyên 17 bài khác; không thêm seed/reset DB hoặc lưu credential.
