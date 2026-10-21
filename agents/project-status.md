@@ -1,6 +1,6 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 19/10/2026
+> Cập nhật: 21/10/2026
 
 ## Quyết định cố định
 
@@ -153,3 +153,10 @@
 - Đã xuất bản `docs/editorial/2026-10-19-raspberry-pi-sdm.md` tại https://dtpt.shop/tin-tuc/raspberry-pi-smart-display-module-man-hinh-nha-may (CMS `NEWS-1792378847730`), lúc 10:01 giờ Việt Nam.
 - Bài 997 từ, tin mở bán 29/09 kết hợp phân tích lựa chọn SDM/máy rời, tương thích khe/tín hiệu, phần mềm, pilot và vòng đời. Nguồn Raspberry Pi/Intel; một ảnh từ tài liệu Raspberry Pi CC BY-SA 4.0 lưu qua `article_media`, ghi nguồn/giấy phép. Không khẳng định tồn kho hoặc thử nghiệm DTPT.
 - Nháp/bài công khai desktop/mobile đã rà bằng screenshot và DOM; ba test renderer, API, URL, ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt. Giữ nguyên 17 bài khác; không thêm seed/reset DB hoặc lưu credential.
+
+## 21/10/2026 — Kế hoạch vòng đời Xavier NX
+
+- Đã xuất bản `docs/editorial/2026-10-21-jetson-xavier-lifecycle.md` tại https://dtpt.shop/tin-tuc/jetson-xavier-nx-eol-du-phong-hay-chuyen-orin (CMS `NEWS-1792556715537`), lúc 11:26 giờ Việt Nam cho lượt 10:00 chạy muộn.
+- Phân tích dự phòng/chuyển Orin theo thông báo NVIDIA 13/05 và tình trạng J20 của Seeed; phân biệt hạn nhận đơn, giao cuối, bộ máy và phần mềm. Hai ảnh series từ Seeed Wiki CC BY-SA 4.0, ghi nguồn/giới hạn cấu hình; không suy ra tồn kho hoặc thử nghiệm DTPT.
+- Nháp/bài công khai desktop/mobile đã rà bằng screenshot và DOM; ba test renderer, API, URL, hai ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt. Giữ nguyên 18 bài khác; không thêm seed/reset DB hoặc lưu credential.
+- `work/editorial-20261021/` là dữ liệu tạm do agent tạo (hai ảnh nguồn và snapshot bài public); thao tác dọn bị bộ kiểm tra công cụ chặn, giữ ngoài commit.
