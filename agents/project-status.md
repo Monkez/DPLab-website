@@ -1,6 +1,6 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 21/10/2026
+> Cập nhật: 23/10/2026
 
 ## Quyết định cố định
 
@@ -160,3 +160,9 @@
 - Phân tích dự phòng/chuyển Orin theo thông báo NVIDIA 13/05 và tình trạng J20 của Seeed; phân biệt hạn nhận đơn, giao cuối, bộ máy và phần mềm. Hai ảnh series từ Seeed Wiki CC BY-SA 4.0, ghi nguồn/giới hạn cấu hình; không suy ra tồn kho hoặc thử nghiệm DTPT.
 - Nháp/bài công khai desktop/mobile đã rà bằng screenshot và DOM; ba test renderer, API, URL, hai ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt. Giữ nguyên 18 bài khác; không thêm seed/reset DB hoặc lưu credential.
 - `work/editorial-20261021/` là dữ liệu tạm do agent tạo (hai ảnh nguồn và snapshot bài public); thao tác dọn bị bộ kiểm tra công cụ chặn, giữ ngoài commit.
+
+## 23/10/2026 — Ghép đầu vào vòng dòng 4–20 mA
+
+- Đã xuất bản `docs/editorial/2026-10-23-current-loop-input.md` tại https://dtpt.shop/tin-tuc/vong-dong-4-20ma-chon-module-analog-input (CMS `NEWS-1792724828822`), lúc 10:09 giờ Việt Nam.
+- Nguồn NI/TI/Fluke; tập trung nguồn vòng, tải, cách ly, quy đổi và thử trên bàn. Dùng ảnh catalogue ADAM-4017+ và hình ngân sách điện áp giả định do DTPT biên tập; SVG duy trì tại `docs/editorial/assets/2026-10-23-loop-voltage-budget.svg`, ảnh public lưu qua `article_media`. Không gán ví dụ 250 Ω cho ADAM.
+- Ba test renderer, nháp/public desktop/mobile bằng screenshot/DOM, API, URL, ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt. Giữ nguyên 19 bài khác, không thêm seed/reset DB hoặc lưu credential. PNG trung gian/hash đối chiếu tại `work/editorial-20261023/` giữ ngoài commit.

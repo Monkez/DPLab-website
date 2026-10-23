@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="660" viewBox="0 0 720 660" role="img" aria-labelledby="title desc">
+  <title id="title">Ví dụ giả định về ngân sách điện áp vòng 4–20 mA</title>
+  <desc id="desc">Nguồn vòng 24 V, transmitter cần tối thiểu 12 V, đầu nhận 250 ohm sụt 5 V tại 20 mA; còn 7 V cho dây, phụ kiện và dự phòng. Đây không phải sơ đồ đấu dây hoặc thông số của model cụ thể.</desc>
+  <rect width="720" height="660" rx="24" fill="#f4f7fb"/>
+  <g font-family="Arial, sans-serif" fill="#10263d">
+    <text x="36" y="48" font-size="28" font-weight="700">Vòng 4–20 mA: ngân sách điện áp</text>
+    <text x="36" y="92" font-size="28">Ví dụ giả định: nguồn 24 V, dòng 20 mA</text>
+    <text x="36" y="126" font-size="21" fill="#526476">Không phải sơ đồ đấu dây hoặc thông số model.</text>
+    <rect x="36" y="154" width="648" height="98" rx="14" fill="#e2edff"/>
+    <text x="58" y="198" font-size="27" font-weight="700">Transmitter cần tối thiểu</text>
+    <text x="58" y="231" font-size="23">Điện áp tại hai đầu transmitter</text>
+    <text x="655" y="215" text-anchor="end" font-size="43" font-weight="700" fill="#1556a0">12 V</text>
+    <rect x="36" y="270" width="648" height="98" rx="14" fill="#e6defa"/>
+    <text x="58" y="314" font-size="27" font-weight="700">Đầu nhận giả định: 250 Ω</text>
+    <text x="58" y="347" font-size="23">0,020 A × 250 Ω = 5 V</text>
+    <text x="655" y="331" text-anchor="end" font-size="43" font-weight="700" fill="#64409d">5 V</text>
+    <rect x="36" y="386" width="648" height="98" rx="14" fill="#fff0d4"/>
+    <text x="58" y="430" font-size="27" font-weight="700">Còn cho dây, phụ kiện</text>
+    <text x="58" y="463" font-size="23">và phần dự phòng điện áp</text>
+    <text x="655" y="447" text-anchor="end" font-size="43" font-weight="700" fill="#9c5b04">7 V</text>
+    <text x="360" y="539" text-anchor="middle" font-size="36" font-weight="700">24 V − 12 V − 5 V = 7 V</text>
+    <text x="36" y="589" font-size="23">Tính lại ở nguồn thấp nhất và dòng lớn nhất.</text>
+    <text x="36" y="629" font-size="21" fill="#526476">Minh họa nguyên lý: DTPT Techs</text>
+  </g>
+</svg>
