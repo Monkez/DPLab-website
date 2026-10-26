@@ -1,6 +1,6 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 23/10/2026
+> Cập nhật: 26/10/2026
 
 ## Quyết định cố định
 
@@ -166,3 +166,9 @@
 - Đã xuất bản `docs/editorial/2026-10-23-current-loop-input.md` tại https://dtpt.shop/tin-tuc/vong-dong-4-20ma-chon-module-analog-input (CMS `NEWS-1792724828822`), lúc 10:09 giờ Việt Nam.
 - Nguồn NI/TI/Fluke; tập trung nguồn vòng, tải, cách ly, quy đổi và thử trên bàn. Dùng ảnh catalogue ADAM-4017+ và hình ngân sách điện áp giả định do DTPT biên tập; SVG duy trì tại `docs/editorial/assets/2026-10-23-loop-voltage-budget.svg`, ảnh public lưu qua `article_media`. Không gán ví dụ 250 Ω cho ADAM.
 - Ba test renderer, nháp/public desktop/mobile bằng screenshot/DOM, API, URL, ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt. Giữ nguyên 19 bài khác, không thêm seed/reset DB hoặc lưu credential. PNG trung gian/hash đối chiếu tại `work/editorial-20261023/` giữ ngoài commit.
+
+## 26/10/2026 — Phạm vi dự phòng mạng công nghiệp
+
+- Đã xuất bản `docs/editorial/2026-10-26-industrial-network-redundancy.md` tại https://dtpt.shop/tin-tuc/du-phong-mang-cong-nghiep-ring-nguon-kep (CMS `NEWS-1792988651218`), lúc 11:26 giờ Việt Nam cho lượt 10:00 chạy muộn.
+- Bài 995 từ, nguồn Schneider/3onedata/Moxa/Cisco; phân tích lỗi cáp/nguồn/switch/đầu cuối, điểm hỏng chung, giao thức và nghiệm thu dữ liệu ứng dụng. Tái sử dụng ảnh catalogue IES618-2F, bổ sung sơ đồ khái niệm gốc lưu SVG và `article_media`; không gán thông số MRP cho IES618 hoặc đưa số liệu thử chưa đo.
+- Ba test renderer, nháp/public desktop/mobile bằng screenshot/DOM, API, URL, hai ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt. Giữ nguyên 20 bài khác; không thêm seed/reset DB hoặc lưu credential. PNG trung gian/hash đối chiếu tại `work/editorial-20261026/` giữ ngoài commit.
