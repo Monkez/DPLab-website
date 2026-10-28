@@ -1,6 +1,6 @@
 # Trạng thái dự án dành cho AI agent
 
-> Cập nhật: 26/10/2026
+> Cập nhật: 28/10/2026
 
 ## Quyết định cố định
 
@@ -172,3 +172,9 @@
 - Đã xuất bản `docs/editorial/2026-10-26-industrial-network-redundancy.md` tại https://dtpt.shop/tin-tuc/du-phong-mang-cong-nghiep-ring-nguon-kep (CMS `NEWS-1792988651218`), lúc 11:26 giờ Việt Nam cho lượt 10:00 chạy muộn.
 - Bài 995 từ, nguồn Schneider/3onedata/Moxa/Cisco; phân tích lỗi cáp/nguồn/switch/đầu cuối, điểm hỏng chung, giao thức và nghiệm thu dữ liệu ứng dụng. Tái sử dụng ảnh catalogue IES618-2F, bổ sung sơ đồ khái niệm gốc lưu SVG và `article_media`; không gán thông số MRP cho IES618 hoặc đưa số liệu thử chưa đo.
 - Ba test renderer, nháp/public desktop/mobile bằng screenshot/DOM, API, URL, hai ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt. Giữ nguyên 20 bài khác; không thêm seed/reset DB hoặc lưu credential. PNG trung gian/hash đối chiếu tại `work/editorial-20261026/` giữ ngoài commit.
+
+## 28/10/2026 — Phơi sáng camera và nhòe chuyển động
+
+- Đã xuất bản `docs/editorial/2026-10-28-motion-blur-exposure.md` tại https://dtpt.shop/tin-tuc/camera-cong-nghiep-nhoe-tinh-thoi-gian-phoi-sang (CMS `NEWS-1793156640175`), lúc 10:07 giờ Việt Nam.
+- Bài 979 từ, nguồn Basler/Baumer/CCS/Advanced Illumination; phân biệt fps/phơi sáng/shutter, tính nhòe theo pixel và thử ánh sáng/trigger. Ảnh VA Imaging có sẵn chỉ minh họa dạng camera; sơ đồ tính toán gốc lưu SVG và `article_media`, không gán ví dụ 300 fps/1.000 pixel cho model trong ảnh.
+- Ba test renderer, nháp/public desktop/mobile bằng screenshot/DOM, API, URL, hai ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt; giữ nguyên 21 bài khác. Không sửa source/seed/catalogue hoặc reset DB; PNG trung gian/hash tại `work/editorial-20261028/` giữ ngoài commit, không lưu credential.

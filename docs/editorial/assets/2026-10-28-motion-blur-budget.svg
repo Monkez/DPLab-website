@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="740" viewBox="0 0 720 740" role="img" aria-labelledby="title desc">
+  <title id="title">Cùng tốc độ vật, thời gian phơi khác nhau</title>
+  <desc id="desc">Ví dụ hình học tốc độ 1000 mm/s và mật độ 10 pixel/mm. Thời gian 1 ms tương ứng dịch chuyển 10 pixel; 0,1 ms tương ứng 1 pixel. Không phải ảnh đo hoặc hình mô phỏng cảm biến.</desc>
+  <rect width="720" height="740" rx="24" fill="#f4f8fb"/>
+  <g font-family="Arial, sans-serif" fill="#173249">
+    <text x="34" y="51" font-size="28" font-weight="700">Phơi ngắn hơn, dịch chuyển ít hơn</text>
+    <text x="34" y="91" font-size="23">Giả định: 1.000 mm/s • 10 pixel/mm</text>
+    <rect x="28" y="122" width="664" height="208" rx="16" fill="white" stroke="#d3e0ea" stroke-width="2"/>
+    <text x="50" y="163" font-size="26" font-weight="700">Phơi 1 ms</text>
+    <text x="50" y="199" font-size="22">Vật đi 1 mm → dịch chuyển 10 pixel</text>
+    <g stroke="#c17c23" stroke-width="2" fill="#ffdda8">
+      <rect x="64" y="237" width="48" height="48"/>
+      <rect x="112" y="237" width="48" height="48"/>
+      <rect x="160" y="237" width="48" height="48"/>
+      <rect x="208" y="237" width="48" height="48"/>
+      <rect x="256" y="237" width="48" height="48"/>
+      <rect x="304" y="237" width="48" height="48"/>
+      <rect x="352" y="237" width="48" height="48"/>
+      <rect x="400" y="237" width="48" height="48"/>
+      <rect x="448" y="237" width="48" height="48"/>
+      <rect x="496" y="237" width="48" height="48"/>
+    </g>
+    <text x="559" y="269" font-size="23" font-weight="700">10 px</text>
+    <rect x="28" y="350" width="664" height="208" rx="16" fill="white" stroke="#d3e0ea" stroke-width="2"/>
+    <text x="50" y="391" font-size="26" font-weight="700">Phơi 0,1 ms = 100 µs</text>
+    <text x="50" y="427" font-size="22">Vật đi 0,1 mm → dịch chuyển 1 pixel</text>
+    <rect x="64" y="465" width="48" height="48" fill="#bce9d8" stroke="#147b63" stroke-width="2"/>
+    <text x="132" y="497" font-size="23" font-weight="700" fill="#147b63">1 px</text>
+    <text x="34" y="602" font-size="22">Ô màu biểu diễn độ dịch chuyển tính bằng pixel.</text>
+    <text x="34" y="639" font-size="22">Không biểu diễn hình dạng ảnh hoặc mức phát hiện lỗi.</text>
+    <text x="34" y="689" font-size="20" fill="#526b7c">Hình tính toán giả định • DTPT Techs biên tập</text>
+    <text x="34" y="721" font-size="20" fill="#526b7c">Không phải ảnh chụp mẫu hoặc kết quả đo thiết bị</text>
+  </g>
+</svg>
