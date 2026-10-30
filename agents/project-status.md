@@ -178,3 +178,9 @@
 - Đã xuất bản `docs/editorial/2026-10-28-motion-blur-exposure.md` tại https://dtpt.shop/tin-tuc/camera-cong-nghiep-nhoe-tinh-thoi-gian-phoi-sang (CMS `NEWS-1793156640175`), lúc 10:07 giờ Việt Nam.
 - Bài 979 từ, nguồn Basler/Baumer/CCS/Advanced Illumination; phân biệt fps/phơi sáng/shutter, tính nhòe theo pixel và thử ánh sáng/trigger. Ảnh VA Imaging có sẵn chỉ minh họa dạng camera; sơ đồ tính toán gốc lưu SVG và `article_media`, không gán ví dụ 300 fps/1.000 pixel cho model trong ảnh.
 - Ba test renderer, nháp/public desktop/mobile bằng screenshot/DOM, API, URL, hai ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt; giữ nguyên 21 bài khác. Không sửa source/seed/catalogue hoặc reset DB; PNG trung gian/hash tại `work/editorial-20261028/` giữ ngoài commit, không lưu credential.
+
+## 30/10/2026 — iNA300 và phạm vi chứng nhận gateway điện lực
+
+- Đã xuất bản `docs/editorial/2026-10-30-ina300-utility-gateway.md` tại https://dtpt.shop/tin-tuc/ina300-tram-dien-chung-nhan-moi-truong-an-toan-mang (CMS `NEWS-1793329906815`), lúc 10:14 giờ Việt Nam.
+- Bài 964 từ, tin Axiomtek ngày 29/10 và phân tích phạm vi IEC/IEEE, đánh đổi LAN Bypass, phần mềm, nghiệm thu và chi phí vận hành; nguồn NIST bổ sung bối cảnh OT. Dữ kiện thiết bị là công bố hãng, lịch tháng 12/2026 chưa xác nhận hàng Việt Nam, không gán hiệu năng hoặc edition chứng nhận chưa có hồ sơ. Screenshot trang sản phẩm dùng đúng hướng dẫn hãng, bản nguồn lưu tại `docs/editorial/assets/2026-10-30-ina300-axiomtek-screenshot.jpg`, bản public lưu `article_media`.
+- Ba test renderer, nháp/public desktop/mobile bằng screenshot/DOM, danh sách Tin tức, API, URL, ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt; giữ nguyên 22 bài khác. Renderer hiển thị URL tham khảo dạng văn bản để sao chép. Không sửa source/seed/catalogue, không reset DB; dữ liệu đối chiếu tại `work/editorial-20261030/` ngoài commit, không lưu credential.
