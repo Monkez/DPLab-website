@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="740" viewBox="0 0 720 740" role="img" aria-labelledby="title desc">
+  <title id="title">Pt100 hai dây: điện trở cảm biến cộng với điện trở dây</title>
+  <desc id="desc">Ví dụ giả định tại 0 độ C: cảm biến 100 ohm, dây đi 0,5 ohm, dây về 0,5 ohm. Đầu đọc hai dây thấy tổng 101 ohm. Không phải sơ đồ chân thiết bị.</desc>
+  <rect width="720" height="740" rx="24" fill="#f1f5f9"/>
+  <g font-family="Arial, sans-serif" fill="#132c43">
+    <text x="40" y="58" font-size="29" font-weight="700">Đo hai dây: máy đọc cả dây dẫn</text>
+    <text x="40" y="102" font-size="25">Ví dụ giả định tại 0°C</text>
+    <rect x="40" y="140" width="640" height="100" rx="12" fill="#fff" stroke="#86a7bb" stroke-width="2"/>
+    <text x="64" y="181" font-size="26">Phần tử Pt100</text>
+    <text x="64" y="218" font-size="29" font-weight="700">100 Ω</text>
+    <text x="350" y="276" text-anchor="middle" font-size="32" font-weight="700">+</text>
+    <rect x="40" y="294" width="640" height="88" rx="12" fill="#e2edf7"/>
+    <text x="64" y="348" font-size="28">Dây đi: 0,5 Ω</text>
+    <text x="350" y="420" text-anchor="middle" font-size="32" font-weight="700">+</text>
+    <rect x="40" y="438" width="640" height="88" rx="12" fill="#e2edf7"/>
+    <text x="64" y="492" font-size="28">Dây về: 0,5 Ω</text>
+    <rect x="40" y="554" width="640" height="108" rx="12" fill="#173d5a"/>
+    <text x="64" y="596" font-size="25" fill="#fff">Điện trở đầu đọc nhận được</text>
+    <text x="64" y="641" font-size="36" font-weight="700" fill="#fff">101 Ω</text>
+    <text x="40" y="708" font-size="22">DTPT Techs · Không phải sơ đồ chân thiết bị</text>
+  </g>
+</svg>
