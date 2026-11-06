@@ -1,7 +1,9 @@
 # Pt100 ba dây: vì sao nhiệt độ vẫn có thể bị lệch?
 
 - Ngày biên tập: 02/11/2026, lượt 10:00 giờ Việt Nam.
-- Trạng thái: đã lưu nháp CMS, chưa xuất bản; kiểm tra giao diện bị gián đoạn.
+- Trạng thái: đã xuất bản qua API sau khi rà nháp desktop/mobile.
+- Ngày xuất bản: `2026-11-06T03:07:22.236Z`.
+- URL: https://dtpt.shop/tin-tuc/pt100-ba-day-sai-so-dien-tro-day-dan
 - CMS ID: `NEWS-1793589057442`.
 - Slug: `pt100-ba-day-sai-so-dien-tro-day-dan`.
 - Chuyên mục: Kiến thức kỹ thuật
@@ -17,9 +19,9 @@
 - Phạm vi: Pt100 nối trực tiếp đầu đọc/module RTD; phân biệt cảm biến ba dây với transmitter 4–20 mA. Không trùng bài vòng dòng 23/10 (nguồn/tải/scaling) hoặc USB DAQ 12/10 (tốc độ/độ chính xác ADC). Chưa có bài Pt100/RTD trùng trong 23 bài public và không có nháp trước lượt này.
 - Nguồn sơ cấp kiểm tra 02/11: TE Connectivity về Pt100/đường đặc tính/điện trở dây; NI về sai lệch điện trở ba dây, phần cứng bốn dây và lắp nhiệt; Analog Devices về kích dòng, tự nung và cấu hình đo. Không coi nguồn hướng dẫn là kiểm thử thiết bị DTPT, không gọi đây là tin ra mắt.
 - Quyết định ảnh: catalogue ADAM-4015 dùng ảnh ADAM-4017+ chung, không dùng để nhận diện module RTD hoặc minh họa sơ đồ đấu. Chọn ảnh đầu dò thật có giấy phép rõ và một hình tính toán có giá trị giải thích; không dùng ImageGen.
-- Kiểm tra đã hoàn tất: ba test renderer đạt; ảnh thật và hình tính toán đã xem trực tiếp, nguồn/giấy phép đã đối chiếu. API đọc lại nháp khớp toàn bộ payload, nháp chưa có trong public API, hash 23 bài trước giữ nguyên. Không sửa seed, catalogue hoặc source ứng dụng; không chạy full build không liên quan cho thay đổi tài liệu/nội dung CMS.
-- Còn thiếu: kiểm tra renderer thực tế, ảnh/chú thích và desktop/mobile trong CMS; sau đó mới xuất bản và kiểm tra public URL/API/metadata/canonical/sitemap. Browser Use không có trình duyệt khả dụng (`iab` không tồn tại, inventory rỗng). `open_in_codex` yêu cầu mở CMS đang queued trong chat hiện tại. Phương án dự phòng Edge qua Computer Use có cửa sổ rồi mất; khi xác minh, công cụ báo người dùng đã dừng bằng phím Escape. Đã dừng mọi thao tác giao diện, không lách hoặc tiếp tục phiên này.
-- Tiếp tục: dùng đúng CMS ID/slug đã lưu ở trên; không tạo lại bài hoặc upload lại ảnh. Baseline hash và payload không chứa credential ở `work/editorial-20261102/` ngoài Git. Không có ngày xuất bản vì trạng thái vẫn draft; ngày biên tập không phải ngày đăng.
+- Kiểm tra ngày 06/11: 959 từ trước nguồn tham khảo, không tính chú thích hình; SEO title 49 ký tự, description 149 ký tự. Ba test renderer đạt. Đã rà nháp CMS và public qua Chrome ở desktop mặc định và mobile 390 px bằng screenshot/DOM: sáu heading, bốn mục checklist, hai ảnh đủ alt/chú thích/ghi nguồn, không tràn ngang hoặc lộ Markdown. Hình tính toán đọc được trên mobile; ảnh đầu dò public WebP 1.920 × 1.280, hình tính toán 720 × 740. Renderer hiện hiển thị URL nguồn/nội bộ dạng văn bản để sao chép.
+- API public có đúng một bản theo slug và khớp payload duyệt; giữ nguyên 23 bài khác bằng hash đối chiếu trước/sau xuất bản. Mục Tin tức có một thẻ bài mới và điều hướng đúng trang. URL bài, catalogue ADAM-4015 và hai ảnh HTTP 200; canonical hiện hành `https://dtpt.shop`, sitemap có đúng một URL. Sau cache, HTML server đúng SEO title/description, Open Graph/ảnh, robots cho lập chỉ mục; Article schema đúng headline/description/ảnh/ngày/URL. Metadata hoàn tất kiểm tra khoảng 264 giây sau xuất bản.
+- Bằng chứng: `pt100-published.jpg`, `pt100-mobile.jpg`, `pt100-mobile-diagram.jpg` và ảnh nháp trong thư mục proof 06/11 ngoài Git. Baseline hash/payload/validation tại `work/editorial-20261106/`, tệp chuẩn bị cũ ở `work/editorial-20261102/`, đều ngoài commit và không chứa credential. Giữ đúng CMS ID/slug và hai ảnh đã tạo ngày 02/11. Không sửa seed, catalogue, source ứng dụng hoặc reset DB; kiểm tra renderer/API/giao diện chạy thật thay full build không liên quan.
 
 ## Nội dung CMS
 
