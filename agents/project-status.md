@@ -190,3 +190,8 @@
 - Đã xuất bản bản nháp 02/11 tại https://dtpt.shop/tin-tuc/pt100-ba-day-sai-so-dien-tro-day-dan (CMS `NEWS-1793589057442`), lúc 10:07 giờ Việt Nam ngày 06/11. Bản duyệt ở `docs/editorial/2026-11-02-pt100-lead-resistance.md`; giữ đúng ID/slug và hai ảnh đã upload.
 - Bài 959 từ, nguồn TE/NI/Analog Devices; giải thích điện trở dây, giới hạn bù ba dây, phần cứng bốn dây và kiểm tra điện/lắp nhiệt. Ảnh đầu dò thật của Suyash Dwivedi theo CC BY-SA 4.0, kèm hình tính toán gốc `docs/editorial/assets/2026-11-02-pt100-two-wire-budget.svg`; ví dụ 100 + 0,5 + 0,5 = 101 Ω là giả định.
 - Ba test renderer, nháp/public desktop/mobile 390 px, API, URL, ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt; giữ nguyên 23 bài khác. Renderer hiển thị URL tham khảo dạng văn bản để sao chép. Không tạo bài/ảnh trùng hoặc sửa source/seed/catalogue/DB. Dữ liệu đối chiếu tại `work/editorial-20261106/` và ảnh nguồn cũ tại `work/editorial-20261102/` ngoài commit, không lưu credential.
+
+## 09/11/2026 — Nháp DSP820 chờ kiểm tra giao diện
+
+- Đã lưu `NEWS-1794193390907`, slug `dsp820-chia-tai-edge-ai-nhieu-camera`. Nội dung 872 từ phân tích cách chia luồng camera, đo độ trễ đến PLC, thử mất nút và xác nhận điều kiện lắp. Đối chiếu giải Taiwan Excellence với công bố Axiomtek và dùng OpenVINO 2026 làm nguồn phương pháp đo. Hồ sơ và quyền dùng ảnh tại `docs/editorial/2026-11-09-dsp820-edge-ai-partition.md`.
+- Ba test renderer đạt, API đọc lại đúng nháp, ảnh WebP HTTP 200. Chrome mất kết nối khi mở CMS, còn thiếu QA desktop/mobile trước khi xuất bản. Lượt sau tiếp tục đúng nháp và ảnh đã có. Dữ liệu đối chiếu tại `work/editorial-20261109/` ngoài commit.
