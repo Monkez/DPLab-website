@@ -1,7 +1,9 @@
 # DSP820: khi nào chia tải camera qua nhiều nút Edge AI?
 
 - Ngày biên tập: 09/11/2026, lượt 10:00 giờ Việt Nam.
-- Trạng thái: đã lưu nháp CMS. Chờ kiểm tra giao diện desktop/mobile trước khi xuất bản.
+- Trạng thái: đã xuất bản qua API sau khi rà nháp desktop/mobile.
+- Ngày xuất bản: `2026-11-11T03:05:06.255Z`.
+- URL: https://dtpt.shop/tin-tuc/dsp820-chia-tai-edge-ai-nhieu-camera
 - CMS ID: `NEWS-1794193390907`.
 - Slug: `dsp820-chia-tai-edge-ai-nhieu-camera`.
 - Chuyên mục: Tin công nghệ
@@ -14,8 +16,9 @@
 - Ảnh: screenshot nguyên trạng trang DSP820 của Axiomtek ngày 09/11/2026, có mặt trước khung máy, góc nhìn bên cạnh và dấu giải thưởng trong ảnh hãng. Tệp nguồn `docs/editorial/assets/2026-11-09-dsp820-axiomtek-screenshot.jpg`. Mục III. Screenshots cho phép dùng ảnh chụp trang sản phẩm để minh họa/giáo dục tại https://www.axiomtek.com/trademarks. Giữ nguyên bố cục và hình ảnh, CMS chuyển WebP. Ghi là ảnh sản phẩm trên trang hãng, không xác nhận ảnh chụp thiết bị vật lý hoặc test DTPT.
 - Kiểm chứng: công bố hãng ngày 02/11/2026 và hồ sơ sản phẩm do Taiwan Excellence công bố xác nhận tên mẫu/giải. Đây là tin ghi nhận thiết kế, không gọi là ra mắt bán hàng. Trang hãng ghi Coming Soon ngày kiểm tra. Thông số tối đa 16 SDM, mã module SDM530L và giới hạn 0–30°C theo trang sản phẩm. Dùng yêu cầu xác nhận sơ đồ cổng theo SKU, không gán số tốc độ uplink từ các bản mô tả khác nhau. Tài liệu OpenVINO 2026 chỉ hỗ trợ phương pháp tách độ trễ/thông lượng, không xác nhận hiệu năng hay phần mềm đi kèm DSP820.
 - Phạm vi: bài mới về chia tải và nghiệm thu từ camera đến PLC. Bài Edge AI 16/09 bàn TOPS, bài Raspberry Pi SDM 19/10 bàn tích hợp màn hình, bài camera 28/10 bàn phơi sáng. Không có bài trùng trong 24 bài public lúc bắt đầu. DSP820 là mẫu tham chiếu thiết kế, không thêm vào catalogue hoặc xác nhận cung ứng tại Việt Nam.
-- Kiểm tra: 872 từ trước phần nguồn, SEO title 58 ký tự, mô tả 148 ký tự. Ba test renderer đạt. API đọc lại khớp nội dung và metadata của nháp, ảnh WebP HTTP 200. Public API chưa có bài mới. Hash của 24 bài trước giữ nguyên. Chrome mất kết nối khi mở CMS và chưa xuất hiện lại sau khi kiểm tra kết nối, nên chưa kiểm tra giao diện.
-- Tiếp tục: dùng đúng CMS ID, slug và cover đã lưu. Xem trước renderer ở desktop và mobile, xuất bản theo ngày thực tế rồi xác minh trang, ảnh, metadata, canonical và sitemap. Dữ liệu đối chiếu tại `work/editorial-20261109/` ngoài Git. Hồ sơ và ảnh nguồn thuộc phần tài liệu, không có thay đổi ứng dụng cần build.
+- Kiểm tra hoàn tất ngày 11/11: 872 từ trước phần nguồn, SEO title 58 ký tự, mô tả 148 ký tự. Ba test renderer đạt khi chuẩn bị bản nháp ngày 09/11. Đã rà nháp CMS và public desktop/mobile 390 px bằng screenshot/DOM, năm heading, ba mục checklist, ảnh và ghi nguồn đúng, không tràn ngang hoặc lộ Markdown. Cover public WebP 1.692 × 784. URL nguồn và nội bộ hiển thị dạng văn bản để sao chép theo renderer hiện tại.
+- Public API có đúng một bản theo slug, khớp payload đã duyệt; hash của 24 bài trước giữ nguyên. Mục Tin tức có một thẻ bài và điều hướng đúng. Trang bài, ảnh và bài nội bộ HTTP 200. HTML server sau cache đúng SEO title/description, Open Graph/ảnh, robots cho lập chỉ mục; canonical hiện hành `https://dtpt.shop`, Article schema đúng headline/description/ảnh/ngày/URL, sitemap có đúng một URL. Metadata kiểm tra đạt khoảng 186 giây sau xuất bản.
+- Bằng chứng: ảnh `dsp820-published.jpg`, `dsp820-mobile.jpg` và ảnh nháp trong thư mục proof 11/11 ngoài Git. Dữ liệu đối chiếu trước/sau và validation tại `work/editorial-20261111/`, dữ liệu chuẩn bị ở `work/editorial-20261109/`, không chứa credential. Dùng đúng CMS ID, slug và cover đã tạo ngày 09/11. Hồ sơ và ảnh nguồn thuộc phần tài liệu; kiểm tra API/renderer/giao diện chạy thật phù hợp thay full build ứng dụng.
 
 ## Nội dung CMS
 
