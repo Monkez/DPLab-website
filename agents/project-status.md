@@ -195,3 +195,9 @@
 
 - Đã xuất bản bản nháp 09/11 tại https://dtpt.shop/tin-tuc/dsp820-chia-tai-edge-ai-nhieu-camera (CMS `NEWS-1794193390907`), lúc 10:05 giờ Việt Nam ngày 11/11. Bài 872 từ phân tích chia luồng camera, đo độ trễ đến PLC, thử mất nút và điều kiện lắp. Hồ sơ và quyền dùng screenshot trang hãng tại `docs/editorial/2026-11-09-dsp820-edge-ai-partition.md`.
 - Đối chiếu giải Taiwan Excellence với Axiomtek, dùng OpenVINO 2026 làm nguồn phương pháp đo; thông số DSP820 theo hãng, ví dụ phân việc là giả định. Ba test renderer đạt khi soạn nháp. QA nháp/public desktop/mobile, API, URL, ảnh, metadata server sau cache, canonical, Article schema và sitemap đã đạt ngày 11/11, giữ nguyên 24 bài khác. Dữ liệu đối chiếu tại `work/editorial-20261111/` và bản chuẩn bị `work/editorial-20261109/` ngoài commit, không lưu credential.
+
+## 13/11/2026 — Ngân sách công suất PoE cho camera
+
+- Đã xuất bản https://dtpt.shop/tin-tuc/chon-switch-poe-camera-ngan-sach-cong-suat (CMS `NEWS-1794539759879`), lúc 10:19 giờ Việt Nam. Bài 878 từ tách số cổng LAN/PoE, giới hạn mỗi cổng/tổng budget, PSE/PD và tải camera khi bật tính năng phụ. Hồ sơ nguồn/quyền ảnh tại `docs/editorial/2026-11-13-poe-camera-power-budget.md`.
+- Nguồn NETGEAR/TI/Axis/Cisco. Ảnh thật bên trong Allied Telesis của -stk theo CC BY-SA 4.0; phép tính 4 × 15,4 = 61,6 W so với 53 W sử dụng thông số NETGEAR GS108PEv3, SVG tại `docs/editorial/assets/2026-11-13-poe-budget.svg`. Ghi rõ model ảnh và model tính toán riêng trong bài.
+- Ba test renderer, nháp/public desktop/mobile 390 px, API, URL, ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt; giữ nguyên 25 bài khác. Dữ liệu đối chiếu/ảnh nguồn tại `work/editorial-20261113/` ngoài commit, không lưu credential. Renderer hiển thị URL nguồn và nội bộ dạng văn bản để sao chép.
