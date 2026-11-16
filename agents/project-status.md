@@ -201,3 +201,9 @@
 - Đã xuất bản https://dtpt.shop/tin-tuc/chon-switch-poe-camera-ngan-sach-cong-suat (CMS `NEWS-1794539759879`), lúc 10:19 giờ Việt Nam. Bài 878 từ tách số cổng LAN/PoE, giới hạn mỗi cổng/tổng budget, PSE/PD và tải camera khi bật tính năng phụ. Hồ sơ nguồn/quyền ảnh tại `docs/editorial/2026-11-13-poe-camera-power-budget.md`.
 - Nguồn NETGEAR/TI/Axis/Cisco. Ảnh thật bên trong Allied Telesis của -stk theo CC BY-SA 4.0; phép tính 4 × 15,4 = 61,6 W so với 53 W sử dụng thông số NETGEAR GS108PEv3, SVG tại `docs/editorial/assets/2026-11-13-poe-budget.svg`. Ghi rõ model ảnh và model tính toán riêng trong bài.
 - Ba test renderer, nháp/public desktop/mobile 390 px, API, URL, ảnh, metadata server sau cache, canonical, Article schema và sitemap đạt; giữ nguyên 25 bài khác. Dữ liệu đối chiếu/ảnh nguồn tại `work/editorial-20261113/` ngoài commit, không lưu credential. Renderer hiển thị URL nguồn và nội bộ dạng văn bản để sao chép.
+
+## 16/11/2026 — HMI hay Panel PC Windows
+
+- Đã xuất bản https://dtpt.shop/tin-tuc/hmi-hay-panel-pc-windows-phan-mem-phuc-hoi (CMS `NEWS-1794799030586`), lúc 10:18 giờ Việt Nam. Bài so sánh đầu tư, 995 từ tính cả heading và ghi nguồn ảnh: phần mềm/giấy phép, chuyển đổi dự án, lắp đặt, bàn thử phục hồi và phạm vi báo giá. Hồ sơ tại `docs/editorial/2026-11-16-hmi-panel-pc-lifecycle.md`.
+- Đối chiếu Siemens TIA Portal V21, Microsoft Windows IoT Enterprise và Axiomtek. Tái sử dụng ảnh GOT315A-ELK-WCD đúng model trong catalogue, ghi nguồn và phạm vi IP65 mặt trước; không gán thử nghiệm hoặc cấu hình phần mềm chưa xác nhận.
+- Ba test renderer, nháp/public desktop/mobile 390 px, API, URL, ảnh, canonical, metadata server sau cache, Article schema và sitemap đạt; giữ nguyên 26 bài trước. Payload/hash/validation tại `work/editorial-20261116/` ngoài Git, không lưu credential. Chỉ đổi nội dung CMS và tài liệu, không sửa ứng dụng hoặc seed.
