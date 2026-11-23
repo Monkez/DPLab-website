@@ -207,3 +207,9 @@
 - Đã xuất bản https://dtpt.shop/tin-tuc/hmi-hay-panel-pc-windows-phan-mem-phuc-hoi (CMS `NEWS-1794799030586`), lúc 10:18 giờ Việt Nam. Bài so sánh đầu tư, 995 từ tính cả heading và ghi nguồn ảnh: phần mềm/giấy phép, chuyển đổi dự án, lắp đặt, bàn thử phục hồi và phạm vi báo giá. Hồ sơ tại `docs/editorial/2026-11-16-hmi-panel-pc-lifecycle.md`.
 - Đối chiếu Siemens TIA Portal V21, Microsoft Windows IoT Enterprise và Axiomtek. Tái sử dụng ảnh GOT315A-ELK-WCD đúng model trong catalogue, ghi nguồn và phạm vi IP65 mặt trước; không gán thử nghiệm hoặc cấu hình phần mềm chưa xác nhận.
 - Ba test renderer, nháp/public desktop/mobile 390 px, API, URL, ảnh, canonical, metadata server sau cache, Article schema và sitemap đạt; giữ nguyên 26 bài trước. Payload/hash/validation tại `work/editorial-20261116/` ngoài Git, không lưu credential. Chỉ đổi nội dung CMS và tài liệu, không sửa ứng dụng hoặc seed.
+
+## 23/11/2026 — Jetson, CODESYS và ranh giới AI/PLC
+
+- Đã xuất bản https://dtpt.shop/tin-tuc/jetson-codesys-ethercat-gop-ai-plc (CMS `NEWS-1795402869570`), lúc 10:04 giờ Việt Nam. Bài 980 từ phân tích công bố Advantech ngày 19/11: điều kiện gộp AI với PLC, hạn dùng kết quả thị giác, kernel/mạng thời gian thực, thử tải/lỗi và phạm vi giấy phép. Hồ sơ tại `docs/editorial/2026-11-23-jetson-codesys-motion.md`.
+- CODESYS là nguồn sơ cấp bổ sung về nền tảng, không xác nhận độc lập hiệu năng MIC-742-AT/MIC-732-AO. Dùng sơ đồ gốc `docs/editorial/assets/2026-11-23-ai-plc-boundary.svg`, ảnh public lưu `article_media`, có nhãn minh họa phân vai và phạm vi an toàn.
+- Ba test renderer, nháp/public desktop/mobile 390 px, API, URL, ảnh, canonical, metadata server sau cache, Article schema và sitemap đạt; giữ nguyên 27 bài trước. Payload/hash/validation tại `work/editorial-20261123/` ngoài Git, không lưu credential. Không sửa ứng dụng, seed hoặc catalogue.
