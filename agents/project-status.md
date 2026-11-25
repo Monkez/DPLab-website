@@ -213,3 +213,9 @@
 - Đã xuất bản https://dtpt.shop/tin-tuc/jetson-codesys-ethercat-gop-ai-plc (CMS `NEWS-1795402869570`), lúc 10:04 giờ Việt Nam. Bài 980 từ phân tích công bố Advantech ngày 19/11: điều kiện gộp AI với PLC, hạn dùng kết quả thị giác, kernel/mạng thời gian thực, thử tải/lỗi và phạm vi giấy phép. Hồ sơ tại `docs/editorial/2026-11-23-jetson-codesys-motion.md`.
 - CODESYS là nguồn sơ cấp bổ sung về nền tảng, không xác nhận độc lập hiệu năng MIC-742-AT/MIC-732-AO. Dùng sơ đồ gốc `docs/editorial/assets/2026-11-23-ai-plc-boundary.svg`, ảnh public lưu `article_media`, có nhãn minh họa phân vai và phạm vi an toàn.
 - Ba test renderer, nháp/public desktop/mobile 390 px, API, URL, ảnh, canonical, metadata server sau cache, Article schema và sitemap đạt; giữ nguyên 27 bài trước. Payload/hash/validation tại `work/editorial-20261123/` ngoài Git, không lưu credential. Không sửa ứng dụng, seed hoặc catalogue.
+
+## 25/11/2026 — Ghép cảm biến PNP/NPN với ngõ vào PLC
+
+- Đã xuất bản https://dtpt.shop/tin-tuc/cam-bien-pnp-npn-chon-dung-ngo-vao-plc (CMS `NEWS-1795575882916`), lúc 10:07 giờ Việt Nam. Bài 923 từ tính cả chú thích sơ đồ: đường dòng, COM dùng chung, phân biệt NO/NC và kiểm tra trên bàn. Hồ sơ tại `docs/editorial/2026-11-25-pnp-npn-plc-input.md`.
+- Nguồn OMRON/Schneider Electric. Ảnh cảm biến của Ekbsensor theo CC BY-SA 4.0, không suy ra pinout/số dây từ vỏ; sơ đồ gốc `docs/editorial/assets/2026-11-25-pnp-npn-current.svg` minh họa nguyên lý khi ON. Hai ảnh public lưu `article_media`.
+- Ba test renderer, nháp/public desktop/mobile 390 px, API, URL, ảnh, canonical, metadata server sau cache, Article schema và sitemap đạt; giữ nguyên 28 bài trước. Payload/hash/validation và ảnh nguồn tại `work/editorial-20261125/` ngoài Git, không lưu credential. Không sửa ứng dụng, seed hoặc catalogue.
