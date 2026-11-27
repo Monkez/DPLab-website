@@ -219,3 +219,9 @@
 - Đã xuất bản https://dtpt.shop/tin-tuc/cam-bien-pnp-npn-chon-dung-ngo-vao-plc (CMS `NEWS-1795575882916`), lúc 10:07 giờ Việt Nam. Bài 923 từ tính cả chú thích sơ đồ: đường dòng, COM dùng chung, phân biệt NO/NC và kiểm tra trên bàn. Hồ sơ tại `docs/editorial/2026-11-25-pnp-npn-plc-input.md`.
 - Nguồn OMRON/Schneider Electric. Ảnh cảm biến của Ekbsensor theo CC BY-SA 4.0, không suy ra pinout/số dây từ vỏ; sơ đồ gốc `docs/editorial/assets/2026-11-25-pnp-npn-current.svg` minh họa nguyên lý khi ON. Hai ảnh public lưu `article_media`.
 - Ba test renderer, nháp/public desktop/mobile 390 px, API, URL, ảnh, canonical, metadata server sau cache, Article schema và sitemap đạt; giữ nguyên 28 bài trước. Payload/hash/validation và ảnh nguồn tại `work/editorial-20261125/` ngoài Git, không lưu credential. Không sửa ứng dụng, seed hoặc catalogue.
+
+## 27/11/2026 — Nháp so sánh camera màu/đơn sắc chờ trình duyệt
+
+- Đã lưu nháp CMS `NEWS-1795748889531`, slug `camera-mau-hay-don-sac-chon-theo-loi-can-phat-hien`, chưa xuất bản và chưa có ngày đăng. Hồ sơ `docs/editorial/2026-11-27-color-monochrome-camera.md`: 976 từ về đặc trưng lỗi, Bayer/Mono 8, ánh sáng, chi phí trạm và nghiệm thu trên mẫu. Nguồn Basler/KEYENCE, không có thử nghiệm đối đầu của DTPT.
+- Ảnh cover Hikrobot đúng nhãn MV-CS050-10GM từ catalogue; sơ đồ gốc `docs/editorial/assets/2026-11-27-mono-bayer.svg`, media `/api/article-media/13ce30e5-761d-4379-a871-a34243885b66`. Ba test renderer, xem asset và kiểm tra URL ảnh/bài nội bộ đạt; giữ nguyên 29 bài trước. Dữ liệu chuẩn bị tại `work/editorial-20261127/` ngoài Git, không lưu credential.
+- Chặn ở QA giao diện: Chrome không khả dụng, danh sách trình duyệt kết nối rỗng. API và quyền `articles.manage` vẫn hoạt động. Khi trình duyệt trở lại, tiếp tục đúng ID/slug/media này, rà desktop/mobile rồi xuất bản và kiểm tra public/metadata/canonical/sitemap; không tạo nháp hoặc upload hình trùng. Không sửa ứng dụng, seed hoặc catalogue.
